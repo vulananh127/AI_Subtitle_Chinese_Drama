@@ -1,0 +1,6 @@
+Flask>=3.0
+python-dotenv>=1.0
+google-auth>=2.29
+requests>=2.31
+cloudinary>=1.40
+waitress>=3.0

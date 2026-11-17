@@ -1,0 +1,78 @@
+side,cue_id,reason,text
+origin,zh_000338,in_special_pair,来来来 干什么你
+origin,zh_000379,in_special_pair,我让你别动手 放下
+origin,zh_000125,in_special_pair,你有正经的没有
+origin,zh_000356,in_special_pair,好 我调 小钰
+origin,zh_000376,in_special_pair,别动手啊 你拿过来
+origin,zh_000922,in_special_pair,干什么 一定要说话就行了
+origin,zh_000219,in_special_pair,哥 老大
+origin,zh_000880,in_special_pair,你玩你的吧 行
+origin,zh_000130,in_special_pair,收到
+origin,zh_000603,in_special_pair,好 慢慢走 原本就是一个杀人案
+origin,zh_000313,in_special_pair,你知道吗 以后
+origin,zh_000122,in_special_pair,收到 请讲
+origin,zh_000750,in_special_pair,你听我说一次好不好
+origin,zh_000739,in_special_pair,回学校 走 哥 哥
+origin,zh_000126,in_special_pair,说正事
+origin,zh_000736,in_special_pair,回去 我回学校
+origin,zh_000577,in_special_pair,打包带走 行 您先坐
+origin,zh_000346,in_special_pair,咱们走 算什么呀算
+origin,zh_000307,in_special_pair,叫洪哥 这是你弟弟
+origin,zh_000741,in_special_pair,走 你别扽我
+origin,zh_000318,in_special_pair,别别别 赊账 记账
+origin,zh_000738,in_special_pair,你别动我行李 走
+origin,zh_000311,in_special_pair,你看 这事弄得 没什么
+vi,vi_000040,scene_text,[Năm 2000]
+vi,vi_000119,scene_text,[Trại tạm giam thành phố Kinh Hải]
+vi,vi_000686,scene_text,"[Phùng Đại Tráng (người tổ chức), biệt danh Lừa Điên]"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Cuồng Phong]
+vi,vi_000003,scene_text,[Tập 3]
+vi,vi_000004,scene_text,[Năm 2021]
+vi,vi_000060,scene_text,[Nghĩa]
+vi,vi_000266,scene_text,[Cục Công an thành phố Kinh Hải]
+vi,vi_000284,scene_text,[Băng đĩa Vạn Hoành]
+vi,vi_000287,scene_text,[Băng đĩa Vạn Hoành]
+vi,vi_000587,scene_text,[Bệnh viện Kinh Hải]
+vi,vi_000324,in_special_pair,"- anh biết không?
+- Sau này,"
+vi,vi_000349,in_special_pair,"- Lại đây, lại đây, lại đây.
+- Cô làm gì thế?"
+vi,vi_000936,in_special_pair,"- Làm gì vậy?
+- Nhất định phải nói chuyện là được rồi."
+vi,vi_000137,in_special_pair,[Đã biết.]
+vi,vi_000129,in_special_pair,"[Rõ, nói đi.]"
+vi,vi_000750,in_special_pair,"- Về ngay.
+- Em về trường"
+vi,vi_000755,in_special_pair,"- Đi.
+- Anh đừng kéo em."
+vi,vi_000322,in_special_pair,"- Anh xem, chuyện này đúng là...
+- Không sao."
+vi,vi_000753,in_special_pair,"- Về trường ngay.
+- Anh, anh ơi."
+vi,vi_000133,in_special_pair,[Nói chuyện nghiêm chỉnh.]
+vi,vi_000132,in_special_pair,[Anh có nghiêm túc không đấy?]
+vi,vi_000752,in_special_pair,"- Anh đừng động vào vali của em.
+- Đi."
+vi,vi_000227,in_special_pair,"- Anh.
+- Đại ca."
+vi,vi_000615,in_special_pair,"- Được, đi thong thả nhé.
+- Vốn dĩ chỉ là một vụ án giết người."
+vi,vi_000329,in_special_pair,"- Đừng, đừng, đừng.
+- Cho nợ, ghi nợ."
+vi,vi_000390,in_special_pair,"- Tôi bảo anh đừng động vào!
+- Bỏ xuống!"
+vi,vi_000894,in_special_pair,"- Anh cứ chơi đi.
+- Được."
+vi,vi_000357,in_special_pair,"- Chúng ta đi thôi.
+- Thôi gì mà thôi?"
+vi,vi_000367,in_special_pair,"- Được, tôi đưa.
+- Tiểu Ngọc."
+vi,vi_000764,in_special_pair,"- Anh nghe em một lần đi được không?
+- Thế thì đã sao?"
+vi,vi_000589,in_special_pair,"- đóng gói mang đi.
+- Được, cậu ngồi trước đi."
+vi,vi_000387,in_special_pair,"- Đừng động tay động chân!
+- Cô đưa đây!"
+vi,vi_000318,in_special_pair,"- Chào anh Hồng đi.
+- Đây là em trai anh à?"

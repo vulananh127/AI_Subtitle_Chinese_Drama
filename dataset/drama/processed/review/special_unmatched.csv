@@ -1,58 +1,390 @@
-language,drama_id,episode_id,subtitle_language,cue_id,start,end,duration,text_raw,detected_markers,dash_line_count,same_lang_overlap_ids,prev_text,next_text,case_type,asr_action,mt_action,note
-chinese,D0002,EP001,vi,vi_000001,"00:00:00,000","00:00:05,520",5.52,[Chương trình này có phụ đề tiếng Việt],square_brackets,0,,,"[Bắc Kinh, năm 2018]",,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000002,"00:00:05,520","00:00:07,760",2.24,"[Bắc Kinh, năm 2018]",square_brackets,0,,[Chương trình này có phụ đề tiếng Việt],[Ngoài vành đai 5],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000003,"00:00:08,520","00:00:10,770",2.25,[Ngoài vành đai 5],square_brackets,0,,"[Bắc Kinh, năm 2018]",Xin lỗi cô.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000029,"00:01:43,680","00:01:46,979",3.299,[Quy Lộ],square_brackets,0,,"Có hóa thành tro bụi
-thì anh cũng vẫn nhận ra em.",[Tập 1],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000030,"00:01:47,090","00:01:50,000",2.91,[Tập 1],square_brackets,0,,[Quy Lộ],Sao anh Thần lại ở trạm xăng?,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000057,"00:03:24,390","00:03:28,290",3.9,[Mười một năm trước],square_brackets,0,,có số của anh ấy không?,"Anh có thấy là bọn mình
-rất có duyên với nhau không?",,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000095,"00:06:00,260","00:06:02,560",2.3,[Năm 2018],square_brackets,0,,"Nhanh lên chứ, anh khen em đẹp đi.","[Quy Hiểu,]",,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000149,"00:09:04,140","00:09:10,170",6.03,[Hai năm sau],square_brackets,0,,Cái con bé này.,[Thành phố Tề Ninh],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP001,vi,vi_000151,"00:09:12,230","00:09:18,330",6.1,[Thành phố Tề Ninh],square_brackets,0,,[Hai năm sau],Lấy máy mình mà gọi.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP002,vi,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,0,,,[Quy Lộ],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP002,vi,vi_000002,"00:01:31,440","00:01:34,970",3.53,[Quy Lộ],square_brackets,0,,[Chương trình này có phụ đề tiếng Việt],[Tập 02],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP002,vi,vi_000003,"00:01:35,330","00:01:37,820",2.49,[Tập 02],square_brackets,0,,[Quy Lộ],"Tuyết rơi rồi, lái chậm thôi.",,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP002,vi,vi_000232,"00:14:01,750","00:14:06,160",4.41,"[Tiệm thịt dê, bò chất lượng cao Mã Ký]",square_brackets,0,,sự nhiệt tình của chúng ta chứ.,Nguyên con đấy.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP002,vi,vi_000773,"00:38:01,140","00:38:02,170",1.03,[Nhà],square_brackets,0,,Nơi này gió lớn thật đấy.,[A lô.],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,0,,,[Quy Lộ],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000002,"00:01:31,370","00:01:34,920",3.55,[Quy Lộ],square_brackets,0,,[Chương trình này có phụ đề tiếng Việt],[Tập 3],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000003,"00:01:35,280","00:01:37,780",2.5,[Tập 3],square_brackets,0,,[Quy Lộ],"Sâu lười ơi,",,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000054,"00:04:49,950","00:04:57,680",7.73,[Ga Tề Ninh],square_brackets,0,,"cảm giác cũng giống như
-nhìn quê hương ấy nhỉ?",Đội trưởng Tần nói,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000212,"00:12:33,620","00:12:36,570",2.95,"[Cấm xách tay hoặc
-ký gửi thực phẩm tự sôi]",square_brackets,0,,Đứa bé này đáng thương quá.,Hộ chiếu đâu?,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000300,"00:19:08,950","00:19:12,260",3.31,[Hồng Nhuận Thành Hoa],square_brackets,0,,"Được, để cô lo.",Cảm ơn nhé.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000370,"00:21:43,060","00:21:46,890",3.83,[Thành phố Tề Ninh],square_brackets,0,,cô gọi đồ ăn.,Đi trước kế hoạch,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000416,"00:24:23,420","00:24:25,700",2.28,[Thành phố Bắc Kinh],square_brackets,0,,Nhớ rồi.,[Ngoài vành đai 5],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000417,"00:24:26,600","00:24:28,710",2.11,[Ngoài vành đai 5],square_brackets,0,,[Thành phố Bắc Kinh],Cuối cùng cậu cũng về rồi.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000502,"00:27:25,620","00:27:28,660",3.04,[Khu nội trú],square_brackets,0,,"Được rồi, đi thôi.",Anh cầm hóa đơn đi.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000552,"00:30:42,920","00:30:46,090",3.17,[Năm 2020],square_brackets,0,,"Chuyện của người lớn
-không được hỏi linh tinh.",[Mùa xuân năm 2008],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000553,"00:30:49,900","00:30:54,410",4.51,[Mùa xuân năm 2008],square_brackets,0,,[Năm 2020],Hiểu Hiểu.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP003,vi,vi_000739,"00:40:23,150","00:40:28,230",5.08,[Sửa xe Lục Chinh],square_brackets,0,,"[Sinh nhật Hải Đông,
-chắc chắn anh ấy sẽ có mặt.]",Đây chính là xưởng nhà anh Thần.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,0,,,[Quy Lộ],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000002,"00:01:31,450","00:01:34,970",3.52,[Quy Lộ],square_brackets,0,,[Chương trình này có phụ đề tiếng Việt],[Tập 4],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000003,"00:01:35,380","00:01:37,750",2.37,[Tập 4],square_brackets,0,,[Quy Lộ],[Sửa chữa xe ô tô Lục Chinh],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000004,"00:01:38,380","00:01:42,539",4.159,[Sửa chữa xe ô tô Lục Chinh],square_brackets,0,,[Tập 4],Ranh con!,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000069,"00:04:29,240","00:04:31,870",2.63,"[Đường đời khó đi,
-từng bước tôi luyện tiến lên trước]",square_brackets,0,,Vâng.,Anh ra ngoài xem thử.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000139,"00:11:39,920","00:11:44,680",4.76,[Mùa đông năm 2008],square_brackets,0,,"Hôm nay này, lớp 12-7.",[Mùa xuân năm 2009],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000140,"00:11:45,200","00:11:48,010",2.81,[Mùa xuân năm 2009],square_brackets,0,,[Mùa đông năm 2008],Mình nghe nói anh mình học lại rồi.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000208,"00:17:18,680","00:17:21,020",2.34,[Phòng y tế],square_brackets,0,,đừng khách sáo.,Bị ngã à?,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000405,"00:31:06,270","00:31:08,740",2.47,[Đại học Kinh tế Tài chính Kinh Khai],square_brackets,0,vi_000406,mời mọi người ăn bữa cơm chia tay.,[Giấy báo nhập học năm 2009],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP004,vi,vi_000406,"00:31:06,270","00:31:08,740",2.47,[Giấy báo nhập học năm 2009],square_brackets,0,vi_000405,[Đại học Kinh tế Tài chính Kinh Khai],Nếu anh tỏ tình với em,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,0,,,[Quy Lộ],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000002,"00:01:31,300","00:01:34,960",3.66,[Quy Lộ],square_brackets,0,,[Chương trình này có phụ đề tiếng Việt],[Tập 5],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000003,"00:01:35,420","00:01:37,610",2.19,[Tập 5],square_brackets,0,,[Quy Lộ],Anh đi mua ít đồ.,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000050,"00:08:35,559","00:08:37,010",1.451,[Năm 2010],square_brackets,0,,thì phải gọi điện cho em đấy.,[Năm 2020],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000051,"00:08:37,720","00:08:40,429",2.709,[Năm 2020],square_brackets,0,,[Năm 2010],Cậu đang làm...,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0002,EP005,vi,vi_000112,"00:11:52,740","00:11:58,110",5.37,[Sửa chữa xe hơi Lục Chinh],square_brackets,0,,tự trách mình thôi.,Nhóc con về rồi đấy à?,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP003,zh,zh_000727,"00:29:11,950","00:29:16,810",4.86,[舒茂国 西安交通大学第一附属医院 整形美容外科 主任医师],square_brackets,0,,好着嘞,给了一微克,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP005,zh,zh_000610,"00:25:40,030","00:25:44,320",4.29,[陈伟周 62岁 翁芝华的大儿子],square_brackets,0,,来了 大概要来了,喂 你好 你好,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP005,zh,zh_000652,"00:28:10,320","00:28:12,970",2.65,[患者翁芝华的女儿],square_brackets,0,,儿女们都过来一起看望母亲,她现在很适应,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP006,zh,zh_000264,"00:12:28,080","00:12:33,650",5.57,[虞竹溪 南京鼓樓醫院 重症醫學科 主治醫師],square_brackets,0,,慢點 慢點,因為她一插管,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP006,zh,zh_000271,"00:12:52,600","00:12:55,050",2.45,[患者沙媛的姐姐],square_brackets,0,zh_000272,消個警,[患者沙媛的丈夫],,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP006,zh,zh_000272,"00:12:52,600","00:12:55,050",2.45,[患者沙媛的丈夫],square_brackets,0,zh_000271,[患者沙媛的姐姐],她寫,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
-chinese,D0010,EP007,zh,zh_000852,"00:28:57,330","00:29:01,230",3.9,[肠梗阻患者],square_brackets,0,,被送了进来,那个是几床,,,,Không có cue phía kia đạt ngưỡng overlap/IoU; chưa kết luận là không có bản dịch/gốc.
+language,drama_id,episode_id,cue_id,start,end,duration,text_raw,detected_markers,special_side,same_lang_overlap_ids,prev_text,next_text,case_type,asr_action,mt_action,note
+chinese,D0005,EP001,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Cuồng Phong],scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000002,"00:01:30,510","00:01:35,009",4.499,[Cuồng Phong],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 1],scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000003,"00:01:35,300","00:01:37,860",2.56,[Tập 1],square_brackets,VI_ONLY,,[Cuồng Phong],[Từ lúc bắt đầu triển khai],scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000042,"00:02:53,170","00:02:56,780",3.61,[Túi tài liệu],square_brackets,VI_ONLY,,Cậu xem đi đã.,"[Tài liệu tố cáo vấn đề phạm tội của Tập đoàn Cường Thịnh thành phố Kinh Hải
+và vấn đề ""ô dù bảo vệ"" trong đội ngũ chính trị và pháp luật]",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000089,"00:04:23,210","00:04:25,230",2.02,"[Tố giác vấn đề Tập đoàn Cường Thịnh
+ở thành phố Kinh Hải phạm tội]",square_brackets,VI_ONLY,,[làm tốt công việc chỉnh đốn giáo dục.],"[Từ Trung, chuyên viên giám sát diệt trừ tội phạm tỉnh Giám Giang,
+Tổ trưởng Tổ chỉ đạo đồn chỉnh đốn giáo dục tỉnh]",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000220,"00:08:49,440","00:08:53,430",3.99,[Kinh Hải],square_brackets,VI_ONLY,,Lái qua chỗ đó.,[Chọn năng lượng: (J) 200],scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000221,"00:09:09,810","00:09:10,650",0.84,[Chọn năng lượng: (J) 200],square_brackets;round_brackets,VI_ONLY,,[Kinh Hải],Tôi biết ngay,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000288,"00:12:16,750","00:12:20,110",3.36,"[Phương Trung Ninh, cán bộ
+Ủy ban Kiểm tra và Giám sát kỷ luật tỉnh Lâm Giang]",square_brackets,VI_ONLY,,Có thể.,"Sự việc xảy ra đột ngột,",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000327,"00:13:39,490","00:13:43,140",3.65,[Tảo mộ],square_brackets,VI_ONLY,,Khoảng mười năm.,"Này, xem cái này đi.",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000364,"00:15:11,840","00:15:14,740",2.9,[Mộ mẹ Lý Tú Kỳ],square_brackets,VI_ONLY,,gần bùn mà chẳng hôi tanh mùi bùn.,Nào.,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000418,"00:17:44,210","00:17:55,430",11.22,[Cẩn thận kính],square_brackets,VI_ONLY,,"Vâng, cảm ơn, cảm ơn.",Nghe nói Tổ chỉ đạo tỉnh cử đến,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000427,"00:18:22,480","00:18:26,720",4.24,"[An Hân, trưởng ban tuyên truyền
+Cục Công an thành phố Kinh Hải]",square_brackets,VI_ONLY,,Hình như là sợ quá mà chết.,An Hân à?,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000500,"00:21:06,190","00:21:08,330",2.14,[Năm 2000],square_brackets,VI_ONLY,,cậu biết về Cao Khải Cường đi.,"Tránh ra, tránh ra nào.",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000583,"00:23:49,060","00:23:57,370",8.31,[Khu chợ nhà xưởng cũ],square_brackets,VI_ONLY,vi_000584,"Nói đi, chuyện là thế nào?",[Ba ngày trước],scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000584,"00:23:49,270","00:23:53,300",4.03,[Ba ngày trước],square_brackets,VI_ONLY,vi_000583,[Khu chợ nhà xưởng cũ]," - Phát tài, phát tài.
+- Xe ai đây?",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000653,"00:26:13,580","00:26:14,750",1.17,[Sản phẩm mới 21860 tệ],square_brackets,VI_ONLY,,Giá 21860 tệ.,Chuyện là...,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000667,"00:26:40,790","00:26:42,260",1.47,[7288 tệ - Sản phẩm mới ra mắt],square_brackets,VI_ONLY,,cũng rất tốt.,"Anh Long, uống trà đi.",scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_000898,"00:34:37,690","00:34:41,260",3.57,"[Cục Công an thành phố Kinh Hải
+Cảnh sát hình sự]",square_brackets,VI_ONLY,,bọn em đều đón cùng nhau.,Xem Gala Xuân nhé.,scene_text,exclude,exclude,
+chinese,D0005,EP001,vi_001003,"00:40:13,090","00:40:15,820",2.73,[Năm 2021],square_brackets,VI_ONLY,,chúc mừng năm mới.,"Nào, cạn ly.",scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Cuồng Phong],scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000002,"00:01:30,510","00:01:35,050",4.54,[Cuồng Phong],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 2],scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000003,"00:01:35,300","00:01:37,900",2.6,[Tập 2],square_brackets,VI_ONLY,,[Cuồng Phong],Hai vị xin dừng bước.,scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000155,"00:07:26,790","00:07:29,140",2.35,[Năm 2000],square_brackets,VI_ONLY,,là một đảng viên.,Nhà chị ở gần đây sao?,scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000237,"00:10:59,510","00:11:01,910",2.4,"[An Trường Lâm, phó cục trưởng thường vụ
+Cục Công an thành phố Kinh Hải]",square_brackets,VI_ONLY,,Cháu không nghe thấy.,Được.,scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_000441,"00:18:28,400","00:18:41,540",13.14,[Trại tạm giam thành phố Kinh Hải],square_brackets,VI_ONLY,,Bước một bước lớn.,An Hân.,scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_001035,"00:37:50,930","00:37:53,070",2.14,[Trại tạm giam thành phố Kinh Hải],square_brackets,VI_ONLY,,Được.,"Số 34,",scene_text,exclude,exclude,
+chinese,D0005,EP002,vi_001052,"00:40:05,530","00:40:06,960",1.43,[Phòng giam],square_brackets,VI_ONLY,,nghe nói hòa nhập không tệ.,"Đại ca, sao anh vào đây vậy?",scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Cuồng Phong],scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000002,"00:01:30,890","00:01:35,050",4.16,[Cuồng Phong],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 3],scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000003,"00:01:35,430","00:01:37,860",2.43,[Tập 3],square_brackets,VI_ONLY,,[Cuồng Phong],[Năm 2021],scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000004,"00:01:45,720","00:01:49,450",3.73,[Năm 2021],square_brackets,VI_ONLY,,[Tập 3],Nào.,scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000060,"00:04:09,520","00:04:11,330",1.81,[Nghĩa],square_brackets,VI_ONLY,,Trượng nghĩa.,Đây là chữ gì đấy?,scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000266,"00:13:38,100","00:13:43,230",5.13,[Cục Công an thành phố Kinh Hải],square_brackets,VI_ONLY,,"Một, hai, ba.","Đến rồi, đến rồi.",scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000284,"00:14:48,870","00:14:52,820",3.95,[Băng đĩa Vạn Hoành],square_brackets,VI_ONLY,,Đưa tôi đi xem thử.,Nhìn xem muốn lấy phim gì?,scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000287,"00:15:36,370","00:15:37,040",0.67,[Băng đĩa Vạn Hoành],square_brackets,VI_ONLY,,Anh muốn làm gì?,Anh tên là gì?,scene_text,exclude,exclude,
+chinese,D0005,EP003,vi_000587,"00:29:07,200","00:29:19,000",11.8,[Bệnh viện Kinh Hải],square_brackets,VI_ONLY,,Quấy rầy rồi.,"Ông chủ, năm suất bánh cuốn,",scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Cuồng Phong],scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000002,"00:01:30,890","00:01:35,050",4.16,[Cuồng Phong],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 4],scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000003,"00:01:35,430","00:01:37,860",2.43,[Tập 4],square_brackets,VI_ONLY,,[Cuồng Phong],"[Trong quá trình chỉnh đốn giáo dục lần này,]",scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000043,"00:02:37,210","00:02:39,060",1.85,[Năm 2000],square_brackets,VI_ONLY,,[không bao giờ gỉ sét.],Không có chuyện gì ghê gớm cả.,scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000165,"00:07:16,000","00:07:17,630",1.63,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải],square_brackets,VI_ONLY,,Anh yên tâm đi.,"Mọi thứ đã sẵn sàng,",scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000168,"00:07:28,600","00:07:30,740",2.14,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải],square_brackets,VI_ONLY,,để xem là đám yêu quái như thế nào.,Đồ đạc.,scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000494,"00:26:48,940","00:26:50,370",1.43,[Phố nhà xưởng cũ],square_brackets,VI_ONLY,,Đến chợ của Cao Khải Cường rồi.,"Anh An,",scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000850,"00:38:35,090","00:38:36,850",1.76,[Cộng],square_brackets,VI_ONLY,,chiếu cố anh đấy.,[1200],scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000851,"00:38:36,880","00:38:38,240",1.36,[1200],square_brackets,VI_ONLY,,[Cộng],[bằng 5350.],scene_text,exclude,exclude,
+chinese,D0005,EP004,vi_000852,"00:38:38,740","00:38:40,950",2.21,[bằng 5350.],square_brackets,VI_ONLY,,[1200],"Anh, sao lại trở về sớm thế?",scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Cuồng Phong],scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000002,"00:01:30,890","00:01:35,050",4.16,[Cuồng Phong],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 5],scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000003,"00:01:35,430","00:01:37,860",2.43,[Tập 5],square_brackets,VI_ONLY,,[Cuồng Phong],[Năm 2021],scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000039,"00:02:47,329","00:02:48,840",1.511,[Năm 2000],square_brackets,VI_ONLY,,[anh ta đã chọn một phương hướng khác.],Có người đến rồi.,scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000209,"00:12:09,800","00:12:11,220",1.42,"[Không làm chuyện trái quy định,]",square_brackets,VI_ONLY,,Tắt ti vi đi.," - Anh không thoải mái.
+- [không làm việc trái pháp luật.]",scene_text,exclude,exclude,
+chinese,D0005,EP005,vi_000213,"00:12:16,090","00:12:18,210",2.12,[Cây lúa vàng tươi và bóng đẹp...],square_brackets,VI_ONLY,,Vâng.,"Anh, anh gặp chuyện gì à?",scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Lần Đầu Yêu Anh],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000002,"00:01:30,970","00:01:35,050",4.08,[Lần Đầu Yêu Anh],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 1],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000003,"00:01:35,259","00:01:37,990",2.731,[Tập 1],square_brackets,VI_ONLY,,[Lần Đầu Yêu Anh],"[Bệnh nhân 35 tuổi, nam giới,
+bị hội chứng chèn ép khoang xương, phải lập tức]",scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000004,"00:01:39,500","00:01:41,850",2.35,"[Bệnh nhân 35 tuổi, nam giới,
+bị hội chứng chèn ép khoang xương, phải lập tức]",square_brackets,VI_ONLY,,[Tập 1],[Bệnh án],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000005,"00:01:41,850","00:01:47,390",5.54,[Bệnh án],square_brackets,VI_ONLY,,"[Bệnh nhân 35 tuổi, nam giới,
+bị hội chứng chèn ép khoang xương, phải lập tức]","[Bệnh nhân 35 tuổi, nam giới,]",scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000013,"00:02:15,830","00:02:17,760",1.93,[Mổ giảm sức ép - Dùng thuốc lợi tiểu thẩm thấu],square_brackets,VI_ONLY,,"[D, dùng thuốc lợi tiểu thẩm thấu.]",Không phải thuốc lợi tiểu thẩm thấu.,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000037,"00:03:43,310","00:03:45,280",1.97,[Thi xong mau đi lấy bánh kem],square_brackets,VI_ONLY,,"D, treo vuông góc, kéo qua da.",Lấy bánh kem cái quái gì vậy?,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000039,"00:03:50,110","00:03:52,090",1.98,[C. Thi xong mau đi lấy bánh kem],square_brackets,VI_ONLY,,Lấy bánh kem cái quái gì vậy?,"[Bài thi giai đoạn 1 ngành chỉnh hình
+khoa y học lâm sàng]",scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000040,"00:03:53,260","00:03:54,360",1.1,"[Bài thi giai đoạn 1 ngành chỉnh hình
+khoa y học lâm sàng]",square_brackets,VI_ONLY,,[C. Thi xong mau đi lấy bánh kem],[C. Thi xong mau đi lấy bánh kem],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000041,"00:04:01,240","00:04:04,810",3.57,[C. Thi xong mau đi lấy bánh kem],square_brackets,VI_ONLY,,"[Bài thi giai đoạn 1 ngành chỉnh hình
+khoa y học lâm sàng]",[C. Thi xong mau đi lấy bánh kem],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000042,"00:04:06,370","00:04:08,010",1.64,[C. Thi xong mau đi lấy bánh kem],square_brackets,VI_ONLY,,[C. Thi xong mau đi lấy bánh kem],[C. Kéo xương bên ngoài],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000043,"00:04:08,010","00:04:09,560",1.55,[C. Kéo xương bên ngoài],square_brackets,VI_ONLY,,[C. Thi xong mau đi lấy bánh kem],Thu bài đi.,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000087,"00:07:54,970","00:07:56,730",1.76,[Phòng nướng bánh - Đại học Thanh Diệu],square_brackets,VI_ONLY,,[Hôm nay cuối cùng cậu ấy cũng tỏ tình với mình.],[Bánh mì],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000088,"00:08:00,590","00:08:02,780",2.19,[Bánh mì],square_brackets,VI_ONLY,,[Phòng nướng bánh - Đại học Thanh Diệu],[An Gia Tiên?],scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000114,"00:10:05,210","00:10:08,820",3.61,"[Tâm nhĩ trái, tâm thất phải đều là cậu]",square_brackets,VI_ONLY,,đều là cậu.,Phiền cô tránh đường.,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000414,"00:25:01,630","00:25:05,910",4.28,"[Tim nhĩ trái, tim thất phải đều là cậu]",square_brackets,VI_ONLY,,Chúng ta nói chuyện đàng hoàng nhé.,Vãn Vãn.,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000556,"00:32:50,460","00:32:52,600",2.14,[Tin đầu đề của diễn đàn Đại học Thanh Diệu],square_brackets,VI_ONLY,,"Lư Vãn Vãn, giải thích đi.","[Lộ bạn gái tin đồn của học sinh giỏi Nhậm Sơ,
+nghi là Tây Thi bánh ngọt Lư Vãn Vãn]",scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000557,"00:32:53,480","00:32:55,080",1.6,"[Lộ bạn gái tin đồn của học sinh giỏi Nhậm Sơ,
+nghi là Tây Thi bánh ngọt Lư Vãn Vãn]",square_brackets,VI_ONLY,,[Tin đầu đề của diễn đàn Đại học Thanh Diệu],Đàn anh Nhậm Sơ cười rồi.,scene_text,exclude,exclude,
+chinese,D0014,EP001,vi_000689,"00:40:26,990","00:40:30,390",3.4,[Phòng tắm vòi sen],square_brackets,VI_ONLY,,Vào đi.,Làm gì chứ?,scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Lần Đầu Yêu Anh],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000002,"00:01:30,970","00:01:35,050",4.08,[Lần Đầu Yêu Anh],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 2],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000003,"00:01:35,259","00:01:37,990",2.731,[Tập 2],square_brackets,VI_ONLY,,[Lần Đầu Yêu Anh],[Tắm cùng thì chẳng phải sẽ thấy hết à?],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000027,"00:02:45,860","00:02:48,000",2.14,[Phòng tắm vòi sen],square_brackets,VI_ONLY,,tôi có thể kiện anh.,"Nếu cô không muốn tắm thì có thể đi ngay bây giờ,",scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000131,"00:10:00,540","00:10:04,910",4.37,[Cửa hàng hoa quả Tiểu Lư],square_brackets,VI_ONLY,,Tớ trốn đây.,Mẹ ơi.,scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000167,"00:11:56,880","00:12:00,240",3.36,[Bảng xếp hạng: 1. Cửa hàng hoa quả Tiểu Lư],square_brackets,VI_ONLY,,bán hết tụi này đi.,[Cửa hàng hoa quả Tiểu Lư],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000168,"00:12:02,470","00:12:05,780",3.31,[Cửa hàng hoa quả Tiểu Lư],square_brackets,VI_ONLY,,[Bảng xếp hạng: 1. Cửa hàng hoa quả Tiểu Lư],"Xin chào, lê này giá bao nhiêu vậy?",scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000363,"00:23:39,400","00:23:44,440",5.04,[Cửa hàng hoa quả Tiểu Lư],square_brackets,VI_ONLY,,Mau thả tôi xuống.,[An Gia Tiên: Tôi và cô ấy của tôi],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000365,"00:23:51,410","00:23:53,130",1.72,[An Gia Tiên: Tôi và cô ấy của tôi],square_brackets,VI_ONLY,,[Cửa hàng hoa quả Tiểu Lư],[An Gia Tiên: Tôi và cô ấy của tôi],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000366,"00:23:55,820","00:23:57,290",1.47,[An Gia Tiên: Tôi và cô ấy của tôi],square_brackets,VI_ONLY,,[An Gia Tiên: Tôi và cô ấy của tôi],[Cố Kiều],scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000367,"00:23:59,890","00:24:01,190",1.3,[Cố Kiều],square_brackets,VI_ONLY,,[An Gia Tiên: Tôi và cô ấy của tôi],"Vãn Vãn, cậu đã lướt bảng tin chưa?",scene_text,exclude,exclude,
+chinese,D0014,EP002,vi_000668,"00:41:33,010","00:41:34,570",1.56,[Bản kế hoạch hoạt động câu lạc bộ nướng bánh],square_brackets,VI_ONLY,,Tớ muốn giả vờ không nghe thấy cũng không được.,Mềm không được,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Lần Đầu Yêu Anh],scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000002,"00:01:30,970","00:01:35,050",4.08,[Lần Đầu Yêu Anh],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 3],scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000003,"00:01:35,259","00:01:37,990",2.731,[Tập 3],square_brackets,VI_ONLY,,[Lần Đầu Yêu Anh],[Câu lạc bộ nướng bánh tuyển thành viên],scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000004,"00:01:38,450","00:01:40,340",1.89,[Câu lạc bộ nướng bánh tuyển thành viên],square_brackets,VI_ONLY,,[Tập 3],Đàn anh Nhậm Sơ,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000031,"00:03:02,820","00:03:03,910",1.09,[Kế hoạch loại bỏ tin đồn],square_brackets,VI_ONLY,,Lư Vãn Vãn.,"Kế hoạch loại bỏ tin đồn,",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000239,"00:12:54,250","00:12:56,600",2.35,[Phòng học khoa Phục hồi chức năng 02],square_brackets,VI_ONLY,,"Lư Vãn Vãn, cô làm được mà.","Tiết này sẽ kiểm tra bài,",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000353,"00:19:20,300","00:19:22,280",1.98,[Nhậm Sơ],square_brackets,VI_ONLY,,Kết bạn WeChat đi.,"Tốt thật,",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000401,"00:22:01,830","00:22:03,180",1.35,[Kế hoạch loại bỏ tin đồn],square_brackets,VI_ONLY,,"Anh yên tâm,
+tôi nhất định sẽ giữ kín chuyện kia."," - Bên A.
+- Bên B.",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000436,"00:23:35,570","00:23:38,470",2.9,[Bên B: Lư Vãn Vãn],square_brackets,VI_ONLY,,"giữ lại ghi chép văn bản, vân vân.",[Bên A: Nhậm Sơ],scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000437,"00:23:47,920","00:23:49,100",1.18,[Bên A: Nhậm Sơ],square_brackets,VI_ONLY,,[Bên B: Lư Vãn Vãn],Sau này hai ta là cộng sự hợp tác với nhau rồi.,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000572,"00:32:43,660","00:32:48,320",4.66,"[Bài thanh minh của anh Nhậm Sơ không rõ ràng, chắc chắn
+là để đánh lạc hướng dư luận, trên thực tế là chuyển từ công khai thành yêu nhau bí mật]",square_brackets,VI_ONLY,,chúng ta giữ khoảng cách.,Tin đồn càng ghê gớm hơn.,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000648,"00:37:01,830","00:37:07,160",5.33,[Biết ơn - Báo đáp - Tình yêu - Trách nhiệm],square_brackets,VI_ONLY,,Là tinh thần tôn trọng hợp đồng.,An Gia Tiên.,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000677,"00:38:36,110","00:38:36,950",0.84,[Nhậm Sơ],square_brackets,VI_ONLY,,là chúng ta đã trưởng thành thôi.,"[Có chuyện, gặp mặt nói.]",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000686,"00:39:14,580","00:39:18,570",3.99,[Bản đồ an toàn trong trường],square_brackets,VI_ONLY,,có thể gặp nhau trong khoảng thời gian chính xác này.,"Thế này, thế này đỉnh quá đi mất.",scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000714,"00:40:58,990","00:41:00,420",1.43,[Thông tin cá nhân: Lý Quân],square_brackets,VI_ONLY,,"đẹp trai, thành tích tốt, vừa đúng 20 người.",[Thông tin cá nhân: Nhậm Sơ],scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000715,"00:41:04,070","00:41:05,540",1.47,[Thông tin cá nhân: Nhậm Sơ],square_brackets,VI_ONLY,,[Thông tin cá nhân: Lý Quân],Sao lại có cả anh thế?,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000726,"00:41:25,790","00:41:26,590",0.8,[Thông tin cá nhân: Lưu Chí Bảo],square_brackets,VI_ONLY,,người có điều kiện tốt nhất chính là tôi.,Không biết,scene_text,exclude,exclude,
+chinese,D0014,EP003,vi_000728,"00:41:32,890","00:41:34,820",1.93,[Thông tin cá nhân: Uông Úc Dương],square_brackets,VI_ONLY,,Không biết,Uông Úc Dương?,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Lần đầu yêu anh],scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000002,"00:01:30,970","00:01:35,050",4.08,[Lần đầu yêu anh],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 4],scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000003,"00:01:35,259","00:01:37,990",2.731,[Tập 4],square_brackets,VI_ONLY,,[Lần đầu yêu anh],Mượn nhiều sách như vậy.,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000008,"00:01:57,470","00:01:59,870",2.4,"[Mang thai bỏ trốn, cầu cậu chủ Quyền buông tha]",square_brackets,VI_ONLY,,[Giải nghĩa giấc mơ],[Tình yêu lạc mất của sếp tổng bá đạo],scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000009,"00:02:12,000","00:02:14,060",2.06,[Tình yêu lạc mất của sếp tổng bá đạo],square_brackets,VI_ONLY,,"[Mang thai bỏ trốn, cầu cậu chủ Quyền buông tha]",Cô bị bịt mắt đưa tới một căn hộ xa hoa.,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000048,"00:03:36,840","00:03:37,140",0.3,[Làm thế nào để yêu đương khoa học],square_brackets,VI_ONLY,,"trước giờ không có trong sách,","[Cách nhanh nhất để trở thành người yêu
+là tiếng sét ái tình]",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000063,"00:04:25,980","00:04:27,540",1.56,"[Khu dạy học 3, phòng 107, lớp tiếng Anh 01]",square_brackets,VI_ONLY,,Bài học hôm nay đến đây là hết.,"Cuối tuần này tôi sẽ đi xem biểu diễn âm nhạc,",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000083,"00:05:40,659","00:05:41,790",1.131,"[Hai, nhìn vào mắt nhau]",square_brackets,VI_ONLY,,Chúng ta từng gặp ở đâu rồi đúng không?,"Theo nghiên cứu khoa học,",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000193,"00:11:36,390","00:11:39,160",2.77,[Phòng giải phẫu],square_brackets,VI_ONLY,,Đừng giới hạn cuộc sống của mình quá.,Tây Bạch.,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000286,"00:18:57,380","00:18:59,310",1.93,[Hình như hơi thích em rồi],square_brackets,VI_ONLY,,"Phá tháp, phá tháp đi.",Sao mình lại,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000291,"00:19:04,220","00:19:05,100",0.88,[Không kìm được muốn thích em],square_brackets,VI_ONLY,,Làm tốt lắm.,Mình thích gì ở cô ta?,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000295,"00:19:11,360","00:19:12,120",0.76,[Hình như hơi thích em rồi],square_brackets,VI_ONLY,,tâm lý kém.,"Vòng ra sau, mau mau.",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000301,"00:19:28,500","00:19:30,510",2.01,[Sơ đồ mặt bằng tiệm net],square_brackets,VI_ONLY,,Phải giải quyết vấn đề trước mắt đã.,Kể lại đi.,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000310,"00:19:55,340","00:19:57,520",2.18,"[Đàn ông ghét nhất phụ nữ mặc thế này: Vớ ren +
+giày thể thao + áo ánh kim + váy đinh tán]",square_brackets,VI_ONLY,,tôi phải mặc cái này thật hả?,Thiếu niên nghiện internet,scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000527,"00:32:05,110","00:32:09,810",4.7,[Kế hoạch loại bỏ tin đồn],square_brackets,VI_ONLY,,Bản kế hoạch của tớ.,"Vãn Vãn,",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000604,"00:37:34,680","00:37:35,520",0.84,[Câu lạc bộ bơi lội Đại học Thanh Diệu],square_brackets,VI_ONLY,,"[Cùng chơi game, lên hạng đi.]","[Cấp bậc: Thạc sĩ; Trường, khoa: Khoa thông tin và khoa học công trình
+Đại học Bình Châu. Phương hướng nghiên cứu: Trí tuệ nhân tạo]",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000605,"00:37:35,520","00:37:39,800",4.28,"[Cấp bậc: Thạc sĩ; Trường, khoa: Khoa thông tin và khoa học công trình
+Đại học Bình Châu. Phương hướng nghiên cứu: Trí tuệ nhân tạo]",square_brackets,VI_ONLY,,[Câu lạc bộ bơi lội Đại học Thanh Diệu],"A lô, thầy Đặng.",scene_text,exclude,exclude,
+chinese,D0014,EP004,vi_000707,"00:42:09,690","00:42:11,530",1.84,[Sách ôn tập thi cao học chính trị],square_brackets,VI_ONLY,,làm gì cũng không để tâm.,Cậu thích Lư Vãn Vãn chứ gì?,scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Lần Đầu Yêu Anh],scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000002,"00:01:30,970","00:01:35,050",4.08,[Lần Đầu Yêu Anh],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 5],scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000003,"00:01:35,259","00:01:37,990",2.731,[Tập 5],square_brackets,VI_ONLY,,[Lần Đầu Yêu Anh],Sao mình lại mơ giấc mơ như vậy?,scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000124,"00:07:46,940","00:07:50,970",4.03,[PUBG hôm nay - Cuộc thi PUBG người thật],square_brackets,VI_ONLY,,Tôi thấy mình cách một là cậu đã đủ dùng rồi.,Có lẽ cậu ta không nhìn thấy cậu.,scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000203,"00:12:08,210","00:12:09,850",1.64,[Phân nhóm thi đấu],square_brackets,VI_ONLY,,[PUBG hôm nay - Cuộc thi PUBG người thật],John von Neumann,scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000307,"00:16:43,140","00:16:44,860",1.72,[Nhậm Sơ],square_brackets,VI_ONLY,,"Còn xem tớ như không khí chứ, có lịch sự không?","Nhậm Sơ, bây giờ gọi điện đến thì muộn rồi.",scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000369,"00:20:14,980","00:20:16,490",1.51,[Điểm xuất phát],square_brackets,VI_ONLY,,tôi sợ lắm đấy.,"Hai người một nhóm,",scene_text,exclude,exclude,
+chinese,D0014,EP005,vi_000597,"00:33:05,940","00:33:07,750",1.81,[Trạm y tế],square_brackets,VI_ONLY,,Anh quét mã của em đi.,"[Chắc chắn đây là giấc mơ,
+mình không thể tỉnh lại được.]",scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thành Phố Lý Tưởng],scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000002,"00:01:30,660","00:01:35,070",4.41,[Thành Phố Lý Tưởng],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Câu chuyện này chỉ là hư cấu],scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000003,"00:01:35,070","00:01:37,460",2.39,[Câu chuyện này chỉ là hư cấu],square_brackets,VI_ONLY,,[Thành Phố Lý Tưởng],[Tập 1],scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000004,"00:01:37,460","00:01:39,810",2.35,[Tập 1],square_brackets,VI_ONLY,,[Câu chuyện này chỉ là hư cấu],Anh làm gì vậy?,scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000379,"00:13:43,120","00:13:47,070",3.95,"[Công ty TNHH Kiến trúc Thiên Khoa
+Tập đoàn Kiến trúc Doanh Hải]",square_brackets,VI_ONLY,,có thể làm được 15% rồi.,Đúng thế.,scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000472,"00:17:32,770","00:17:36,260",3.49,"[Tối anh phải tăng ca, không thể đi cùng em được,
+em đi ăn mừng với Hồng Mai đi, anh thanh toán.]",square_brackets,VI_ONLY,,Tự ra làm riêng.,Công trình An Cư này hiện giờ,scene_text,exclude,exclude,
+chinese,D0018,EP001,vi_000833,"00:30:22,200","00:30:25,300",3.1,[Uông Dương],square_brackets,VI_ONLY,,Cái này mà là hơi sơ sài à?,Có chuyện gì? Nói đi.,scene_text,exclude,exclude,
+chinese,D0018,EP002,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thành Phố Lý Tưởng],scene_text,exclude,exclude,
+chinese,D0018,EP002,vi_000002,"00:01:30,660","00:01:35,070",4.41,[Thành Phố Lý Tưởng],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Câu chuyện này chỉ là hư cấu],scene_text,exclude,exclude,
+chinese,D0018,EP002,vi_000003,"00:01:35,070","00:01:37,460",2.39,[Câu chuyện này chỉ là hư cấu],square_brackets,VI_ONLY,,[Thành Phố Lý Tưởng],[Tập 2],scene_text,exclude,exclude,
+chinese,D0018,EP002,vi_000004,"00:01:37,460","00:01:39,810",2.35,[Tập 2],square_brackets,VI_ONLY,,[Câu chuyện này chỉ là hư cấu],"Sếp Hoàng,",scene_text,exclude,exclude,
+chinese,D0018,EP003,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thành Phố Lý Tưởng],scene_text,exclude,exclude,
+chinese,D0018,EP003,vi_000002,"00:01:30,660","00:01:35,070",4.41,[Thành Phố Lý Tưởng],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Câu chuyện này chỉ là hư cấu],scene_text,exclude,exclude,
+chinese,D0018,EP003,vi_000003,"00:01:35,070","00:01:37,460",2.39,[Câu chuyện này chỉ là hư cấu],square_brackets,VI_ONLY,,[Thành Phố Lý Tưởng],[Tập 3],scene_text,exclude,exclude,
+chinese,D0018,EP003,vi_000004,"00:01:37,460","00:01:39,810",2.35,[Tập 3],square_brackets,VI_ONLY,,[Câu chuyện này chỉ là hư cấu],"Bố, sao bố lại đến đây?",scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thành Phố Lý Tưởng],scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000002,"00:01:30,660","00:01:35,020",4.36,[Thành Phố Lý Tưởng],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Câu chuyện này chỉ là hư cấu],scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000003,"00:01:35,020","00:01:37,000",1.98,[Câu chuyện này chỉ là hư cấu],square_brackets,VI_ONLY,,[Thành Phố Lý Tưởng],[Tập 4],scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000004,"00:01:37,000","00:01:39,770",2.77,[Tập 4],square_brackets,VI_ONLY,,[Câu chuyện này chỉ là hư cấu],"Đây là Quản lý chi phí mới đến,",scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000137,"00:07:41,680","00:07:43,310",1.63,"[Trịnh Thành -  Tổng giám đốc
+Công ty TNHH Kiến trúc Thiên Chính]",square_brackets,VI_ONLY,,thái độ của Uông Dương thế nào không?,Căn bản không thể dựa vào mấy gã đó được.,scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000152,"00:08:14,600","00:08:20,400",5.8,"[Giám đốc Thiên Thành - Trần Tư Dân: Đã sắp xếp công việc cho Tô Tiểu, xin cứ yên tâm.]",square_brackets,VI_ONLY,,"Được, cậu đợi một lát.",Chào cô.,scene_text,exclude,exclude,
+chinese,D0018,EP004,vi_000507,"00:22:31,010","00:22:34,240",3.23,[Đường Lệ Lệ -  Thư ký Chủ tịch Tập đoàn Doanh Hải],square_brackets,VI_ONLY,,Cảm ơn!,Chủ tịch.,scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thành Phố Lý Tưởng],scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000002,"00:01:30,660","00:01:35,020",4.36,[Thành Phố Lý Tưởng],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Câu chuyện này chỉ là hư cấu],scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000003,"00:01:35,020","00:01:37,000",1.98,[Câu chuyện này chỉ là hư cấu],square_brackets,VI_ONLY,,[Thành Phố Lý Tưởng],[Tập 5],scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000004,"00:01:37,000","00:01:39,770",2.77,[Tập 5],square_brackets,VI_ONLY,,[Câu chuyện này chỉ là hư cấu],Mấy ngày hôm nay,scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000374,"00:21:56,320","00:22:00,220",3.9,[Người xét duyệt: Lục Tranh Minh],square_brackets,VI_ONLY,,"Vâng, cảm ơn anh!",Địa điểm thầu số 345 này,scene_text,exclude,exclude,
+chinese,D0018,EP005,vi_000531,"00:28:27,960","00:28:30,900",2.94,[Phương án kiểm toán nội bộ Tập đoàn Doanh Hải],square_brackets,VI_ONLY,,Được.,"Bạn cũ,",scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thương Lan Quyết],scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000002,"00:01:34,080","00:01:40,050",5.97,[Thương Lan Quyết],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 1],scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000003,"00:01:40,090","00:01:45,039",4.949,[Tập 1],square_brackets,VI_ONLY,,[Thương Lan Quyết],"[Truyền thuyết kể rằng,]",scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000030,"00:03:18,620","00:03:23,030",4.41,[Điện Ti Mệnh - Thủy Vân Thiên],square_brackets,VI_ONLY,,[lại mất tăm mất tích.],[Tiên nữ Hoa Lan Nhỏ],scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000031,"00:03:33,950","00:03:39,030",5.08,[Tiên nữ Hoa Lan Nhỏ],square_brackets,VI_ONLY,,[Điện Ti Mệnh - Thủy Vân Thiên],[Ta là Hoa Lan Nhỏ],scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000123,"00:07:51,530","00:07:54,090",2.56,[Chiến thần Trường Hành],square_brackets,VI_ONLY,,Huynh quân.,[Đế quân Thủy Vân Thiên - Vân Trung Quân],scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000124,"00:07:55,690","00:07:58,750",3.06,[Đế quân Thủy Vân Thiên - Vân Trung Quân],square_brackets,VI_ONLY,,[Chiến thần Trường Hành],"Trường Hành,",scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000150,"00:08:55,620","00:09:00,280",4.66,[Tháp Hạo Thiên - Thủy Vân Thiên],square_brackets,VI_ONLY,,"huynh quân triệu Trường Hành
+về Ngọc Kinh gấp như vậy?",Tháp Hạo Thiên có biến động?,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000189,"00:10:47,970","00:10:52,500",4.53,[Điện Ti Mệnh - Thủy Vân Thiên],square_brackets,VI_ONLY,,Vâng.,Đây là chiếc thứ 42699.,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000193,"00:11:09,180","00:11:12,240",3.06,[Điện Ti Mệnh],square_brackets,VI_ONLY,,"Đến đây, đến đây.","Cô là một hoa đào thành tinh
+cả ngày chẳng có việc gì,",scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000219,"00:12:39,520","00:12:46,870",7.35,[Điện Ti Mệnh],square_brackets,VI_ONLY,,"chắc chắn các cô không dám,","Tốt quá rồi, tốt quá rồi.",scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000228,"00:13:10,090","00:13:14,750",4.66,[Rừng Thấu Ngọc - Thủy Vân Thiên],square_brackets,VI_ONLY,,để lại ấn tượng tốt cho Trường Hành tiên quân.,Trường Hành tiên quân đấy.,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000290,"00:17:47,660","00:17:50,350",2.69,[Ngọc Kinh - Thủy Vân Thiên],square_brackets,VI_ONLY,,ta nhất định sẽ thi được vào cung Dũng Tuyền!,Thì có thể vào cung Dũng Tuyền trực ca.,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000303,"00:18:45,330","00:18:52,680",7.35,[Hoa Lan Nhỏ -  Điện Ti Mệnh],square_brackets,VI_ONLY,,Cô ta mà cũng có thể đến sao?,Một tinh linh hoa cấp thấp nhất,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000344,"00:20:27,890","00:20:29,480",1.59,"[Tinh linh hoa  Dây Thường Xuân, tinh linh hoa Cây Đào]",square_brackets,VI_ONLY,,thì có thể...,Cây Đào.,scene_text,exclude,exclude,
+chinese,D0022,EP001,vi_000496,"00:34:43,409","00:34:49,620",6.211,[Thương Lan Quyết],square_brackets,VI_ONLY,,giờ bổn tọa sẽ giết cô ngay.,,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thương Lan Quyết],scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000002,"00:01:34,080","00:01:40,050",5.97,[Thương Lan Quyết],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 2],scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000003,"00:01:52,560","00:01:57,479",4.919,[Tập 2],square_brackets,VI_ONLY,,[Thương Lan Quyết],[Tháp Hạo Thiên - Thủy Vân Thiên],scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000004,"00:01:58,229","00:02:02,730",4.501,[Tháp Hạo Thiên - Thủy Vân Thiên],square_brackets,VI_ONLY,,[Tập 2],Ngươi là kẻ tội đồ bị giam giữ ở trong đây.,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000119,"00:09:27,330","00:09:32,830",5.5,[Tiên cảnh trong tranh],square_brackets,VI_ONLY,,Vâng.,Vân Trung Thủy Các,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000129,"00:10:08,240","00:10:11,470",3.23,[Tiên quân Dung Hạo],square_brackets,VI_ONLY,,lẽ nào không sợ Vân Trung Quân trách cứ sao?,"Hôm nay khi đang gia cố phong ấn,",scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000187,"00:15:49,650","00:15:52,750",3.1,[Nguyệt tôn Đông Phương Thanh Thương],square_brackets,VI_ONLY,,Ta biến về rồi.,Tháp Hạo Thiên có biến!,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000223,"00:21:01,030","00:21:03,930",2.9,[Thiên đài Vân Trung Thủy Các - Thủy Vân Thiên],square_brackets,VI_ONLY,,Vâng.,"Bẩm huynh quân,",scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000236,"00:22:12,130","00:22:16,750",4.62,[Ngọc Kinh - Thủy Vân Thiên],square_brackets,VI_ONLY,,Khăn tay!,"Nghe nói gì chưa,",scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000257,"00:22:47,080","00:22:52,700",5.62,[Vong Xuyên],square_brackets,VI_ONLY,,[Bị bắt rồi chứ gì?],Thương Khuyết.,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000276,"00:25:27,220","00:25:31,920",4.7,[Lưu Phương Các - Hải Thị],square_brackets,VI_ONLY,,Vâng.,[Lưu Phương Các Chủ Hải Thị - Điệp Y],scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000294,"00:26:04,640","00:26:05,650",1.01,[Tàng Châu Trai],square_brackets,VI_ONLY,,Vâng.,nghe ta là chính xác luôn.,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000416,"00:33:17,990","00:33:21,560",3.57,[Ba vạn năm trước],square_brackets,VI_ONLY,,mới có thể phản công Thủy Vân Thiên.,[Chiến thần Xích Địa Nữ Tử],scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000417,"00:33:24,370","00:33:27,650",3.28,[Chiến thần Xích Địa Nữ Tử],square_brackets,VI_ONLY,vi_000418,[Ba vạn năm trước],"Bổn tọa có hồn phách kim cương, cơ thể bất tử,",scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000472,"00:38:41,300","00:38:44,950",3.65,[Hóa Hồn Khư - Hải Thị],square_brackets,VI_ONLY,,Lẽ nào cô ta đang giở trò?,Đi.,scene_text,exclude,exclude,
+chinese,D0022,EP002,vi_000475,"00:39:12,840","00:39:19,350",6.51,[Thương Lan Quyết],square_brackets,VI_ONLY,,Cứu với!,,scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thương Lan Quyết],scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000002,"00:01:34,080","00:01:40,050",5.97,[Thương Lan Quyết],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 3],scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000003,"00:01:40,090","00:01:45,000",4.91,[Tập 3],square_brackets,VI_ONLY,,[Thương Lan Quyết],Đi.,scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000070,"00:11:04,050","00:11:06,240",2.19,[Lưu Phương Các - Hải Thị],square_brackets,VI_ONLY,,Chủ thượng.,"Chủ thượng giao Hải Thị cho ta,",scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000097,"00:12:08,650","00:12:14,190",5.54,[Vong Xuyên],square_brackets,VI_ONLY,,Kẻ trộm sổ số mệnh là người của Thủy Vân Thiên.,"Thánh ấn Tức Lan này lại ghê gớm như vậy,",scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000137,"00:14:11,580","00:14:16,620",5.04,[Linh Tỏa Môn - Thủy Vân Thiên],square_brackets,VI_ONLY,,Đều tại tên tội tiên chết tiệt đó.,Có gì đó bất thường.,scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000230,"00:20:24,740","00:20:28,440",3.7,[500 năm trước],square_brackets,VI_ONLY,,Vâng.,Ngài không sao chứ?,scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000286,"00:23:24,920","00:23:26,550",1.63,[Điện Ti Mệnh],square_brackets,VI_ONLY,,bổn tọa sẽ cho một mồi lửa đốt nhà kính của cô.,[Điện Ti Mệnh],scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000287,"00:23:32,350","00:23:36,090",3.74,[Điện Ti Mệnh],square_brackets,VI_ONLY,,[Điện Ti Mệnh],"Trường, Trường Hành tiên quân?",scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000314,"00:25:02,690","00:25:05,970",3.28,[Điện Ti Mệnh],square_brackets,VI_ONLY,,Ơ...,"Ta không nói sai câu nào cả,",scene_text,exclude,exclude,
+chinese,D0022,EP003,vi_000490,"00:35:33,220","00:35:39,440",6.22,[Thương Lan Quyết],square_brackets,VI_ONLY,,Tiểu tội tiên?,,scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thương Lan Quyết],scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000002,"00:01:34,080","00:01:40,050",5.97,[Thương Lan Quyết],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 4],scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000003,"00:01:40,090","00:01:45,000",4.91,[Tập 4],square_brackets,VI_ONLY,,[Thương Lan Quyết],Các người làm gì vậy?,scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000519,"00:30:06,220","00:30:09,790",3.57,[500 năm trước],square_brackets,VI_ONLY,,Ta phải ở bên tiên quân nhà ta.,Huynh tỉnh rồi?,scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000653,"00:38:34,240","00:38:41,590",7.35,[Điện Ti Mệnh],square_brackets,VI_ONLY,,Đại Cường!,Đâu rồi?,scene_text,exclude,exclude,
+chinese,D0022,EP004,vi_000673,"00:39:18,050","00:39:23,090",5.04,[Thương Lan Quyết],square_brackets,VI_ONLY,,ta sẽ lấy linh thạch của mọi người đó.,,scene_text,exclude,exclude,
+chinese,D0022,EP005,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Thương Lan Quyết],scene_text,exclude,exclude,
+chinese,D0022,EP005,vi_000002,"00:01:34,080","00:01:40,050",5.97,[Thương Lan Quyết],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 5],scene_text,exclude,exclude,
+chinese,D0022,EP005,vi_000003,"00:01:40,090","00:01:45,000",4.91,[Tập 5],square_brackets,VI_ONLY,,[Thương Lan Quyết],Đi rồi à?,scene_text,exclude,exclude,
+chinese,D0022,EP005,vi_000177,"00:12:40,020","00:12:45,270",5.25,[500 năm trước],square_brackets,VI_ONLY,,Vâng.,Trước đây có phải huynh luôn bị bắt nạt không?,scene_text,exclude,exclude,
+chinese,D0022,EP005,vi_000541,"00:37:32,040","00:37:38,250",6.21,[Thương Lan Quyết],square_brackets,VI_ONLY,,"Bổn tọa phải làm thế nào
+mới có thể khiến cô ta vui đây?",,scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000002,"00:01:31,020","00:01:34,950",3.93,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 1],scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000003,"00:01:34,970","00:01:37,070",2.1,[Tập 1],square_brackets,VI_ONLY,,[Liên Hoa Lâu],"[Mười năm trước,]",scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000023,"00:04:15,460","00:04:16,570",1.11,"[Lý Tương Di, môn chủ Tứ Cố Môn]",square_brackets,VI_ONLY,,Là Lý Tương Di.,"[Địch Phi Thanh, minh chủ Kim Uyên Minh]",scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000040,"00:08:30,210","00:08:32,220",2.01,[Mười năm sau],square_brackets,VI_ONLY,,"Thi thể sư huynh Thiện Cô Đao
+của ta đang ở đâu?",Nào.,scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000164,"00:14:11,330","00:14:13,430",2.1,[Y quán Liên Hoa Lâu],square_brackets,VI_ONLY,,ta đi trước nhé.,Trận đấu võ viện Bách Xuyên bắt đầu.,scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000172,"00:14:44,940","00:14:45,840",0.9,[Viên Kiện Khang],square_brackets,VI_ONLY,,kết thúc.,[Giới luật tự viện Bách Xuyên],scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000173,"00:14:50,910","00:14:52,960",2.05,[Giới luật tự viện Bách Xuyên],square_brackets,VI_ONLY,,[Viên Kiện Khang],Chúc mừng năm vị,scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000196,"00:15:51,380","00:15:53,470",2.09,"[Phương Đa Bệnh,
+thiếu trang chủ sơn trang Thiên Cơ]",square_brackets,VI_ONLY,,tại sao không dám dùng gương mặt thật?,"Phương Đa Bệnh, là ngươi à?",scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000234,"00:17:22,240","00:17:26,480",4.24,[Tương Di],square_brackets,VI_ONLY,,chữ trên này chứ?,Sư phụ ngươi là...,scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000493,"00:27:59,190","00:28:03,000",3.81,[Phái Linh Sơn],square_brackets,VI_ONLY,,Nghĩa khí lắm.,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000494,"00:28:05,040","00:28:07,760",2.72,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Phái Linh Sơn],"Thiếu gia,",scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000696,"00:36:44,360","00:36:46,760",2.4,[Thành Gia Châu],square_brackets,VI_ONLY,,mới có thể trút cơn tức này.,"Huynh đệ này, xin hỏi,",scene_text,exclude,exclude,
+chinese,D0024,EP001,vi_000775,"00:39:54,120","00:39:56,710",2.59,"[Người thừa kế do trời sắp đặt là linh đồng 16 tuổi, ở phía Tây Nam thành,
+sinh vào đầu tháng tư, chân phải có nốt ruồi hình hoa sen]",square_brackets,VI_ONLY,,Cung tiễn chưởng môn thoát xác thăng tiên.,Sự việc là vậy đấy.,scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000002,"00:01:30,720","00:01:34,970",4.25,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 2],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000003,"00:01:35,000","00:01:37,030",2.03,[Tập 2],square_brackets,VI_ONLY,,[Liên Hoa Lâu]," - Đi theo ta.
+- Tiểu huynh đệ, khoan đã.",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000076,"00:04:35,170","00:04:36,210",1.04,[Cung Linh Hư],square_brackets,VI_ONLY,,tên thần y giả mồm mép như ngươi giúp ta.,"Đi, đi, đi, mau đi đi.",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000094,"00:05:19,540","00:05:23,180",3.64,[Nhật Nguyệt Vận Hành],square_brackets,VI_ONLY,,"Đi, chúng ta mau đi xem đi.",[Điện Trường Sinh],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000095,"00:05:23,210","00:05:26,140",2.93,[Điện Trường Sinh],square_brackets,VI_ONLY,,[Nhật Nguyệt Vận Hành],"Bà con,",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000115,"00:06:13,190","00:06:14,420",1.23,"[Phác Nhị Hoàng, quản gia phái Linh Sơn]",square_brackets,VI_ONLY,,cùng với 12 cửa hiệu.,"Nếu Vượng Phúc
+mà được chia nhiều tiền như vậy",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000294,"00:13:16,220","00:13:18,360",2.14,[Khiêm Tốn Tu Thân],square_brackets,VI_ONLY,,"xem thử xem ai điều tra ra
+nguyên nhân cái chết của ông ta trước.","[Người thừa kế do trời sắp đặt là linh đồng 16 tuổi, ở phía Tây Nam thành,
+sinh vào đầu tháng tư, chân phải có nốt ruồi hình hoa sen]",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000295,"00:13:24,360","00:13:25,800",1.44,"[Người thừa kế do trời sắp đặt là linh đồng 16 tuổi, ở phía Tây Nam thành,
+sinh vào đầu tháng tư, chân phải có nốt ruồi hình hoa sen]",square_brackets,VI_ONLY,,[Khiêm Tốn Tu Thân],Ta không chỉ biết nguyên nhân ông ta chết,scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000351,"00:16:53,640","00:16:55,170",1.53,[Đằng Vân Các],square_brackets,VI_ONLY,,"Trò biến ra người sống này
+lừa người thế nào?",Chỗ này có ngăn bí mật.,scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000375,"00:18:45,830","00:18:48,120",2.29,[Tam Tự Kinh],square_brackets,VI_ONLY,,"Này, xem đi.","Đây là quyển “Tam Tự Kinh” thôi mà,",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000420,"00:20:27,270","00:20:30,960",3.69,[Phái Linh Sơn],square_brackets,VI_ONLY,,"Vậy nên cần con cáo nhỏ nhà ngươi
+giúp một tay.",[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000421,"00:20:32,990","00:20:35,820",2.83,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Phái Linh Sơn],"Cúng thất tuần cho Vương chưởng môn đã qua,",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000430,"00:21:08,610","00:21:10,340",1.73,[Thanh Lan Cư],square_brackets,VI_ONLY,,"sẽ truyền đạt lại
+lời của chưởng môn cho các vị.","Thiên địa huyền tông,",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000456,"00:24:20,580","00:24:22,530",1.95,[Hạ],square_brackets,VI_ONLY,,Hạ?,Đây là đáp án đêm qua chưởng môn cho ta.,scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000459,"00:24:41,080","00:24:42,650",1.57,[Hạ],square_brackets,VI_ONLY,,Làm phiền Phác quản gia rồi.,[Hạ],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000460,"00:24:50,250","00:24:51,420",1.17,[Hạ],square_brackets,VI_ONLY,,[Hạ],[Triệu],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000461,"00:24:51,720","00:24:52,610",0.89,[Triệu],square_brackets,VI_ONLY,,[Hạ],[Hạ Lan],scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000462,"00:25:01,490","00:25:03,780",2.29,[Hạ Lan],square_brackets,VI_ONLY,,[Triệu],Đáp án chính xác,scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000503,"00:26:57,870","00:27:02,360",4.49,[Đằng Vân Các],square_brackets,VI_ONLY,,Ly Nhi.,"Vương Thanh Sơn cố tình chọn
+lúc mặt trời lặn để phi thăng",scene_text,exclude,exclude,
+chinese,D0024,EP002,vi_000572,"00:30:18,860","00:30:20,320",1.46,"[Người thừa kế do trời sắp đặt là linh đồng 16 tuổi, ở phía Tây Nam thành,
+sinh vào đầu tháng tư, chân phải có nốt ruồi hình hoa sen]",square_brackets,VI_ONLY,,chưởng môn để lại không?,Vương chưởng môn,scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000002,"00:01:30,270","00:01:34,950",4.68,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 3],scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000003,"00:01:35,000","00:01:37,000",2.0,[Tập 3],square_brackets,VI_ONLY,,[Liên Hoa Lâu],Vậy ta nói thật với huynh nhé.,scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000095,"00:07:17,620","00:07:19,150",1.53,[Tứ Cố Môn],square_brackets,VI_ONLY,,Từ từ thôi.,"Cố gắng lên, cố gắng lên.",scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000145,"00:10:28,780","00:10:30,400",1.62,"[Vô Liễu đại sư, chùa Phổ Độ]",square_brackets,VI_ONLY,,"Chẳng phải muội cũng
+không thích nơi này sao?","Hòa thượng,",scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000342,"00:21:10,560","00:21:13,670",3.11,[Liên Hoa Lâu],square_brackets,VI_ONLY,,chắc là hắn đang ở gần đây.,[Nhà trọ Tiểu Miên],scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000343,"00:21:13,700","00:21:19,290",5.59,[Nhà trọ Tiểu Miên],square_brackets,VI_ONLY,,[Liên Hoa Lâu],Mở cửa.,scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000505,"00:28:07,010","00:28:09,260",2.25,"[Nhị tiểu thư Ngọc Thành, Ngọc Thu Sương]",square_brackets,VI_ONLY,,Ngọc Thu Sương trong tranh.,Nhìn gì mà nhìn?,scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000696,"00:38:09,390","00:38:12,010",2.62,[Ngọc Thành],square_brackets,VI_ONLY,,Rõ.,[Cao Các Lăng Vân],scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000697,"00:38:14,660","00:38:15,510",0.85,[Cao Các Lăng Vân],square_brackets,VI_ONLY,,[Ngọc Thành],"Thành chủ,",scene_text,exclude,exclude,
+chinese,D0024,EP003,vi_000700,"00:38:34,220","00:38:36,550",2.33,"[Ngọc Mục Lam, thành chủ Ngọc Thành]",square_brackets,VI_ONLY,,đây là nhị tiểu thư.,Nhốt lại.,scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000002,"00:01:30,670","00:01:34,970",4.3,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 4],scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000003,"00:01:35,030","00:01:36,920",1.89,[Tập 4],square_brackets,VI_ONLY,,[Liên Hoa Lâu],"Nghe nói người sắp chết
+thường hay thấy ma quỷ.",scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000131,"00:06:31,270","00:06:31,980",0.71,[Viện Bách Xuyên],square_brackets,VI_ONLY,,"ta là hình thám của viện Bách Xuyên,","ta nhất định phải điều tra rõ huyết án,",scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000368,"00:16:32,520","00:16:37,250",4.73,[Khinh Vân Tế Nguyệt],square_brackets,VI_ONLY,,Đi.,Ta biết ngay là,scene_text,exclude,exclude,
+chinese,D0024,EP004,vi_000454,"00:21:52,250","00:21:55,350",3.1,[Liên Hoa Lâu],square_brackets,VI_ONLY,,Vậy làm phiền cô nương rồi.,"Đừng bảo huynh đang tìm thuốc
+chữa cho Vân Kiều nhé?",scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000001,"00:00:00,000","00:00:10,000",10.0,[Chương trình này có phụ đề tiếng Việt],square_brackets,VI_ONLY,,,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000002,"00:01:30,330","00:01:34,950",4.62,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Chương trình này có phụ đề tiếng Việt],[Tập 5],scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000003,"00:01:35,000","00:01:37,000",2.0,[Tập 5],square_brackets,VI_ONLY,,[Liên Hoa Lâu],"Ngươi biết rằng chỉ cần
+kiểm tra thi thể của Ngọc nhị tiểu thư,",scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000338,"00:21:36,060","00:21:39,040",2.98,[Ngọc Thành],square_brackets,VI_ONLY,,Lý Liên Hoa.,[Liên Hoa Lâu],scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000339,"00:21:40,990","00:21:44,020",3.03,[Liên Hoa Lâu],square_brackets,VI_ONLY,,[Ngọc Thành],Dược ma thật và Địch Phi Thanh chạy rồi.,scene_text,exclude,exclude,
+chinese,D0024,EP005,vi_000495,"00:29:33,570","00:29:36,120",2.55,[Vạn Thế Hồng Hoang],square_brackets,VI_ONLY,,"Hẹn gặp lại nhé, Lý thần y.",Cung nghênh minh chủ trở về!,scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000046,"00:03:03,380","00:03:08,180",4.8," =Cuộc Sống Gia Đình Nhỏ=
+(Cuộc Sống Được Tua Nhanh 1,5 Lần)",round_brackets,VI_ONLY,,Chúng ta có cần chậm lại không?,"Anh Đường,",scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000071,"00:05:09,700","00:05:11,460",1.76,(Hóa đơn khách sạn),round_brackets,VI_ONLY,,Em có thể sỗ sàng thêm chút nữa.,(Kình Thảo),scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000072,"00:05:29,260","00:05:30,340",1.08,(Kình Thảo),round_brackets,VI_ONLY,,(Hóa đơn khách sạn),(Mẹ),scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000073,"00:05:32,260","00:05:39,260",7.0,(Mẹ),round_brackets,VI_ONLY,,(Kình Thảo),(Sếp Khương),scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000074,"00:05:45,060","00:05:52,060",7.0,(Sếp Khương),round_brackets,VI_ONLY,,(Mẹ),"A lô, sếp Khương.",scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000211,"00:11:13,060","00:11:15,540",2.48,(Mẹ),round_brackets,VI_ONLY,,Bây giờ tôi nói chuyện thứ hai.,"Tôi xin thông báo,",scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000220,"00:11:30,460","00:11:33,820",3.36,(Mẹ),round_brackets,VI_ONLY,,tôi hy vọng cậu sẽ tiếp tục phát huy.,Chờ tôi một lát.,scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000447,"00:20:01,980","00:20:05,540",3.56,(Truyền thông văn hóa Kim Ánh),round_brackets,VI_ONLY,,"Không phải, đi, đi ăn món ngon.",Anh về rồi à?,scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000741,"00:32:29,940","00:32:31,940",2.0,"(""Dục vọng"" - Khang Vân năm 2022)",round_brackets,VI_ONLY,,Tôi đền cô.,Bức tranh này 60.000 tệ đúng không?,scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000746,"00:32:42,940","00:32:47,180",4.24,"(Ngân hàng di động,
+số dư tài khoản: 18532.19 tệ)",round_brackets,VI_ONLY,,bây giờ tôi sẽ chuyển cho cô ngay.,Để ngày mai tôi chuyển cho cô.,scene_text,exclude,exclude,
+chinese,D0039,EP001,vi_000925,"00:41:06,620","00:41:11,460",4.84," =Cuộc Sống Gia Đình Nhỏ=
+(Đại chiến chuyển nhà)",round_brackets,VI_ONLY,,"tôi phải bắn phát súng
+chuyển nhà đầu tiên.",Chào buổi sáng ạ.,scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000017,"00:02:01,700","00:02:03,900",2.2,"(Bà thông gia
+Nhà mạng Thượng Hải)",round_brackets,VI_ONLY,, =Tập 02=,Bà thông gia ư?,scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000044,"00:03:17,460","00:03:20,500",3.04,(Cà phê Thượng Hải Xưa),round_brackets,VI_ONLY,,"Dùng lý lẽ thuyết phục người khác,
+dĩ hòa vi quý nhé.",Bà đã đến rồi à?,scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000137,"00:07:03,220","00:07:05,700",2.48,"(Hóa đơn thẻ tín dụng của bạn
+đã quá hạn. Để tránh ảnh hưởng xấu)",round_brackets,VI_ONLY,,hóa đơn thẻ tín dụng của quý khách…,"(tới lịch sử tín dụng, vui lòng
+thanh toán ngay lập tức.)",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000138,"00:07:05,700","00:07:07,620",1.92,"(tới lịch sử tín dụng, vui lòng
+thanh toán ngay lập tức.)",round_brackets,VI_ONLY,,"(Hóa đơn thẻ tín dụng của bạn
+đã quá hạn. Để tránh ảnh hưởng xấu)","Hoàng Khiên Ngưu,",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000495,"00:21:30,740","00:21:32,620",1.88,(Cố Mạt Lị),round_brackets,VI_ONLY,,Chu Kình Thảo.,(Cố Mạt Lị),scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000496,"00:21:34,420","00:21:36,260",1.84,(Cố Mạt Lị),round_brackets,VI_ONLY,,(Cố Mạt Lị),Cố Mạt Lị?,scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000499,"00:21:44,220","00:21:45,540",1.32,(Cố Mạt Lị),round_brackets,VI_ONLY,,Chẳng phải Chu Kình Thảo sao?,"Trùng tên, trùng tên rồi.",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000577,"00:25:12,300","00:25:13,580",1.28,(Tổng tài sản),round_brackets,VI_ONLY,,Tự chuyển đi.,"Đơn vị, chục, trăm, nghìn…
+Bốn trăm hai mươi nghìn tệ?",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000611,"00:26:38,180","00:26:39,220",1.04,"(Âm thanh đã bị tắt,
+nhấn và giữ nút nguồn để tắt nguồn)",round_brackets,VI_ONLY,,"Có nhà không về
+thì mẹ nhất định không đồng ý.","(Anh, em mới là bùn loãng
+không trát được tường.)",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000816,"00:37:16,140","00:37:18,740",2.6,"(Bà Ngô Ngọc Lan, số tài khoản 0288
+đã chuyển khoản vào)",round_brackets,VI_ONLY,,Mau xem tài khoản của con đi.,"(số tài khoản đuôi 1747 của bạn,
+số dư tăng thêm 2.600.000,00 tệ.)",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000817,"00:37:18,740","00:37:22,220",3.48,"(số tài khoản đuôi 1747 của bạn,
+số dư tăng thêm 2.600.000,00 tệ.)",round_brackets,VI_ONLY,,"(Bà Ngô Ngọc Lan, số tài khoản 0288
+đã chuyển khoản vào)",A lô.,scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000862,"00:39:49,980","00:39:52,540",2.56,"(Giấy cam kết tự nguyện
+từ bỏ bất động sản)",round_brackets,VI_ONLY,,"Được rồi, anh đi tắm đây.","(Giấy cam kết tự nguyện
+từ bỏ bất động sản)",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000863,"00:39:55,380","00:40:00,500",5.12,"(Giấy cam kết tự nguyện
+từ bỏ bất động sản)",round_brackets,VI_ONLY,,"(Giấy cam kết tự nguyện
+từ bỏ bất động sản)","(Cố Chú Mậu, Chu Kình Thảo)",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000864,"00:40:00,980","00:40:02,660",1.68,"(Cố Chú Mậu, Chu Kình Thảo)",round_brackets,VI_ONLY,,"(Giấy cam kết tự nguyện
+từ bỏ bất động sản)","Lúc còn trẻ thường xuyên
+bị cảm xúc chi phối,",scene_text,exclude,exclude,
+chinese,D0039,EP002,vi_000886,"00:41:24,780","00:41:29,580",4.8," =Cuộc Sống Gia Đình Nhỏ=
+(Định luật ổn định cảm xúc)",round_brackets,VI_ONLY,,Tôi phụ trách ổn định.,Lần trước mẹ không đồng ý,scene_text,exclude,exclude,
+chinese,D0039,EP003,vi_000135,"00:08:49,580","00:08:51,420",1.84,"(Giấy cam kết tự nguyện
+từ bỏ bất động sản)",round_brackets,VI_ONLY,,"Kình Thảo, anh xem này.",Sao em tìm được cái này thế?,scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000029,"00:02:29,500","00:02:34,380",4.88," =Cuộc Sống Gia Đình Nhỏ=
+(Không có lối thoát)",round_brackets,VI_ONLY,,đúng là bạn không trốn đi đâu được.,"Được, không vấn đề gì.",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000052,"00:03:45,700","00:03:48,300",2.6,(Giang Hải Đào),round_brackets,VI_ONLY,,Chào cô.,"Giang Hải Đào, tôi là Cố Mạt Lị.",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000076,"00:06:52,500","00:06:54,580",2.08,(Chồng),round_brackets,VI_ONLY,,"Mạt Lị, anh xin lỗi.","Chỉ là đúng lúc hôm đó
+chúng ta chạm mặt nhau ở phòng tranh.",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000262,"00:15:33,820","00:15:38,060",4.24,(Phòng quản lý đăng ký kết hôn),round_brackets,VI_ONLY,,Muộn rồi.,(Gia đình hòa thuận mọi việc hanh thông),scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000263,"00:15:38,060","00:15:39,580",1.52,(Gia đình hòa thuận mọi việc hanh thông),round_brackets,VI_ONLY,,(Phòng quản lý đăng ký kết hôn),Em nghĩ kỹ chưa?,scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000293,"00:17:32,900","00:17:38,140",5.24,(Trung tâm hành chính),round_brackets,VI_ONLY,,Hai người đều nghe rõ rồi chứ?,Anh làm gì thế?,scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000309,"00:19:02,980","00:19:05,340",2.36,"(Kỷ niệm bảy năm ngày cưới, vợ Mạt Lị)",round_brackets,VI_ONLY,,"Chúng ta ly hôn rồi, anh không được vào.","Gió mạnh mới biết cỏ cứng,
+dài lâu mới hay lòng người.",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000470,"00:28:22,340","00:28:23,900",1.56,(Mina),round_brackets,VI_ONLY,,(Em xem thử những người này.),"(Quả nhiên,)",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000726,"00:40:57,580","00:40:59,020",1.44,"(Mẹ nghe nói Kình Thảo sẽ tổ chức
+Ngày của Mẹ cho hai người mẹ của mình.)",round_brackets,VI_ONLY,,Anh không ăn tôm thì cho em đi.,"(Dì út con cũng đến Thượng Hải
+để đón Ngày của Mẹ với Khiên Ngưu.)",scene_text,exclude,exclude,
+chinese,D0039,EP004,vi_000727,"00:40:59,030","00:41:00,460",1.43,"(Dì út con cũng đến Thượng Hải
+để đón Ngày của Mẹ với Khiên Ngưu.)",round_brackets,VI_ONLY,,"(Mẹ nghe nói Kình Thảo sẽ tổ chức
+Ngày của Mẹ cho hai người mẹ của mình.)",Hoàng Khiên Ngưu.,scene_text,exclude,exclude,
+chinese,D0039,EP005,vi_000212,"00:10:02,340","00:10:07,260",4.92," =Cuộc Sống Gia Đình Nhỏ=
+(Túi Không Chữa Bách Bệnh)",round_brackets,VI_ONLY,,không chữa được bách bệnh.,"Xin chào, mời đi bên này.",scene_text,exclude,exclude,
+chinese,D0039,EP005,vi_000698,"00:32:56,780","00:32:59,660",2.88,(Vợ),round_brackets,VI_ONLY,,Đúng là vô tâm.,Mạt Lị.,scene_text,exclude,exclude,
+chinese,D0039,EP005,vi_000841,"00:39:25,510","00:39:26,940",1.43,(Hóa đơn),round_brackets,VI_ONLY,,chắc chắn là hàng giả.,Vậy các cô xem,scene_text,exclude,exclude,

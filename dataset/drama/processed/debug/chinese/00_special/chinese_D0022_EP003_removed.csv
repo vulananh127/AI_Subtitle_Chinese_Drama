@@ -1,0 +1,71 @@
+side,cue_id,reason,text
+origin,zh_000326,in_special_pair,从没教过我
+origin,zh_000043,in_special_pair,还意外
+origin,zh_000328,in_special_pair,如何复原啊
+origin,zh_000199,in_special_pair,赤地女子
+origin,zh_000469,in_special_pair,这小罪仙
+origin,zh_000470,in_special_pair,倒是挺会关心人
+origin,zh_000039,in_special_pair,这罪仙一直在昊天塔里关着
+origin,zh_000166,in_special_pair,这人怎么说变脸就变脸
+origin,zh_000189,in_special_pair,他该不会是为了见我一面
+origin,zh_000038,in_special_pair,他难不成是
+origin,zh_000203,in_special_pair,三万年前
+origin,zh_000207,in_special_pair,本座能解封十万将士
+origin,zh_000037,in_special_pair,他说我属于他
+origin,zh_000201,in_special_pair,她竟尚存一缕元神
+origin,zh_000188,in_special_pair,虚张声势 东拉西扯
+origin,zh_000179,in_special_pair,他果然怕了
+origin,zh_000327,in_special_pair,破损成这样的命簿
+origin,zh_000202,in_special_pair,在凡间历劫
+origin,zh_000205,in_special_pair,管她如何留得元神
+origin,zh_000040,in_special_pair,没见过什么世面
+origin,zh_000325,in_special_pair,师父只教过我整理命簿
+origin,zh_000206,in_special_pair,有了她
+origin,zh_000042,in_special_pair,见到的头一个仙女
+origin,zh_000190,in_special_pair,在找理由吧
+origin,zh_000200,in_special_pair,真的是赤地女子
+origin,zh_000044,in_special_pair,他不会喜欢上我了吧
+origin,zh_000204,in_special_pair,到底发生了什么
+origin,zh_000041,in_special_pair,我又是他这么久以来
+vi,vi_000072,scene_text,[Chủ nhân Hải Thị]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thương Lan Quyết]
+vi,vi_000003,scene_text,[Tập 3]
+vi,vi_000070,scene_text,[Lưu Phương Các - Hải Thị]
+vi,vi_000097,scene_text,[Vong Xuyên]
+vi,vi_000137,scene_text,[Linh Tỏa Môn - Thủy Vân Thiên]
+vi,vi_000230,scene_text,[500 năm trước]
+vi,vi_000286,scene_text,[Điện Ti Mệnh]
+vi,vi_000287,scene_text,[Điện Ti Mệnh]
+vi,vi_000314,scene_text,[Điện Ti Mệnh]
+vi,vi_000490,scene_text,[Thương Lan Quyết]
+vi,vi_000041,in_special_pair,[Lẽ nào hắn...]
+vi,vi_000214,in_special_pair,"[bổn tọa sẽ có thể phá giải
+phong ấn của một trăm nghìn tướng sĩ.]"
+vi,vi_000044,in_special_pair,[Mình lại là tiên nữ đầu tiên]
+vi,vi_000480,in_special_pair,[Tiểu tội tiên này]
+vi,vi_000337,in_special_pair,[chứ chưa từng dạy mình]
+vi,vi_000206,in_special_pair,[Xích Địa Nữ Tử.]
+vi,vi_000195,in_special_pair,"[Phô trương thanh thế, nói năng lung tung.]"
+vi,vi_000338,in_special_pair,[làm sao sửa lại sổ số mệnh]
+vi,vi_000173,in_special_pair,"[Sao người này nói trở mặt
+là trở mặt liền vậy?]"
+vi,vi_000045,in_special_pair,[hắn gặp được sau một thời gian dài như vậy.]
+vi,vi_000208,in_special_pair,[Vậy mà cô ta vẫn còn một phần nguyên thần]
+vi,vi_000212,in_special_pair,"[Mặc kệ cô ta làm sao giữ được nguyên thần,]"
+vi,vi_000186,in_special_pair,[Quả nhiên là huynh ấy sợ rồi.]
+vi,vi_000210,in_special_pair,[Ba vạn năm trước]
+vi,vi_000336,in_special_pair,"[Sư phụ chỉ dạy mình sắp xếp sổ số mệnh,]"
+vi,vi_000047,in_special_pair,[Không phải hắn thích mình rồi đấy chứ?]
+vi,vi_000197,in_special_pair,[để gặp ta đấy chứ?]
+vi,vi_000213,in_special_pair,[có cô ta]
+vi,vi_000042,in_special_pair,[Tên tội tiên này luôn bị nhốt trong tháp Hạo Thiên]
+vi,vi_000211,in_special_pair,[rốt cuộc đã xảy ra chuyện gì?]
+vi,vi_000196,in_special_pair,[Không phải huynh ấy đang tìm cớ]
+vi,vi_000043,in_special_pair,[chưa từng trải đời.]
+vi,vi_000046,in_special_pair,[Còn bất ngờ...]
+vi,vi_000209,in_special_pair,[đang lịch kiếp ở trần gian.]
+vi,vi_000207,in_special_pair,[Đúng là Xích Địa Nữ Tử.]
+vi,vi_000481,in_special_pair,[cũng rất quan tâm người khác đó chứ.]
+vi,vi_000339,in_special_pair,[bị tổn hại thế này.]
+vi,vi_000040,in_special_pair,[Hắn nói mình thuộc về hắn?]

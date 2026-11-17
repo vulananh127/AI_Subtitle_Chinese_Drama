@@ -1,0 +1,119 @@
+1
+00:06:38,160 --> 00:06:39,600
+[note] 又涨七个粉
+Lại thêm được bảy người hâm mộ rồi.
+
+2
+00:06:39,600 --> 00:06:41,319
+[note] 每天进步一点点
+Mỗi ngày tiến bộ một chút.
+
+3
+00:26:40,880 --> 00:26:44,559
+[phone_speech] 哥 我 我才是癞皮狗扶不上墙
+Anh, em mới là bùn loãng không trát được tường.
+
+4
+00:26:44,559 --> 00:26:47,119
+[phone_speech] 那 那请你再给癞皮狗一次机会
+Xin anh cho bùn loãng thêm một cơ hội.
+
+5
+00:26:47,400 --> 00:26:48,640
+[phone_speech] 我保证成功
+Em đảm bảo sẽ thành công.
+
+6
+00:36:30,519 --> 00:36:34,119
+[inner_monologue] 那份合同我看都没看就签字了
+Bản hợp đồng đó tôi không xem mà ký tên luôn.
+
+7
+00:36:34,119 --> 00:36:36,320
+[inner_monologue] 只要茉莉的爸妈开心
+Chỉ cần bố mẹ Mạt Lị vui vẻ,
+
+8
+00:36:37,400 --> 00:36:38,480
+[inner_monologue] 大家不闹
+mọi người không cãi nhau
+
+9
+00:36:39,719 --> 00:36:40,920
+[inner_monologue] 让我干什么都可以
+thì bảo tôi làm gì cũng được.
+
+10
+00:41:33,840 --> 00:41:35,960
+[note] 跟朱劲草他们一起买房子
+cùng mua nhà với nhà Chu Kình Thảo,
+
+11
+00:10:06,399 --> 00:10:07,919
+[dash_dialogue] 服务员
+你好
+- Phục vụ.
+- Dạ cô.
+
+12
+00:17:45,160 --> 00:17:46,720
+[dash_dialogue] 就这个户型
+您请进
+- Là loại nhà này.
+- Mời bác và anh vào.
+
+13
+00:17:50,200 --> 00:17:52,160
+[dash_dialogue] 行
+二姨 看看这个
+- Được.
+- Dì hai, dì nhìn bên này.
+
+14
+00:17:56,519 --> 00:17:57,960
+[dash_dialogue] 是
+你看 这阳光
+- Phải.
+- Dì nhìn ánh sáng mặt trời này.
+
+15
+00:18:22,559 --> 00:18:23,880
+[dash_dialogue] 对啊
+那个
+- Phải đó.
+- Cái này.
+
+16
+00:21:23,920 --> 00:21:25,799
+[dash_dialogue] 签 签这儿
+可以可以
+- Ký đây nhỉ?
+- Được, được ạ.
+
+17
+00:24:28,880 --> 00:24:30,480
+[dash_dialogue] 哥 走了啊
+你站住
+- Anh, đi nhé.
+- Cậu đứng lại.
+
+18
+00:26:01,400 --> 00:26:02,920
+[dash_dialogue] 我呢 我
+打住
+- còn mình, mình...
+- Dừng.
+
+19
+00:30:06,119 --> 00:30:07,759
+[dash_dialogue] 来 喝茶
+谢谢爸
+- Nào, uống trà đi.
+- Cảm ơn bố.
+
+20
+00:39:00,719 --> 00:39:01,920
+[dash_dialogue] 真的
+真的
+- Thật không?
+- Thật mà.

@@ -1,0 +1,223 @@
+side,cue_id,reason,text
+origin,zh_000442,in_special_pair,我现在就要找她算账
+origin,zh_000103,in_special_pair,好的
+origin,zh_000694,in_special_pair,稍等
+origin,zh_000488,in_special_pair,我命好啊
+origin,zh_000693,in_special_pair,好的
+origin,zh_000377,in_special_pair,所以她是知道的
+origin,zh_000053,in_special_pair,你干吗 你谁呀你
+origin,zh_000696,in_special_pair,西冷
+origin,zh_000055,in_special_pair,一边傍上人家富家女
+origin,zh_000089,in_special_pair,你还记得吧
+origin,zh_000387,in_special_pair,懂
+origin,zh_000448,in_special_pair,现在的问题是
+origin,zh_000462,in_special_pair,她是通过发票知道的
+origin,zh_000450,in_special_pair,咱们一直开房的酒店呢
+origin,zh_000238,in_special_pair,你干吗呀
+origin,zh_000386,in_special_pair,理智
+origin,zh_000451,in_special_pair,你看看
+origin,zh_000464,in_special_pair,米娜看到了一张酒店的发票
+origin,zh_000084,in_special_pair,我在开会 一会儿联系你
+origin,zh_000259,in_special_pair,没事 慢点啊
+origin,zh_000697,in_special_pair,那我们要西冷
+origin,zh_000447,in_special_pair,你有什么办法
+origin,zh_000456,in_special_pair,你跟谁开房去了
+origin,zh_000433,in_special_pair,我们可以帮您找找看
+origin,zh_000376,in_special_pair,她就在场
+origin,zh_000090,in_special_pair,我记得
+origin,zh_000445,in_special_pair,证据不充分
+origin,zh_000438,in_special_pair,照片或许是别人帮她拍的呢
+origin,zh_000105,in_special_pair,拜拜
+origin,zh_000258,in_special_pair,谢谢
+origin,zh_000437,in_special_pair,那也不能排除嫌疑
+origin,zh_000104,in_special_pair,两位慢走
+origin,zh_000604,in_special_pair,妈你怎么样
+origin,zh_000239,in_special_pair,你放开她
+origin,zh_000446,in_special_pair,她要是死不承认
+origin,zh_000236,in_special_pair,你别走
+origin,zh_000441,in_special_pair,她和酒店那个前台认识
+origin,zh_000436,in_special_pair,她有不在场证明
+origin,zh_000375,in_special_pair,那天我要跟江海涛见面的时候
+origin,zh_000463,in_special_pair,上次你妈来画廊的时候
+origin,zh_000596,in_special_pair,仙女棒
+origin,zh_000237,in_special_pair,劲草 你放开她
+origin,zh_000439,in_special_pair,你看看这几个人
+origin,zh_000440,in_special_pair,果然
+origin,zh_000220,in_special_pair,把门关上啊
+origin,zh_000083,in_special_pair,你在干嘛
+origin,zh_000443,in_special_pair,别冲动
+origin,zh_000219,in_special_pair,来可可
+origin,zh_000487,in_special_pair,凭什么呀
+origin,zh_000054,in_special_pair,一边跟茉莉好着
+origin,zh_000597,in_special_pair,仙女棒
+origin,zh_000449,in_special_pair,她怎么会知道
+origin,zh_000444,in_special_pair,一张朋友圈合照说明不了什么
+origin,zh_000603,in_special_pair,好玩
+origin,zh_000106,in_special_pair,拜拜
+vi,vi_000001,music_auto,"♪Anh muốn cứ tựa vào vai em
+như lúc này♪"
+vi,vi_000002,music_auto,♪Xuyên qua lớp rèm♪
+vi,vi_000003,music_auto,"♪Lặng lẽ tận hưởng ánh hồ quang
+trong bộ lọc♪"
+vi,vi_000004,music_auto,♪Giống như cuộc sống của hai ta♪
+vi,vi_000005,music_auto,"♪Cần học cách pha màu
+và dàn trải ánh sáng♪"
+vi,vi_000006,music_auto,"♪Anh muốn được nắm tay
+kề vai sát cánh bên em♪"
+vi,vi_000007,music_auto,♪Nhìn thấu lời nói dối của thời gian♪
+vi,vi_000008,music_auto,♪Phá bỏ bức tường cản trở trong tâm trí♪
+vi,vi_000009,music_auto,♪Tựa như linh hồn của hai ta♪
+vi,vi_000010,music_auto,"♪Cần học cách gìn giữ nó
+luôn thanh thản♪"
+vi,vi_000011,music_auto,"♪Đường phố tấp nập, thời gian vụt nhanh♪"
+vi,vi_000012,music_auto,"♪Bóng hình đong đưa,
+ánh đèn đường le lói♪"
+vi,vi_000013,music_auto,♪Câu chuyện chỉ vừa mới bắt đầu♪
+vi,vi_000014,music_auto,♪Cuộc sống nhỏ của chúng ta còn dài♪
+vi,vi_000294,music_auto,"♪Đây không phải là kết quả
+anh mong muốn♪"
+vi,vi_000295,music_auto,♪Anh chắc chắn là như vậy♪
+vi,vi_000296,music_auto,"♪Đó cũng không phải là
+cuộc sống mà em mong muốn♪"
+vi,vi_000297,music_auto,♪Em thức tỉnh đi♪
+vi,vi_000298,music_auto,♪Nhìn vào mắt nhau♪
+vi,vi_000299,music_auto,♪Thấy được sự ngờ vực giống nhau♪
+vi,vi_000300,music_auto,"♪Nếu biết trước
+có một kết thúc mở như vậy♪"
+vi,vi_000301,music_auto,"♪Phải chăng câu chuyện
+sẽ không diễn ra thế này♪"
+vi,vi_000302,music_auto,"♪Nếu không phải
+câu hứa mãi mãi mà em nói♪"
+vi,vi_000303,music_auto,♪Anh khắc ghi♪
+vi,vi_000304,music_auto,"♪Nếu không phải
+lời hứa thủy chung mà anh nói♪"
+vi,vi_000305,music_auto,♪Em lãng quên♪
+vi,vi_000311,music_auto,♪Anh khắc ghi♪
+vi,vi_000312,music_auto,"♪Nếu không phải
+lời hứa thủy chung mà anh nói♪"
+vi,vi_000320,music_auto,"♪Phải chăng đã dừng chân, không đi nữa♪"
+vi,vi_000323,music_auto,♪Vẫn gật gù đắc ý♪
+vi,vi_000324,music_auto,♪Gật gù đắc ý♪
+vi,vi_000326,music_auto,"♪Anh nên hợp tác với ai
+để diễn bộ phim trưởng thành♪"
+vi,vi_000335,music_auto,"♪Một ngày nào đó, chúng ta sẽ nhìn thấy♪"
+vi,vi_000336,music_auto,♪Tháp biển♪
+vi,vi_000793,music_auto,♪Chẳng ai dễ dàng đoán được♪
+vi,vi_000794,music_auto,♪Lý do ta trưởng thành♪
+vi,vi_000795,music_auto,♪Luôn ước thời gian quay trở lại♪
+vi,vi_000796,music_auto,♪Mọi trắc trở lùi xa♪
+vi,vi_000797,music_auto,♪Có thể mãi giữ chặt♪
+vi,vi_000798,music_auto,♪Mọi thứ có được thuở ban sơ♪
+vi,vi_000799,music_auto,♪Khoảnh khắc ngọt ngào ấy♪
+vi,vi_000800,music_auto,♪Có thể mãi không lìa xa♪
+vi,vi_000801,music_auto,♪Tận cùng của hạnh phúc♪
+vi,vi_000802,music_auto,♪Sẽ luôn có người đưa tay ra trước♪
+vi,vi_000803,music_auto,"♪Luôn muốn làm người đầu tiên
+lên được bờ♪"
+vi,vi_000804,music_auto,♪Rồi mới níu giữ♪
+vi,vi_000805,music_auto,♪Đằng sau những lời đay nghiến♪
+vi,vi_000806,music_auto,♪Là một hình dáng khác của dịu dàng♪
+vi,vi_000807,music_auto,♪Chỉ là lại khác xa♪
+vi,vi_000808,music_auto,♪Những gì trong tưởng tượng♪
+vi,vi_000809,music_auto,♪Chẳng cần mượn buông tay♪
+vi,vi_000810,music_auto,♪Để chứng minh rằng mình có♪
+vi,vi_000811,music_auto,♪Đầy đủ sự tự do♪
+vi,vi_000812,music_auto,♪Thỏa mãn nhu cầu của trưởng thành♪
+vi,vi_000813,music_auto,♪Không cần dùng nỗi lo âu♪
+vi,vi_000814,music_auto,"♪Để thể hiện mong muốn
+sâu trong cõi lòng♪"
+vi,vi_000815,music_auto,♪Sự dịu dàng dũng cảm♪
+vi,vi_000816,music_auto,♪Chữa lành vết thương bị xát muối♪
+vi,vi_000817,music_auto,♪Không cần dùng gào thét♪
+vi,vi_000818,music_auto,♪Để làm cái cớ yêu sâu đậm♪
+vi,vi_000819,music_auto,♪Cảm xúc chân thật nhất♪
+vi,vi_000820,music_auto,♪Đến từ sự dịu dàng của nhau♪
+vi,vi_000821,music_auto,♪Không cần rơi nước mắt♪
+vi,vi_000822,music_auto,"♪Để chấm dứt cảm giác tội lỗi
+giây phút này♪"
+vi,vi_000823,music_auto,♪Lời níu giữ phút chia ly♪
+vi,vi_000824,music_auto,♪Đã sớm ngập tràn nơi song cửa♪
+vi,vi_000029,scene_text,"=Cuộc Sống Gia Đình Nhỏ=
+(Không có lối thoát)"
+vi,vi_000052,scene_text,(Giang Hải Đào)
+vi,vi_000076,scene_text,(Chồng)
+vi,vi_000262,scene_text,(Phòng quản lý đăng ký kết hôn)
+vi,vi_000263,scene_text,(Gia đình hòa thuận mọi việc hanh thông)
+vi,vi_000293,scene_text,(Trung tâm hành chính)
+vi,vi_000309,scene_text,"(Kỷ niệm bảy năm ngày cưới, vợ Mạt Lị)"
+vi,vi_000470,scene_text,(Mina)
+vi,vi_000726,scene_text,"(Mẹ nghe nói Kình Thảo sẽ tổ chức
+Ngày của Mẹ cho hai người mẹ của mình.)"
+vi,vi_000727,scene_text,"(Dì út con cũng đến Thượng Hải
+để đón Ngày của Mẹ với Khiên Ngưu.)"
+vi,vi_000495,in_special_pair,"(Mina đã nhìn thấy
+một tờ hóa đơn của khách sạn.)"
+vi,vi_000474,in_special_pair,(Đừng manh động.)
+vi,vi_000475,in_special_pair,"(Chồng)
+Một bức ảnh trên trang cá nhân"
+vi,vi_000120,in_special_pair,"- Tạm biệt.
+- Tạm biệt."
+vi,vi_000518,in_special_pair,"- dựa vào đâu chứ?
+- Tôi tốt số."
+vi,vi_000468,in_special_pair,(Có thể người khác chụp ảnh giúp cô ta.)
+vi,vi_000478,in_special_pair,(Nếu cô ta cứ không chịu thừa nhận)
+vi,vi_000101,in_special_pair,"(Chồng)
+Em đang làm gì vậy?"
+vi,vi_000409,in_special_pair,"(cô ta có mặt ở đó,)"
+vi,vi_000476,in_special_pair,"(Chồng)
+không chứng minh được điều gì,"
+vi,vi_000463,in_special_pair,"(Một tin nhắn từ bạn bè)
+thì chúng tôi có thể tìm giúp anh."
+vi,vi_000269,in_special_pair,"- Cảm ơn.
+- Không sao, đi thong thả."
+vi,vi_000107,in_special_pair,"- đến đặt phòng cùng với tôi chứ?
+- Tôi nhớ."
+vi,vi_000477,in_special_pair,(không đủ chứng cứ.)
+vi,vi_000472,in_special_pair,"(Vợ)
+cô ta quen với cô lễ tân khách sạn đó."
+vi,vi_000102,in_special_pair,"(Vợ)
+Em đang họp, lát nữa liên lạc với anh."
+vi,vi_000419,in_special_pair,"- Lý trí.
+- Hiểu mà."
+vi,vi_000467,in_special_pair,"(Chồng)
+Vậy cũng không thể thoát hiềm nghi."
+vi,vi_000410,in_special_pair,(nên là cô ta biết.)
+vi,vi_000482,in_special_pair,"(khách sạn mà chúng ta
+vẫn thường đi chứ?)"
+vi,vi_000233,in_special_pair,"- Nào, Khả Khả.
+- Đóng cửa lại đấy."
+vi,vi_000072,in_special_pair,"(vừa vớ được
+người con gái nhà giàu khác.)"
+vi,vi_000070,in_special_pair,"- Anh làm gì vậy?
+- Anh là ai vậy?"
+vi,vi_000626,in_special_pair,"- Gậy tiên nữ.
+- Gậy tiên nữ."
+vi,vi_000494,in_special_pair,"(Lần trước lúc mẹ anh đến phòng tranh,)"
+vi,vi_000248,in_special_pair,"- Anh làm cái gì vậy?
+- Con buông nó ra."
+vi,vi_000483,in_special_pair,"(Con xem đi,)"
+vi,vi_000473,in_special_pair,(Bây giờ em sẽ đi tính sổ với cô ta.)
+vi,vi_000632,in_special_pair,"- Vui lắm.
+- Mẹ sao rồi?"
+vi,vi_000488,in_special_pair,"(Công ty khách sạn Hoa Nhuế Thượng Hải)
+Con đi khách sạn với ai?"
+vi,vi_000493,in_special_pair,"(Chồng)
+Cô ta nhìn hóa đơn nên biết."
+vi,vi_000722,in_special_pair,"- Thăn ngoại bò.
+- Vậy cho chúng tôi thăn ngoại bò đi."
+vi,vi_000479,in_special_pair,(thì em làm được gì chứ.)
+vi,vi_000720,in_special_pair,"- Vâng ạ.
+- Đợi đã."
+vi,vi_000071,in_special_pair,"(Anh vừa quen Mạt Lị,)"
+vi,vi_000247,in_special_pair,"- Em đừng đi.
+- Kình Thảo, con buông nó ra."
+vi,vi_000119,in_special_pair,"- Được.
+- Hai người đi thong thả."
+vi,vi_000481,in_special_pair,(sao cô ta lại biết)
+vi,vi_000466,in_special_pair,"(Vợ)
+Cô ta có bằng chứng ngoại phạm."
+vi,vi_000480,in_special_pair,(Vấn đề bây giờ là)
+vi,vi_000408,in_special_pair,"(Hôm đó lúc em sắp
+đi gặp Giang Hải Đào,)"
+vi,vi_000469,in_special_pair,(Em xem thử những người này.)
+vi,vi_000471,in_special_pair,"(Quả nhiên,)"

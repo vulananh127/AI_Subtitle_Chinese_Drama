@@ -1,0 +1,199 @@
+1
+00:19:22,000 --> 00:19:23,039
+[note] 战马直播演示文稿
+PPT của livestream Chiến Mã
+
+2
+00:21:11,000 --> 00:21:12,039
+[inner_monologue] 劲草是爱我的
+Kình Thảo yêu tôi.
+
+3
+00:21:12,640 --> 00:21:13,799
+[inner_monologue] 我也爱他
+Tôi cũng yêu anh ấy.
+
+4
+00:21:14,319 --> 00:21:17,319
+[inner_monologue] 爱是抵抗生活里鸡零狗碎的铠甲
+Tình yêu là áo giáp chống lại những điều vụn vặt trong cuộc sống.
+
+5
+00:21:17,920 --> 00:21:19,759
+[inner_monologue] 夫妻多年的默契
+Sự ăn ý của vợ chồng nhiều năm
+
+6
+00:21:19,839 --> 00:21:23,319
+[inner_monologue] 吵完闹完 还是并肩作战的战友
+là sau khi cãi nhau vẫn là chiến hữu kề vai sát cánh.
+
+7
+00:21:23,400 --> 00:21:25,200
+[inner_monologue] 必须养精蓄锐
+Phải nghỉ ngơi lấy sức
+
+8
+00:21:25,200 --> 00:21:28,440
+[inner_monologue] 去面对明天新一轮的忙碌和疲惫
+để đối mặt với bận rộn và mệt mỏi của ngày mai.
+
+9
+00:33:17,200 --> 00:33:19,480
+[phone_speech] 现场各位亲朋好友
+Thưa những người thân và bạn bè có mặt ở đây,
+
+10
+00:39:11,280 --> 00:39:12,800
+[inner_monologue] 我们画廊的负责人查过监控
+Người phụ trách phòng tranh của chúng ta đã kiểm tra camera giám sát.
+
+11
+00:39:13,239 --> 00:39:14,679
+[inner_monologue] 确实有人撞了你的女儿
+Đúng là có người va vào con gái cô,
+
+12
+00:39:15,519 --> 00:39:16,840
+[inner_monologue] 但看不清人脸
+nhưng không nhìn rõ mặt.
+
+13
+00:39:17,480 --> 00:39:18,840
+[inner_monologue] 你女儿在上面画了
+Con gái cô vẽ lên tranh
+
+14
+00:39:18,840 --> 00:39:19,920
+[inner_monologue] 这是事实
+chuyện này là sự thật,
+
+15
+00:39:19,920 --> 00:39:21,599
+[inner_monologue] 所以还要赔偿
+thế nên cô vẫn phải bồi thường.
+
+16
+00:39:24,800 --> 00:39:26,360
+[inner_monologue] 我觉得这个世界上
+Tôi nghĩ, trên đời này
+
+17
+00:39:26,480 --> 00:39:28,320
+[inner_monologue] 没有什么东西是完美的
+không có thứ gì là hoàn hảo.
+
+18
+00:06:33,879 --> 00:06:35,360
+[dash_dialogue] 谢谢
+不客气
+- Cảm ơn.
+- Không có chi.
+
+19
+00:07:36,000 --> 00:07:38,079
+[dash_dialogue] 麦克 你的冰萃
+谢谢朱总
+- Mike, cà phê cold brew của cậu đây.
+- Cảm ơn sếp Chu.
+
+20
+00:09:04,159 --> 00:09:05,679
+[dash_dialogue] 我
+顾小姐
+- Mẹ…
+- Cô Cố.
+
+21
+00:12:29,279 --> 00:12:30,879
+[dash_dialogue] 我
+我跟你说 说到根上
+- Con…
+- Mẹ nói con hay, nói đến cùng,
+
+22
+00:13:45,720 --> 00:13:47,360
+[dash_dialogue] 我 我作 怎么是我作的
+不是你作的吗
+- Con gây chuyện sao? Sao lại là con gây chuyện chứ?
+- Không phải tại con gây chuyện sao?
+
+23
+00:13:56,960 --> 00:13:59,039
+[dash_dialogue] 我没闹 我是去找她
+你去就去了
+- Mẹ không có quậy, mẹ đi tìm nó…
+- Mẹ đi thì đi,
+
+24
+00:14:42,639 --> 00:14:44,960
+[dash_dialogue] 劲草 你
+妈妈妈
+你看看你这媳妇
+你别说了 别说了
+- Kình Thảo, con…
+- Mẹ ơi.
+- Con xem vợ con kìa.
+- Mẹ đừng nói nữa.
+
+25
+00:19:23,039 --> 00:19:24,799
+[dash_dialogue] 零点前必须给我
+是妈妈吗
+- phải gửi tôi trước 0 giờ.
+- Là mẹ ạ?
+
+26
+00:22:10,519 --> 00:22:11,799
+[dash_dialogue] 好
+你怎么来了
+- Được.
+- Sao anh lại tới đây?
+
+27
+00:22:33,319 --> 00:22:34,680
+[dash_partial] 谢谢姐夫
+- Cảm ơn anh rể.
+- Cảm ơn anh rể.
+
+28
+00:22:46,799 --> 00:22:48,000
+[dash_dialogue] 姐夫再见
+拜拜
+- Chào anh rể.
+- Tạm biệt.
+
+29
+00:33:33,039 --> 00:33:34,440
+[dash_dialogue] 涛哥
+你干吗
+- Anh Đào.
+- Anh làm gì vậy?
+
+30
+00:33:35,279 --> 00:33:36,599
+[dash_dialogue] 你干什么
+我告诉你这一拳
+- Anh làm cái gì vậy?
+- Tôi nói cho anh biết, cú đấm này
+
+31
+00:33:36,599 --> 00:33:38,599
+[dash_dialogue] 你干什么
+我替茉莉打的
+- Anh làm gì vậy?
+- tôi đánh thay cho Mạt Lị.
+
+32
+00:35:14,480 --> 00:35:15,920
+[dash_dialogue] 你们帮我收拾一下
+好
+- các cô giúp tôi dọn dẹp một chút nhé.
+- Vâng.
+
+33
+00:42:11,880 --> 00:42:13,280
+[dash_dialogue] 拜拜
+拜拜
+- Tạm biệt.
+- Tạm biệt.

@@ -1,0 +1,6 @@
+stage,model,n,cer,cer_macro,cer_sub,cer_del,cer_ins,ref_len_total,n_empty_hyp,n_over_100pct,n_skipped_empty_ref,rtf,sent_per_sec,fingerprint
+pretrained,qwen3-asr-1.7b,15552,7.6551,10.9228,4.6956,1.7993,1.1603,151950,0,51,0,0.0312,,815b06a2dd0e
+pretrained,qwen3-asr-0.6b,15552,9.0299,12.6953,5.9717,1.8796,1.1787,151950,1,56,0,0.0233,,815b06a2dd0e
+pretrained,paraformer-zh,15552,11.3261,16.3627,7.9967,1.6927,1.6367,151950,11,161,0,0.0521,,815b06a2dd0e
+pretrained,sensevoice-small,15552,11.5801,15.991,8.0415,2.2363,1.3024,151950,11,92,0,0.034,,815b06a2dd0e
+pretrained,whisper-large-v3,15552,25.5663,58.7795,11.3254,2.0954,12.1454,151950,0,239,0,0.4926,,815b06a2dd0e

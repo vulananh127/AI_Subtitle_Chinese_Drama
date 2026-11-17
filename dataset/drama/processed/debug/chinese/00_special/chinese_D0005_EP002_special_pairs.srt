@@ -1,0 +1,144 @@
+1
+00:02:27,960 --> 00:02:28,680
+[phone_speech] 强哥
+Anh Cường,
+
+2
+00:02:29,360 --> 00:02:30,280
+[phone_speech] 下湾的场子
+địa bàn ở Hạ Loan
+
+3
+00:02:30,280 --> 00:02:31,870
+[phone_speech] 刚刚被警察给扫了
+vừa mới bị cảnh sát lục soát.
+
+4
+00:02:33,750 --> 00:02:35,590
+[phone_speech] 还有 不光是下湾
+Còn nữa, không chỉ Hạ Loan
+
+5
+00:02:35,590 --> 00:02:37,310
+[phone_speech] 东山 北岸
+mà địa bàn ở cả Đông Sơn,
+
+6
+00:02:37,310 --> 00:02:38,150
+[phone_speech] 下坡的场子
+Bắc Ngạn, Hạ Pha
+
+7
+00:02:38,150 --> 00:02:39,310
+[phone_speech] 今天都被扫了
+hôm nay đều bị lục soát.
+
+8
+00:02:39,750 --> 00:02:40,520
+[phone_speech] 抱歉
+Xin lỗi.
+
+9
+00:02:51,630 --> 00:02:52,960
+[phone_speech] 要是他们的胃口
+Nếu bọn họ
+
+10
+00:02:52,960 --> 00:02:54,520
+[phone_speech] 越来越大怎么办
+càng ngày càng quá đáng thì sao?
+
+11
+00:02:54,520 --> 00:02:55,630
+[phone_speech] 就接着挖呢
+Vẫn tiếp tục bới móc thì làm thế nào?
+
+12
+00:04:10,400 --> 00:04:11,750
+[dash_dialogue] 肠粉 您再加两份
+- Bánh cuốn.
+- Anh cho chúng tôi thêm hai suất nữa,
+
+13
+00:08:24,430 --> 00:08:25,510
+[dash_dialogue] 孟局 安欣
+- Cục trưởng Mạnh.
+- An Hân!
+
+14
+00:21:44,110 --> 00:21:45,070
+[dash_dialogue] 放下 我拿自己的
+- Bỏ xuống.
+- Tôi lấy đồ cá nhân
+
+15
+00:22:51,350 --> 00:22:52,400
+[dash_dialogue] 为什么 别收拾了
+- Tại sao?
+- Đừng thu dọn nữa.
+
+16
+00:23:54,590 --> 00:23:55,480
+[dash_dialogue] 好吧 已经这个时间了
+- Được không?
+- Đã là lúc này rồi,
+
+17
+00:24:10,640 --> 00:24:11,680
+[dash_dialogue] 我就拿 走开
+- Tôi cứ lấy.
+- Tránh ra.
+
+18
+00:24:11,680 --> 00:24:12,680
+[dash_dialogue] 走开 别动
+- Tránh ra.
+- Đứng yên.
+
+19
+00:24:14,000 --> 00:24:14,960
+[dash_dialogue] 别动 你别动
+- Không được cử động.
+- Đừng cử động.
+
+20
+00:24:19,350 --> 00:24:19,960
+[dash_dialogue] 李哥 李哥
+- Anh Lý.
+- Anh Lý.
+
+21
+00:26:49,440 --> 00:26:50,830
+[dash_dialogue] 老高 回来了 老高
+- Lão Cao, về rồi à.
+- Lão Cao.
+
+22
+00:36:49,670 --> 00:36:51,670
+[dash_dialogue] 不 没事没事 就话多
+- Không, không có gì.
+- Nhiều chuyện.
+
+23
+00:37:14,000 --> 00:37:15,030
+[dash_dialogue] 老高 老马
+- Lão Cao.
+- Lão Mã.
+
+24
+00:37:35,150 --> 00:37:36,000
+[dash_dialogue] 我不要 不要 慢慢吃
+- Tôi không lấy, không lấy đâu.
+- Giữ lấy ăn dần.
+
+25
+00:42:51,110 --> 00:42:52,480
+[dash_dialogue] 替你做证 行
+- Làm chứng cho anh.
+- Được.
+
+26
+00:42:58,630 --> 00:42:59,840
+[dash_dialogue] 是不 老高 对对对
+- Đúng không, Lão Cao?
+- Đúng, đúng rồi.

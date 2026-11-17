@@ -1,0 +1,133 @@
+1
+00:06:53,390 --> 00:06:54,270
+[phone_speech] 收到 请讲
+Rõ, nói đi.
+
+2
+00:06:58,920 --> 00:07:00,270
+[phone_speech] 你有正经的没有
+Anh có nghiêm túc không đấy?
+
+3
+00:07:00,430 --> 00:07:01,360
+[phone_speech] 说正事
+Nói chuyện nghiêm chỉnh.
+
+4
+00:07:07,240 --> 00:07:07,720
+[phone_speech] 收到
+Đã biết.
+
+5
+00:12:10,790 --> 00:12:11,750
+[dash_dialogue] 哥 老大
+- Anh.
+- Đại ca.
+
+6
+00:17:08,400 --> 00:17:09,550
+[dash_dialogue] 叫洪哥 这是你弟弟
+- Chào anh Hồng đi.
+- Đây là em trai anh à?
+
+7
+00:17:13,720 --> 00:17:14,960
+[dash_dialogue] 你看 这事弄得 没什么
+- Anh xem, chuyện này đúng là...
+- Không sao.
+
+8
+00:17:16,349 --> 00:17:17,069
+[dash_dialogue] 你知道吗 以后
+- anh biết không?
+- Sau này,
+
+9
+00:17:21,829 --> 00:17:22,880
+[dash_dialogue] 别别别 赊账 记账
+- Đừng, đừng, đừng.
+- Cho nợ, ghi nợ.
+
+10
+00:18:47,160 --> 00:18:48,400
+[dash_dialogue] 来来来 干什么你
+- Lại đây, lại đây, lại đây.
+- Cô làm gì thế?
+
+11
+00:18:54,640 --> 00:18:56,110
+[dash_dialogue] 咱们走 算什么呀算
+- Chúng ta đi thôi.
+- Thôi gì mà thôi?
+
+12
+00:19:04,550 --> 00:19:05,510
+[dash_dialogue] 好 我调 小钰
+- Được, tôi đưa.
+- Tiểu Ngọc.
+
+13
+00:20:00,000 --> 00:20:01,310
+[dash_dialogue] 别动手啊 你拿过来
+- Đừng động tay động chân!
+- Cô đưa đây!
+
+14
+00:20:02,790 --> 00:20:03,590
+[dash_dialogue] 我让你别动手 放下
+- Tôi bảo anh đừng động vào!
+- Bỏ xuống!
+
+15
+00:29:20,510 --> 00:29:22,000
+[dash_dialogue] 打包带走 行 您先坐
+- đóng gói mang đi.
+- Được, cậu ngồi trước đi.
+
+16
+00:30:17,200 --> 00:30:19,310
+[dash_dialogue] 好 慢慢走 原本就是一个杀人案
+- Được, đi thong thả nhé.
+- Vốn dĩ chỉ là một vụ án giết người.
+
+17
+00:34:52,440 --> 00:34:53,280
+[dash_dialogue] 回去 我回学校
+- Về ngay.
+- Em về trường
+
+18
+00:34:54,400 --> 00:34:55,440
+[dash_dialogue] 你别动我行李 走
+- Anh đừng động vào vali của em.
+- Đi.
+
+19
+00:34:56,110 --> 00:34:57,480
+[dash_dialogue] 回学校 走 哥 哥
+- Về trường ngay.
+- Anh, anh ơi.
+
+20
+00:34:58,920 --> 00:35:00,190
+[dash_dialogue] 走 你别扽我
+- Đi.
+- Anh đừng kéo em.
+
+21
+00:35:09,070 --> 00:35:10,670
+[dash_partial] 你听我说一次好不好
+- Anh nghe em một lần đi được không?
+- Thế thì đã sao?
+
+22
+00:40:10,960 --> 00:40:12,000
+[dash_dialogue] 你玩你的吧 行
+- Anh cứ chơi đi.
+- Được.
+
+23
+00:41:19,320 --> 00:41:21,230
+[dash_dialogue] 干什么 一定要说话就行了
+- Làm gì vậy?
+- Nhất định phải nói chuyện là được rồi.

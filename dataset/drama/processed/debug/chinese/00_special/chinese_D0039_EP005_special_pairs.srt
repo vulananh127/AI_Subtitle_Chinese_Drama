@@ -1,0 +1,193 @@
+1
+00:12:20,480 --> 00:12:21,840
+[note] 可可
+Khả Khả.
+
+2
+00:17:04,240 --> 00:17:06,440
+[inner_monologue] 姐 我有你要的那款A货
+Chị, em có hàng loại A mẫu chị cần.
+
+3
+00:17:06,440 --> 00:17:08,599
+[inner_monologue] 一千五 正品价的十分之一
+Chỉ 1500 tệ, một phần mười giá hàng thật.
+
+4
+00:17:08,720 --> 00:17:10,240
+[inner_monologue] 绝对以假乱真
+Chắc chắn giả mà như thật.
+
+5
+00:17:10,359 --> 00:17:11,880
+[inner_monologue] 你婆婆肯定看不出来
+Mẹ chồng chị không nhìn ra được đâu.
+
+6
+00:25:27,039 --> 00:25:28,839
+[note] 我给你推的微商怎么样啊
+cửa hàng WeChat
+mình giới thiệu cho cậu thế nào?
+
+7
+00:07:02,160 --> 00:07:03,959
+[dash_dialogue] 你们早点休息啊
+不打扰了
+- Mọi người nghỉ ngơi sớm nhé.
+- Không quấy rầy nữa.
+
+8
+00:07:08,120 --> 00:07:10,920
+[dash_dialogue] 没事没事
+再见 再见
+走了嫂子
+再见
+- Không có gì, không có gì.
+- Tạm biệt, tạm biệt.
+- Đi đây, chị dâu.
+- Tạm biệt.
+
+9
+00:07:17,399 --> 00:07:19,279
+[dash_dialogue] 走 洗澡去
+爸爸
+- Đi, đi tắm.
+- Bố ơi.
+
+10
+00:10:40,279 --> 00:10:42,279
+[dash_dialogue] 劲草
+不能喝 你喝你的呢
+- Kình Thảo.
+- Không được, cháu uống của cháu đi.
+
+11
+00:12:16,600 --> 00:12:18,360
+[dash_dialogue] 怎么没有啊
+五十分钟吧
+- Sao lại không chứ?
+- Năm mươi phút thôi.
+
+12
+00:12:27,399 --> 00:12:28,600
+[dash_dialogue] 外公好
+好
+- Chào ông ngoại ạ.
+- Ừ.
+
+13
+00:12:29,080 --> 00:12:30,519
+[dash_dialogue] 亲亲外公
+亲一个 亲一个
+- Thơm ông ngoại nào.
+- Thơm một cái, thơm một cái.
+
+14
+00:12:59,960 --> 00:13:01,440
+[dash_dialogue] 请
+坐 坐
+- Mời.
+- Ngồi đi, ngồi đi.
+
+15
+00:13:02,480 --> 00:13:04,200
+[dash_dialogue] 好
+好 快坐了
+- Được.
+- Mau ngồi đi.
+
+16
+00:14:47,919 --> 00:14:49,279
+[dash_dialogue] 真好
+你喜欢就好
+- Tốt quá.
+- Mẹ thích là được.
+
+17
+00:21:09,079 --> 00:21:10,599
+[dash_partial] 玉兰
+妈
+怎么了
+- Ngọc Lan, sao thế?
+- Mẹ.
+
+18
+00:21:15,880 --> 00:21:18,359
+[dash_dialogue] 哪有你这样的
+玉兰 我们走我们走
+- Làm gì có ai như ông.
+- Ngọc Lan, chúng ta đi, chúng ta đi.
+
+19
+00:21:34,400 --> 00:21:37,599
+[dash_dialogue] 怎么样啊
+都流血了你看
+你看看
+都流血了
+- Sao rồi?
+- Ông xem, chảy máu cả rồi.
+- Bà nhìn đi.
+- Chảy máu hết rồi.
+
+20
+00:23:03,000 --> 00:23:04,960
+[dash_dialogue] 你看见没有
+玉兰 玉兰
+- Giờ con thấy chưa?
+- Ngọc Lan, Ngọc Lan.
+
+21
+00:29:47,240 --> 00:29:48,599
+[dash_dialogue] 好了
+好 谢谢
+- Xong rồi.
+- Được, cảm ơn cô.
+
+22
+00:31:20,319 --> 00:31:22,039
+[dash_dialogue] 你好
+你好 顾女士
+- Xin chào.
+- Xin chào, cô Cố.
+
+23
+00:35:36,360 --> 00:35:38,079
+[dash_dialogue] 你们好
+你好你好
+- Chào hai cô.
+- Chào cậu, chào cậu.
+
+24
+00:36:03,719 --> 00:36:05,440
+[dash_dialogue] 朱经理 给
+你去忙吧
+- Giám đốc Chu, đây ạ.
+- Cô đi làm việc đi.
+
+25
+00:40:31,920 --> 00:40:33,239
+[dash_dialogue] 小姨再见
+小姨再见
+- Tạm biệt dì út.
+- Tạm biệt dì út.
+
+26
+00:41:05,079 --> 00:41:06,079
+[dash_dialogue] 妈 别说了
+不是
+- Mẹ, đừng nói nữa.
+- Không phải.
+
+27
+00:41:09,280 --> 00:41:10,480
+[dash_dialogue] 茉莉
+妈 别说了
+- Mạt Lị.
+- Mẹ, đừng nói nữa.
+
+28
+00:41:23,480 --> 00:41:24,559
+[dash_dialogue] 妈 别说了
+你们抢钱
+- Mẹ, đừng nói nữa.
+- Các cô muốn cướp tiền…

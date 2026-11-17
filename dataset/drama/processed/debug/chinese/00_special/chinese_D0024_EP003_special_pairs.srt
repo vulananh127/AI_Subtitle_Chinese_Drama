@@ -1,0 +1,102 @@
+1
+00:02:16,880 --> 00:02:18,720
+[inner_monologue] 舅舅偷偷想教我武功
+Cữu cữu muốn âm thầm dạy ta võ công,
+
+2
+00:02:19,520 --> 00:02:20,600
+[inner_monologue] 但我那个时候
+nhưng hồi đó,
+
+3
+00:02:20,840 --> 00:02:22,600
+[inner_monologue] 身子骨实在太弱了
+cơ thể ta quả thật quá yếu,
+
+4
+00:02:22,880 --> 00:02:24,070
+[inner_monologue] 舅舅总骂我没用
+cữu cữu toàn mắng ta vô dụng.
+
+5
+00:04:16,120 --> 00:04:17,160
+[inner_monologue] 原来是你
+Hóa ra là ngươi.
+
+6
+00:04:19,160 --> 00:04:21,160
+[inner_monologue] 没想到这臭小子长这么大了
+Không ngờ tiểu tử thối này đã lớn như vậy rồi.
+
+7
+00:06:07,800 --> 00:06:10,240
+[inner_monologue] 我师兄单孤刀的尸体到底在哪儿
+Thi thể của Thiện Cô Đao sư huynh ta rốt cuộc ở đâu?
+
+8
+00:06:11,360 --> 00:06:13,040
+[inner_monologue] 你这个人最大的弱点
+Điểm yếu lớn nhất của ngươi
+
+9
+00:06:13,240 --> 00:06:14,840
+[inner_monologue] 就是喜欢当英雄
+chính là thích làm anh hùng.
+
+10
+00:06:14,840 --> 00:06:15,800
+[inner_monologue] 一个剑客
+Một kiếm khách
+
+11
+00:06:16,120 --> 00:06:17,240
+[inner_monologue] 不该有弱点
+không nên có điểm yếu.
+
+12
+00:13:28,080 --> 00:13:29,640
+[inner_monologue] 一念心清净
+Thoáng nghĩ tâm thanh tịnh,
+
+13
+00:13:30,600 --> 00:13:32,520
+[inner_monologue] 莲花处处开
+sen nở rộ khắp nơi.
+
+14
+00:25:26,000 --> 00:25:27,880
+[inner_monologue] 路过前面不远处的林子时
+lúc đi qua cánh rừng không xa phía trước
+
+15
+00:25:28,240 --> 00:25:29,400
+[inner_monologue] 看到两个商贩
+đã nhìn thấy hai thương nhân
+
+16
+00:25:30,040 --> 00:25:31,800
+[inner_monologue] 竟然被不知哪儿来的骷髅
+không biết bị bộ xương khô từ đâu chui ra
+
+17
+00:25:31,800 --> 00:25:33,200
+[inner_monologue] 给活活掐死了
+bóp cổ chết tươi.
+
+18
+00:06:37,360 --> 00:06:38,560
+[dash_dialogue] 你给我 我来处理
+- Đưa cho ta.
+- Để ta xử lý.
+
+19
+00:09:00,720 --> 00:09:02,240
+[dash_dialogue] 来 来了 轻点轻点啊
+- Nào, đến đây.
+- Nhẹ thôi, nhẹ thôi.
+
+20
+00:35:04,560 --> 00:35:05,360
+[dash_dialogue] 是 是
+- Rõ.
+- Rõ.

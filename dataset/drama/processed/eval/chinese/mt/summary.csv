@@ -1,0 +1,5 @@
+stage,model,n,n_empty_hyp,bleu,chrf,chrfpp,comet_wmt22-comet-da,rtf,sent_per_sec,fingerprint
+pretrained,hy-mt2-7b,14879,0,23.8659,45.6492,45.8007,0.8675,,3.04,fa6cf76915b4
+pretrained,qwen3.5-9b,14879,0,24.0105,43.8644,44.0521,0.85203,,3.66,fa6cf76915b4
+pretrained,hy-mt1.5-7b,14879,0,18.2941,42.607,42.5208,0.85155,,5.33,fa6cf76915b4
+pretrained,nllb-200-distilled-600m,14879,6,9.8991,28.312,28.0964,0.73177,,10.93,fa6cf76915b4

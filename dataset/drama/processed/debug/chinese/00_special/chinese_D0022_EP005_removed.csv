@@ -1,0 +1,88 @@
+side,cue_id,reason,text
+origin,zh_000183,in_special_pair,从来没有人说要保护我
+origin,zh_000191,in_special_pair,我来做第一个
+origin,zh_000400,in_special_pair,本座这些日子以来
+origin,zh_000189,in_special_pair,不能把弱点示于人前
+origin,zh_000181,in_special_pair,以前都是我保护别人
+origin,zh_000410,in_special_pair,怎么越养越糟了
+origin,zh_000404,in_special_pair,带她晒晨曦
+origin,zh_000463,in_special_pair,本座就得一直跟她同喜同悲
+origin,zh_000406,in_special_pair,还是没有明显好转
+origin,zh_000182,in_special_pair,从来没有
+origin,zh_000030,in_special_pair,本座岂会在意
+origin,zh_000462,in_special_pair,咒术不解
+origin,zh_000031,in_special_pair,区区一棵小草的好恶
+origin,zh_000188,in_special_pair,兄长自幼教导我
+origin,zh_000246,in_special_pair,他对我竟然情深至此
+origin,zh_000014,in_special_pair,终于走了
+origin,zh_000254,in_special_pair,不行 不行
+origin,zh_000255,in_special_pair,小兰花
+origin,zh_000256,in_special_pair,你不能被甜言蜜语蛊惑
+origin,zh_000401,in_special_pair,一直照此书所写的那样养护她
+origin,zh_000409,in_special_pair,本座分明是照书养的
+origin,zh_000403,in_special_pair,每日不辞辛苦为她接朝露水
+origin,zh_000190,in_special_pair,以前没人保护过你没关系
+origin,zh_000405,in_special_pair,可为何她的法力
+origin,zh_000402,in_special_pair,从不让她劳累
+vi,vi_000374,music_auto,♫Đắm chìm nơi đôi mắt trong veo của nàng♫
+vi,vi_000377,music_auto,♫Là quang cảnh khó quên nhất suốt chặng đường♫
+vi,vi_000378,music_auto,"♫Nào ai sánh được, năm tháng xưa ấy♫"
+vi,vi_000381,music_auto,♫Lấp lánh như những vì sao kia♫
+vi,vi_000384,music_auto,♫Mỗi quyết định vì nàng♫
+vi,vi_000387,music_auto,"♫Câu chuyện xoay chuyển mấy hồi,
+chẳng thể nào hạ bút♫"
+vi,vi_000390,music_auto,"♫Những khung cảnh ấy
+không ngừng hiện hữu trong tâm trí♫"
+vi,vi_000394,music_auto,♫Khắc cốt ghi tâm♫
+vi,vi_000395,music_auto,"♫Chẳng nhớ nhung, chẳng tiếc nuối, chẳng muốn nghe♫"
+vi,vi_000396,music_auto,♫Con tim sẽ không còn bồi hồi rung động♫
+vi,vi_000397,music_auto,"♫Thiên đăng sáng dậy, tụ họp phân ly♫"
+vi,vi_000398,music_auto,"♫Người qua kẻ lại, vật đổi sao dời♫"
+vi,vi_000400,music_auto,"♫Trèo đèo lội suối, mong được thấy nàng♫"
+vi,vi_000402,music_auto,"♫Không phụ kiếp này, đôi ta gặp gỡ♫"
+vi,vi_000406,music_auto,"♫Không phụ ta, hướng về bể khổ♫"
+vi,vi_000408,music_auto,♫Chỉ mong độ nàng♫
+vi,vi_000412,music_auto,"♫Đạp bằng chông gai, để tìm được nàng♫"
+vi,vi_000415,music_auto,"♫Vạn dặm xa xôi, chỉ vì chốc lát bên nhau♫"
+vi,vi_000419,music_auto,"♫Dù rằng phụ cả thiên hạ, quyết không phụ nàng♫"
+vi,vi_000423,music_auto,"♫Không phụ ta, hướng về bể khổ♫"
+vi,vi_000424,music_auto,♫Chỉ mong độ nàng♫
+vi,vi_000425,music_auto,"♫Đạp bằng chông gai, để tìm được nàng♫"
+vi,vi_000426,music_auto,"♫Vạn dặm xa xôi, chỉ vì chốc lát bên nhau♫"
+vi,vi_000427,music_auto,"♫Dù rằng phụ cả thiên hạ,
+quyết không phụ nàng♫"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thương Lan Quyết]
+vi,vi_000003,scene_text,[Tập 5]
+vi,vi_000177,scene_text,[500 năm trước]
+vi,vi_000541,scene_text,[Thương Lan Quyết]
+vi,vi_000258,in_special_pair,"[Không được, không được,]"
+vi,vi_000259,in_special_pair,[Hoa Lan Nhỏ]
+vi,vi_000033,in_special_pair,[Sao bổn tọa có thể để ý]
+vi,vi_000250,in_special_pair,[Huynh ấy lại có tình cảm sâu đậm với mình đến thế.]
+vi,vi_000491,in_special_pair,[bổn tọa vẫn phải cùng vui cùng buồn theo cô ta.]
+vi,vi_000437,in_special_pair,"[Rõ ràng bổn tọa đã nuôi dưỡng theo sách,]"
+vi,vi_000434,in_special_pair,[vẫn không có chuyển biến tốt rõ ràng?]
+vi,vi_000192,in_special_pair,"[Từ nhỏ ca ca đã dạy ta,]"
+vi,vi_000429,in_special_pair,[luôn chăm sóc cô ta theo những gì trong sách viết.]
+vi,vi_000185,in_special_pair,"[Trước đây đều là ta bảo vệ người khác,]"
+vi,vi_000195,in_special_pair,[ta sẽ làm người đầu tiên.]
+vi,vi_000186,in_special_pair,"[chưa bao giờ,]"
+vi,vi_000433,in_special_pair,[Nhưng vì sao pháp lực của cô ta]
+vi,vi_000034,in_special_pair,[đến tình cảm yêu ghét của một cây cỏ nhỏ bé chứ.]
+vi,vi_000187,in_special_pair,[chưa bao giờ có người nói sẽ bảo vệ ta.]
+vi,vi_000260,in_special_pair,"[ngươi không thể bị mê hoặc
+bởi lời ngon tiếng ngọt được.]"
+vi,vi_000431,in_special_pair,"[Mỗi ngày không ngại vất vả
+hứng sương sớm cho cô ta,]"
+vi,vi_000428,in_special_pair,[Mấy hôm nay bổn tọa]
+vi,vi_000430,in_special_pair,[Không hề để cô ta mệt nhọc.]
+vi,vi_000017,in_special_pair,"- Cuối cùng cũng đi rồi.
+- Tốt quá!"
+vi,vi_000193,in_special_pair,"[không được để lộ
+nhược điểm trước mặt người khác.]"
+vi,vi_000432,in_special_pair,[đưa cô ta phơi nắng ban mai.]
+vi,vi_000438,in_special_pair,[sao càng nuôi càng hỏng thế này?]
+vi,vi_000194,in_special_pair,"[Trước đây không có ai
+bảo vệ huynh cũng không sao,]"
+vi,vi_000490,in_special_pair,[Chưa giải được thuật nguyền rủa]

@@ -1,0 +1,91 @@
+side,cue_id,reason,text
+origin,zh_000607,in_special_pair,我就拿 走开
+origin,zh_000170,in_special_pair,孟局 安欣
+origin,zh_000030,in_special_pair,越来越大怎么办
+origin,zh_000023,in_special_pair,今天都被扫了
+origin,zh_000610,in_special_pair,别动 你别动
+origin,zh_000029,in_special_pair,要是他们的胃口
+origin,zh_000024,in_special_pair,抱歉
+origin,zh_000608,in_special_pair,走开 别动
+origin,zh_000688,in_special_pair,老高 回来了 老高
+origin,zh_001076,in_special_pair,替你做证 行
+origin,zh_000022,in_special_pair,下坡的场子
+origin,zh_000614,in_special_pair,李哥 李哥
+origin,zh_000597,in_special_pair,好吧 已经这个时间了
+origin,zh_000561,in_special_pair,为什么 别收拾了
+origin,zh_000021,in_special_pair,东山 北岸
+origin,zh_000020,in_special_pair,还有 不光是下湾
+origin,zh_000999,in_special_pair,老高 老马
+origin,zh_000017,in_special_pair,下湾的场子
+origin,zh_000056,in_special_pair,肠粉 您再加两份
+origin,zh_001081,in_special_pair,是不 老高 对对对
+origin,zh_000983,in_special_pair,不 没事没事 就话多
+origin,zh_000521,in_special_pair,放下 我拿自己的
+origin,zh_000016,in_special_pair,强哥
+origin,zh_001012,in_special_pair,我不要 不要 慢慢吃
+origin,zh_000018,in_special_pair,刚刚被警察给扫了
+origin,zh_000031,in_special_pair,就接着挖呢
+vi,vi_000015,scene_text,[Quán trà Phúc Lộc]
+vi,vi_000038,scene_text,[Khiêm Hòa Đường]
+vi,vi_000164,scene_text,"[Mạnh Đức Hải, phó cục trưởng thành phố Kinh Hải,
+cục trưởng Cục Công an thành phố Kinh Hải]"
+vi,vi_000232,scene_text,[Cục Công an thành phố Kinh Hải]
+vi,vi_000287,scene_text,[Văn phòng cục trưởng]
+vi,vi_000309,scene_text,[Văn phòng Đội cảnh sát hình sự]
+vi,vi_000314,scene_text,"[Tào Sấm, đội trưởng Đội cảnh sát hình sự
+Cục Công an thành phố Kinh Hải]"
+vi,vi_000323,scene_text,[Bảng theo dõi vụ án hình sự]
+vi,vi_000411,scene_text,"[Nghiêm túc chấp hành pháp luật, quay đầu là bờ]"
+vi,vi_000875,scene_text,[Phiếu thông tin phạm nhân]
+vi,vi_000903,scene_text,[Phiếu thông tin phạm nhân]
+vi,vi_001043,scene_text,[Văn phòng cục phó]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Cuồng Phong]
+vi,vi_000003,scene_text,[Tập 2]
+vi,vi_000155,scene_text,[Năm 2000]
+vi,vi_000237,scene_text,"[An Trường Lâm, phó cục trưởng thường vụ
+Cục Công an thành phố Kinh Hải]"
+vi,vi_000441,scene_text,[Trại tạm giam thành phố Kinh Hải]
+vi,vi_001035,scene_text,[Trại tạm giam thành phố Kinh Hải]
+vi,vi_001052,scene_text,[Phòng giam]
+vi,vi_000022,in_special_pair,[vừa mới bị cảnh sát lục soát.]
+vi,vi_000536,in_special_pair,"- Bỏ xuống.
+- Tôi lấy đồ cá nhân"
+vi,vi_000177,in_special_pair,"- Cục trưởng Mạnh.
+- An Hân!"
+vi,vi_000034,in_special_pair,[càng ngày càng quá đáng thì sao?]
+vi,vi_000028,in_special_pair,[Xin lỗi.]
+vi,vi_000576,in_special_pair,"- Tại sao?
+- Đừng thu dọn nữa."
+vi,vi_001016,in_special_pair,"- Lão Cao.
+- Lão Mã."
+vi,vi_000035,in_special_pair,[Vẫn tiếp tục bới móc thì làm thế nào?]
+vi,vi_000703,in_special_pair,"- Lão Cao, về rồi à.
+- Lão Cao."
+vi,vi_000625,in_special_pair,"- Không được cử động.
+- Đừng cử động."
+vi,vi_000033,in_special_pair,[Nếu bọn họ]
+vi,vi_000612,in_special_pair,"- Được không?
+- Đã là lúc này rồi,"
+vi,vi_000024,in_special_pair,"[Còn nữa, không chỉ Hạ Loan]"
+vi,vi_000025,in_special_pair,"[mà địa bàn ở cả Đông Sơn,]"
+vi,vi_001101,in_special_pair,"- Đúng không, Lão Cao?
+- Đúng, đúng rồi."
+vi,vi_001029,in_special_pair,"- Tôi không lấy, không lấy đâu.
+- Giữ lấy ăn dần."
+vi,vi_000026,in_special_pair,"[Bắc Ngạn, Hạ Pha]"
+vi,vi_001096,in_special_pair,"- Làm chứng cho anh.
+- Được."
+vi,vi_000629,in_special_pair,"- Anh Lý.
+- Anh Lý."
+vi,vi_001000,in_special_pair,"- Không, không có gì.
+- Nhiều chuyện."
+vi,vi_000021,in_special_pair,[địa bàn ở Hạ Loan]
+vi,vi_000623,in_special_pair,"- Tránh ra.
+- Đứng yên."
+vi,vi_000020,in_special_pair,"[Anh Cường,]"
+vi,vi_000027,in_special_pair,[hôm nay đều bị lục soát.]
+vi,vi_000622,in_special_pair,"- Tôi cứ lấy.
+- Tránh ra."
+vi,vi_000061,in_special_pair,"- Bánh cuốn.
+- Anh cho chúng tôi thêm hai suất nữa,"

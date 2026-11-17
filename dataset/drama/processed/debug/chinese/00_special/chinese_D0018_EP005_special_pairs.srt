@@ -1,0 +1,120 @@
+1
+00:10:52,000 --> 00:10:52,640
+[phone_speech] 喂 您好
+A lô, xin chào.
+
+2
+00:10:59,680 --> 00:11:01,200
+[phone_speech] 我得带业主去趟泰国
+Tôi phải đưa chủ đầu tư qua Thái một chuyến,
+
+3
+00:11:01,760 --> 00:11:02,920
+[phone_speech] 好不容易定下的时间
+khó lắm mới hẹn được thời gian.
+
+4
+00:11:03,520 --> 00:11:04,280
+[phone_speech] 那个
+À...
+
+5
+00:11:04,840 --> 00:11:05,680
+[phone_speech] 后天的内审大会
+cuộc họp kiểm toán nội bộ vào ngày kia
+
+6
+00:11:05,680 --> 00:11:06,320
+[phone_speech] 我去不了了
+tôi không tham gia được,
+
+7
+00:11:06,480 --> 00:11:07,480
+[phone_speech] 跟董事长请个假啊
+muốn xin Chủ tịch cho phép vắng mặt.
+
+8
+00:11:53,320 --> 00:11:55,160
+[phone_speech] 汪总 董事长说了
+Sếp Uông, Chủ tịch nói
+
+9
+00:11:55,520 --> 00:11:56,320
+[phone_speech] 不能请假
+không được xin nghỉ.
+
+10
+00:15:02,800 --> 00:15:03,720
+[inner_monologue] 施工质量
+Chất lượng thi công
+
+11
+00:15:04,280 --> 00:15:05,920
+[inner_monologue] 是建筑企业的生命线
+là đường sinh mạng của doanh nghiệp xây dựng.
+
+12
+00:23:08,400 --> 00:23:09,600
+[inner_monologue] 现在我们请徐总
+Bây giờ chúng ta mời sếp Từ
+
+13
+00:23:10,280 --> 00:23:11,880
+[inner_monologue] 宣布竞标结果
+tuyên bố kết quả đấu thầu.
+
+14
+00:23:13,920 --> 00:23:15,040
+[inner_monologue] 经过这个
+Qua sự bàn bạc
+
+15
+00:23:15,040 --> 00:23:16,600
+[inner_monologue] 评标小组的商量
+của nhóm đánh giá thầu,
+
+16
+00:23:17,560 --> 00:23:19,160
+[inner_monologue] 本次竞标已经出来了
+đã có kết quả đấu thầu lần này.
+
+17
+00:23:20,400 --> 00:23:22,440
+[inner_monologue] 天同八十八分
+Thiên Đồng 88 điểm.
+
+18
+00:23:23,640 --> 00:23:25,840
+[inner_monologue] 天正八十七分
+Thiên Chính 87 điểm.
+
+19
+00:23:50,520 --> 00:23:52,080
+[inner_monologue] 行 散会吧
+Được rồi, tan họp đi.
+
+20
+00:24:56,720 --> 00:24:57,720
+[phone_speech] 五千两百万
+Năm mươi hai triệu.
+
+21
+00:25:39,400 --> 00:25:39,920
+[inner_monologue] 好帅
+Đẹp trai quá!
+
+22
+00:38:38,640 --> 00:38:39,800
+[phone_speech] 二十三号黄礼林
+Bệnh nhân số 23, Hoàng Lễ Lâm.
+
+23
+00:38:39,800 --> 00:38:41,120
+[phone_speech] 请到二诊室就诊
+Xin mời tới phòng khám số 2.
+
+24
+00:42:05,120 --> 00:42:05,880
+[dash_dialogue] 谢谢 你等我
+- Cảm ơn cậu!
+- Đợi mình đi.

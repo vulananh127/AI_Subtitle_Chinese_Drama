@@ -1,0 +1,117 @@
+side,cue_id,reason,text
+origin,zh_000060,in_special_pair,这周午饭我包了
+origin,zh_000057,in_special_pair,你好好把握吧
+origin,zh_000059,in_special_pair,又帮我出谋划策
+origin,zh_000055,in_special_pair,一起参加比赛
+origin,zh_000053,in_special_pair,还是我的办法好吧
+origin,zh_000168,in_special_pair,物理隔断
+origin,zh_000481,in_special_pair,怎么解决
+origin,zh_000349,in_special_pair,味道太好了 醇香浓郁
+origin,zh_000169,in_special_pair,我看不见卢晚晚
+origin,zh_000333,in_special_pair,搞定了
+origin,zh_000407,in_special_pair,被我的新色号唇彩迷住了
+origin,zh_000406,in_special_pair,他是不是
+origin,zh_000513,in_special_pair,大家快来帮帮我
+origin,zh_000054,in_special_pair,男生都是要用激将法的
+origin,zh_000350,in_special_pair,我的菜
+origin,zh_000056,in_special_pair,可是你俩建立感情的大好时机
+origin,zh_000348,in_special_pair,这次的豆浆哪里买的
+origin,zh_000437,in_special_pair,心动
+origin,zh_000484,in_special_pair,收到
+origin,zh_000170,in_special_pair,我不会对她产生多巴胺
+origin,zh_000457,in_special_pair,这岂不是 间接接吻了
+origin,zh_000058,in_special_pair,好桥桥 又陪我参赛
+origin,zh_000479,in_special_pair,会长 我们排查了一下
+origin,zh_000480,in_special_pair,木栈道断裂 容易受伤
+origin,zh_000512,in_special_pair,我晚哥也在这里受伤了
+origin,zh_000569,in_special_pair,这肯定是做梦 我不能醒过来
+origin,zh_000475,in_special_pair,会长 有个拉拉队员受伤了
+origin,zh_000334,in_special_pair,你的搭档是汪彧扬了
+origin,zh_000510,in_special_pair,小山坡上的木栈道木板断裂
+origin,zh_000052,in_special_pair,搞定
+origin,zh_000511,in_special_pair,工作人员请尽快赶到
+vi,vi_000564,music_auto,♫Em bước đến mang theo ánh sáng♫
+vi,vi_000565,music_auto,♫Lần đầu hai trái tim gặp nhau♫
+vi,vi_000566,music_auto,"♫Em bước đến mang theo ánh sáng,
+xua tan u buồn và mưa rơi♫"
+vi,vi_000568,music_auto,"♫Dường như nhìn thấy trời trong xanh,
+tiếp tục mong chờ♫"
+vi,vi_000569,music_auto,"♫Khoảng cách thật gần,
+chiếu sáng trong phút chốc♫"
+vi,vi_000570,music_auto,"♫Không thể ngăn suy nghĩ muốn khám phá
+câu chuyện cảm động đến mức nào♫"
+vi,vi_000571,music_auto,♫Nếu như nhấn nút tạm dừng lần gặp gỡ đó♫
+vi,vi_000573,music_auto,♫Có lẽ sẽ bỏ lỡ mùa hoa♫
+vi,vi_000575,music_auto,"♫Ánh sáng chợt thấy của tuổi trẻ,
+có phải là duyên phận trời định không?♫"
+vi,vi_000577,music_auto,♫Không còn ai có thể sánh bằng♫
+vi,vi_000578,music_auto,"♫Sao băng tỏa sáng
+lần đầu tiên dừng lại trong mắt em♫"
+vi,vi_000579,music_auto,♫Anh bỗng dưng tìm thấy chỉ dẫn của con tim♫
+vi,vi_000580,music_auto,♫Cuộc sống bỗng khắc đầy những dấu tích của em♫
+vi,vi_000583,music_auto,♫Cuối cùng cũng có ánh sáng chiếu qua khe hở♫
+vi,vi_000717,music_auto,♫Rõ ràng là ghét anh nhưng sao lại rung động?♫
+vi,vi_000718,music_auto,♫Em bất giác từ từ tiến lại gần anh♫
+vi,vi_000719,music_auto,♫Bầu không khí và hơi thở kỳ lạ này♫
+vi,vi_000720,music_auto,♫Tình ý khiến người ta như ngưng thở♫
+vi,vi_000721,music_auto,♫Sao lại để anh đánh cắp mất trái tim?♫
+vi,vi_000722,music_auto,♫Cứ thế vô tình phải lòng anh mà chẳng có lý do♫
+vi,vi_000725,music_auto,♫Cuộc sống này như một vở hài kịch♫
+vi,vi_000726,music_auto,♫Trời đang đẹp bỗng lại đổ cơn giông bão♫
+vi,vi_000729,music_auto,"♫Luôn có quá nhiều, quá nhiều điều khó tin♫"
+vi,vi_000730,music_auto,"♫Ví dụ như phải lòng anh, yêu anh♫"
+vi,vi_000732,music_auto,♫Rõ ràng là ghét anh nhưng sao lại rung động?♫
+vi,vi_000734,music_auto,♫Em bất giác từ từ tiến lại gần anh♫
+vi,vi_000736,music_auto,♫Bầu không khí và hơi thở kỳ lạ này♫
+vi,vi_000741,music_auto,♫Tình ý khiến người ta như ngưng thở♫
+vi,vi_000742,music_auto,♫Sao lại để anh đánh cắp mất trái tim?♫
+vi,vi_000743,music_auto,♫Cứ thế vô tình phải lòng anh mà chẳng có lý do♫
+vi,vi_000015,scene_text,"[Tổ đội tiến vào chiến trường thực,
+biến trò chơi ảo thành hiện thực]"
+vi,vi_000067,scene_text,[Làm cách nào để ngăn chặn Dopamine hình thành]
+vi,vi_000179,scene_text,[PUBG hôm nay - Cuộc thi PUBG người thật]
+vi,vi_000202,scene_text,[PUBG hôm nay - Cuộc thi PUBG người thật]
+vi,vi_000212,scene_text,"[Quan Ái, Phạm Nghị, Lư Vãn Vãn, Nhậm Sơ]"
+vi,vi_000214,scene_text,"[Lư Vãn Vãn, Nhậm Sơ]"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Lần Đầu Yêu Anh]
+vi,vi_000003,scene_text,[Tập 5]
+vi,vi_000124,scene_text,[PUBG hôm nay - Cuộc thi PUBG người thật]
+vi,vi_000203,scene_text,[Phân nhóm thi đấu]
+vi,vi_000307,scene_text,[Nhậm Sơ]
+vi,vi_000369,scene_text,[Điểm xuất phát]
+vi,vi_000597,scene_text,[Trạm y tế]
+vi,vi_000059,in_special_pair,[Cùng tham gia thi đấu]
+vi,vi_000056,in_special_pair,[Đã xong.]
+vi,vi_000058,in_special_pair,[Con trai là cứ phải dùng chiêu khích tướng.]
+vi,vi_000345,in_special_pair,[Được rồi.]
+vi,vi_000421,in_special_pair,[bị hớp hồn bởi màu son mới của mình không?]
+vi,vi_000063,in_special_pair,[lại còn bày mưu giúp tớ nữa.]
+vi,vi_000062,in_special_pair,"[Kiều Kiều yêu dấu, vừa tham gia cùng tớ]"
+vi,vi_000346,in_special_pair,[Cộng sự của cậu là Uông Úc Dương rồi.]
+vi,vi_000527,in_special_pair,[Mọi người mau tới giúp tôi.]
+vi,vi_000471,in_special_pair,[Đây chẳng phải là hôn gián tiếp sao?]
+vi,vi_000060,in_special_pair,[là cơ hội tuyệt vời để xây dựng tình cảm.]
+vi,vi_000524,in_special_pair,"[Thanh gỗ của đường cầu gỗ trên sườn núi bị gãy,]"
+vi,vi_000525,in_special_pair,[các nhân viên mau tới.]
+vi,vi_000361,in_special_pair,"[Vị ngon quá, mùi cực thơm,]"
+vi,vi_000598,in_special_pair,"[Chắc chắn đây là giấc mơ,
+mình không thể tỉnh lại được.]"
+vi,vi_000495,in_special_pair,[phải làm sao đây?]
+vi,vi_000494,in_special_pair,"[đường cầu gỗ trong rừng bị đứt gãy,
+dễ gây thương tích,]"
+vi,vi_000362,in_special_pair,[đúng gu của tôi.]
+vi,vi_000451,in_special_pair,[Rung động?]
+vi,vi_000176,in_special_pair,[Mình không sản sinh Dopamine vì cô ấy.]
+vi,vi_000498,in_special_pair,[Đã rõ.]
+vi,vi_000526,in_special_pair,[Anh Vãn của tôi cũng bị thương ở đây.]
+vi,vi_000360,in_special_pair,[Sữa đậu nành lần này mua ở quán nào thế?]
+vi,vi_000175,in_special_pair,[Mình không nhìn thấy Lư Vãn Vãn.]
+vi,vi_000489,in_special_pair,"[Chủ tịch,
+có thành viên của đội cổ vũ bị thương.]"
+vi,vi_000493,in_special_pair,"[Chủ tịch, chúng tôi đã kiểm tra,]"
+vi,vi_000057,in_special_pair,[Thấy cách của tớ tốt chưa?]
+vi,vi_000174,in_special_pair,[Khoảnh cách vật lý.]
+vi,vi_000420,in_special_pair,[Có phải cậu ấy]
+vi,vi_000061,in_special_pair,[Cậu phải nắm bắt cơ hội đó.]
+vi,vi_000064,in_special_pair,[Tớ sẽ bao trọn cơm trưa tuần này của cậu.]

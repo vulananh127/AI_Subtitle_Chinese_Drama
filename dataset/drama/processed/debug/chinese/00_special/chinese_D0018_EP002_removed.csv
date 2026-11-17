@@ -1,0 +1,162 @@
+side,cue_id,reason,text
+origin,zh_000304,in_special_pair,筱筱
+origin,zh_000552,in_special_pair,倒霉的
+origin,zh_000302,in_special_pair,好不好
+origin,zh_000276,in_special_pair,赢海严把施工质量关
+origin,zh_000277,in_special_pair,精益求精保一方平安
+origin,zh_000286,in_special_pair,已经成立了应急小组
+origin,zh_000322,in_special_pair,可能一周我都回不去了
+origin,zh_000558,in_special_pair,你不想混 又爱较真
+origin,zh_000319,in_special_pair,不能陪你了
+origin,zh_000321,in_special_pair,最近连轴转呢
+origin,zh_000547,in_special_pair,你就是当了背锅侠
+origin,zh_000600,in_special_pair,董事长 董事长
+origin,zh_000301,in_special_pair,一下班我就去找你
+origin,zh_000270,in_special_pair,而且我也不瞒你
+origin,zh_000271,in_special_pair,我也受到处分了
+origin,zh_000560,in_special_pair,就容易砸在你头顶上
+origin,zh_000318,in_special_pair,晚上要加班
+origin,zh_000551,in_special_pair,就开始推卸责任
+origin,zh_000269,in_special_pair,我觉着我比你还痛心
+origin,zh_000295,in_special_pair,我有点事
+origin,zh_000285,in_special_pair,目前天科建筑
+origin,zh_000517,in_special_pair,您拨打的用户
+origin,zh_000553,in_special_pair,就是像你这种
+origin,zh_000266,in_special_pair,我真的是没能力保你
+origin,zh_000305,in_special_pair,我现在真的不方便
+origin,zh_000320,in_special_pair,你和红玫去庆祝吧
+origin,zh_000324,in_special_pair,实在不方便
+origin,zh_000267,in_special_pair,你知道我有多器重你
+origin,zh_000283,in_special_pair,坍塌原因是由作业人员
+origin,zh_000288,in_special_pair,停工整改
+origin,zh_000268,in_special_pair,对于这个结果
+origin,zh_000555,in_special_pair,我就跟你说
+origin,zh_000571,in_special_pair,我挂了
+origin,zh_000282,in_special_pair,经初查
+origin,zh_000570,in_special_pair,我改天过来看你
+origin,zh_000291,in_special_pair,你把医院地址发给我
+origin,zh_000557,in_special_pair,大家都混
+origin,zh_000569,in_special_pair,你一个人好好的啊
+origin,zh_000561,in_special_pair,以后你也学着点
+origin,zh_000516,in_special_pair,对不起
+origin,zh_000292,in_special_pair,我去找你
+origin,zh_000284,in_special_pair,操作不当引起
+origin,zh_000323,in_special_pair,我现在在医院陪领导
+origin,zh_000306,in_special_pair,好不好 你听话
+origin,zh_000565,in_special_pair,我给你送过来吧
+origin,zh_000549,in_special_pair,指手画脚的人
+origin,zh_000548,in_special_pair,那些坐在我们头顶上
+origin,zh_000518,in_special_pair,暂时无法接通
+origin,zh_000265,in_special_pair,小苏 对不起
+origin,zh_000300,in_special_pair,有什么事
+origin,zh_000559,in_special_pair,这口锅
+origin,zh_000287,in_special_pair,在相关部门的指导下
+origin,zh_000527,in_special_pair,老苏 来来来 拿车
+origin,zh_000568,in_special_pair,那行吧
+origin,zh_000550,in_special_pair,一出事 收不了场了
+origin,zh_000556,in_special_pair,别这么认真
+origin,zh_000564,in_special_pair,筱筱 我包了饺子
+origin,zh_000554,in_special_pair,没有根基的人
+origin,zh_000296,in_special_pair,我想当面和你说
+vi,vi_000190,music_auto,♫Một bước hai chiêu rút kiếm ra khỏi vỏ♫
+vi,vi_000191,music_auto,♫Mái hiên nhỏ và chân trời góc bể♫
+vi,vi_000192,music_auto,♫Chính nghĩa hào hùng sẽ bùng cháy♫
+vi,vi_000193,music_auto,"♫Làm mãi không biết mệt,
+tại sao phải phiền muộn♫"
+vi,vi_000194,music_auto,"♫Phiêu bạt giang hồ, giấu vài nhát đao♫"
+vi,vi_000195,music_auto,"♫Đời người hân hoan
+mặc sức cho bạn mở mang đầu óc♫"
+vi,vi_000196,music_auto,♫Điềm nhiên vô tư thật kỳ diệu biết bao♫
+vi,vi_000197,music_auto,♫Oanh liệt không buông tha♫
+vi,vi_000199,music_auto,♫Nắm tay anh chạy mấy lượt♫
+vi,vi_000201,music_auto,♫Khuôn mặt hồng hào thuận theo mưa gió♫
+vi,vi_000204,music_auto,♫Coi rượu như bài hát và nhân ngày hôm nay♫
+vi,vi_000208,music_auto,♫Ngày xuân về hoa nở sắp tới rồi♫
+vi,vi_000209,music_auto,♫Muốn được bên anh tới già♫
+vi,vi_000006,scene_text,"[Tô Tiểu - Quản lý chi phí
+Tập đoàn Chúng Kiến]"
+vi,vi_000022,scene_text,"[Dư Triều - Trưởng phòng
+phòng Hợp đồng kinh doanh Tập đoàn Chúng Kiến"
+vi,vi_000028,scene_text,"[Hạ Minh - Giám đốc kinh tế
+Công ty TNHH Kiến trúc Thiên Khoa]"
+vi,vi_000061,scene_text,"[Phan Kiến Hoa - Tổng giám đốc
+Tập đoàn Chúng Kiến]"
+vi,vi_000066,scene_text,"[Hoàng Lễ Lâm - Tổng giám đốc
+Công ty TNHH Kiến trúc Thiên Khoa]"
+vi,vi_000103,scene_text,"[Uông Minh Vũ - Tổng giám đốc công ty thầu,
+Phó tổng giám đốc một của Tập đoàn Doanh Hải.]"
+vi,vi_000537,scene_text,[Tiểu Tiểu]
+vi,vi_000546,scene_text,[Chu Tuấn]
+vi,vi_000602,scene_text,"[Cao Tiến - Kế toán trưởng Tập đoàn Doanh Hải]
+[Từ Tri Bình - Trưởng ban chuyên gia kinh tế Tập đoàn Doanh Hải]"
+vi,vi_000617,scene_text,"[Lâm Tiểu Dân - Phó tổng giám đốc Tập đoàn Doanh Hải, Tổng giám đốc công ty bất động sản]"
+vi,vi_000645,scene_text,[Triệu Hiển Khôn - Chủ tịch Tập đoàn Doanh Hải]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thành Phố Lý Tưởng]
+vi,vi_000003,scene_text,[Câu chuyện này chỉ là hư cấu]
+vi,vi_000004,scene_text,[Tập 2]
+vi,vi_000291,in_special_pair,"[Với kết quả thế này,]"
+vi,vi_000573,in_special_pair,[Mấy người ngồi trên đầu chúng ta]
+vi,vi_000293,in_special_pair,"[Hơn nữa, không giấu gì cô,]"
+vi,vi_000627,in_special_pair,"- Chủ tịch.
+- Chủ tịch."
+vi,vi_000346,in_special_pair,[Giờ anh đang ở viện với cấp trên.]
+vi,vi_000308,in_special_pair,"[Trước mắt, Kiến trúc Thiên Khoa]"
+vi,vi_000584,in_special_pair,[thì cái oan này]
+vi,vi_000345,in_special_pair,[có lẽ không thể về trong một tuần được.]
+vi,vi_000590,in_special_pair,[mình mang qua cho cậu nhé?]
+vi,vi_000299,in_special_pair,"[Doanh Hải kiểm soát
+chặt chẽ chất lượng xây dựng,]"
+vi,vi_000595,in_special_pair,[Để hôm khác mình sẽ tới thăm cậu.]
+vi,vi_000290,in_special_pair,[Cô biết tôi coi trọng cô đến thế nào mà.]
+vi,vi_000542,in_special_pair,[tạm thời không liên lạc được.]
+vi,vi_000288,in_special_pair,"[Xin lỗi, Tiểu Tô.]"
+vi,vi_000329,in_special_pair,[Có được không? Nghe lời anh.]
+vi,vi_000343,in_special_pair,[Em với Hồng Mai đi ăn mừng đi.]
+vi,vi_000306,in_special_pair,"[nguyên nhân sụp đổ là do
+thao tác vận hành không đúng]"
+vi,vi_000311,in_special_pair,"[dưới sự chỉ đạo
+của các ban ngành có liên quan.]"
+vi,vi_000289,in_special_pair,[Tôi thật sự không đủ sức bảo vệ cô.]
+vi,vi_000307,in_special_pair,[của nhân viên tác nghiệp.]
+vi,vi_000314,in_special_pair,"[Anh gửi địa chỉ của bệnh viện cho em,]"
+vi,vi_000328,in_special_pair,[Giờ anh thực sự không tiện.]
+vi,vi_000589,in_special_pair,"[Tiểu Tiểu, mình gói sủi cảo,]"
+vi,vi_000575,in_special_pair,"[một khi xảy ra chuyện,
+không thể thu dọn được kết cục]"
+vi,vi_000585,in_special_pair,[dễ dội xuống đầu cậu lắm.]
+vi,vi_000596,in_special_pair,[Mình tắt máy đây.]
+vi,vi_000327,in_special_pair,[Tiểu Tiểu.]
+vi,vi_000292,in_special_pair,[tôi thấy mình còn đau lòng hơn cô.]
+vi,vi_000594,in_special_pair,[Một mình cậu bình tĩnh nhé.]
+vi,vi_000580,in_special_pair,"[Mình nói với cậu này,]"
+vi,vi_000540,in_special_pair,"[Xin lỗi,]"
+vi,vi_000552,in_special_pair,"- Lão Tô, đẩy xe ra đây.
+- Đây, đây."
+vi,vi_000344,in_special_pair,"[Gần đây làm liên tục,]"
+vi,vi_000294,in_special_pair,[tôi cũng đã bị xử phạt.]
+vi,vi_000582,in_special_pair,"[Mọi người đều đi làm,]"
+vi,vi_000577,in_special_pair,[Người xui xẻo]
+vi,vi_000578,in_special_pair,[chính là người không có vốn liếng]
+vi,vi_000319,in_special_pair,[Em muốn nói chuyện trực tiếp với anh.]
+vi,vi_000324,in_special_pair,"[tan ca một cái là anh đi tìm em,]"
+vi,vi_000323,in_special_pair,[Có chuyện gì]
+vi,vi_000310,in_special_pair,"[và đình công để chỉnh đốn, cải cách]"
+vi,vi_000579,in_special_pair,[như cậu.]
+vi,vi_000305,in_special_pair,"[Theo điều tra ban đầu,]"
+vi,vi_000541,in_special_pair,[thuê bao quý khách vừa gọi]
+vi,vi_000315,in_special_pair,[em đi tìm anh.]
+vi,vi_000581,in_special_pair,[đừng nghiêm túc như thế.]
+vi,vi_000593,in_special_pair,[Vậy được.]
+vi,vi_000576,in_special_pair,[là bắt đầu đùn đẩy trách nhiệm.]
+vi,vi_000325,in_special_pair,[có được không?]
+vi,vi_000341,in_special_pair,[Tối phải tăng ca.]
+vi,vi_000309,in_special_pair,[đã thành lập tổ xử lý khẩn cấp]
+vi,vi_000318,in_special_pair,[Em có chút chuyện.]
+vi,vi_000347,in_special_pair,[Thực sự không tiện.]
+vi,vi_000572,in_special_pair,[Cậu làm kẻ chịu tiếng thay.]
+vi,vi_000583,in_special_pair,"[cậu không muốn thế, lại thích sống thật]"
+vi,vi_000574,in_special_pair,"[chỉ tay năm ngón,]"
+vi,vi_000342,in_special_pair,[Không thể ở bên em rồi.]
+vi,vi_000300,in_special_pair,[tiếp tục cải tiến và đảm bảo sự an toàn.]
+vi,vi_000586,in_special_pair,[Sau này cậu cũng phải thông minh một chút.]

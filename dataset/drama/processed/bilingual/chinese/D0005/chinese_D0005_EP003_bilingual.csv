@@ -1,0 +1,975 @@
+pair_idx,start,end,duration,origin_text,vi_text,origin_text_asr,origin_text_mt,vi_text_mt,asr_keep,mt_keep,source,overlap,origin_cue_ids,vi_cue_ids
+1,119.87,120.28,0.41,来,Nào.,来,来,Nào.,1,1,normal,none,zh_000001,vi_000005
+2,120.92,121.51,0.59,这里,Chỗ này.,这里,这里,Chỗ này.,1,1,normal,none,zh_000002,vi_000006
+3,125.59,127.31,1.72,这就是以前高启强的家,"Đây là nhà của Cao Khải Cường lúc trước,",这就是以前高启强的家,这就是以前高启强的家,"Đây là nhà của Cao Khải Cường lúc trước,",1,1,normal,none,zh_000003,vi_000007
+4,127.31,128.31,1.0,是他父母留下的,là một căn nhà cũ,是他父母留下的,是他父母留下的,là một căn nhà cũ,1,1,normal,none,zh_000004,vi_000008
+5,128.31,129.36,1.05,一个老房子,bố mẹ anh ta để lại.,一个老房子,一个老房子,bố mẹ anh ta để lại.,1,1,normal,none,zh_000005,vi_000009
+6,136.24,138.19,1.95,那怎么就这栋楼没拆,Thế sao chỉ có tòa nhà này chưa dỡ?,那怎么就这栋楼没拆,那怎么就这栋楼没拆,Thế sao chỉ có tòa nhà này chưa dỡ?,1,1,normal,none,zh_000006,vi_000010
+7,139.91,141.19,1.28,这个 我们整个这一片,Cả khu này của chúng tôi,这个 我们整个这一片,这个 我们整个这一片,Cả khu này của chúng tôi,1,1,normal,none,zh_000007,vi_000011
+8,141.19,142.28,1.09,叫旧厂街,gọi là phố nhà xưởng cũ.,叫旧厂街,叫旧厂街,gọi là phố nhà xưởng cũ.,1,1,normal,none,zh_000008,vi_000012
+9,143.19,144.24,1.05,这个改造工程呢,Công trình cải tạo này,这个改造工程呢,这个改造工程呢,Công trình cải tạo này,1,1,normal,none,zh_000009,vi_000013
+10,144.24,145.56,1.32,是二〇一〇年,là vào năm 2010,是二〇一〇年,是二〇一〇年,là vào năm 2010,1,1,normal,none,zh_000010,vi_000014
+11,146.03,147.84,1.81,交给强盛集团的,"giao cho Tập đoàn Cường Thịnh đó,",交给强盛集团的,交给强盛集团的,"giao cho Tập đoàn Cường Thịnh đó,",1,1,normal,none,zh_000011,vi_000015
+12,148.52,149.75,1.23,他们是专门就把,họ cố ý,他们是专门就把,他们是专门就把,họ cố ý,1,1,normal,none,zh_000012,vi_000016
+13,149.75,150.8,1.05,其他的都拆了,"dỡ hết những tòa khác rồi,",其他的都拆了,其他的都拆了,"dỡ hết những tòa khác rồi,",1,1,normal,none,zh_000013,vi_000017
+14,151.15,152.4,1.25,就留了这一栋,chỉ để lại một tòa này.,就留了这一栋,就留了这一栋,chỉ để lại một tòa này.,1,1,normal,none,zh_000014,vi_000018
+15,153.12,154.8,1.68,我听说呢 是每一年的,Tôi nghe nói mỗi năm,我听说呢 是每一年的,我听说呢 是每一年的,Tôi nghe nói mỗi năm,1,1,normal,none,zh_000015,vi_000019
+16,154.8,156.15,1.35,这个特定时间,vào một thời gian nhất định,这个特定时间,这个特定时间,vào một thời gian nhất định,1,1,normal,none,zh_000016,vi_000020
+17,156.28,157.47,1.19,他会带着员工,anh ta sẽ đưa nhân viên,他会带着员工,他会带着员工,anh ta sẽ đưa nhân viên,1,1,normal,none,zh_000017,vi_000021
+18,157.47,159.12,1.65,来这里来搞个团建,"đến đây tổ chức team building,",来这里来搞个团建,来这里来搞个团建,"đến đây tổ chức team building,",1,1,normal,none,zh_000018,vi_000022
+19,159.56,161.12,1.56,也算是企业文化,cũng coi như văn hóa doanh nghiệp.,也算是企业文化,也算是企业文化,cũng coi như văn hóa doanh nghiệp.,1,1,normal,none,zh_000019,vi_000023
+20,161.24,163.56,2.32,好像每年的年三十,Hình như 30 Tết hằng năm,好像每年的年三十,好像每年的年三十,Hình như 30 Tết hằng năm,1,1,normal,none,zh_000020,vi_000024
+21,163.56,164.47,0.91,他也会带着家人,anh ta còn dẫn gia đình,他也会带着家人,他也会带着家人,anh ta còn dẫn gia đình,1,1,normal,none,zh_000021,vi_000025
+22,164.47,165.87,1.4,回到这里来过个年,"quay lại đây đón Tết,",回到这里来过个年,回到这里来过个年,"quay lại đây đón Tết,",1,1,normal,none,zh_000022,vi_000026
+23,166.19,167.12,0.93,包个饺子,gói sủi cảo.,包个饺子,包个饺子,gói sủi cảo.,1,1,normal,none,zh_000023,vi_000027
+24,167.96,169.56,1.6,尤其是带着姑娘儿子,"Nhất là dẫn theo cả con cái,",尤其是带着姑娘儿子,尤其是带着姑娘儿子,"Nhất là dẫn theo cả con cái,",1,1,normal,none,zh_000024,vi_000028
+25,169.56,171.0,1.44,说是不能忘本,nói là không thể quên gốc rễ.,说是不能忘本,说是不能忘本,nói là không thể quên gốc rễ.,1,1,normal,none,zh_000025,vi_000029
+26,172.8,174.52,1.72,每年在这儿吃一顿,Hằng năm về đây ăn một bữa,每年在这儿吃一顿,每年在这儿吃一顿,Hằng năm về đây ăn một bữa,1,1,normal,none,zh_000026,vi_000030
+27,175.03,176.12,1.09,忆苦饭,cơm nhớ khổ.,忆苦饭,忆苦饭,cơm nhớ khổ.,1,1,normal,none,zh_000027,vi_000031
+28,178.96,180.96,2.0,如果再回到二十年前,"Nếu như quay lại 20 năm trước,",如果再回到二十年前,如果再回到二十年前,"Nếu như quay lại 20 năm trước,",1,1,normal,none,zh_000028,vi_000032
+29,180.96,182.75,1.79,你还会给高启强,cậu có đưa cơm tất niên,你还会给高启强,你还会给高启强,cậu có đưa cơm tất niên,1,1,normal,none,zh_000029,vi_000033
+30,183.0,184.03,1.03,送年夜饭吗,cho Cao Khải Cường không?,送年夜饭吗,送年夜饭吗,cho Cao Khải Cường không?,1,1,normal,none,zh_000030,vi_000034
+31,184.03,185.24,1.21,我肯定不会的,Tất nhiên là không rồi.,我肯定不会的,我肯定不会的,Tất nhiên là không rồi.,1,1,normal,none,zh_000031,vi_000035
+32,187.47,188.4,0.93,也说不好,Cũng chưa chắc.,也说不好,也说不好,Cũng chưa chắc.,1,1,normal,none,zh_000032,vi_000036
+33,189.87,190.75,0.88,问题是,Vấn đề là,问题是,问题是,Vấn đề là,1,1,normal,none,zh_000033,vi_000037
+34,191.08,192.75,1.67,谁又知道后面的事情呢,ai biết được chuyện sau này đâu chứ.,谁又知道后面的事情呢,谁又知道后面的事情呢,ai biết được chuyện sau này đâu chứ.,1,1,normal,none,zh_000034,vi_000038
+35,198.12,199.75,1.63,刚才是我先动的手,Vừa rồi là tôi ra tay trước.,刚才是我先动的手,刚才是我先动的手,Vừa rồi là tôi ra tay trước.,1,1,normal,none,zh_000035,vi_000039
+36,200.4,201.59,1.19,你为什么先动手,Tại sao anh lại ra tay trước?,你为什么先动手,你为什么先动手,Tại sao anh lại ra tay trước?,1,1,normal,none,zh_000036,vi_000041
+37,202.47,203.43,0.96,没吃饱,"Chưa no,",没吃饱,没吃饱,"Chưa no,",1,1,normal,none,zh_000037,vi_000042
+38,204.36,205.84,1.48,我看他那儿还有饭,tôi thấy anh ta vẫn còn cơm,我看他那儿还有饭,我看他那儿还有饭,tôi thấy anh ta vẫn còn cơm,1,1,normal,none,zh_000038,vi_000043
+39,205.84,207.56,1.72,我跟他要 他不给,"nên tôi xin, anh ta không cho",我跟他要 他不给,我跟他要 他不给,"nên tôi xin, anh ta không cho",1,1,normal,none,zh_000039,vi_000044
+40,207.96,208.87,0.91,我就揍他了,nên tôi đánh anh ta.,我就揍他了,我就揍他了,nên tôi đánh anh ta.,1,1,normal,none,zh_000040,vi_000045
+41,209.079,210.079,1.0,那他还手了吗,Thế anh ta có đánh trả không?,那他还手了吗,那他还手了吗,Thế anh ta có đánh trả không?,1,1,normal,none,zh_000041,vi_000046
+42,210.43,211.19,0.76,没还,Không.,没还,没还,Không.,1,1,normal,none,zh_000042,vi_000047
+43,211.4,212.8,1.4,那你眼睛怎么回事,Thế mắt anh làm sao đấy?,那你眼睛怎么回事,那你眼睛怎么回事,Thế mắt anh làm sao đấy?,1,1,normal,none,zh_000043,vi_000048
+44,212.8,213.68,0.88,打空了,Đánh hụt,打空了,打空了,Đánh hụt,1,1,normal,none,zh_000044,vi_000049
+45,213.68,214.84,1.16,自个儿撞墙上了,tự đâm vào tường thôi.,自个儿撞墙上了,自个儿撞墙上了,tự đâm vào tường thôi.,1,1,normal,none,zh_000045,vi_000050
+46,215.31,217.56,2.25,那你不加 你加三天,"Thế anh không thêm, anh thêm ba ngày,",那你不加 你加三天,那你不加 你加三天,"Thế anh không thêm, anh thêm ba ngày,",1,1,normal,none,zh_000046,vi_000051
+47,218.52,219.91,1.39,正好你们俩都是十天,"vừa khéo hai anh đều là mười ngày,",正好你们俩都是十天,正好你们俩都是十天,"vừa khéo hai anh đều là mười ngày,",1,1,normal,none,zh_000047,vi_000052
+48,219.91,220.75,0.84,一起出去,cùng nhau ra ngoài.,一起出去,一起出去,cùng nhau ra ngoài.,1,1,normal,none,zh_000048,vi_000053
+49,229.12,230.4,1.28,你为啥要帮我呀,Tại sao cậu lại giúp tôi?,你为啥要帮我呀,你为啥要帮我呀,Tại sao cậu lại giúp tôi?,1,1,normal,none,zh_000049,vi_000054
+50,232.03,234.15,2.12,一口饭 一个铺位,"Một miếng cơm, một chỗ nằm,",一口饭 一个铺位,一口饭 一个铺位,"Một miếng cơm, một chỗ nằm,",1,1,normal,none,zh_000050,vi_000055
+51,235.47,236.43,0.96,多大点事,chuyện có bao lớn đâu.,多大点事,多大点事,chuyện có bao lớn đâu.,1,1,normal,none,zh_000051,vi_000056
+52,238.43,239.15,0.72,仗义,Trượng nghĩa.,仗义,仗义,Trượng nghĩa.,1,1,normal,none,zh_000052,vi_000057
+53,240.31,240.96,0.65,啥,Cái gì?,啥,啥,Cái gì?,1,1,normal,none,zh_000053,vi_000058
+54,242.52,243.15,0.63,仗义,Trượng nghĩa.,仗义,仗义,Trượng nghĩa.,1,1,normal,none,zh_000054,vi_000059
+55,256.07,257.269,1.199,这是啥字啊,Đây là chữ gì đấy?,这是啥字啊,这是啥字啊,Đây là chữ gì đấy?,1,1,normal,none,zh_000055,vi_000061
+56,257.68,258.68,1.0,仗义的仗,"Trượng trong trượng nghĩa,",仗义的仗,仗义的仗,"Trượng trong trượng nghĩa,",1,1,normal,none,zh_000056,vi_000062
+57,259.48,260.43,0.95,仗义的义,Nghĩa trong trượng nghĩa.,仗义的义,仗义的义,Nghĩa trong trượng nghĩa.,1,1,normal,none,zh_000057,vi_000063
+58,265.75,267.24,1.49,兄弟 尊姓大名,"Người anh em, cậu tên gì?",兄弟 尊姓大名,兄弟 尊姓大名,"Người anh em, cậu tên gì?",1,1,normal,none,zh_000058,vi_000064
+59,269.16,270.92,1.76,姓高 高欣,"Họ Cao, Cao Hân.",姓高 高欣,姓高 高欣,"Họ Cao, Cao Hân.",1,1,normal,none,zh_000059,vi_000065
+60,271.87,273.68,1.81,你刚才挺矫健,"Vừa rồi cậu mạnh mẽ lắm,",你刚才挺矫健,你刚才挺矫健,"Vừa rồi cậu mạnh mẽ lắm,",1,1,normal,none,zh_000060,vi_000066
+61,273.95,274.87,0.92,哪儿学的,học ở đâu thế?,哪儿学的,哪儿学的,học ở đâu thế?,1,1,normal,none,zh_000061,vi_000067
+62,276.6,278.19,1.59,体校摔跤队练过,Từng tập trong đội đấu vật trường thể thao.,体校摔跤队练过,体校摔跤队练过,Từng tập trong đội đấu vật trường thể thao.,1,1,normal,none,zh_000062,vi_000068
+63,279.27,279.95,0.68,专业,Chuyên nghiệp.,专业,专业,Chuyên nghiệp.,1,1,normal,none,zh_000063,vi_000069
+64,281.51,282.87,1.36,你现在在哪儿高就,Bây giờ cậu làm ở đâu?,你现在在哪儿高就,你现在在哪儿高就,Bây giờ cậu làm ở đâu?,1,1,normal,none,zh_000064,vi_000070
+65,283.72,284.68,0.96,当保安,Làm bảo vệ.,当保安,当保安,Làm bảo vệ.,1,1,normal,none,zh_000065,vi_000071
+66,287.0,288.159,1.159,保安,Bảo vệ...,保安,保安,Bảo vệ...,1,1,normal,none,zh_000066,vi_000072
+67,289.39,290.43,1.04,一个月挣多少钱,Một tháng kiếm được bao nhiêu?,一个月挣多少钱,一个月挣多少钱,Một tháng kiếm được bao nhiêu?,1,1,normal,none,zh_000067,vi_000073
+68,291.39,292.159,0.769,八百,Tám trăm tệ.,八百,八百,Tám trăm tệ.,1,1,normal,none,zh_000068,vi_000074
+69,294.75,295.8,1.05,出来跟哥干吧,Ra ngoài làm cùng anh nhé.,出来跟哥干吧,出来跟哥干吧,Ra ngoài làm cùng anh nhé.,1,1,normal,none,zh_000069,vi_000075
+70,296.19,296.83,0.64,咋样,Thế nào?,咋样,咋样,Thế nào?,1,1,normal,none,zh_000070,vi_000076
+71,305.39,306.43,1.04,你干啥的,Anh làm gì?,你干啥的,你干啥的,Anh làm gì?,1,1,normal,none,zh_000071,vi_000077
+72,307.68,308.72,1.04,正经买卖,Buôn bán nghiêm túc.,正经买卖,正经买卖,Buôn bán nghiêm túc.,1,1,normal,none,zh_000072,vi_000078
+73,312.48,313.92,1.44,这次你出去,"Lần này cậu ra ngoài,",这次你出去,这次你出去,"Lần này cậu ra ngoài,",1,1,normal,none,zh_000073,vi_000079
+74,314.24,316.07,1.83,哥就让你风风光光的,"anh sẽ giúp cậu nở mày nở mặt,",哥就让你风风光光的,哥就让你风风光光的,"anh sẽ giúp cậu nở mày nở mặt,",1,1,normal,none,zh_000074,vi_000080
+75,317.04,319.51,2.47,黄土垫道 清水泼街,"đi trên đất vàng, nước sạch hắt đường,",黄土垫道 清水泼街,黄土垫道 清水泼街,"đi trên đất vàng, nước sạch hắt đường,",1,1,normal,none,zh_000075,vi_000081
+76,319.51,322.12,2.61,豪车列队 兄弟迎接,"hàng xe sang trọng, anh em đón tiếp.",豪车列队 兄弟迎接,豪车列队 兄弟迎接,"hàng xe sang trọng, anh em đón tiếp.",1,1,normal,none,zh_000076,vi_000082
+77,331.04,331.83,0.79,高启强,Cao Khải Cường?,高启强,高启强,Cao Khải Cường?,1,1,normal,none,zh_000077,vi_000083
+78,332.07,332.83,0.76,李警官,Cảnh sát Lý.,李警官,李警官,Cảnh sát Lý.,1,1,normal,none,zh_000078,vi_000084
+79,333.48,334.48,1.0,你怎么到这儿来了,Sao anh lại tới đây?,你怎么到这儿来了,你怎么到这儿来了,Sao anh lại tới đây?,1,1,normal,none,zh_000079,vi_000085
+80,335.68,337.04,1.36,我找安警官,Tôi tìm cảnh sát An.,我找安警官,我找安警官,Tôi tìm cảnh sát An.,1,1,normal,none,zh_000080,vi_000086
+81,339.0,339.87,0.87,他出任务了,Anh ta ra ngoài làm nhiệm vụ rồi.,他出任务了,他出任务了,Anh ta ra ngoài làm nhiệm vụ rồi.,1,1,normal,none,zh_000081,vi_000087
+82,340.04,340.56,0.52,什么事,Có chuyện gì?,什么事,什么事,Có chuyện gì?,1,1,normal,none,zh_000082,vi_000088
+83,341.19,342.07,0.88,他没在吗,Anh ấy không ở đây à?,他没在吗,他没在吗,Anh ấy không ở đây à?,1,1,normal,none,zh_000083,vi_000089
+84,342.48,343.27,0.79,没在,Không có.,没在,没在,Không có.,1,1,normal,none,zh_000084,vi_000090
+85,344.75,345.6,0.85,那个,À...,那个,那个,À...,1,1,normal,none,zh_000085,vi_000091
+86,345.6,347.83,2.23,我从店里拿了点这个,Tôi lấy được ít tôm tít tươi,我从店里拿了点这个,我从店里拿了点这个,Tôi lấy được ít tôm tít tươi,1,1,normal,none,zh_000086,vi_000092
+87,348.07,349.04,0.97,新鲜的濑尿虾,"trong cửa hàng,",新鲜的濑尿虾,新鲜的濑尿虾,"trong cửa hàng,",1,1,normal,none,zh_000087,vi_000093
+88,349.04,350.07,1.03,我想送给他吃,muốn đưa cho anh ấy ăn.,我想送给他吃,我想送给他吃,muốn đưa cho anh ấy ăn.,1,1,normal,none,zh_000088,vi_000094
+89,351.56,353.04,1.48,我们不能收 有规定,"Chúng tôi không nhận được, có quy định.",我们不能收 有规定,我们不能收 有规定,"Chúng tôi không nhận được, có quy định.",1,1,normal,none,zh_000089,vi_000095
+90,353.72,354.39,0.67,你,Anh...,你,你,Anh...,1,1,normal,none,zh_000090,vi_000096
+91,354.68,355.87,1.19,店里面,Cửa hàng?,店里面,店里面,Cửa hàng?,1,1,normal,none,zh_000091,vi_000097
+92,356.31,358.12,1.81,你那水产店又开业了,Cửa hàng hải sản của anh mở cửa lại rồi à?,你那水产店又开业了,你那水产店又开业了,Cửa hàng hải sản của anh mở cửa lại rồi à?,1,1,normal,none,zh_000092,vi_000098
+93,358.12,360.27,2.15,就还是在原来那个市场,Thì... vẫn ở khu chợ ban đầu đó.,就还是在原来那个市场,就还是在原来那个市场,Thì... vẫn ở khu chợ ban đầu đó.,1,1,normal,none,zh_000093,vi_000099
+94,360.56,361.36,0.8,还在那儿,Vẫn ở đó à?,还在那儿,还在那儿,Vẫn ở đó à?,1,1,normal,none,zh_000094,vi_000100
+95,361.51,362.63,1.12,对 他们把那档口,"Đúng, họ trả quầy đó",对 他们把那档口,对 他们把那档口,"Đúng, họ trả quầy đó",1,1,normal,none,zh_000095,vi_000101
+96,362.63,363.43,0.8,还给我了,cho tôi rồi.,还给我了,还给我了,cho tôi rồi.,1,1,normal,none,zh_000096,vi_000102
+97,363.6,364.48,0.88,不管你了,Mặc kệ anh rồi à?,不管你了,不管你了,Mặc kệ anh rồi à?,1,1,normal,none,zh_000097,vi_000103
+98,367.68,369.43,1.75,谢谢您和安警官,Cảm ơn anh và cảnh sát An.,谢谢您和安警官,谢谢您和安警官,Cảm ơn anh và cảnh sát An.,1,1,normal,none,zh_000098,vi_000104
+99,369.56,370.27,0.71,那他不在,Thế anh ấy đi vắng,那他不在,那他不在,Thế anh ấy đi vắng,1,1,normal,none,zh_000099,vi_000105
+100,370.27,372.04,1.77,我把这个送给你吃,"thì tôi tặng cái này cho anh ăn,",我把这个送给你吃,我把这个送给你吃,"thì tôi tặng cái này cho anh ăn,",1,1,normal,none,zh_000100,vi_000106
+101,372.16,372.83,0.67,你拿去吃,anh cầm về ăn.,你拿去吃,你拿去吃,anh cầm về ăn.,1,1,normal,none,zh_000101,vi_000107
+102,372.83,374.0,1.17,都跟你说了 不能收,"Tôi đã nói rồi, không thể nhận được,",都跟你说了 不能收,都跟你说了 不能收,"Tôi đã nói rồi, không thể nhận được,",1,1,normal,none,zh_000102,vi_000108
+103,374.0,374.83,0.83,我们有规定,chúng tôi có quy định.,我们有规定,我们有规定,chúng tôi có quy định.,1,1,normal,none,zh_000103,vi_000109
+104,374.83,376.0,1.17,不值钱的,Không đáng tiền mà.,不值钱的,不值钱的,Không đáng tiền mà.,1,1,normal,none,zh_000104,vi_000110
+105,376.0,376.92,0.92,没别的事吧,Không còn việc gì khác chứ?,没别的事吧,没别的事吧,Không còn việc gì khác chứ?,1,1,normal,none,zh_000105,vi_000111
+106,377.31,378.31,1.0,没有 就,"Không có, chỉ...",没有 就,没有 就,"Không có, chỉ...",1,1,normal,none,zh_000106,vi_000112
+107,378.75,379.72,0.97,没事就回去吧,Không có thì về đi.,没事就回去吧,没事就回去吧,Không có thì về đi.,1,1,normal,none,zh_000107,vi_000113
+108,379.95,380.92,0.97,回头我告诉他,"Tôi sẽ nói với anh ta sau,",回头我告诉他,回头我告诉他,"Tôi sẽ nói với anh ta sau,",1,1,normal,none,zh_000108,vi_000114
+109,380.92,381.95,1.03,我替他谢谢你,tôi thay anh ta cảm ơn anh.,我替他谢谢你,我替他谢谢你,tôi thay anh ta cảm ơn anh.,1,1,normal,none,zh_000109,vi_000115
+110,385.24,386.43,1.19,要不你拿着吃吧,Hay là anh cầm ăn đi.,要不你拿着吃吧,要不你拿着吃吧,Hay là anh cầm ăn đi.,1,1,normal,none,zh_000110,vi_000116
+111,386.43,388.04,1.61,快走吧 走吧 走吧,"Đi đi, đi mau, đi mau đi.",快走吧 走吧 走吧,快走吧 走吧 走吧,"Đi đi, đi mau, đi mau đi.",1,1,normal,none,zh_000111,vi_000117
+112,389.72,390.48,0.76,再见,Tạm biệt.,再见,再见,Tạm biệt.,1,1,normal,none,zh_000112,vi_000118
+113,395.48,396.39,0.91,你大哥呢,Đại ca anh đâu?,你大哥呢,你大哥呢,Đại ca anh đâu?,1,1,normal,none,zh_000113,vi_000120
+114,396.8,397.39,0.59,忙,Bận.,忙,忙,Bận.,1,1,normal,none,zh_000114,vi_000121
+115,398.19,399.24,1.05,你兄弟呢,Anh em anh đâu?,你兄弟呢,你兄弟呢,Anh em anh đâu?,1,1,normal,none,zh_000115,vi_000122
+116,399.24,399.95,0.71,懒,Lười.,懒,懒,Lười.,1,1,normal,none,zh_000116,vi_000123
+117,400.56,401.51,0.95,你那车呢,Thế xe anh đâu?,你那车呢,你那车呢,Thế xe anh đâu?,1,1,normal,none,zh_000117,vi_000124
+118,401.51,402.27,0.76,扣了,Giam rồi.,扣了,扣了,Giam rồi.,1,1,normal,none,zh_000118,vi_000125
+119,403.19,404.6,1.41,你有一句实话吗,Anh có câu nào là thật không?,你有一句实话吗,你有一句实话吗,Anh có câu nào là thật không?,1,1,normal,none,zh_000119,vi_000126
+120,406.27,407.75,1.48,哥是真喜欢你,Anh thích cậu thật mà.,哥是真喜欢你,哥是真喜欢你,Anh thích cậu thật mà.,1,1,normal,none,zh_000120,vi_000127
+121,410.87,412.6,1.73,鹰巢鹰巢 我是麻雀,"Tổ ưng, tổ ưng, tôi là chim sẻ.",鹰巢鹰巢 我是麻雀,鹰巢鹰巢 我是麻雀,"Tổ ưng, tổ ưng, tôi là chim sẻ.",1,1,normal,none,zh_000121,vi_000128
+122,413.39,414.27,0.88,收到 请讲,"Rõ, nói đi.",收到 请讲,收到 请讲,"Rõ, nói đi.",1,1,phone_speech,none,zh_000122,vi_000129
+123,415.31,416.95,1.64,不是 凭什么他是雏鹰,"Không phải, tại sao anh ta là hùng ưng",不是 凭什么他是雏鹰,不是 凭什么他是雏鹰,"Không phải, tại sao anh ta là hùng ưng",1,1,normal,none,zh_000123,vi_000130
+124,416.95,417.92,0.97,我是麻雀,còn tôi là chim sẻ?,我是麻雀,我是麻雀,còn tôi là chim sẻ?,1,1,normal,none,zh_000124,vi_000131
+125,418.92,420.27,1.35,你有正经的没有,Anh có nghiêm túc không đấy?,你有正经的没有,你有正经的没有,Anh có nghiêm túc không đấy?,1,1,phone_speech,none,zh_000125,vi_000132
+126,420.43,421.36,0.93,说正事,Nói chuyện nghiêm chỉnh.,说正事,说正事,Nói chuyện nghiêm chỉnh.,1,1,phone_speech,none,zh_000126,vi_000133
+127,423.51,424.72,1.21,雏鹰已经出笼,"Hùng ưng đã ra khỏi lồng,",雏鹰已经出笼,雏鹰已经出笼,"Hùng ưng đã ra khỏi lồng,",1,1,normal,none,zh_000127,vi_000134
+128,425.36,426.0,0.64,有出租车吗,"có taxi không,",有出租车吗,有出租车吗,"có taxi không,",1,1,normal,none,zh_000128,vi_000135
+129,426.0,426.95,0.95,给安排一辆,sắp xếp một chiếc đi.,给安排一辆,给安排一辆,sắp xếp một chiếc đi.,1,1,normal,none,zh_000129,vi_000136
+130,427.24,427.72,0.48,收到,Đã biết.,收到,收到,Đã biết.,1,1,phone_speech,none,zh_000130,vi_000137
+131,433.92,435.07,1.15,码头街走吗,Đến phố bến tàu không?,码头街走吗,码头街走吗,Đến phố bến tàu không?,1,1,normal,none,zh_000131,vi_000138
+132,435.31,436.0,0.69,十二,Mười hai tệ.,十二,十二,Mười hai tệ.,1,1,normal,none,zh_000132,vi_000139
+133,437.75,438.36,0.61,走,Đi.,走,走,Đi.,1,1,normal,none,zh_000133,vi_000140
+134,442.68,443.63,0.95,哥 走啊,"Anh, đi thôi.",哥 走啊,哥 走啊,"Anh, đi thôi.",1,1,normal,none,zh_000134,vi_000141
+135,450.75,451.48,0.73,往前点,Dịch lên trước.,往前点,往前点,Dịch lên trước.,1,1,normal,none,zh_000135,vi_000142
+136,453.75,454.36,0.61,走啊,Đi đi.,走啊,走啊,Đi đi.,1,1,normal,none,zh_000136,vi_000143
+137,454.51,455.43,0.92,先给钱,Trả tiền trước.,先给钱,先给钱,Trả tiền trước.,1,1,normal,none,zh_000137,vi_000144
+138,469.39,470.43,1.04,不用找了,Không phải trả lại.,不用找了,不用找了,Không phải trả lại.,1,1,normal,none,zh_000138,vi_000145
+139,470.43,471.19,0.76,走,Đi.,走,走,Đi.,1,1,normal,none,zh_000139,vi_000146
+140,475.87,476.63,0.76,不用了,Không cần nữa.,不用了,不用了,Không cần nữa.,1,1,normal,none,zh_000140,vi_000147
+141,487.8,488.51,0.71,说吧,Nói đi.,说吧,说吧,Nói đi.,1,1,normal,none,zh_000141,vi_000148
+142,488.68,491.12,2.44,真实的姓名 职务,"Tên họ, chức vụ thật sự.",真实的姓名 职务,真实的姓名 职务,"Tên họ, chức vụ thật sự.",1,1,normal,none,zh_000142,vi_000149
+143,492.07,493.04,0.97,警察同志,Đồng chí cảnh sát.,警察同志,警察同志,Đồng chí cảnh sát.,1,1,normal,none,zh_000143,vi_000150
+144,496.43,497.51,1.08,疯驴子,"Lừa Điên,",疯驴子,疯驴子,"Lừa Điên,",1,1,normal,none,zh_000144,vi_000151
+145,499.75,501.36,1.61,你是真疯了,anh đúng là điên thật rồi.,你是真疯了,你是真疯了,anh đúng là điên thật rồi.,1,1,normal,none,zh_000145,vi_000152
+146,506.68,507.27,0.59,我跟警察,Tôi với cảnh sát,我跟警察,我跟警察,Tôi với cảnh sát,1,1,normal,none,zh_000146,vi_000153
+147,507.27,508.75,1.48,打了那么多年交道,"tiếp xúc với nhau nhiều năm như vậy,",打了那么多年交道,打了那么多年交道,"tiếp xúc với nhau nhiều năm như vậy,",1,1,normal,none,zh_000147,vi_000154
+148,509.56,510.12,0.56,人堆里,nhìn vào đám đông,人堆里,人堆里,nhìn vào đám đông,1,1,normal,none,zh_000148,vi_000155
+149,510.12,511.68,1.56,一眼就能看出警察,là nhận ra cảnh sát ngay.,一眼就能看出警察,一眼就能看出警察,là nhận ra cảnh sát ngay.,1,1,normal,none,zh_000149,vi_000156
+150,513.24,514.72,1.48,我不是警察,Tôi không phải cảnh sát.,我不是警察,我不是警察,Tôi không phải cảnh sát.,1,1,normal,none,zh_000150,vi_000157
+151,514.87,516.48,1.61,不见棺材不落泪,Không thấy quan tài không đổ lệ.,不见棺材不落泪,不见棺材不落泪,Không thấy quan tài không đổ lệ.,1,1,normal,none,zh_000151,vi_000158
+152,518.32,518.96,0.64,来,Nào.,来,来,Nào.,1,1,normal,none,zh_000152,vi_000159
+153,519.669,520.39,0.721,把他切碎了,Băm vằm hắn ta ra,把他切碎了,把他切碎了,Băm vằm hắn ta ra,1,1,normal,none,zh_000153,vi_000160
+154,520.39,521.36,0.97,给我扔海里,ném xuống biển cho tôi.,给我扔海里,给我扔海里,ném xuống biển cho tôi.,1,1,normal,none,zh_000154,vi_000161
+155,528.36,529.12,0.76,说不说,Có nói không?,说不说,说不说,Có nói không?,1,1,normal,none,zh_000155,vi_000162
+156,530.32,531.67,1.35,我说,Tôi nói.,我说,我说,Tôi nói.,1,1,normal,none,zh_000156,vi_000163
+157,533.75,534.87,1.12,我不叫高欣,"Tôi không phải Cao Hân,",我不叫高欣,我不叫高欣,"Tôi không phải Cao Hân,",1,1,normal,none,zh_000157,vi_000164
+158,535.55,537.08,1.53,我叫张欣,"tôi tên là Trương Hân,",我叫张欣,我叫张欣,"tôi tên là Trương Hân,",1,1,normal,none,zh_000158,vi_000165
+159,537.48,539.24,1.76,我小前儿确实叫高欣,"hồi nhỏ đúng là tôi tên Cao Hân,",我小前儿确实叫高欣,我小前儿确实叫高欣,"hồi nhỏ đúng là tôi tên Cao Hân,",1,1,normal,none,zh_000159,vi_000166
+160,539.72,540.87,1.15,我跟我爸姓,tôi theo họ bố.,我跟我爸姓,我跟我爸姓,tôi theo họ bố.,1,1,normal,none,zh_000160,vi_000167
+161,541.48,542.32,0.84,我没上初中的时候,Khi tôi chưa lên cấp hai,我没上初中的时候,我没上初中的时候,Khi tôi chưa lên cấp hai,1,1,normal,none,zh_000161,vi_000168
+162,542.32,543.32,1.0,我爸就死了,"bố tôi đã chết rồi,",我爸就死了,我爸就死了,"bố tôi đã chết rồi,",1,1,normal,none,zh_000162,vi_000169
+163,543.32,544.03,0.71,我妈领着我,mẹ tôi mang theo tôi,我妈领着我,我妈领着我,mẹ tôi mang theo tôi,1,1,normal,none,zh_000163,vi_000170
+164,544.03,545.63,1.6,嫁了一个体校教练,"lấy một huấn luyện viên trường thể thao,",嫁了一个体校教练,嫁了一个体校教练,"lấy một huấn luyện viên trường thể thao,",1,1,normal,none,zh_000164,vi_000171
+165,546.03,547.12,1.09,那教练瞅我不顺眼,"huấn luyện viên đó không vừa mắt tôi,",那教练瞅我不顺眼,那教练瞅我不顺眼,"huấn luyện viên đó không vừa mắt tôi,",1,1,normal,none,zh_000165,vi_000172
+166,547.12,548.15,1.03,天天打我,ngày nào cũng đánh tôi.,天天打我,天天打我,ngày nào cũng đánh tôi.,1,1,normal,none,zh_000166,vi_000173
+167,548.6,549.39,0.79,然后我就想跑,Sau đó thì tôi muốn chạy.,然后我就想跑,然后我就想跑,Sau đó thì tôi muốn chạy.,1,1,normal,none,zh_000167,vi_000174
+168,549.39,550.2,0.81,他给我抓住了,"Hắn ta bắt được tôi,",他给我抓住了,他给我抓住了,"Hắn ta bắt được tôi,",1,1,normal,none,zh_000168,vi_000175
+169,550.2,551.86,1.66,给我送到沈阳体校了,đưa tôi đến trường thể thao Thẩm Dương.,给我送到沈阳体校了,给我送到沈阳体校了,đưa tôi đến trường thể thao Thẩm Dương.,1,1,normal,none,zh_000169,vi_000176
+170,551.87,552.75,0.88,后来我不上学了,"Sau này tôi không đi học nữa,",后来我不上学了,后来我不上学了,"Sau này tôi không đi học nữa,",1,1,normal,none,zh_000170,vi_000177
+171,552.75,553.32,0.57,我就跑了,tôi bỏ chạy.,我就跑了,我就跑了,tôi bỏ chạy.,1,1,normal,none,zh_000171,vi_000178
+172,553.32,554.03,0.71,我跟了一个,Tôi với một cô gái,我跟了一个,我跟了一个,Tôi với một cô gái,1,1,normal,none,zh_000172,vi_000179
+173,554.03,554.87,0.84,练田径的姑娘,học điền kinh,练田径的姑娘,练田径的姑娘,học điền kinh,1,1,normal,none,zh_000173,vi_000180
+174,554.87,555.79,0.92,天天谈恋爱,"hẹn hò suốt ngày,",天天谈恋爱,天天谈恋爱,"hẹn hò suốt ngày,",1,1,normal,none,zh_000174,vi_000181
+175,556.03,557.08,1.05,结果让那姑娘她哥,cuối cùng anh của cô gái kia,结果让那姑娘她哥,结果让那姑娘她哥,cuối cùng anh của cô gái kia,1,1,normal,none,zh_000175,vi_000182
+176,557.08,557.75,0.67,给发现了,"cũng phát hiện,",给发现了,给发现了,"cũng phát hiện,",1,1,normal,none,zh_000176,vi_000183
+177,557.75,558.48,0.73,也天天打我,"ngày nào cũng đánh tôi,",也天天打我,也天天打我,"ngày nào cũng đánh tôi,",1,1,normal,none,zh_000177,vi_000184
+178,558.48,559.27,0.79,也瞅我不顺眼,cũng coi thường tôi.,也瞅我不顺眼,也瞅我不顺眼,cũng coi thường tôi.,1,1,normal,none,zh_000178,vi_000185
+179,559.27,559.75,0.48,我急了,Tôi cuống quá,我急了,我急了,Tôi cuống quá,1,1,normal,none,zh_000179,vi_000186
+180,559.75,561.03,1.28,我拿刀就把她哥给攮了,cầm dao đâm anh cô ấy.,我拿刀就把她哥给攮了,我拿刀就把她哥给攮了,cầm dao đâm anh cô ấy.,1,1,normal,none,zh_000180,vi_000187
+181,561.03,562.15,1.12,我一害怕我又跑了,"Tôi sợ hãi nên lại bỏ chạy,",我一害怕我又跑了,我一害怕我又跑了,"Tôi sợ hãi nên lại bỏ chạy,",1,1,normal,none,zh_000181,vi_000188
+182,562.15,563.36,1.21,我跑了办了个假身份证,tôi chạy đi làm một chứng minh giả,我跑了办了个假身份证,我跑了办了个假身份证,tôi chạy đi làm một chứng minh giả,1,1,normal,none,zh_000182,vi_000189
+183,563.36,564.36,1.0,我就叫回高欣了,lấy lại tên Cao Hân.,我就叫回高欣了,我就叫回高欣了,lấy lại tên Cao Hân.,1,1,normal,none,zh_000183,vi_000190
+184,564.36,564.96,0.6,我咋的了,Tôi làm sao hả?,我咋的了,我咋的了,Tôi làm sao hả?,1,1,normal,none,zh_000184,vi_000191
+185,564.96,566.48,1.52,我先打工 然后当保安,"Tôi đi làm thuê trước, sau làm bảo vệ,",我先打工 然后当保安,我先打工 然后当保安,"Tôi đi làm thuê trước, sau làm bảo vệ,",1,1,normal,none,zh_000185,vi_000192
+186,566.48,567.12,0.64,我哪儿错了,tôi có gì sai?,我哪儿错了,我哪儿错了,tôi có gì sai?,1,1,normal,none,zh_000186,vi_000193
+187,567.12,568.24,1.12,我一句假话都没有,"Tôi không nói dối câu nào,",我一句假话都没有,我一句假话都没有,"Tôi không nói dối câu nào,",1,1,normal,none,zh_000187,vi_000194
+188,568.24,569.27,1.03,你查去,anh điều tra đi.,你查去,你查去,anh điều tra đi.,1,1,normal,none,zh_000188,vi_000195
+189,569.55,570.67,1.12,京海打零工的工地,Công trường chỗ làm công ở Kinh Hải,京海打零工的工地,京海打零工的工地,Công trường chỗ làm công ở Kinh Hải,1,1,normal,none,zh_000189,vi_000196
+190,570.67,571.24,0.57,在哪儿,là ở đâu?,在哪儿,在哪儿,là ở đâu?,1,1,normal,none,zh_000190,vi_000197
+191,571.24,572.72,1.48,海富集团 华茂地产,"Bất động sản Hoa Mậu, tập đoàn Hải Phú.",海富集团 华茂地产,海富集团 华茂地产,"Bất động sản Hoa Mậu, tập đoàn Hải Phú.",1,1,normal,none,zh_000191,vi_000198
+192,572.72,573.6,0.88,当保安在哪儿,Làm bảo vệ ở đâu?,当保安在哪儿,当保安在哪儿,Làm bảo vệ ở đâu?,1,1,normal,none,zh_000192,vi_000199
+193,573.6,574.55,0.95,枫丹白露,Phong Đan Bạch Lộ.,枫丹白露,枫丹白露,Phong Đan Bạch Lộ.,1,1,normal,none,zh_000193,vi_000200
+194,582.48,583.27,0.79,有这地儿吗,Có chỗ này à?,有这地儿吗,有这地儿吗,Có chỗ này à?,1,1,normal,none,zh_000194,vi_000201
+195,583.67,584.55,0.88,也有,Cũng có.,也有,也有,Cũng có.,1,1,normal,none,zh_000195,vi_000202
+196,585.03,585.75,0.72,你确定吗,Anh chắc chưa?,你确定吗,你确定吗,Anh chắc chưa?,1,1,normal,none,zh_000196,vi_000203
+197,585.75,586.48,0.73,确定,Chắc rồi.,确定,确定,Chắc rồi.,1,1,normal,none,zh_000197,vi_000204
+198,599.48,600.48,1.0,哥 要锯哪儿,"Anh, phải cưa ở đâu?",哥 要锯哪儿,哥 要锯哪儿,"Anh, phải cưa ở đâu?",1,1,normal,none,zh_000198,vi_000206
+199,617.55,618.6,1.05,你要理解哥,Cậu phải hiểu cho anh.,你要理解哥,你要理解哥,Cậu phải hiểu cho anh.,1,1,normal,none,zh_000199,vi_000207
+200,618.87,619.87,1.0,我不能随随便便,Tôi không thể tùy tiện,我不能随随便便,我不能随随便便,Tôi không thể tùy tiện,1,1,normal,none,zh_000200,vi_000208
+201,619.87,620.67,0.8,招进来一个人,tuyển một người vào,招进来一个人,招进来一个人,tuyển một người vào,1,1,normal,none,zh_000201,vi_000209
+202,620.67,621.48,0.81,然后一不小心,rồi lại sơ ý,然后一不小心,然后一不小心,rồi lại sơ ý,1,1,normal,none,zh_000202,vi_000210
+203,621.48,622.75,1.27,把大家给害了,làm hại mọi người.,把大家给害了,把大家给害了,làm hại mọi người.,1,1,normal,none,zh_000203,vi_000211
+204,622.91,623.87,0.96,你问他们哪一个进来,Cậu hỏi xem có ai trong họ vào đây,你问他们哪一个进来,你问他们哪一个进来,Cậu hỏi xem có ai trong họ vào đây,1,1,normal,none,zh_000204,vi_000212
+205,623.87,624.84,0.97,没有过这一关,mà không qua ải này.,没有过这一关,没有过这一关,mà không qua ải này.,1,1,normal,none,zh_000205,vi_000213
+206,625.36,626.48,1.12,想挣钱是吧,Muốn kiếm tiền đúng không?,想挣钱是吧,想挣钱是吧,Muốn kiếm tiền đúng không?,1,1,normal,none,zh_000206,vi_000214
+207,627.36,628.36,1.0,还有一关,Còn một ải nữa.,还有一关,还有一关,Còn một ải nữa.,1,1,normal,none,zh_000207,vi_000215
+208,654.39,655.79,1.4,喂 110吗,"A lô, 110 à?",喂 110吗,喂 110吗,"A lô, 110 à?",1,1,normal,none,zh_000208,vi_000216
+209,655.79,656.87,1.08,这里是下湾采沙场,"Đây là mỏ cát Hạ Loan,",这里是下湾采沙场,这里是下湾采沙场,"Đây là mỏ cát Hạ Loan,",1,1,normal,none,zh_000209,vi_000217
+210,656.87,657.75,0.88,有人行凶,có người hành hung.,有人行凶,有人行凶,có người hành hung.,1,1,normal,none,zh_000210,vi_000218
+211,695.96,697.55,1.59,别动 老实点,"Cấm động đậy, ngoan ngoãn đi!",别动 老实点,别动 老实点,"Cấm động đậy, ngoan ngoãn đi!",1,1,normal,none,zh_000211,vi_000219
+212,698.24,698.72,0.48,蹲下,Ngồi xuống!,蹲下,蹲下,Ngồi xuống!,1,1,normal,none,zh_000212,vi_000220
+213,700.39,700.79,0.4,别动,Cấm động đậy!,别动,别动,Cấm động đậy!,1,1,normal,none,zh_000213,vi_000221
+214,703.84,704.44,0.6,别动,Cấm động đậy!,别动,别动,Cấm động đậy!,1,1,normal,none,zh_000214,vi_000222
+215,705.2,705.72,0.52,别动,Cấm động đậy!,别动,别动,Cấm động đậy!,1,1,normal,none,zh_000215,vi_000223
+216,708.36,709.0,0.64,哥,Anh.,哥,哥,Anh.,1,1,normal,none,zh_000216,vi_000224
+217,717.39,718.55,1.16,上车回家,Lên xe về nhà!,上车回家,上车回家,Lên xe về nhà!,1,1,normal,none,zh_000217,vi_000225
+218,718.96,719.63,0.67,麻溜的,Nhanh lên!,麻溜的,麻溜的,Nhanh lên!,1,1,normal,none,zh_000218,vi_000226
+219,730.79,731.75,0.96,哥 老大,"- Anh.
+- Đại ca.",哥 老大,哥 老大,Anh. Đại ca.,1,1,dash_dialogue,speech,zh_000219,vi_000227
+220,731.75,732.67,0.92,哥 哥,"Anh, anh.",哥 哥,哥 哥,"Anh, anh.",1,1,normal,none,zh_000220,vi_000228
+221,732.67,733.55,0.88,没事吧 老大,"Không sao chứ, đại ca?",没事吧 老大,没事吧 老大,"Không sao chứ, đại ca?",1,1,normal,none,zh_000221,vi_000229
+222,736.67,738.03,1.36,我弄死你,Tôi giết cậu!,我弄死你,我弄死你,Tôi giết cậu!,1,1,normal,none,zh_000222,vi_000230
+223,741.44,741.96,0.52,站住,Đứng lại!,站住,站住,Đứng lại!,1,1,normal,none,zh_000223,vi_000231
+224,741.96,743.79,1.83,你别过来 站住,Anh đừng lại đây.,你别过来 站住,你别过来 站住,Anh đừng lại đây.,1,1,normal,none,zh_000224,vi_000232
+225,743.79,744.96,1.17,我弄死你,Tôi giết cậu!,我弄死你,我弄死你,Tôi giết cậu!,1,1,normal,none,zh_000225,vi_000233
+226,746.96,749.27,2.31,哥 你 你莫前了,"Anh, anh, anh đừng lại đây.",哥 你 你莫前了,哥 你 你莫前了,"Anh, anh, anh đừng lại đây.",1,1,normal,none,zh_000226,vi_000234
+227,750.51,751.63,1.12,我错了,Tôi sai rồi!,我错了,我错了,Tôi sai rồi!,1,1,normal,none,zh_000227,vi_000235
+228,752.0,752.91,0.91,大哥 我错了,"Đại ca, tôi sai rồi!",大哥 我错了,大哥 我错了,"Đại ca, tôi sai rồi!",1,1,normal,none,zh_000228,vi_000236
+229,752.91,754.36,1.45,你饶了我吧,Anh tha cho tôi đi.,你饶了我吧,你饶了我吧,Anh tha cho tôi đi.,1,1,normal,none,zh_000229,vi_000237
+230,755.0,755.96,0.96,我不想打你,"Tôi không muốn đánh anh,",我不想打你,我不想打你,"Tôi không muốn đánh anh,",1,1,normal,none,zh_000230,vi_000238
+231,755.96,757.63,1.67,我想打的是他,người tôi muốn đánh là anh ta.,我想打的是他,我想打的是他,người tôi muốn đánh là anh ta.,1,1,normal,none,zh_000231,vi_000239
+232,757.63,758.63,1.0,你要打我老大,"Cậu muốn đánh đại ca của tôi,",你要打我老大,你要打我老大,"Cậu muốn đánh đại ca của tôi,",1,1,normal,none,zh_000232,vi_000240
+233,758.79,760.15,1.36,打我老大 就是打我了,đánh đại ca của tôi tức là đánh tôi.,打我老大 就是打我了,打我老大 就是打我了,đánh đại ca của tôi tức là đánh tôi.,1,1,normal,none,zh_000233,vi_000241
+234,761.2,762.67,1.47,我都已经给你打了,"Tôi đã cho anh đánh rồi,",我都已经给你打了,我都已经给你打了,"Tôi đã cho anh đánh rồi,",1,1,normal,none,zh_000234,vi_000242
+235,762.67,763.87,1.2,你说咋办嘛,anh bảo phải làm thế nào?,你说咋办嘛,你说咋办嘛,anh bảo phải làm thế nào?,1,1,normal,none,zh_000235,vi_000243
+236,764.39,765.12,0.73,赔啊,Đền đi!,赔啊,赔啊,Đền đi!,1,1,normal,none,zh_000236,vi_000244
+237,765.55,766.2,0.65,赔,Đền?,赔,赔,Đền?,1,1,normal,none,zh_000237,vi_000245
+238,767.72,768.91,1.19,拿命赔,Đền bằng mạng.,拿命赔,拿命赔,Đền bằng mạng.,1,1,normal,none,zh_000238,vi_000246
+239,779.67,780.87,1.2,停 停 停,"Dừng, dừng, dừng.",停 停 停,停 停 停,"Dừng, dừng, dừng.",1,1,normal,none,zh_000239,vi_000247
+240,781.6,783.87,2.27,哥 你这是要干啥嘛,"Anh, anh định làm gì thế?",哥 你这是要干啥嘛,哥 你这是要干啥嘛,"Anh, anh định làm gì thế?",1,1,normal,none,zh_000240,vi_000248
+241,783.87,784.55,0.68,你这是,Anh thế này là...,你这是,你这是,Anh thế này là...,1,1,normal,none,zh_000241,vi_000249
+242,784.55,785.72,1.17,动动动 喊,"Giãy, giãy, giãy, hét.",动动动 喊,动动动 喊,"Giãy, giãy, giãy, hét.",1,1,normal,none,zh_000242,vi_000250
+243,787.79,788.87,1.08,救命啊,Cứu tôi với!,救命啊,救命啊,Cứu tôi với!,1,1,normal,none,zh_000243,vi_000251
+244,788.87,790.87,2.0,打人了,Đánh người rồi!,打人了,打人了,Đánh người rồi!,1,1,normal,none,zh_000244,vi_000252
+245,790.87,791.87,1.0,兄弟,"Người anh em,",兄弟,兄弟,"Người anh em,",1,1,normal,none,zh_000245,vi_000253
+246,793.91,795.91,2.0,别给哥弄出人命来,đừng gây ra án mạng.,别给哥弄出人命来,别给哥弄出人命来,đừng gây ra án mạng.,1,1,normal,none,zh_000246,vi_000254
+247,796.2,796.91,0.71,好,Được.,好,好,Được.,1,1,normal,none,zh_000247,vi_000255
+248,797.27,798.44,1.17,我哥仁义,Anh tôi nhân nghĩa.,我哥仁义,我哥仁义,Anh tôi nhân nghĩa.,1,1,normal,none,zh_000248,vi_000256
+249,803.6,804.24,0.64,起来,Dậy đi!,起来,起来,Dậy đi!,1,1,normal,none,zh_000249,vi_000257
+250,805.55,806.87,1.32,待会儿我喊一二三,"Lát nữa tôi hô một, hai, ba,",待会儿我喊一二三,待会儿我喊一二三,"Lát nữa tôi hô một, hai, ba,",1,1,normal,none,zh_000250,vi_000258
+251,806.96,807.67,0.71,我踹你一脚,"tôi đạp cậu một cái,",我踹你一脚,我踹你一脚,"tôi đạp cậu một cái,",1,1,normal,none,zh_000251,vi_000259
+252,807.67,808.36,0.69,你玩命往下跑,"cậu liều mạng chạy xuống dưới,",你玩命往下跑,你玩命往下跑,"cậu liều mạng chạy xuống dưới,",1,1,normal,none,zh_000252,vi_000260
+253,808.36,809.27,0.91,听明白了吗,nghe rõ chưa?,听明白了吗,听明白了吗,nghe rõ chưa?,1,1,normal,none,zh_000253,vi_000261
+254,810.27,811.0,0.73,但是哥,"Nhưng mà anh,",但是哥,但是哥,"Nhưng mà anh,",1,1,normal,none,zh_000254,vi_000262
+255,811.2,812.72,1.52,这口气我忍不了,"tôi không nhịn nổi cơn giận này,",这口气我忍不了,这口气我忍不了,"tôi không nhịn nổi cơn giận này,",1,1,normal,none,zh_000255,vi_000263
+256,812.84,814.32,1.48,我高低再补他一脚,tôi phải đạp thêm một cái nữa.,我高低再补他一脚,我高低再补他一脚,tôi phải đạp thêm một cái nữa.,1,1,normal,none,zh_000256,vi_000264
+257,814.55,815.63,1.08,一 二 三,"Một, hai, ba.",一 二 三,一 二 三,"Một, hai, ba.",1,1,normal,none,zh_000257,vi_000265
+258,854.39,855.2,0.81,来了 来了,"Đến rồi, đến rồi.",来了 来了,来了 来了,"Đến rồi, đến rồi.",1,1,normal,none,zh_000258,vi_000267
+259,858.03,858.79,0.76,老高 来,"Lão Cao, nào.",老高 来,老高 来,"Lão Cao, nào.",1,1,normal,none,zh_000259,vi_000268
+260,860.51,861.32,0.81,现在才到,Bây giờ mới đến à?,现在才到,现在才到,Bây giờ mới đến à?,1,1,normal,none,zh_000260,vi_000269
+261,861.67,862.39,0.72,这就是我弟弟,Đây là em trai tôi.,这就是我弟弟,这就是我弟弟,Đây là em trai tôi.,1,1,normal,none,zh_000261,vi_000270
+262,862.79,863.79,1.0,叫高哥,Chào anh Cao đi.,叫高哥,叫高哥,Chào anh Cao đi.,1,1,normal,none,zh_000262,vi_000271
+263,863.79,864.44,0.65,高哥,Anh Cao.,高哥,高哥,Anh Cao.,1,1,normal,none,zh_000263,vi_000272
+264,867.32,868.39,1.07,安警官没到,Cảnh sát An chưa đến à?,安警官没到,安警官没到,Cảnh sát An chưa đến à?,1,1,normal,none,zh_000264,vi_000273
+265,869.39,871.2,1.81,安警官今晚上办案子,"Cảnh sát An tối nay điều tra án,",安警官今晚上办案子,安警官今晚上办案子,"Cảnh sát An tối nay điều tra án,",1,1,normal,none,zh_000265,vi_000274
+266,871.2,872.32,1.12,让我先过来看看,bảo tôi qua xem thử trước.,让我先过来看看,让我先过来看看,bảo tôi qua xem thử trước.,1,1,normal,none,zh_000266,vi_000275
+267,875.96,876.87,0.91,你说的那家音像店,Cửa hàng băng đĩa cậu bảo,你说的那家音像店,你说的那家音像店,Cửa hàng băng đĩa cậu bảo,1,1,normal,none,zh_000267,vi_000276
+268,876.87,877.36,0.49,在哪儿,ở đâu?,在哪儿,在哪儿,ở đâu?,1,1,normal,none,zh_000268,vi_000277
+269,877.6,878.72,1.12,就在那头拐角,Ở ngay lối rẽ kia.,就在那头拐角,就在那头拐角,Ở ngay lối rẽ kia.,1,1,normal,none,zh_000269,vi_000278
+270,879.96,880.55,0.59,你放心,"Cậu yên tâm,",你放心,你放心,"Cậu yên tâm,",1,1,normal,none,zh_000270,vi_000279
+271,881.03,881.84,0.81,有高哥在,"có anh Cao ở đây,",有高哥在,有高哥在,"có anh Cao ở đây,",1,1,normal,none,zh_000271,vi_000280
+272,882.03,882.84,0.81,一定帮你摆平,nhất định sẽ dẹp yên giúp cậu.,一定帮你摆平,一定帮你摆平,nhất định sẽ dẹp yên giúp cậu.,1,1,normal,none,zh_000272,vi_000281
+273,882.84,883.67,0.83,谢谢高哥,Cảm ơn anh Cao.,谢谢高哥,谢谢高哥,Cảm ơn anh Cao.,1,1,normal,none,zh_000273,vi_000282
+274,885.27,886.15,0.88,带我去看看,Đưa tôi đi xem thử.,带我去看看,带我去看看,Đưa tôi đi xem thử.,1,1,normal,none,zh_000274,vi_000283
+275,895.79,896.96,1.17,看一下要什么片,Nhìn xem muốn lấy phim gì?,看一下要什么片,看一下要什么片,Nhìn xem muốn lấy phim gì?,1,1,normal,none,zh_000275,vi_000285
+276,903.39,904.27,0.88,你想干吗,Anh muốn làm gì?,你想干吗,你想干吗,Anh muốn làm gì?,1,1,normal,none,zh_000276,vi_000286
+277,943.79,944.91,1.12,怎么称呼,Anh tên là gì?,怎么称呼,怎么称呼,Anh tên là gì?,1,1,normal,none,zh_000277,vi_000288
+278,946.55,947.51,0.96,高启强,Cao Khải Cường.,高启强,高启强,Cao Khải Cường.,1,1,normal,none,zh_000278,vi_000289
+279,950.03,950.87,0.84,混哪儿的,Người ở đâu thế?,混哪儿的,混哪儿的,Người ở đâu thế?,1,1,normal,none,zh_000279,vi_000290
+280,952.08,953.84,1.76,从小就在这儿长大,Từ nhỏ đã lớn lên ở đây.,从小就在这儿长大,从小就在这儿长大,Từ nhỏ đã lớn lên ở đây.,1,1,normal,none,zh_000280,vi_000291
+281,954.72,955.84,1.12,那你什么意思,Vậy anh muốn gì?,那你什么意思,那你什么意思,Vậy anh muốn gì?,1,1,normal,none,zh_000281,vi_000292
+282,956.44,957.84,1.4,我有个亲戚,"Tôi có một người họ hàng,",我有个亲戚,我有个亲戚,"Tôi có một người họ hàng,",1,1,normal,none,zh_000282,vi_000293
+283,959.15,960.63,1.48,也是卖数字视频光盘的,"cũng bán DVD,",也是卖数字视频光盘的,也是卖数字视频光盘的,"cũng bán DVD,",1,1,normal,none,zh_000283,vi_000294
+284,962.24,964.03,1.79,以前上货也是问你上,"trước đây cũng nhập hàng của anh,",以前上货也是问你上,以前上货也是问你上,"trước đây cũng nhập hàng của anh,",1,1,normal,none,zh_000284,vi_000295
+285,965.55,967.6,2.05,然后说你把他店给砸了,"sau đó bảo là anh đã phá cửa hàng của cậu ấy,",然后说你把他店给砸了,然后说你把他店给砸了,"sau đó bảo là anh đã phá cửa hàng của cậu ấy,",1,1,normal,none,zh_000285,vi_000296
+286,967.79,968.91,1.12,人给打了,còn đánh người.,人给打了,人给打了,còn đánh người.,1,1,normal,none,zh_000286,vi_000297
+287,970.36,971.44,1.08,有这事,Có chuyện này.,有这事,有这事,Có chuyện này.,1,1,normal,none,zh_000287,vi_000298
+288,972.32,973.03,0.71,怎么了,Rồi sao?,怎么了,怎么了,Rồi sao?,1,1,normal,none,zh_000288,vi_000299
+289,974.08,975.0,0.92,要不这样吧,Hay là thế này đi.,要不这样吧,要不这样吧,Hay là thế này đi.,1,1,normal,none,zh_000289,vi_000300
+290,975.55,977.72,2.17,我打个电话 给安长林,"Tôi gọi điện thoại cho An Trường Lâm,",我打个电话 给安长林,我打个电话 给安长林,"Tôi gọi điện thoại cho An Trường Lâm,",1,1,normal,none,zh_000290,vi_000301
+291,977.72,979.24,1.52,让他过来调解一下,bảo ông ấy qua đây hòa giải?,让他过来调解一下,让他过来调解一下,bảo ông ấy qua đây hòa giải?,1,1,normal,none,zh_000291,vi_000302
+292,979.44,981.0,1.56,谁是安长林,Ai là An Trường Lâm?,谁是安长林,谁是安长林,Ai là An Trường Lâm?,1,1,normal,none,zh_000292,vi_000303
+293,984.27,988.03,3.76,市局的安局是吧,Cục phó An ở Cục Công an thành phố phải không?,市局的安局是吧,市局的安局是吧,Cục phó An ở Cục Công an thành phố phải không?,1,1,normal,none,zh_000293,vi_000304
+294,988.55,989.72,1.17,你还认识啊,Anh cũng biết à?,你还认识啊,你还认识啊,Anh cũng biết à?,1,1,normal,none,zh_000294,vi_000305
+295,991.12,993.75,2.63,安局有个侄子叫安欣,"Cục phó An có một đứa cháu trai tên là An Hân,",安局有个侄子叫安欣,安局有个侄子叫安欣,"Cục phó An có một đứa cháu trai tên là An Hân,",1,1,normal,none,zh_000295,vi_000306
+296,994.44,995.91,1.47,在市局刑警队,ở Đội cảnh sát hình sự của Cục Công an thành phố.,在市局刑警队,在市局刑警队,ở Đội cảnh sát hình sự của Cục Công an thành phố.,1,1,normal,none,zh_000296,vi_000307
+297,1000.0,1001.2,1.2,我就是他侄子,"Tôi chính là tai mắt của An Hân,",我就是他侄子,我就是他侄子,"Tôi chính là tai mắt của An Hân,",1,1,normal,none,zh_000297,vi_000308
+298,1001.2,1002.72,1.52,安欣的线人,cháu trai Cục phó An.,安欣的线人,安欣的线人,cháu trai Cục phó An.,1,1,normal,none,zh_000298,vi_000309
+299,1018.55,1020.2,1.65,大哥 大哥 大哥,"Đại ca, đại ca, đại ca.",大哥 大哥 大哥,大哥 大哥 大哥,"Đại ca, đại ca, đại ca.",1,1,normal,none,zh_000299,vi_000310
+300,1020.2,1021.55,1.35,你一定要把那个,Anh nhất định phải,你一定要把那个,你一定要把那个,Anh nhất định phải,1,1,normal,none,zh_000300,vi_000311
+301,1021.55,1022.96,1.41,河虾后面那个有个线,rút bỏ đường chỉ đen,河虾后面那个有个线,河虾后面那个有个线,rút bỏ đường chỉ đen,1,1,normal,none,zh_000301,vi_000312
+302,1022.96,1023.6,0.64,给它抽出来,"đằng sau con tôm,",给它抽出来,给它抽出来,"đằng sau con tôm,",1,1,normal,none,zh_000302,vi_000313
+303,1023.6,1024.349,0.749,不然太腥了,không thì tanh lắm.,不然太腥了,不然太腥了,không thì tanh lắm.,1,1,normal,none,zh_000303,vi_000314
+304,1024.349,1025.51,1.161,我从来都没搞过,"Tôi chưa làm bao giờ,",我从来都没搞过,我从来都没搞过,"Tôi chưa làm bao giờ,",1,1,normal,none,zh_000304,vi_000315
+305,1025.51,1026.55,1.04,这还要抽那个,còn phải rút thứ đó à?,这还要抽那个,这还要抽那个,còn phải rút thứ đó à?,1,1,normal,none,zh_000305,vi_000316
+306,1026.55,1027.48,0.93,这是我那弟弟,Đây là cậu em trai kia của tôi.,这是我那弟弟,这是我那弟弟,Đây là cậu em trai kia của tôi.,1,1,normal,none,zh_000306,vi_000317
+307,1028.4,1029.55,1.15,叫洪哥 这是你弟弟,"- Chào anh Hồng đi.
+- Đây là em trai anh à?",叫洪哥 这是你弟弟,叫洪哥 这是你弟弟,Chào anh Hồng đi. Đây là em trai anh à?,0,1,dash_dialogue,speech,zh_000307,vi_000318
+308,1029.75,1030.48,0.73,洪哥,Anh Hồng.,洪哥,洪哥,Anh Hồng.,1,1,normal,none,zh_000308,vi_000319
+309,1030.829,1032.349,1.52,这不是大水冲了龙王庙,"Thế này chẳng phải là lũ lụt tràn vào miếu Long vương,",这不是大水冲了龙王庙,这不是大水冲了龙王庙,"Thế này chẳng phải là lũ lụt tràn vào miếu Long vương,",1,1,normal,none,zh_000309,vi_000320
+310,1032.349,1033.72,1.371,一家人不认识一家人,người một nhà không nhận ra nhau sao?,一家人不认识一家人,一家人不认识一家人,người một nhà không nhận ra nhau sao?,1,1,normal,none,zh_000310,vi_000321
+311,1033.72,1034.96,1.24,你看 这事弄得 没什么,"- Anh xem, chuyện này đúng là...
+- Không sao.",你看 这事弄得 没什么,你看 这事弄得 没什么,"Anh xem, chuyện này đúng là... Không sao.",0,1,dash_dialogue,speech,zh_000311,vi_000322
+312,1034.96,1036.349,1.389,他们做小的要教,"Đám đàn em phải dạy,",他们做小的要教,他们做小的要教,"Đám đàn em phải dạy,",1,1,normal,none,zh_000312,vi_000323
+313,1036.349,1037.069,0.72,你知道吗 以后,"- anh biết không?
+- Sau này,",你知道吗 以后,你知道吗 以后,"anh biết không? Sau này,",1,1,dash_dialogue,speech,zh_000313,vi_000324
+314,1037.069,1038.68,1.611,我不在家的时候,"lúc tôi không có nhà,",我不在家的时候,我不在家的时候,"lúc tôi không có nhà,",1,1,normal,none,zh_000314,vi_000325
+315,1039.109,1040.2,1.091,你弟弟到这儿,em trai anh đến đây,你弟弟到这儿,你弟弟到这儿,em trai anh đến đây,1,1,normal,none,zh_000315,vi_000326
+316,1040.2,1041.2,1.0,就跟自己家一样,cũng giống như nhà mình.,就跟自己家一样,就跟自己家一样,cũng giống như nhà mình.,1,1,normal,none,zh_000316,vi_000327
+317,1041.2,1041.829,0.629,赊账,Cho nợ.,赊账,赊账,Cho nợ.,1,1,normal,none,zh_000317,vi_000328
+318,1041.829,1042.88,1.051,别别别 赊账 记账,"- Đừng, đừng, đừng.
+- Cho nợ, ghi nợ.",别别别 赊账 记账,别别别 赊账 记账,"Đừng, đừng, đừng. Cho nợ, ghi nợ.",1,1,dash_dialogue,speech,zh_000318,vi_000329
+319,1042.88,1043.829,0.949,给钱 给现金,"Đưa tiền, đưa tiền mặt,",给钱 给现金,给钱 给现金,"Đưa tiền, đưa tiền mặt,",1,1,normal,none,zh_000319,vi_000330
+320,1043.829,1044.589,0.76,知道吗,biết chưa?,知道吗,知道吗,biết chưa?,1,1,normal,none,zh_000320,vi_000331
+321,1044.92,1045.589,0.669,没问题,Không thành vấn đề.,没问题,没问题,Không thành vấn đề.,1,1,normal,none,zh_000321,vi_000332
+322,1045.589,1046.48,0.891,照顾好了,Chăm sóc thật tốt.,照顾好了,照顾好了,Chăm sóc thật tốt.,1,1,normal,none,zh_000322,vi_000333
+323,1046.48,1048.4,1.92,今天 我,"Hôm nay, tôi",今天 我,今天 我,"Hôm nay, tôi",1,1,normal,none,zh_000323,vi_000334
+324,1049.03,1050.79,1.76,又多了一个兄弟,"lại có thêm một người anh em,",又多了一个兄弟,又多了一个兄弟,"lại có thêm một người anh em,",1,1,normal,none,zh_000324,vi_000335
+325,1051.48,1053.44,1.96,他叫张欣,cậu ấy tên là Trương Hân.,他叫张欣,他叫张欣,cậu ấy tên là Trương Hân.,1,1,normal,none,zh_000325,vi_000336
+326,1053.44,1054.68,1.24,打今儿个起,"Kể từ hôm nay,",打今儿个起,打今儿个起,"Kể từ hôm nay,",1,1,normal,none,zh_000326,vi_000337
+327,1054.68,1056.24,1.56,有我一口吃的,"chỉ cần tôi có miếng ăn,",有我一口吃的,有我一口吃的,"chỉ cần tôi có miếng ăn,",1,1,normal,none,zh_000327,vi_000338
+328,1056.24,1057.16,0.92,就有他的,cũng sẽ có phần của cậu ấy.,就有他的,就有他的,cũng sẽ có phần của cậu ấy.,1,1,normal,none,zh_000328,vi_000339
+329,1057.24,1058.51,1.27,嗨起来,Quẩy lên nào!,嗨起来,嗨起来,Quẩy lên nào!,1,1,normal,none,zh_000329,vi_000340
+330,1087.03,1087.75,0.72,先生好,Chào anh.,先生好,先生好,Chào anh.,1,1,normal,none,zh_000330,vi_000341
+331,1118.24,1118.96,0.72,站住,Đứng lại!,站住,站住,Đứng lại!,1,1,normal,none,zh_000331,vi_000342
+332,1120.2,1120.96,0.76,你个臭流氓,"Tên khốn này,",你个臭流氓,你个臭流氓,"Tên khốn này,",1,1,normal,none,zh_000332,vi_000343
+333,1120.96,1121.83,0.87,你给我站住,anh đứng lại cho tôi.,你给我站住,你给我站住,anh đứng lại cho tôi.,1,1,normal,none,zh_000333,vi_000344
+334,1122.03,1123.72,1.69,说你呢 你听到没,"Bảo anh đấy, anh nghe thấy không?",说你呢 你听到没,说你呢 你听到没,"Bảo anh đấy, anh nghe thấy không?",1,1,normal,none,zh_000334,vi_000345
+335,1123.72,1124.75,1.03,我让你站住,Tôi bảo anh đứng lại!,我让你站住,我让你站住,Tôi bảo anh đứng lại!,1,1,normal,none,zh_000335,vi_000346
+336,1124.96,1125.92,0.96,放开,Buông ra!,放开,放开,Buông ra!,1,1,normal,none,zh_000336,vi_000347
+337,1126.27,1127.16,0.89,还跑,Còn chạy à?,还跑,还跑,Còn chạy à?,1,1,normal,none,zh_000337,vi_000348
+338,1127.16,1128.4,1.24,来来来 干什么你,"- Lại đây, lại đây, lại đây.
+- Cô làm gì thế?",来来来 干什么你,来来来 干什么你,"Lại đây, lại đây, lại đây. Cô làm gì thế?",1,1,dash_dialogue,speech,zh_000338,vi_000349
+339,1128.48,1129.2,0.72,放开,Buông ra!,放开,放开,Buông ra!,1,1,normal,none,zh_000339,vi_000350
+340,1129.2,1129.88,0.68,过来,Lại đây!,过来,过来,Lại đây!,1,1,normal,none,zh_000340,vi_000351
+341,1129.88,1130.48,0.6,放开,Buông ra!,放开,放开,Buông ra!,1,1,normal,none,zh_000341,vi_000352
+342,1130.48,1131.16,0.68,你过来,Anh lại đây!,你过来,你过来,Anh lại đây!,1,1,normal,none,zh_000342,vi_000353
+343,1131.16,1133.27,2.11,你干什么呢 我问你 来来来,"Tôi hỏi anh, anh làm gì thế? Nào, nào, nào.",你干什么呢 我问你 来来来,你干什么呢 我问你 来来来,"Tôi hỏi anh, anh làm gì thế? Nào, nào, nào.",1,1,normal,none,zh_000343;zh_000344,vi_000354;vi_000355
+344,1134.0,1134.64,0.64,小钰 算了算了,"Tiểu Ngọc, thôi mà, thôi mà.",小钰 算了算了,小钰 算了算了,"Tiểu Ngọc, thôi mà, thôi mà.",1,1,normal,none,zh_000345,vi_000356
+345,1134.64,1136.11,1.47,咱们走 算什么呀算,"- Chúng ta đi thôi.
+- Thôi gì mà thôi?",咱们走 算什么呀算,咱们走 算什么呀算,Chúng ta đi thôi. Thôi gì mà thôi?,1,1,dash_dialogue,speech,zh_000346,vi_000357
+346,1136.11,1136.92,0.81,你刚才干什么呢,Anh vừa làm gì thế?,你刚才干什么呢,你刚才干什么呢,Anh vừa làm gì thế?,1,1,normal,none,zh_000347,vi_000358
+347,1136.92,1137.72,0.8,我干什么了,Tôi đã làm gì?,我干什么了,我干什么了,Tôi đã làm gì?,1,1,normal,none,zh_000348,vi_000359
+348,1137.72,1138.55,0.83,你说干什么了,Anh bảo anh đã làm gì?,你说干什么了,你说干什么了,Anh bảo anh đã làm gì?,1,1,normal,none,zh_000349,vi_000360
+349,1138.55,1139.16,0.61,我怎么你了,Tôi đã làm gì cô?,我怎么你了,我怎么你了,Tôi đã làm gì cô?,1,1,normal,none,zh_000350,vi_000361
+350,1139.16,1139.68,0.52,你摸我朋友了,Anh đã sờ bạn tôi.,你摸我朋友了,你摸我朋友了,Anh đã sờ bạn tôi.,1,1,normal,none,zh_000351,vi_000362
+351,1139.68,1141.27,1.59,你没摸我 你摸她了,"Anh không sờ tôi, anh đã sờ cô ấy.",你没摸我 你摸她了,你没摸我 你摸她了,"Anh không sờ tôi, anh đã sờ cô ấy.",1,1,normal,none,zh_000352,vi_000363
+352,1141.27,1142.4,1.13,这儿都是监控我告诉你,"Ở đây đầy camera giám sát đấy, tôi nói cho anh biết,",这儿都是监控我告诉你,这儿都是监控我告诉你,"Ở đây đầy camera giám sát đấy, tôi nói cho anh biết,",1,1,normal,none,zh_000353,vi_000364
+353,1142.4,1143.31,0.91,都看见了,đều nhìn thấy cả rồi.,都看见了,都看见了,đều nhìn thấy cả rồi.,1,1,normal,none,zh_000354,vi_000365
+354,1143.31,1144.55,1.24,你调呀监控,Cô đưa video giám sát đây.,你调呀监控,你调呀监控,Cô đưa video giám sát đây.,1,1,normal,none,zh_000355,vi_000366
+355,1144.55,1145.51,0.96,好 我调 小钰,"- Được, tôi đưa.
+- Tiểu Ngọc.",好 我调 小钰,好 我调 小钰,"Được, tôi đưa. Tiểu Ngọc.",0,1,dash_dialogue,speech,zh_000356,vi_000367
+356,1145.51,1146.27,0.76,你不嫌丢人,"Cô không ngại mất mặt,",你不嫌丢人,你不嫌丢人,"Cô không ngại mất mặt,",1,1,normal,none,zh_000357,vi_000368
+357,1146.27,1147.24,0.97,我还嫌丢人呢,tôi còn ngại mất mặt đấy.,我还嫌丢人呢,我还嫌丢人呢,tôi còn ngại mất mặt đấy.,1,1,normal,none,zh_000358,vi_000369
+358,1147.24,1147.96,0.72,你丢什么人,Cô mất mặt cái gì?,你丢什么人,你丢什么人,Cô mất mặt cái gì?,1,1,normal,none,zh_000359,vi_000370
+359,1147.96,1149.11,1.15,丢人是他 又不是你,"Người mất mặt là anh ta, chứ đâu phải là cô.",丢人是他 又不是你,丢人是他 又不是你,"Người mất mặt là anh ta, chứ đâu phải là cô.",1,1,normal,none,zh_000360,vi_000371
+360,1149.11,1149.96,0.85,你怕什么,Cô sợ cái gì?,你怕什么,你怕什么,Cô sợ cái gì?,1,1,normal,none,zh_000361,vi_000372
+361,1150.72,1152.83,2.11,娜娜 娜娜,"Na Na, Na Na.",娜娜 娜娜,娜娜 娜娜,"Na Na, Na Na.",1,1,normal,none,zh_000362,vi_000373
+362,1176.03,1177.16,1.13,你想干吗呀,Anh muốn làm gì?,你想干吗呀,你想干吗呀,Anh muốn làm gì?,1,1,normal,none,zh_000363,vi_000374
+363,1177.16,1178.64,1.48,你惹完事就想走啊,Cô gây sự xong định bỏ đi à?,你惹完事就想走啊,你惹完事就想走啊,Cô gây sự xong định bỏ đi à?,1,1,normal,none,zh_000364,vi_000375
+364,1178.88,1179.88,1.0,你知道我是谁吗,Cô biết tôi là ai không?,你知道我是谁吗,你知道我是谁吗,Cô biết tôi là ai không?,1,1,normal,none,zh_000365,vi_000376
+365,1181.16,1181.88,0.72,你谁啊,Anh là ai?,你谁啊,你谁啊,Anh là ai?,1,1,normal,none,zh_000366,vi_000377
+366,1182.24,1183.0,0.76,骆驼,Lạc Đà.,骆驼,骆驼,Lạc Đà.,1,1,normal,none,zh_000367,vi_000378
+367,1183.75,1184.75,1.0,我是四马,Tôi là Tứ Mã.,我是四马,我是四马,Tôi là Tứ Mã.,1,1,normal,none,zh_000368,vi_000379
+368,1184.75,1185.59,0.84,三牛,Tam Ngưu.,三牛,三牛,Tam Ngưu.,1,1,normal,none,zh_000369,vi_000380
+369,1186.51,1188.03,1.52,知道我大哥是谁吗,Biết đại ca tôi là ai không?,知道我大哥是谁吗,知道我大哥是谁吗,Biết đại ca tôi là ai không?,1,1,normal,none,zh_000370,vi_000381
+370,1189.64,1190.79,1.15,都是畜生呗,Đều là súc sinh thôi.,都是畜生呗,都是畜生呗,Đều là súc sinh thôi.,1,1,normal,none,zh_000371,vi_000382
+371,1191.07,1192.48,1.41,你是不是没挨过打呀,Có phải cô chưa từng bị đánh không?,你是不是没挨过打呀,你是不是没挨过打呀,Có phải cô chưa từng bị đánh không?,1,1,normal,none,zh_000372,vi_000383
+372,1194.2,1195.79,1.59,你还想走 拿过来,Cô còn định đi à? Đưa đây.,你还想走 拿过来,你还想走 拿过来,Cô còn định đi à? Đưa đây.,1,1,normal,none,zh_000373,vi_000384
+373,1196.03,1197.72,1.69,你放手吧你,Bỏ tay ra nào.,你放手吧你,你放手吧你,Bỏ tay ra nào.,1,1,normal,none,zh_000374,vi_000385
+374,1199.2,1200.0,0.8,干什么呢,Làm gì thế hả?,干什么呢,干什么呢,Làm gì thế hả?,1,1,normal,none,zh_000375,vi_000386
+375,1200.0,1201.31,1.31,别动手啊 你拿过来,"- Đừng động tay động chân!
+- Cô đưa đây!",别动手啊 你拿过来,别动手啊 你拿过来,Đừng động tay động chân! Cô đưa đây!,1,1,dash_dialogue,speech,zh_000376,vi_000387
+376,1201.31,1202.07,0.76,别动手,Đừng động vào!,别动手,别动手,Đừng động vào!,1,1,normal,none,zh_000377,vi_000388
+377,1202.07,1202.79,0.72,你拿过来,Cô đưa đây!,你拿过来,你拿过来,Cô đưa đây!,1,1,normal,none,zh_000378,vi_000389
+378,1202.79,1203.59,0.8,我让你别动手 放下,"- Tôi bảo anh đừng động vào!
+- Bỏ xuống!",我让你别动手 放下,我让你别动手 放下,Tôi bảo anh đừng động vào! Bỏ xuống!,0,1,dash_dialogue,speech,zh_000379,vi_000390
+379,1203.59,1204.16,0.57,你听到没有,Anh nghe thấy không?,你听到没有,你听到没有,Anh nghe thấy không?,1,1,normal,none,zh_000380,vi_000391
+380,1204.16,1204.68,0.52,你拿过来,Cô đưa đây!,你拿过来,你拿过来,Cô đưa đây!,1,1,normal,none,zh_000381,vi_000392
+381,1204.68,1205.35,0.67,你松手,Anh buông ra!,你松手,你松手,Anh buông ra!,1,1,normal,none,zh_000382,vi_000393
+382,1205.35,1206.27,0.92,你拿过来你,Cô đưa đây!,你拿过来你,你拿过来你,Cô đưa đây!,1,1,normal,none,zh_000383,vi_000394
+383,1206.27,1207.27,1.0,松手 你听到没,"Buông ra, anh nghe thấy không?",松手 你听到没,松手 你听到没,"Buông ra, anh nghe thấy không?",1,1,normal,none,zh_000384,vi_000395
+384,1207.27,1209.2,1.93,你们没完了是不是,Các người không chịu thôi phải không?,你们没完了是不是,你们没完了是不是,Các người không chịu thôi phải không?,1,1,normal,none,zh_000385,vi_000396
+385,1214.68,1215.31,0.63,不是,Không phải.,不是,不是,Không phải.,1,1,normal,none,zh_000386,vi_000397
+386,1216.51,1217.11,0.6,我招,Tôi...,我招,我招,Tôi...,1,1,normal,none,zh_000387,vi_000398
+387,1217.75,1218.51,0.76,别动,Yên nào!,别动,别动,Yên nào!,1,1,normal,none,zh_000388,vi_000399
+388,1220.0,1220.83,0.83,自己人,Người mình.,自己人,自己人,Người mình.,1,1,normal,none,zh_000389,vi_000400
+389,1221.96,1222.92,0.96,谁啊这是,Ai thế này?,谁啊这是,谁啊这是,Ai thế này?,1,1,normal,none,zh_000390,vi_000401
+390,1223.27,1224.24,0.97,我女朋友,Bạn gái tôi.,我女朋友,我女朋友,Bạn gái tôi.,1,1,normal,none,zh_000391,vi_000402
+391,1226.16,1226.59,0.43,不是,"Không phải,",不是,不是,"Không phải,",1,1,normal,none,zh_000392,vi_000403
+392,1226.59,1228.35,1.76,你在这儿胡说八道什么呢,anh ở đây nói linh tinh gì thế?,你在这儿胡说八道什么呢,你在这儿胡说八道什么呢,anh ở đây nói linh tinh gì thế?,1,1,normal,none,zh_000393,vi_000404
+393,1228.35,1229.31,0.96,你别说话,Đừng nói nữa.,你别说话,你别说话,Đừng nói nữa.,1,1,normal,none,zh_000394,vi_000405
+394,1230.31,1231.64,1.33,这些人是你朋友是吗,Mấy người này là bạn anh phải không?,这些人是你朋友是吗,这些人是你朋友是吗,Mấy người này là bạn anh phải không?,1,1,normal,none,zh_000395,vi_000406
+395,1231.64,1232.11,0.47,别说话,Đừng nói nữa.,别说话,别说话,Đừng nói nữa.,1,1,normal,none,zh_000396,vi_000407
+396,1232.11,1233.44,1.33,你知道他们干什么了吗,Anh biết họ đã làm gì không?,你知道他们干什么了吗,你知道他们干什么了吗,Anh biết họ đã làm gì không?,1,1,normal,none,zh_000397,vi_000408
+397,1233.44,1234.0,0.56,别说话,Đừng nói nữa.,别说话,别说话,Đừng nói nữa.,1,1,normal,none,zh_000398,vi_000409
+398,1234.0,1235.16,1.16,什么别说话,Sao lại đừng nói nữa?,什么别说话,什么别说话,Sao lại đừng nói nữa?,1,1,normal,none,zh_000399,vi_000410
+399,1235.16,1236.07,0.91,你不在局里面待着,"Anh không ở trong cục,",你不在局里面待着,你不在局里面待着,"Anh không ở trong cục,",1,1,normal,none,zh_000400,vi_000411
+400,1236.07,1236.72,0.65,你跑出来干吗,anh chạy ra đây làm gì?,你跑出来干吗,你跑出来干吗,anh chạy ra đây làm gì?,1,1,normal,none,zh_000401,vi_000412
+401,1236.72,1237.79,1.07,对啊 我从局子里边,"Đúng vậy, anh được thả ra",对啊 我从局子里边,对啊 我从局子里边,"Đúng vậy, anh được thả ra",1,1,normal,none,zh_000402,vi_000413
+402,1237.79,1238.44,0.65,放出来了,"khỏi cục rồi,",放出来了,放出来了,"khỏi cục rồi,",1,1,normal,none,zh_000403,vi_000414
+403,1238.44,1240.0,1.56,我就不能出来玩吗,anh không thể ra ngoài chơi sao?,我就不能出来玩吗,我就不能出来玩吗,anh không thể ra ngoài chơi sao?,1,1,normal,none,zh_000404,vi_000415
+404,1247.88,1248.48,0.6,不是 你出来,"Không phải, anh ra ngoài,",不是 你出来,不是 你出来,"Không phải, anh ra ngoài,",1,1,normal,none,zh_000405,vi_000416
+405,1248.48,1250.07,1.59,你怎么不跟我说一声啊,sao anh không báo với em một câu?,你怎么不跟我说一声啊,你怎么不跟我说一声啊,sao anh không báo với em một câu?,1,1,normal,none,zh_000406,vi_000417
+406,1250.07,1251.0,0.93,告诉你干啥,Báo với em làm gì?,告诉你干啥,告诉你干啥,Báo với em làm gì?,1,1,normal,none,zh_000407,vi_000418
+407,1251.0,1252.4,1.4,那什么 人家好去接你嘛,"Làm gì, để người ta tiện đi đón anh mà.",那什么 人家好去接你嘛,那什么 人家好去接你嘛,"Làm gì, để người ta tiện đi đón anh mà.",1,1,normal,none,zh_000408,vi_000419
+408,1252.4,1253.72,1.32,我用得着你接,Anh cần em đón sao?,我用得着你接,我用得着你接,Anh cần em đón sao?,1,1,normal,none,zh_000409,vi_000420
+409,1254.55,1255.75,1.2,谁让你出来的,Ai bảo em ra ngoài?,谁让你出来的,谁让你出来的,Ai bảo em ra ngoài?,1,1,normal,none,zh_000410,vi_000421
+410,1255.75,1257.31,1.56,你出来你跟我说了吗,Em ra ngoài đã nói với anh chưa?,你出来你跟我说了吗,你出来你跟我说了吗,Em ra ngoài đã nói với anh chưa?,1,1,normal,none,zh_000411,vi_000422
+411,1257.31,1257.92,0.61,我错了 我错了,"Em sai rồi, em sai rồi.",我错了 我错了,我错了 我错了,"Em sai rồi, em sai rồi.",1,1,normal,none,zh_000412,vi_000423
+412,1257.92,1259.07,1.15,你错什么错 错,Em sai cái gì mà sai?,你错什么错 错,你错什么错 错,Em sai cái gì mà sai?,1,1,normal,none,zh_000413,vi_000424
+413,1259.07,1260.16,1.09,错 错 错了管用啊,"Sai, sai, sai, sai có ích gì không?",错 错 错了管用啊,错 错 错了管用啊,"Sai, sai, sai, sai có ích gì không?",1,1,normal,none,zh_000414,vi_000425
+414,1260.16,1261.79,1.63,我错了 我错了,"Em sai rồi, em sai rồi mà.",我错了 我错了,我错了 我错了,"Em sai rồi, em sai rồi mà.",1,1,normal,none,zh_000415,vi_000426
+415,1265.0,1266.55,1.55,现在你还敢凶我,Bây giờ anh còn dám hung dữ với tôi à?,现在你还敢凶我,现在你还敢凶我,Bây giờ anh còn dám hung dữ với tôi à?,1,1,normal,none,zh_000416,vi_000427
+416,1266.55,1268.44,1.89,你还敢说我是你女朋友,Anh còn dám nói tôi là bạn gái anh.,你还敢说我是你女朋友,你还敢说我是你女朋友,Anh còn dám nói tôi là bạn gái anh.,1,1,normal,none,zh_000417,vi_000428
+417,1268.44,1269.44,1.0,你这瞎话,"Ăn nói linh tinh,",你这瞎话,你这瞎话,"Ăn nói linh tinh,",1,1,normal,none,zh_000418,vi_000429
+418,1269.44,1270.79,1.35,怎么张口就编呀你,sao há miệng là bịa chuyện được vậy hả?,怎么张口就编呀你,怎么张口就编呀你,sao há miệng là bịa chuyện được vậy hả?,1,1,normal,none,zh_000419,vi_000430
+419,1270.79,1272.16,1.37,那我编什么呀,Thế cô bảo tôi bịa cái gì?,那我编什么呀,那我编什么呀,Thế cô bảo tôi bịa cái gì?,1,1,normal,none,zh_000420,vi_000431
+420,1272.55,1273.35,0.8,编你妹,"Bịa là em gái anh,",编你妹,编你妹,"Bịa là em gái anh,",1,1,normal,none,zh_000421,vi_000432
+421,1275.51,1276.83,1.32,你姨 你婶 你奶奶,"là dì, là thím, là bà nội anh,",你姨 你婶 你奶奶,你姨 你婶 你奶奶,"là dì, là thím, là bà nội anh,",1,1,normal,none,zh_000422,vi_000433
+422,1276.83,1277.55,0.72,你说啥不行,"anh nói gì mà chẳng được,",你说啥不行,你说啥不行,"anh nói gì mà chẳng được,",1,1,normal,none,zh_000423,vi_000434
+423,1277.55,1279.0,1.45,非说我是你女朋友,lại cứ phải nói tôi là bạn gái anh.,非说我是你女朋友,非说我是你女朋友,lại cứ phải nói tôi là bạn gái anh.,1,1,normal,none,zh_000424,vi_000435
+424,1280.07,1281.64,1.57,我刚才救了你,Tôi vừa cứu cô đấy nhé.,我刚才救了你,我刚才救了你,Tôi vừa cứu cô đấy nhé.,1,1,normal,none,zh_000425,vi_000436
+425,1282.31,1283.51,1.2,那不应该的吗,Đó không phải là điều nên làm sao?,那不应该的吗,那不应该的吗,Đó không phải là điều nên làm sao?,1,1,normal,none,zh_000426,vi_000437
+426,1285.51,1286.92,1.41,别一脸不屑的样子,"Đừng có tỏ vẻ khinh khỉnh như thế,",别一脸不屑的样子,别一脸不屑的样子,"Đừng có tỏ vẻ khinh khỉnh như thế,",1,1,normal,none,zh_000427,vi_000438
+427,1286.92,1288.24,1.32,你歪着脑袋干啥呢,anh nghiêng đầu làm gì hả?,你歪着脑袋干啥呢,你歪着脑袋干啥呢,anh nghiêng đầu làm gì hả?,1,1,normal,none,zh_000428,vi_000439
+428,1289.27,1290.68,1.41,我脖子扭了呀,Cổ tôi bị trẹo rồi.,我脖子扭了呀,我脖子扭了呀,Cổ tôi bị trẹo rồi.,1,1,normal,none,zh_000429,vi_000440
+429,1292.07,1294.64,2.57,脖子扭了我帮你治啊,Cổ bị trẹo thì để tôi chữa cho anh.,脖子扭了我帮你治啊,脖子扭了我帮你治啊,Cổ bị trẹo thì để tôi chữa cho anh.,1,1,normal,none,zh_000430,vi_000441
+430,1294.64,1295.4,0.76,好了吗,Khỏi chưa?,好了吗,好了吗,Khỏi chưa?,1,1,normal,none,zh_000431,vi_000442
+431,1295.4,1296.68,1.28,这样行吗,Thế này được chưa?,这样行吗,这样行吗,Thế này được chưa?,1,1,normal,none,zh_000432,vi_000443
+432,1296.68,1297.92,1.24,好了没有 好了没有,Đã khỏi chưa? Đã khỏi chưa?,好了没有 好了没有,好了没有 好了没有,Đã khỏi chưa? Đã khỏi chưa?,1,1,normal,none,zh_000433,vi_000444
+433,1297.92,1298.51,0.59,好了没有,Khỏi chưa hả?,好了没有,好了没有,Khỏi chưa hả?,1,1,normal,none,zh_000434,vi_000445
+434,1298.72,1300.31,1.59,你 你占便宜没完了,"Anh, anh chưa sàm sỡ",你 你占便宜没完了,你 你占便宜没完了,"Anh, anh chưa sàm sỡ",1,1,normal,none,zh_000435,vi_000446
+435,1300.31,1301.07,0.76,是不是你,xong hả?,是不是你,是不是你,xong hả?,1,1,normal,none,zh_000436,vi_000447
+436,1301.59,1302.24,0.65,欣哥,Anh Hân.,欣哥,欣哥,Anh Hân.,1,1,normal,none,zh_000437,vi_000448
+437,1303.64,1304.59,0.95,嫂子东西,Đồ của chị dâu ạ.,嫂子东西,嫂子东西,Đồ của chị dâu ạ.,1,1,normal,none,zh_000438,vi_000449
+438,1324.07,1325.55,1.48,他们到底是谁啊,Rốt cuộc bọn họ là ai?,他们到底是谁啊,他们到底是谁啊,Rốt cuộc bọn họ là ai?,1,1,normal,none,zh_000439,vi_000450
+439,1327.27,1328.24,0.97,他们,Bọn họ...,他们,他们,Bọn họ...,1,1,normal,none,zh_000440,vi_000451
+440,1329.48,1330.27,0.79,搞不好身上,không cẩn thận,搞不好身上,搞不好身上,không cẩn thận,1,1,normal,none,zh_000441,vi_000452
+441,1330.27,1331.72,1.45,都背着人命呢,là trên lưng gánh mạng người đấy.,都背着人命呢,都背着人命呢,là trên lưng gánh mạng người đấy.,1,1,normal,none,zh_000442,vi_000453
+442,1333.16,1334.88,1.72,这么刺激啊,Kích thích vậy à?,这么刺激啊,这么刺激啊,Kích thích vậy à?,1,1,normal,none,zh_000443,vi_000454
+443,1335.59,1336.96,1.37,你是吓着了吧,Cô sợ rồi đúng không?,你是吓着了吧,你是吓着了吧,Cô sợ rồi đúng không?,1,1,normal,none,zh_000444,vi_000455
+444,1338.79,1340.51,1.72,别忘了我爹是谁,Đừng quên bố tôi là ai.,别忘了我爹是谁,别忘了我爹是谁,Đừng quên bố tôi là ai.,1,1,normal,none,zh_000445,vi_000456
+445,1340.75,1342.07,1.32,这还算事啊,Thế này đã là gì.,这还算事啊,这还算事啊,Thế này đã là gì.,1,1,normal,none,zh_000446,vi_000457
+446,1342.51,1343.68,1.17,我要不要告诉你爹,Tôi có nên nói với bố cô,我要不要告诉你爹,我要不要告诉你爹,Tôi có nên nói với bố cô,1,1,normal,none,zh_000447,vi_000458
+447,1343.68,1344.48,0.8,今天晚上差点,suýt nữa tối nay,今天晚上差点,今天晚上差点,suýt nữa tối nay,1,1,normal,none,zh_000448,vi_000459
+448,1344.48,1345.72,1.24,破坏了我的行动,cô đã phá hoại hành động của tôi không?,破坏了我的行动,破坏了我的行动,cô đã phá hoại hành động của tôi không?,1,1,normal,none,zh_000449,vi_000460
+449,1349.55,1350.44,0.89,走了没有,Đi chưa thế?,走了没有,走了没有,Đi chưa thế?,1,1,normal,none,zh_000450,vi_000461
+450,1364.44,1366.07,1.63,看啥呢,Nhìn gì vậy?,看啥呢,看啥呢,Nhìn gì vậy?,1,1,normal,none,zh_000451,vi_000462
+451,1375.79,1376.72,0.93,你不对劲啊,Anh có điểm bất thường.,你不对劲啊,你不对劲啊,Anh có điểm bất thường.,1,1,normal,none,zh_000452,vi_000463
+452,1381.51,1382.72,1.21,你这心跳,Nhịp tim anh...,你这心跳,你这心跳,Nhịp tim anh...,1,1,normal,none,zh_000453,vi_000464
+453,1394.59,1395.64,1.05,驴哥,Anh Lừa.,驴哥,驴哥,Anh Lừa.,1,1,normal,none,zh_000454,vi_000465
+454,1397.31,1398.2,0.89,是,Phải.,是,是,Phải.,1,1,normal,none,zh_000455,vi_000466
+455,1398.68,1399.64,0.96,大水冲了龙王庙,"Lũ lụt tràn vào miếu Long vương,",大水冲了龙王庙,大水冲了龙王庙,"Lũ lụt tràn vào miếu Long vương,",1,1,normal,none,zh_000456,vi_000467
+456,1399.64,1400.59,0.95,都是自己人,đều là người mình cả.,都是自己人,都是自己人,đều là người mình cả.,1,1,normal,none,zh_000457,vi_000468
+457,1400.72,1401.92,1.2,对 这个事,"Đúng, chuyện này",对 这个事,对 这个事,"Đúng, chuyện này",1,1,normal,none,zh_000458,vi_000469
+458,1401.92,1403.35,1.43,就得让女人走开,phải để phụ nữ tránh đi.,就得让女人走开,就得让女人走开,phải để phụ nữ tránh đi.,1,1,normal,none,zh_000459,vi_000470
+459,1404.16,1405.27,1.11,我刚才已经收拾她了,"Vừa nãy tôi đã xử cô ấy rồi,",我刚才已经收拾她了,我刚才已经收拾她了,"Vừa nãy tôi đã xử cô ấy rồi,",1,1,normal,none,zh_000460,vi_000471
+460,1405.27,1406.64,1.37,我嘎一个大嘴巴子,"tôi tát cho một cái,",我嘎一个大嘴巴子,我嘎一个大嘴巴子,"tôi tát cho một cái,",1,1,normal,none,zh_000461,vi_000472
+461,1408.07,1409.03,0.96,完了 后屁股,sau đó trực tiếp,完了 后屁股,完了 后屁股,sau đó trực tiếp,1,1,normal,none,zh_000462,vi_000473
+462,1409.03,1410.16,1.13,直接来了一脚,đạp cho một phát vào mông.,直接来了一脚,直接来了一脚,đạp cho một phát vào mông.,1,1,normal,none,zh_000463,vi_000474
+463,1410.79,1411.75,0.96,没完了是不是,Chưa xong nữa phải không?,没完了是不是,没完了是不是,Chưa xong nữa phải không?,1,1,normal,none,zh_000464,vi_000475
+464,1411.75,1413.59,1.84,腰眼还给一电炮呢,Tôi còn thúc cho một phát vào bụng.,腰眼还给一电炮呢,腰眼还给一电炮呢,Tôi còn thúc cho một phát vào bụng.,1,1,normal,none,zh_000465,vi_000476
+465,1416.92,1419.0,2.08,知道了 马上回去,"Biết rồi, về ngay đây.",知道了 马上回去,知道了 马上回去,"Biết rồi, về ngay đây.",1,1,normal,none,zh_000466,vi_000477
+466,1419.72,1420.64,0.92,不醉不归,Không say không về.,不醉不归,不醉不归,Không say không về.,1,1,normal,none,zh_000467,vi_000478
+467,1430.59,1432.11,1.52,你脖子怎么不歪了,Sao cổ anh không bị trẹo nữa?,你脖子怎么不歪了,你脖子怎么不歪了,Sao cổ anh không bị trẹo nữa?,1,1,normal,none,zh_000468,vi_000479
+468,1434.11,1435.0,0.89,那边,Bên kia.,那边,那边,Bên kia.,1,1,normal,none,zh_000469,vi_000480
+469,1479.35,1481.35,2.0,爸 你吓死我了,"Bố, bố làm con hết cả hồn.",爸 你吓死我了,爸 你吓死我了,"Bố, bố làm con hết cả hồn.",1,1,normal,none,zh_000470,vi_000481
+470,1481.88,1483.4,1.52,这大半夜的疯哪儿去了,Đêm hôm khuya khoắt lông bông đi đâu đấy?,这大半夜的疯哪儿去了,这大半夜的疯哪儿去了,Đêm hôm khuya khoắt lông bông đi đâu đấy?,1,1,normal,none,zh_000471,vi_000482
+471,1483.68,1484.48,0.8,不是 我跟你说了,"Ơ hay, con đã nói với bố",不是 我跟你说了,不是 我跟你说了,"Ơ hay, con đã nói với bố",1,1,normal,none,zh_000472,vi_000483
+472,1484.48,1485.03,0.55,多少次了,"bao nhiêu lần rồi,",多少次了,多少次了,"bao nhiêu lần rồi,",1,1,normal,none,zh_000473,vi_000484
+473,1485.03,1485.88,0.85,你别自己一个人,bố đừng có tự ý,你别自己一个人,你别自己一个人,bố đừng có tự ý,1,1,normal,none,zh_000474,vi_000485
+474,1485.88,1487.44,1.56,溜到我房间里来 行吗,"vào phòng con nữa, được không?",溜到我房间里来 行吗,溜到我房间里来 行吗,"vào phòng con nữa, được không?",1,1,normal,none,zh_000475,vi_000486
+475,1487.44,1488.27,0.83,我这么大姑娘了,"Con là con gái lớn tướng thế này rồi,",我这么大姑娘了,我这么大姑娘了,"Con là con gái lớn tướng thế này rồi,",1,1,normal,none,zh_000476,vi_000487
+476,1488.27,1489.88,1.61,我也有隐私的好吧,con cũng có quyền riêng tư chứ.,我也有隐私的好吧,我也有隐私的好吧,con cũng có quyền riêng tư chứ.,1,1,normal,none,zh_000477,vi_000488
+477,1491.48,1492.31,0.83,你跟我出来,Con ra đây với bố.,你跟我出来,你跟我出来,Con ra đây với bố.,1,1,normal,none,zh_000478,vi_000489
+478,1493.11,1494.92,1.81,吓死我了,Sợ hết cả hồn.,吓死我了,吓死我了,Sợ hết cả hồn.,1,1,normal,none,zh_000479,vi_000490
+479,1499.44,1500.07,0.63,坐那儿,Ngồi đó đi.,坐那儿,坐那儿,Ngồi đó đi.,1,1,normal,none,zh_000480,vi_000491
+480,1508.72,1509.48,0.76,你说吧,Bố nói đi.,你说吧,你说吧,Bố nói đi.,1,1,normal,none,zh_000481,vi_000492
+481,1511.31,1513.03,1.72,你放假回来半个月了,"Con được nghỉ về nhà nửa tháng rồi,",你放假回来半个月了,你放假回来半个月了,"Con được nghỉ về nhà nửa tháng rồi,",1,1,normal,none,zh_000482,vi_000493
+482,1513.03,1514.16,1.13,你自己算算,con tự tính xem,你自己算算,你自己算算,con tự tính xem,1,1,normal,none,zh_000483,vi_000494
+483,1514.75,1515.59,0.84,你有几个晚上,có mấy buổi tối,你有几个晚上,你有几个晚上,có mấy buổi tối,1,1,normal,none,zh_000484,vi_000495
+484,1515.59,1516.72,1.13,待在家里的,"là con ở nhà,",待在家里的,待在家里的,"là con ở nhà,",1,1,normal,none,zh_000485,vi_000496
+485,1517.11,1518.0,0.89,陪陪你妈,chơi với mẹ con?,陪陪你妈,陪陪你妈,chơi với mẹ con?,1,1,normal,none,zh_000486,vi_000497
+486,1519.16,1521.03,1.87,研究生快毕业的人了,"Sắp tốt nghiệp cao học đến nơi rồi,",研究生快毕业的人了,研究生快毕业的人了,"Sắp tốt nghiệp cao học đến nơi rồi,",1,1,normal,none,zh_000487,vi_000498
+487,1521.88,1523.27,1.39,你是个什么状态,con đang ở trong tình trạng thế nào hả?,你是个什么状态,你是个什么状态,con đang ở trong tình trạng thế nào hả?,1,1,normal,none,zh_000488,vi_000499
+488,1524.51,1526.0,1.49,你以为工作好找啊,Con tưởng dễ tìm việc lắm à?,你以为工作好找啊,你以为工作好找啊,Con tưởng dễ tìm việc lắm à?,1,1,normal,none,zh_000489,vi_000500
+489,1527.72,1528.68,0.96,我跟你说话你,"Bố nói chuyện với con, con...",我跟你说话你,我跟你说话你,"Bố nói chuyện với con, con...",1,1,normal,none,zh_000490,vi_000501
+490,1529.48,1530.07,0.59,我跟你说话,"Bố nói chuyện với con đấy,",我跟你说话,我跟你说话,"Bố nói chuyện với con đấy,",1,1,normal,none,zh_000491,vi_000502
+491,1530.07,1530.92,0.85,你听见没有,con có nghe thấy không?,你听见没有,你听见没有,con có nghe thấy không?,1,1,normal,none,zh_000492,vi_000503
+492,1530.92,1532.96,2.04,没听见 我睡觉了,"Không nghe thấy, con đi ngủ đây.",没听见 我睡觉了,没听见 我睡觉了,"Không nghe thấy, con đi ngủ đây.",1,1,normal,none,zh_000493,vi_000504
+493,1536.48,1537.96,1.48,骆驼说你女朋友,Lạc Đà nói bạn gái cậu,骆驼说你女朋友,骆驼说你女朋友,Lạc Đà nói bạn gái cậu,1,1,normal,none,zh_000494,vi_000505
+494,1537.96,1539.07,1.11,可漂亮了,xinh đẹp lắm.,可漂亮了,可漂亮了,xinh đẹp lắm.,1,1,normal,none,zh_000495,vi_000506
+495,1539.07,1541.07,2.0,人呢 你叫来啊,Đâu rồi? Cậu gọi tới đây đi.,人呢 你叫来啊,人呢 你叫来啊,Đâu rồi? Cậu gọi tới đây đi.,1,1,normal,none,zh_000496,vi_000507
+496,1541.27,1543.75,2.48,凑合看 拿不出手,"Nhìn tạm thôi, không đưa đi cùng được.",凑合看 拿不出手,凑合看 拿不出手,"Nhìn tạm thôi, không đưa đi cùng được.",1,1,normal,none,zh_000497,vi_000508
+497,1543.88,1545.44,1.56,怎么 怎么搞到的,Sao... sao mà có được vậy?,怎么 怎么搞到的,怎么 怎么搞到的,Sao... sao mà có được vậy?,1,1,normal,none,zh_000498,vi_000509
+498,1545.96,1546.59,0.63,说,Nói.,说,说,Nói.,1,1,normal,none,zh_000499,vi_000510
+499,1547.0,1548.35,1.35,我不保安吗,Thì tôi là bảo vệ mà.,我不保安吗,我不保安吗,Thì tôi là bảo vệ mà.,1,1,normal,none,zh_000500,vi_000511
+500,1548.51,1550.07,1.56,她就住我们小区,"Cô ấy sống trong khu nhà bọn tôi,",她就住我们小区,她就住我们小区,"Cô ấy sống trong khu nhà bọn tôi,",1,1,normal,none,zh_000501,vi_000512
+501,1550.59,1552.0,1.41,没事找我给搬东西,"không có việc gì cũng tìm tôi nhờ chuyển đồ,",没事找我给搬东西,没事找我给搬东西,"không có việc gì cũng tìm tôi nhờ chuyển đồ,",1,1,normal,none,zh_000502,vi_000513
+502,1552.0,1552.72,0.72,搬来搬去的,chuyển tới chuyển lui,搬来搬去的,搬来搬去的,chuyển tới chuyển lui,1,1,normal,none,zh_000503,vi_000514
+503,1552.72,1553.59,0.87,不是熟了吗就,nên thân quen ấy mà.,不是熟了吗就,不是熟了吗就,nên thân quen ấy mà.,1,1,normal,none,zh_000504,vi_000515
+504,1553.59,1556.11,2.52,就搬 搬到床上了吧,Thế là chuyển lên giường luôn phải không?,就搬 搬到床上了吧,就搬 搬到床上了吧,Thế là chuyển lên giường luôn phải không?,1,1,normal,none,zh_000505,vi_000516
+505,1557.59,1559.0,1.41,你一定有招,Chắc chắn là cậu có chiêu.,你一定有招,你一定有招,Chắc chắn là cậu có chiêu.,1,1,normal,none,zh_000506,vi_000517
+506,1559.83,1561.31,1.48,她呢就是,Thì là hồi trước,她呢就是,她呢就是,Thì là hồi trước,1,1,normal,none,zh_000507,vi_000518
+507,1561.31,1562.75,1.44,之前有个男朋友,"cô ấy có bạn trai,",之前有个男朋友,之前有个男朋友,"cô ấy có bạn trai,",1,1,normal,none,zh_000508,vi_000519
+508,1563.24,1564.96,1.72,三天两头就骚扰她,cứ dăm ba hôm lại quấy rầy cô ấy.,三天两头就骚扰她,三天两头就骚扰她,cứ dăm ba hôm lại quấy rầy cô ấy.,1,1,normal,none,zh_000509,vi_000520
+509,1564.96,1566.2,1.24,我那能惯着他吗,Tôi mặc kệ anh ta được chắc?,我那能惯着他吗,我那能惯着他吗,Tôi mặc kệ anh ta được chắc?,1,1,normal,none,zh_000510,vi_000521
+510,1566.2,1567.72,1.52,我就出了几回手,Thế là tôi cũng ra tay mấy lần.,我就出了几回手,我就出了几回手,Thế là tôi cũng ra tay mấy lần.,1,1,normal,none,zh_000511,vi_000522
+511,1567.72,1569.59,1.87,那 那这次在拘留所,"Vậy, vậy lần này cậu ở trại tạm giam",那 那这次在拘留所,那 那这次在拘留所,"Vậy, vậy lần này cậu ở trại tạm giam",1,1,normal,none,zh_000512,vi_000523
+512,1569.59,1570.55,0.96,你就是为了她,là vì cô gái đó à?,你就是为了她,你就是为了她,là vì cô gái đó à?,1,1,normal,none,zh_000513,vi_000524
+513,1571.72,1572.51,0.79,这着实是,Thực ra lần này,这着实是,这着实是,Thực ra lần này,1,1,normal,none,zh_000514,vi_000525
+514,1572.51,1573.88,1.37,下手有点重这把,ra tay hơi nặng.,下手有点重这把,下手有点重这把,ra tay hơi nặng.,1,1,normal,none,zh_000515,vi_000526
+515,1573.88,1575.75,1.87,你还是个情种,Cậu cũng là thằng nặng tình đấy nhỉ.,你还是个情种,你还是个情种,Cậu cũng là thằng nặng tình đấy nhỉ.,1,1,normal,none,zh_000516,vi_000527
+516,1576.64,1577.51,0.87,咱这生意,Việc làm ăn này của chúng ta,咱这生意,咱这生意,Việc làm ăn này của chúng ta,1,1,normal,none,zh_000517,vi_000528
+517,1577.51,1578.75,1.24,可不敢跟弟妹说,thực không dám nói cho em dâu biết.,可不敢跟弟妹说,可不敢跟弟妹说,thực không dám nói cho em dâu biết.,1,1,normal,none,zh_000518,vi_000529
+518,1578.75,1579.16,0.41,明白,Tôi hiểu.,明白,明白,Tôi hiểu.,1,1,normal,none,zh_000519,vi_000530
+519,1579.16,1580.48,1.32,等挣了大钱了,"Đợi kiếm được nhiều tiền rồi,",等挣了大钱了,等挣了大钱了,"Đợi kiếm được nhiều tiền rồi,",1,1,normal,none,zh_000520,vi_000531
+520,1580.48,1582.59,2.11,啥女人不由着你挑啊,cậu tùy ý chọn cô nào mà chẳng được.,啥女人不由着你挑啊,啥女人不由着你挑啊,cậu tùy ý chọn cô nào mà chẳng được.,1,1,normal,none,zh_000521,vi_000532
+521,1582.59,1583.48,0.89,骆驼,Lạc Đà.,骆驼,骆驼,Lạc Đà.,1,1,normal,none,zh_000522,vi_000533
+522,1583.48,1584.75,1.27,给我滚过来,Lăn ra đây cho tôi.,给我滚过来,给我滚过来,Lăn ra đây cho tôi.,1,1,normal,none,zh_000523,vi_000534
+523,1584.75,1588.16,3.41,明儿去买金戒指金耳环,"Ngày mai đi mua nhẫn rồi khuyên tai vàng,",明儿去买金戒指金耳环,明儿去买金戒指金耳环,"Ngày mai đi mua nhẫn rồi khuyên tai vàng,",1,1,normal,none,zh_000524,vi_000535
+524,1588.16,1589.83,1.67,给弟妹赔礼道歉,tặng quà xin lỗi em dâu.,给弟妹赔礼道歉,给弟妹赔礼道歉,tặng quà xin lỗi em dâu.,1,1,normal,none,zh_000525,vi_000536
+525,1590.59,1591.31,0.72,哥,"Anh,",哥,哥,"Anh,",1,1,normal,none,zh_000526,vi_000537
+526,1591.64,1593.59,1.95,你这进去那么长时间了,"anh vào trong lâu như vậy,",你这进去那么长时间了,你这进去那么长时间了,"anh vào trong lâu như vậy,",1,1,normal,none,zh_000527,vi_000538
+527,1593.59,1595.35,1.76,这兄弟们早没钱了,các anh em hết tiền từ lâu rồi.,这兄弟们早没钱了,这兄弟们早没钱了,các anh em hết tiền từ lâu rồi.,1,1,normal,none,zh_000528,vi_000539
+528,1596.11,1598.16,2.05,啥时候带我们上山挣钱,Khi nào anh mới dẫn bọn em lên núi kiếm tiền?,啥时候带我们上山挣钱,啥时候带我们上山挣钱,Khi nào anh mới dẫn bọn em lên núi kiếm tiền?,1,1,normal,none,zh_000529,vi_000540
+529,1601.51,1602.59,1.08,啥上山,Lên núi gì cơ?,啥上山,啥上山,Lên núi gì cơ?,1,1,normal,none,zh_000530,vi_000541
+530,1605.64,1607.79,2.15,回头带你长长见识,Lần sau dẫn cậu đi mở mang tầm mắt.,回头带你长长见识,回头带你长长见识,Lần sau dẫn cậu đi mở mang tầm mắt.,1,1,normal,none,zh_000531,vi_000542
+531,1642.31,1643.03,0.72,兄弟,"Người anh em,",兄弟,兄弟,"Người anh em,",1,1,normal,none,zh_000532,vi_000543
+532,1643.64,1645.07,1.43,你们这儿负责人是谁啊,người phụ trách chỗ các cậu là ai thế?,你们这儿负责人是谁啊,你们这儿负责人是谁啊,người phụ trách chỗ các cậu là ai thế?,1,1,normal,none,zh_000533,vi_000544
+533,1646.83,1647.92,1.09,负责人在不在,Người phụ trách có ở đây không?,负责人在不在,负责人在不在,Người phụ trách có ở đây không?,1,1,normal,none,zh_000534,vi_000545
+534,1653.44,1654.64,1.2,都挺沉默,Đều im lặng quá nhỉ.,都挺沉默,都挺沉默,Đều im lặng quá nhỉ.,1,1,normal,none,zh_000535,vi_000546
+535,1655.64,1656.4,0.76,警察,Cảnh sát đây.,警察,警察,Cảnh sát đây.,1,1,normal,none,zh_000536,vi_000547
+536,1664.31,1665.72,1.41,再拦着就是妨碍公务了,"Còn ngăn cản thì là cản trở người thi hành công vụ đấy,",再拦着就是妨碍公务了,再拦着就是妨碍公务了,"Còn ngăn cản thì là cản trở người thi hành công vụ đấy,",1,1,normal,none,zh_000537,vi_000548
+537,1665.72,1666.79,1.07,别等我拘你们,đừng để tôi bắt giam các cậu.,别等我拘你们,别等我拘你们,đừng để tôi bắt giam các cậu.,1,1,normal,none,zh_000538,vi_000549
+538,1667.2,1667.79,0.59,闪开,Tránh ra.,闪开,闪开,Tránh ra.,1,1,normal,none,zh_000539,vi_000550
+539,1669.72,1670.51,0.79,闪开,Tránh ra.,闪开,闪开,Tránh ra.,1,1,normal,none,zh_000540,vi_000551
+540,1672.27,1672.88,0.61,退后,Lùi lại.,退后,退后,Lùi lại.,1,1,normal,none,zh_000541,vi_000552
+541,1673.07,1673.55,0.48,闪开,Tránh ra.,闪开,闪开,Tránh ra.,1,1,normal,none,zh_000542,vi_000553
+542,1673.55,1674.31,0.76,怎么回事,Có chuyện gì thế?,怎么回事,怎么回事,Có chuyện gì thế?,1,1,normal,none,zh_000543,vi_000554
+543,1677.83,1678.51,0.68,白总好,Chào sếp Bạch.,白总好,白总好,Chào sếp Bạch.,1,1,normal,none,zh_000544,vi_000555
+544,1678.59,1679.2,0.61,白总,Sếp Bạch.,白总,白总,Sếp Bạch.,1,1,normal,none,zh_000545,vi_000556
+545,1680.88,1681.59,0.71,什么事,Có chuyện gì?,什么事,什么事,Có chuyện gì?,1,1,normal,none,zh_000546,vi_000557
+546,1682.24,1682.72,0.48,你好,"Chào anh,",你好,你好,"Chào anh,",1,1,normal,none,zh_000547,vi_000558
+547,1682.72,1684.48,1.76,我们是京海市公安局的,"chúng tôi là người của Cục Công an thành phố Kinh Hải,",我们是京海市公安局的,我们是京海市公安局的,"chúng tôi là người của Cục Công an thành phố Kinh Hải,",1,1,normal,none,zh_000548,vi_000559
+548,1684.48,1686.07,1.59,想找你了解点情况,muốn tìm anh tìm hiểu một vài việc.,想找你了解点情况,想找你了解点情况,muốn tìm anh tìm hiểu một vài việc.,1,1,normal,none,zh_000549,vi_000560
+549,1686.79,1687.88,1.09,下湾的事,Chuyện của Hạ Loan,下湾的事,下湾的事,Chuyện của Hạ Loan,1,1,normal,none,zh_000550,vi_000561
+550,1688.59,1690.11,1.52,就不劳烦你们市局了吧,không phiền đến Cục Công an thành phố các anh.,就不劳烦你们市局了吧,就不劳烦你们市局了吧,không phiền đến Cục Công an thành phố các anh.,1,1,normal,none,zh_000551,vi_000562
+551,1691.68,1693.2,1.52,白江波白老板是吧,Ông chủ Bạch Giang Ba đúng không?,白江波白老板是吧,白江波白老板是吧,Ông chủ Bạch Giang Ba đúng không?,1,1,normal,none,zh_000552,vi_000563
+552,1693.64,1694.92,1.28,那个京海昨天发生了,Hôm qua Kinh Hải đã xảy ra,那个京海昨天发生了,那个京海昨天发生了,Hôm qua Kinh Hải đã xảy ra,1,1,normal,none,zh_000553,vi_000564
+553,1694.92,1696.83,1.91,非常重大的刑事案件,một vụ án hình sự vô cùng nghiêm trọng.,非常重大的刑事案件,非常重大的刑事案件,một vụ án hình sự vô cùng nghiêm trọng.,1,1,normal,none,zh_000554,vi_000565
+554,1697.27,1698.31,1.04,我们怀疑跟你们,Chúng tôi nghi ngờ có liên quan đến,我们怀疑跟你们,我们怀疑跟你们,Chúng tôi nghi ngờ có liên quan đến,1,1,normal,none,zh_000555,vi_000566
+555,1698.31,1700.0,1.69,沙场被抢劫有关,việc bãi cát các anh bị cướp.,沙场被抢劫有关,沙场被抢劫有关,việc bãi cát các anh bị cướp.,1,1,normal,none,zh_000556,vi_000567
+556,1701.2,1702.27,1.07,昨天晚上的事,"Chuyện tối hôm qua,",昨天晚上的事,昨天晚上的事,"Chuyện tối hôm qua,",1,1,normal,none,zh_000557,vi_000568
+557,1702.75,1704.48,1.73,我跟下湾分局的袁东,"tôi đã nói rõ với Cục trưởng Viên,",我跟下湾分局的袁东,我跟下湾分局的袁东,"tôi đã nói rõ với Cục trưởng Viên,",1,1,normal,none,zh_000558,vi_000569
+558,1704.48,1705.31,0.83,袁局长,Viên Đông,袁局长,袁局长,Viên Đông,1,1,normal,none,zh_000559,vi_000570
+559,1705.64,1706.68,1.04,都已经说清楚了,của chi cục Hạ Loan rồi.,都已经说清楚了,都已经说清楚了,của chi cục Hạ Loan rồi.,1,1,normal,none,zh_000560,vi_000571
+560,1707.07,1708.68,1.61,有什么事 你去问他去,Có chuyện gì anh đi mà hỏi anh ấy.,有什么事 你去问他去,有什么事 你去问他去,Có chuyện gì anh đi mà hỏi anh ấy.,1,1,normal,none,zh_000561,vi_000572
+561,1710.96,1712.31,1.35,你这儿受了损失,"Chỗ này của các anh bị tổn thất,",你这儿受了损失,你这儿受了损失,"Chỗ này của các anh bị tổn thất,",1,1,normal,none,zh_000562,vi_000573
+562,1712.96,1714.27,1.31,不想尽快查清楚,không muốn nhanh chóng tra rõ à?,不想尽快查清楚,不想尽快查清楚,không muốn nhanh chóng tra rõ à?,1,1,normal,none,zh_000563,vi_000574
+563,1714.48,1715.75,1.27,我们这是帮你忙,Chúng tôi đang giúp anh đấy.,我们这是帮你忙,我们这是帮你忙,Chúng tôi đang giúp anh đấy.,1,1,normal,none,zh_000564,vi_000575
+564,1716.24,1717.35,1.11,我想有用吗,Tôi muốn thì có ích gì không?,我想有用吗,我想有用吗,Tôi muốn thì có ích gì không?,1,1,normal,none,zh_000565,vi_000576
+565,1717.79,1719.11,1.32,你们被抢劫的时候,"Lúc các anh bị cướp,",你们被抢劫的时候,你们被抢劫的时候,"Lúc các anh bị cướp,",1,1,normal,none,zh_000566,vi_000577
+566,1719.11,1720.48,1.37,都谁在场啊,có những ai đang ở đây?,都谁在场啊,都谁在场啊,có những ai đang ở đây?,1,1,normal,none,zh_000567,vi_000578
+567,1721.64,1723.0,1.36,在场的全在医院呢,"Những người có mặt đều đang ở bệnh viện,",在场的全在医院呢,在场的全在医院呢,"Những người có mặt đều đang ở bệnh viện,",1,1,normal,none,zh_000568,vi_000579
+568,1723.72,1724.59,0.87,你去那儿问去,anh đến đó mà hỏi.,你去那儿问去,你去那儿问去,anh đến đó mà hỏi.,1,1,normal,none,zh_000569,vi_000580
+569,1725.59,1726.35,0.76,等会儿,Đợi đã.,等会儿,等会儿,Đợi đã.,1,1,normal,none,zh_000570,vi_000581
+570,1729.48,1730.31,0.83,是这样啊,Là thế này.,是这样啊,是这样啊,Là thế này.,1,1,normal,none,zh_000571,vi_000582
+571,1732.35,1734.07,1.72,你要是万一想起点什么,"Nếu lỡ như anh có nhớ ra chuyện gì,",你要是万一想起点什么,你要是万一想起点什么,"Nếu lỡ như anh có nhớ ra chuyện gì,",1,1,normal,none,zh_000572,vi_000583
+572,1734.92,1736.31,1.39,欢迎你跟我们联系,anh cứ việc liên lạc với chúng tôi.,欢迎你跟我们联系,欢迎你跟我们联系,anh cứ việc liên lạc với chúng tôi.,1,1,normal,none,zh_000573,vi_000584
+573,1739.35,1740.24,0.89,这是我电话,Đây là số điện thoại của tôi.,这是我电话,这是我电话,Đây là số điện thoại của tôi.,1,1,normal,none,zh_000574,vi_000585
+574,1746.27,1746.92,0.65,打扰了,Quấy rầy rồi.,打扰了,打扰了,Quấy rầy rồi.,1,1,normal,none,zh_000575,vi_000586
+575,1759.44,1760.51,1.07,老板 五个肠粉,"Ông chủ, năm suất bánh cuốn,",老板 五个肠粉,老板 五个肠粉,"Ông chủ, năm suất bánh cuốn,",1,1,normal,none,zh_000576,vi_000588
+576,1760.51,1762.0,1.49,打包带走 行 您先坐,"- đóng gói mang đi.
+- Được, cậu ngồi trước đi.",打包带走 行 您先坐,打包带走 行 您先坐,"đóng gói mang đi. Được, cậu ngồi trước đi.",0,1,dash_dialogue,speech,zh_000577,vi_000589
+577,1766.55,1767.92,1.37,大哥 你这旮有人没,"Đại ca, chỗ này có ai ngồi không?",大哥 你这旮有人没,大哥 你这旮有人没,"Đại ca, chỗ này có ai ngồi không?",1,1,normal,none,zh_000578,vi_000590
+578,1777.35,1778.59,1.24,疯驴子没有事,Lừa Điên không sao.,疯驴子没有事,疯驴子没有事,Lừa Điên không sao.,1,1,normal,none,zh_000579,vi_000591
+579,1779.31,1781.16,1.85,左肩膀取了五个铁砂,Lấy được năm hạt sắt từ vai trái.,左肩膀取了五个铁砂,左肩膀取了五个铁砂,Lấy được năm hạt sắt từ vai trái.,1,1,normal,none,zh_000580,vi_000592
+580,1783.16,1783.92,0.76,你怎么样,Cậu thế nào?,你怎么样,你怎么样,Cậu thế nào?,1,1,normal,none,zh_000581,vi_000593
+581,1783.92,1785.11,1.19,我更没有事,Tôi càng không sao.,我更没有事,我更没有事,Tôi càng không sao.,1,1,normal,none,zh_000582,vi_000594
+582,1785.96,1787.72,1.76,你没事 不能好好说话,Cậu không sao thì không nói chuyện đàng hoàng được à?,你没事 不能好好说话,你没事 不能好好说话,Cậu không sao thì không nói chuyện đàng hoàng được à?,1,1,normal,none,zh_000583,vi_000595
+583,1788.24,1789.27,1.03,我怕露馅,Tôi sợ lộ tẩy.,我怕露馅,我怕露馅,Tôi sợ lộ tẩy.,1,1,normal,none,zh_000584,vi_000596
+584,1790.27,1791.48,1.21,下湾那几个沙场,Buổi sáng chúng tôi đã đến,下湾那几个沙场,下湾那几个沙场,Buổi sáng chúng tôi đã đến,1,1,normal,none,zh_000585,vi_000597
+585,1791.48,1792.55,1.07,我们上午去过了,bãi cát ở Hạ Loan rồi.,我们上午去过了,我们上午去过了,bãi cát ở Hạ Loan rồi.,1,1,normal,none,zh_000586,vi_000598
+586,1792.96,1794.51,1.55,沙场老板很嚣张,"Ông chủ bãi cát rất hống hách,",沙场老板很嚣张,沙场老板很嚣张,"Ông chủ bãi cát rất hống hách,",1,1,normal,none,zh_000587,vi_000599
+587,1794.92,1796.07,1.15,据说有点背景,nghe nói có chút bối cảnh.,据说有点背景,据说有点背景,nghe nói có chút bối cảnh.,1,1,normal,none,zh_000588,vi_000600
+588,1796.35,1797.4,1.05,差不多枪手,Gần như chắc chắn tay súng,差不多枪手,差不多枪手,Gần như chắc chắn tay súng,1,1,normal,none,zh_000589,vi_000601
+589,1797.55,1798.68,1.13,就是他派来的吧,là do hắn phái tới.,就是他派来的吧,就是他派来的吧,là do hắn phái tới.,1,1,normal,none,zh_000590,vi_000602
+590,1799.27,1801.03,1.76,那这不就是黑吃黑吗,Vậy đây là tội phạm đánh nhau còn gì nữa.,那这不就是黑吃黑吗,那这不就是黑吃黑吗,Vậy đây là tội phạm đánh nhau còn gì nữa.,1,1,normal,none,zh_000591,vi_000603
+591,1801.16,1802.2,1.04,据我们了解,"Theo chúng tôi tìm hiểu,",据我们了解,据我们了解,"Theo chúng tôi tìm hiểu,",1,1,normal,none,zh_000592,vi_000604
+592,1802.4,1803.72,1.32,从一九九八年开始,"bắt đầu từ năm 1998,",从一九九八年开始,从一九九八年开始,"bắt đầu từ năm 1998,",1,1,normal,none,zh_000593,vi_000605
+593,1803.72,1805.27,1.55,他在下湾的几处沙场,mấy bãi cát của hắn ở Hạ Loan,他在下湾的几处沙场,他在下湾的几处沙场,mấy bãi cát của hắn ở Hạ Loan,1,1,normal,none,zh_000594,vi_000606
+594,1805.27,1807.07,1.8,都受到过打砸抢劫,"đều từng bị đập phá cướp bóc,",都受到过打砸抢劫,都受到过打砸抢劫,"đều từng bị đập phá cướp bóc,",1,1,normal,none,zh_000595,vi_000607
+595,1807.35,1808.2,0.85,也伤了人,"cũng có người bị thương,",也伤了人,也伤了人,"cũng có người bị thương,",1,1,normal,none,zh_000596,vi_000608
+596,1808.35,1809.68,1.33,但从来没有报过案,nhưng chưa một lần nào báo án.,但从来没有报过案,但从来没有报过案,nhưng chưa một lần nào báo án.,1,1,normal,none,zh_000597,vi_000609
+597,1809.88,1810.92,1.04,要不是昨天晚上,Nếu không phải tối hôm qua,要不是昨天晚上,要不是昨天晚上,Nếu không phải tối hôm qua,1,1,normal,none,zh_000598,vi_000610
+598,1810.92,1811.96,1.04,工地上有人报案,"trên công trường có người báo án,",工地上有人报案,工地上有人报案,"trên công trường có người báo án,",1,1,normal,none,zh_000599,vi_000611
+599,1811.96,1813.48,1.52,我们也没法介入调查,thì chúng ta không thể nào can thiệp điều tra.,我们也没法介入调查,我们也没法介入调查,thì chúng ta không thể nào can thiệp điều tra.,1,1,normal,none,zh_000600,vi_000612
+600,1814.0,1814.64,0.64,完了,Xong rồi.,完了,完了,Xong rồi.,1,1,normal,none,zh_000601,vi_000613
+601,1816.07,1817.2,1.13,这事还整大了,Vụ này lớn đây.,这事还整大了,这事还整大了,Vụ này lớn đây.,1,1,normal,none,zh_000602,vi_000614
+602,1817.2,1819.31,2.11,好 慢慢走 原本就是一个杀人案,"- Được, đi thong thả nhé.
+- Vốn dĩ chỉ là một vụ án giết người.",好 慢慢走 原本就是一个杀人案,好 慢慢走 原本就是一个杀人案,"Được, đi thong thả nhé. Vốn dĩ chỉ là một vụ án giết người.",0,1,dash_dialogue,speech,zh_000603,vi_000615
+603,1820.55,1821.79,1.24,完了现在你这边说,Xong rồi bây giờ anh lại nói,完了现在你这边说,完了现在你这边说,Xong rồi bây giờ anh lại nói,1,1,normal,none,zh_000604,vi_000616
+604,1821.79,1823.88,2.09,背后有一个卖淫团伙案,đằng sau có một vụ băng nhóm bán dâm.,背后有一个卖淫团伙案,背后有一个卖淫团伙案,đằng sau có một vụ băng nhóm bán dâm.,1,1,normal,none,zh_000605,vi_000617
+605,1824.83,1826.31,1.48,我现在一介入,"Bây giờ tôi vừa nhúng tay vào,",我现在一介入,我现在一介入,"Bây giờ tôi vừa nhúng tay vào,",1,1,normal,none,zh_000606,vi_000618
+606,1827.92,1829.27,1.35,又扯出一个,lại lôi ra một vụ,又扯出一个,又扯出一个,lại lôi ra một vụ,1,1,normal,none,zh_000607,vi_000619
+607,1829.27,1831.2,1.93,下湾黑社会案,xã hội đen Hạ Loan.,下湾黑社会案,下湾黑社会案,xã hội đen Hạ Loan.,1,1,normal,none,zh_000608,vi_000620
+608,1831.2,1832.92,1.72,疯驴子后台不简单哪,Chỗ dựa của Lừa Điên không đơn giản đâu.,疯驴子后台不简单哪,疯驴子后台不简单哪,Chỗ dựa của Lừa Điên không đơn giản đâu.,1,1,normal,none,zh_000609,vi_000621
+609,1833.2,1834.35,1.15,放心吧 师父,"Thầy yên tâm đi,",放心吧 师父,放心吧 师父,"Thầy yên tâm đi,",1,1,normal,none,zh_000610,vi_000622
+610,1835.48,1836.72,1.24,我肯定把疯驴子后台,tôi nhất định sẽ lôi được kẻ chống lưng,我肯定把疯驴子后台,我肯定把疯驴子后台,tôi nhất định sẽ lôi được kẻ chống lưng,1,1,normal,none,zh_000611,vi_000623
+611,1836.72,1837.4,0.68,扯出来,cho Lừa Điên ra.,扯出来,扯出来,cho Lừa Điên ra.,1,1,normal,none,zh_000612,vi_000624
+612,1837.4,1837.79,0.39,行了,"Được rồi,",行了,行了,"Được rồi,",1,1,normal,none,zh_000613,vi_000625
+613,1837.79,1838.92,1.13,一口吃不了个胖子,"dục tốc bất đạt,",一口吃不了个胖子,一口吃不了个胖子,"dục tốc bất đạt,",1,1,normal,none,zh_000614,vi_000626
+614,1838.92,1840.16,1.24,别贪功冒进,đừng có tham công mà liều lĩnh.,别贪功冒进,别贪功冒进,đừng có tham công mà liều lĩnh.,1,1,normal,none,zh_000615,vi_000627
+615,1840.55,1841.64,1.09,老板 好了没,"Ông chủ, xong chưa vậy?",老板 好了没,老板 好了没,"Ông chủ, xong chưa vậy?",1,1,normal,none,zh_000616,vi_000628
+616,1841.64,1842.72,1.08,好了 来,Xong rồi đây.,好了 来,好了 来,Xong rồi đây.,1,1,normal,none,zh_000617,vi_000629
+617,1843.07,1844.44,1.37,世上无难事,"Trên đời không có việc gì khó,",世上无难事,世上无难事,"Trên đời không có việc gì khó,",1,1,normal,none,zh_000618,vi_000630
+618,1844.64,1845.96,1.32,只要肯登攀,chỉ cần chịu cố gắng.,只要肯登攀,只要肯登攀,chỉ cần chịu cố gắng.,1,1,normal,none,zh_000619,vi_000631
+619,1845.96,1847.16,1.2,您的五份肠粉,Năm suất bánh cuốn của cậu đây.,您的五份肠粉,您的五份肠粉,Năm suất bánh cuốn của cậu đây.,1,1,normal,none,zh_000620,vi_000632
+620,1847.16,1848.0,0.84,慢走,"Được, đi thong thả nhé.",慢走,慢走,"Được, đi thong thả nhé.",1,1,normal,none,zh_000621,vi_000633
+621,1849.31,1850.03,0.72,吃饭了,Ăn cơm thôi.,吃饭了,吃饭了,Ăn cơm thôi.,1,1,normal,none,zh_000622,vi_000634
+622,1850.03,1851.07,1.04,吃饭 吃饭 吃饭,"Ăn cơm, ăn cơm, ăn cơm.",吃饭 吃饭 吃饭,吃饭 吃饭 吃饭,"Ăn cơm, ăn cơm, ăn cơm.",1,1,normal,none,zh_000623,vi_000635
+623,1851.72,1852.72,1.0,饭来了,Đồ ăn tới rồi đây.,饭来了,饭来了,Đồ ăn tới rồi đây.,1,1,normal,none,zh_000624,vi_000636
+624,1853.03,1854.16,1.13,肠粉行不行,Bánh cuốn được không?,肠粉行不行,肠粉行不行,Bánh cuốn được không?,1,1,normal,none,zh_000625,vi_000637
+625,1854.16,1854.88,0.72,行行行,"Được, được, được.",行行行,行行行,"Được, được, được.",1,1,normal,none,zh_000626,vi_000638
+626,1855.16,1855.96,0.8,这大哥的,Cái này của đại ca.,这大哥的,这大哥的,Cái này của đại ca.,1,1,normal,none,zh_000627,vi_000639
+627,1860.72,1861.55,0.83,给我拿一个,Lấy cho tôi một suất.,给我拿一个,给我拿一个,Lấy cho tôi một suất.,1,1,normal,none,zh_000628,vi_000640
+628,1862.11,1862.79,0.68,谁没有筷子,Ai chưa có đũa?,谁没有筷子,谁没有筷子,Ai chưa có đũa?,1,1,normal,none,zh_000629,vi_000641
+629,1862.79,1863.48,0.69,我没有,Tôi chưa có.,我没有,我没有,Tôi chưa có.,1,1,normal,none,zh_000630,vi_000642
+630,1863.96,1864.83,0.87,你拿着这个,Cậu cầm lấy cái này.,你拿着这个,你拿着这个,Cậu cầm lấy cái này.,1,1,normal,none,zh_000631,vi_000643
+631,1870.44,1871.64,1.2,啥时候报仇去,Khi nào đi báo thù?,啥时候报仇去,啥时候报仇去,Khi nào đi báo thù?,1,1,normal,none,zh_000632,vi_000644
+632,1872.07,1873.11,1.04,报啥仇啊,Báo thù gì?,报啥仇啊,报啥仇啊,Báo thù gì?,1,1,normal,none,zh_000633,vi_000645
+633,1873.59,1874.44,0.85,你都打成这样,"Anh đã bị bắn như thế rồi,",你都打成这样,你都打成这样,"Anh đã bị bắn như thế rồi,",1,1,normal,none,zh_000634,vi_000646
+634,1874.44,1875.2,0.76,不报仇啊,không báo thù à?,不报仇啊,不报仇啊,không báo thù à?,1,1,normal,none,zh_000635,vi_000647
+635,1875.2,1876.59,1.39,开枪的是条狗,"Kẻ nổ súng chỉ là con chó,",开枪的是条狗,开枪的是条狗,"Kẻ nổ súng chỉ là con chó,",1,1,normal,none,zh_000636,vi_000648
+636,1876.88,1878.24,1.36,报仇也要找主人,báo thù thì phải tìm chủ nhân.,报仇也要找主人,报仇也要找主人,báo thù thì phải tìm chủ nhân.,1,1,normal,none,zh_000637,vi_000649
+637,1878.24,1879.79,1.55,我说的就是打主人哪,Ý tôi nói là đánh chủ nhân mà.,我说的就是打主人哪,我说的就是打主人哪,Ý tôi nói là đánh chủ nhân mà.,1,1,normal,none,zh_000638,vi_000650
+638,1880.2,1881.59,1.39,那现在主人是谁啊,Vậy bây giờ chủ nhân là ai?,那现在主人是谁啊,那现在主人是谁啊,Vậy bây giờ chủ nhân là ai?,1,1,normal,none,zh_000639,vi_000651
+639,1882.92,1884.07,1.15,是那沙场老板吗,Là ông chủ bãi cát đó à?,是那沙场老板吗,是那沙场老板吗,Là ông chủ bãi cát đó à?,1,1,normal,none,zh_000640,vi_000652
+640,1888.75,1889.48,0.73,你看你这样,"Anh nhìn anh đi,",你看你这样,你看你这样,"Anh nhìn anh đi,",1,1,normal,none,zh_000641,vi_000653
+641,1889.48,1890.68,1.2,就是这样式儿的,lúc nào cũng kiểu này.,就是这样式儿的,就是这样式儿的,lúc nào cũng kiểu này.,1,1,normal,none,zh_000642,vi_000654
+642,1890.68,1891.48,0.8,一问你啥吧,"Hễ hỏi anh cái gì,",一问你啥吧,一问你啥吧,"Hễ hỏi anh cái gì,",1,1,normal,none,zh_000643,vi_000655
+643,1891.48,1893.44,1.96,你就玩神秘,anh lại chơi trò thần bí.,你就玩神秘,你就玩神秘,anh lại chơi trò thần bí.,1,1,normal,none,zh_000644,vi_000656
+644,1897.48,1898.92,1.44,那你老板谁啊,Vậy ông chủ của anh là ai?,那你老板谁啊,那你老板谁啊,Vậy ông chủ của anh là ai?,1,1,normal,none,zh_000645,vi_000657
+645,1899.59,1900.51,0.92,你说你,"Anh xem anh nhé,",你说你,你说你,"Anh xem anh nhé,",1,1,normal,none,zh_000646,vi_000658
+646,1900.51,1901.96,1.45,给人拼死拼活的,"liều sống liều chết vì người khác,",给人拼死拼活的,给人拼死拼活的,"liều sống liều chết vì người khác,",1,1,normal,none,zh_000647,vi_000659
+647,1901.96,1903.35,1.39,你让人打成这样了,"anh bị người ta bắn thành thế này,",你让人打成这样了,你让人打成这样了,"anh bị người ta bắn thành thế này,",1,1,normal,none,zh_000648,vi_000660
+648,1904.07,1905.55,1.48,完了 他们好,"xong rồi bọn họ thì hay lắm,",完了 他们好,完了 他们好,"xong rồi bọn họ thì hay lắm,",1,1,normal,none,zh_000649,vi_000661
+649,1905.75,1906.55,0.8,一个人都不过来,không một ai qua đây,一个人都不过来,一个人都不过来,không một ai qua đây,1,1,normal,none,zh_000650,vi_000662
+650,1906.55,1907.48,0.93,瞅你一眼,ngó xem anh thế nào.,瞅你一眼,瞅你一眼,ngó xem anh thế nào.,1,1,normal,none,zh_000651,vi_000663
+651,1907.48,1908.59,1.11,啥玩意儿这是,Thế này là có ý gì?,啥玩意儿这是,啥玩意儿这是,Thế này là có ý gì?,1,1,normal,none,zh_000652,vi_000664
+652,1909.0,1909.75,0.75,兄弟,Người anh em.,兄弟,兄弟,Người anh em.,1,1,normal,none,zh_000653,vi_000665
+653,1911.72,1913.35,1.63,这一夜 你救了我两次,Một đêm cậu cứu tôi hai lần.,这一夜 你救了我两次,这一夜 你救了我两次,Một đêm cậu cứu tôi hai lần.,1,1,normal,none,zh_000654,vi_000666
+654,1913.35,1914.44,1.09,那不在话下,Chuyện nhỏ ấy mà.,那不在话下,那不在话下,Chuyện nhỏ ấy mà.,1,1,normal,none,zh_000655,vi_000667
+655,1915.4,1916.4,1.0,哥送你句话,Anh tặng cậu một câu.,哥送你句话,哥送你句话,Anh tặng cậu một câu.,1,1,normal,none,zh_000656,vi_000668
+656,1917.24,1917.96,0.72,想发财,Muốn phát tài,想发财,想发财,Muốn phát tài,1,1,normal,none,zh_000657,vi_000669
+657,1917.96,1919.68,1.72,就闭上嘴 少问,"thì im miệng, hỏi ít thôi.",就闭上嘴 少问,就闭上嘴 少问,"thì im miệng, hỏi ít thôi.",1,1,normal,none,zh_000658,vi_000670
+658,1923.48,1924.35,0.87,行 我闭嘴,"Được, tôi im.",行 我闭嘴,行 我闭嘴,"Được, tôi im.",1,1,normal,none,zh_000659,vi_000671
+659,1925.64,1927.31,1.67,我此后 我啥也不说了,Từ nay về sau tôi sẽ không nói gì nữa.,我此后 我啥也不说了,我此后 我啥也不说了,Từ nay về sau tôi sẽ không nói gì nữa.,1,1,normal,none,zh_000660,vi_000672
+660,1928.27,1929.72,1.45,我沉默于江湖,Tôi im lặng sống trong giang hồ.,我沉默于江湖,我沉默于江湖,Tôi im lặng sống trong giang hồ.,1,1,normal,none,zh_000661,vi_000673
+661,1931.51,1932.51,1.0,我就一个问题,"Tôi chỉ có một câu hỏi thôi,",我就一个问题,我就一个问题,"Tôi chỉ có một câu hỏi thôi,",1,1,normal,none,zh_000662,vi_000674
+662,1932.51,1934.79,2.28,就是 咱啥时候上山哪,chính là khi nào chúng ta lên núi?,就是 咱啥时候上山哪,就是 咱啥时候上山哪,chính là khi nào chúng ta lên núi?,1,1,normal,none,zh_000663,vi_000675
+663,1935.44,1936.31,0.87,上啥山哪,Lên núi cái gì?,上啥山哪,上啥山哪,Lên núi cái gì?,1,1,normal,none,zh_000664,vi_000676
+664,1936.83,1937.96,1.13,我啥时候说上山了,Tôi nói chúng ta sẽ lên núi khi nào?,我啥时候说上山了,我啥时候说上山了,Tôi nói chúng ta sẽ lên núi khi nào?,1,1,normal,none,zh_000665,vi_000677
+665,1939.72,1940.88,1.16,昨晚上你说的,Tối qua anh nói mà.,昨晚上你说的,昨晚上你说的,Tối qua anh nói mà.,1,1,normal,none,zh_000666,vi_000678
+666,1941.75,1942.35,0.6,骆驼,Lạc Đà.,骆驼,骆驼,Lạc Đà.,1,1,normal,none,zh_000667,vi_000679
+667,1944.55,1945.92,1.37,我啥时候说过上山哪,Tôi nói lên núi lúc nào?,我啥时候说过上山哪,我啥时候说过上山哪,Tôi nói lên núi lúc nào?,1,1,normal,none,zh_000668,vi_000680
+668,1946.55,1947.35,0.8,没说啊,Có nói đâu.,没说啊,没说啊,Có nói đâu.,1,1,normal,none,zh_000669,vi_000681
+669,1947.96,1948.88,0.92,老三 老四,"Lão tam, lão tứ,",老三 老四,老三 老四,"Lão tam, lão tứ,",1,1,normal,none,zh_000670,vi_000682
+670,1949.11,1949.96,0.85,哥说了吗,anh có nói không?,哥说了吗,哥说了吗,anh có nói không?,1,1,normal,none,zh_000671,vi_000683
+671,1955.88,1956.79,0.91,我说的,Là tôi nói.,我说的,我说的,Là tôi nói.,1,1,normal,none,zh_000672,vi_000685
+672,1960.92,1962.27,1.35,以冯大壮为首的,Những nhân vật chủ chốt,以冯大壮为首的,以冯大壮为首的,Những nhân vật chủ chốt,1,1,normal,none,zh_000673,vi_000687
+673,1962.27,1963.96,1.69,犯罪团伙的核心人员,của nhóm tội phạm do Phùng Đại Tráng cầm đầu,犯罪团伙的核心人员,犯罪团伙的核心人员,của nhóm tội phạm do Phùng Đại Tráng cầm đầu,1,1,normal,none,zh_000674,vi_000688
+674,1964.27,1965.07,0.8,一共七人,có tổng cộng bảy người.,一共七人,一共七人,có tổng cộng bảy người.,1,1,normal,none,zh_000675,vi_000689
+675,1965.79,1967.72,1.93,专门负责组织和安排,Người chuyên phụ trách tổ chức,专门负责组织和安排,专门负责组织和安排,Người chuyên phụ trách tổ chức,1,1,normal,none,zh_000676,vi_000690
+676,1967.72,1968.4,0.68,卖淫人员的,và sắp xếp bán dâm,卖淫人员的,卖淫人员的,và sắp xếp bán dâm,1,1,normal,none,zh_000677,vi_000691
+677,1968.4,1969.75,1.35,外号叫骆驼,có biệt danh Lạc Đà.,外号叫骆驼,外号叫骆驼,có biệt danh Lạc Đà.,1,1,normal,none,zh_000678,vi_000692
+678,1970.03,1971.64,1.61,团伙业务 不止于此,Công việc của băng nhóm này không chỉ dừng ở đó.,团伙业务 不止于此,团伙业务 不止于此,Công việc của băng nhóm này không chỉ dừng ở đó.,1,1,normal,none,zh_000679,vi_000693
+679,1972.44,1974.31,1.87,当晚参与下湾采沙场,"Đêm đó, còn có rất nhiều",当晚参与下湾采沙场,当晚参与下湾采沙场,"Đêm đó, còn có rất nhiều",1,1,normal,none,zh_000680,vi_000694
+680,1974.31,1975.4,1.09,打砸抢劫的,thành phần lẻ tẻ bên ngoài,打砸抢劫的,打砸抢劫的,thành phần lẻ tẻ bên ngoài,1,1,normal,none,zh_000681,vi_000695
+681,1975.4,1976.31,0.91,还有很多外围的,tham gia vào vụ đập phá cướp bóc,还有很多外围的,还有很多外围的,tham gia vào vụ đập phá cướp bóc,1,1,normal,none,zh_000682,vi_000696
+682,1976.31,1977.07,0.76,松散人员,ở bãi cát Hạ Loan.,松散人员,松散人员,ở bãi cát Hạ Loan.,1,1,normal,none,zh_000683,vi_000697
+683,1977.07,1978.92,1.85,冯大壮幕后的指使者,Hiện vẫn chưa biết được,冯大壮幕后的指使者,冯大壮幕后的指使者,Hiện vẫn chưa biết được,1,1,normal,none,zh_000684,vi_000698
+684,1979.03,1980.31,1.28,目前尚不明朗,kẻ giật dây sau lưng Phùng Đại Tráng.,目前尚不明朗,目前尚不明朗,kẻ giật dây sau lưng Phùng Đại Tráng.,1,1,normal,none,zh_000685,vi_000699
+685,1980.31,1981.88,1.57,真查到不少东西,Đúng là tra được không ít.,真查到不少东西,真查到不少东西,Đúng là tra được không ít.,1,1,normal,none,zh_000686,vi_000700
+686,1981.88,1983.07,1.19,但是安欣目前,Nhưng hiện tại An Hân,但是安欣目前,但是安欣目前,Nhưng hiện tại An Hân,1,1,normal,none,zh_000687,vi_000701
+687,1983.07,1984.4,1.33,还没有得到组织内部的,vẫn chưa được nội bộ tổ chức,还没有得到组织内部的,还没有得到组织内部的,vẫn chưa được nội bộ tổ chức,1,1,normal,none,zh_000688,vi_000702
+688,1984.4,1985.72,1.32,完全认可和信任,hoàn toàn công nhận và tin tưởng.,完全认可和信任,完全认可和信任,hoàn toàn công nhận và tin tưởng.,1,1,normal,none,zh_000689,vi_000703
+689,1985.88,1987.88,2.0,所以传递情报很有限,Thế nên tin tình báo đưa về rất có hạn.,所以传递情报很有限,所以传递情报很有限,Thế nên tin tình báo đưa về rất có hạn.,1,1,normal,none,zh_000690,vi_000704
+690,1988.51,1990.31,1.8,杀害黄翠翠的证据,Tìm được chứng cứ sát hại,杀害黄翠翠的证据,杀害黄翠翠的证据,Tìm được chứng cứ sát hại,1,1,normal,none,zh_000691,vi_000705
+691,1990.44,1991.2,0.76,拿到没有,Hoàng Thúy Thúy chưa?,拿到没有,拿到没有,Hoàng Thúy Thúy chưa?,1,1,normal,none,zh_000692,vi_000706
+692,1991.2,1992.51,1.31,目前还没有找到,Trước mắt vẫn chưa tìm được.,目前还没有找到,目前还没有找到,Trước mắt vẫn chưa tìm được.,1,1,normal,none,zh_000693,vi_000707
+693,1993.83,1994.75,0.92,安欣怎么样,An Hân thế nào rồi?,安欣怎么样,安欣怎么样,An Hân thế nào rồi?,1,1,normal,none,zh_000694,vi_000708
+694,1994.75,1995.75,1.0,还是老样子,"Vẫn như cũ,",还是老样子,还是老样子,"Vẫn như cũ,",1,1,normal,none,zh_000695,vi_000709
+695,1995.75,1996.83,1.08,干劲十足,vô cùng hăng hái.,干劲十足,干劲十足,vô cùng hăng hái.,1,1,normal,none,zh_000696,vi_000710
+696,1997.51,1998.96,1.45,一定要保证他的安全,Nhất định phải bảo đảm sự an toàn của cậu ấy.,一定要保证他的安全,一定要保证他的安全,Nhất định phải bảo đảm sự an toàn của cậu ấy.,1,1,normal,none,zh_000697,vi_000711
+697,2017.68,2018.35,0.67,出来吧,Ra đây đi.,出来吧,出来吧,Ra đây đi.,1,1,normal,none,zh_000698,vi_000712
+698,2021.64,2022.64,1.0,我就应该把行李箱,Em nên giấu vali đi,我就应该把行李箱,我就应该把行李箱,Em nên giấu vali đi,1,1,normal,none,zh_000699,vi_000713
+699,2022.64,2024.11,1.47,藏起来的,mới phải.,藏起来的,藏起来的,mới phải.,1,1,normal,none,zh_000700,vi_000714
+700,2024.11,2025.2,1.09,你有没有脑子,Em có đầu óc không vậy?,你有没有脑子,你有没有脑子,Em có đầu óc không vậy?,1,1,normal,none,zh_000701,vi_000715
+701,2025.2,2027.44,2.24,你从小就没躲过,"Từ nhỏ em đã chẳng trốn được rồi,",你从小就没躲过,你从小就没躲过,"Từ nhỏ em đã chẳng trốn được rồi,",1,1,normal,none,zh_000702,vi_000716
+702,2027.44,2029.11,1.67,我都能找到你,lần nào anh chẳng tìm thấy em.,我都能找到你,我都能找到你,lần nào anh chẳng tìm thấy em.,1,1,normal,none,zh_000703,vi_000717
+703,2030.2,2032.48,2.28,为什么每次都有破绽呢,Tại sao lần nào cũng có sơ hở chứ?,为什么每次都有破绽呢,为什么每次都有破绽呢,Tại sao lần nào cũng có sơ hở chứ?,1,1,normal,none,zh_000704,vi_000718
+704,2032.48,2033.27,0.79,阿盛,"A Thịnh,",阿盛,阿盛,"A Thịnh,",1,1,normal,none,zh_000705,vi_000719
+705,2033.96,2034.55,0.59,我怎么觉得,sao anh cảm thấy,我怎么觉得,我怎么觉得,sao anh cảm thấy,1,1,normal,none,zh_000706,vi_000720
+706,2034.55,2036.51,1.96,你刚去学校一个月,"em vừa mới đi học có một tháng,",你刚去学校一个月,你刚去学校一个月,"em vừa mới đi học có một tháng,",1,1,normal,none,zh_000707,vi_000721
+707,2036.51,2037.59,1.08,怎么就回来了,sao đã về rồi.,怎么就回来了,怎么就回来了,sao đã về rồi.,1,1,normal,none,zh_000708,vi_000722
+708,2037.59,2038.35,0.76,哥,"Anh,",哥,哥,"Anh,",1,1,normal,none,zh_000709,vi_000723
+709,2039.24,2040.75,1.51,我大四下了,"em cuối năm tư rồi,",我大四下了,我大四下了,"em cuối năm tư rồi,",1,1,normal,none,zh_000710,vi_000724
+710,2040.75,2042.44,1.69,马上就要去实习了,sắp phải đi thực tập rồi.,马上就要去实习了,马上就要去实习了,sắp phải đi thực tập rồi.,1,1,normal,none,zh_000711,vi_000725
+711,2042.44,2043.31,0.87,老师巴不得我们,Giáo viên chỉ mong bọn em,老师巴不得我们,老师巴不得我们,Giáo viên chỉ mong bọn em,1,1,normal,none,zh_000712,vi_000726
+712,2043.31,2044.11,0.8,早点出去呢,đi sớm sớm thôi.,早点出去呢,早点出去呢,đi sớm sớm thôi.,1,1,normal,none,zh_000713,vi_000727
+713,2044.11,2045.27,1.16,我现在随便办个手续,Bây giờ em làm bừa một thủ tục,我现在随便办个手续,我现在随便办个手续,Bây giờ em làm bừa một thủ tục,1,1,normal,none,zh_000714,vi_000728
+714,2045.27,2046.35,1.08,就能回来,là được về ngay.,就能回来,就能回来,là được về ngay.,1,1,normal,none,zh_000715,vi_000729
+715,2050.03,2050.76,0.73,学校给你找了,Trường tìm cho em,学校给你找了,学校给你找了,Trường tìm cho em,1,1,normal,none,zh_000716,vi_000730
+716,2050.76,2051.76,1.0,什么单位实习,đơn vị thực tập nào?,什么单位实习,什么单位实习,đơn vị thực tập nào?,1,1,normal,none,zh_000717,vi_000731
+717,2051.76,2052.88,1.12,什么年代了 哥,"Anh, thời buổi nào rồi?",什么年代了 哥,什么年代了 哥,"Anh, thời buổi nào rồi?",1,1,normal,none,zh_000718,vi_000732
+718,2052.88,2054.11,1.23,都得自己去找,Đều phải tự tìm hết.,都得自己去找,都得自己去找,Đều phải tự tìm hết.,1,1,normal,none,zh_000719,vi_000733
+719,2054.11,2055.55,1.44,这学校不分配,Thế trường không sắp xếp à?,这学校不分配,这学校不分配,Thế trường không sắp xếp à?,1,1,normal,none,zh_000720,vi_000734
+720,2055.55,2056.51,0.96,没有 没有 没有,"Không, không, không.",没有 没有 没有,没有 没有 没有,"Không, không, không.",1,1,normal,none,zh_000721,vi_000735
+721,2056.51,2057.51,1.0,自己找,Tự tìm à?,自己找,自己找,Tự tìm à?,1,1,normal,none,zh_000722,vi_000736
+722,2057.96,2059.11,1.15,你打算找哪里,Em định tìm ở đâu?,你打算找哪里,你打算找哪里,Em định tìm ở đâu?,1,1,normal,none,zh_000723,vi_000737
+723,2063.23,2065.15,1.92,我想,Em muốn...,我想,我想,Em muốn...,1,1,normal,none,zh_000724,vi_000738
+724,2066.28,2067.48,1.2,回来跟你一起,quay về với anh.,回来跟你一起,回来跟你一起,quay về với anh.,1,1,normal,none,zh_000725,vi_000739
+725,2068.15,2069.71,1.56,你神经病吧你,Em bị thần kinh à?,你神经病吧你,你神经病吧你,Em bị thần kinh à?,1,1,normal,none,zh_000726,vi_000740
+726,2071.19,2072.36,1.17,回来帮帮你,Em về giúp anh mà.,回来帮帮你,回来帮帮你,Em về giúp anh mà.,1,1,normal,none,zh_000727,vi_000741
+727,2072.88,2073.92,1.04,帮我卖鱼,Giúp anh bán cá à?,帮我卖鱼,帮我卖鱼,Giúp anh bán cá à?,1,1,normal,none,zh_000728,vi_000742
+728,2075.55,2076.4,0.85,我呢,Em đây,我呢,我呢,Em đây,1,1,normal,none,zh_000729,vi_000743
+729,2077.48,2078.96,1.48,做了一个大胆的决定,đã đưa ra một quyết định to gan.,做了一个大胆的决定,做了一个大胆的决定,đã đưa ra một quyết định to gan.,1,1,normal,none,zh_000730,vi_000744
+730,2080.19,2080.88,0.69,我想回来,Em muốn quay về,我想回来,我想回来,Em muốn quay về,1,1,normal,none,zh_000731,vi_000745
+731,2080.88,2082.44,1.56,跟你一起开个店,mở một cửa hàng với anh.,跟你一起开个店,跟你一起开个店,mở một cửa hàng với anh.,1,1,normal,none,zh_000732,vi_000746
+732,2086.63,2087.84,1.21,我想跟你一起卖这个,Em muốn cùng anh bán cái này.,我想跟你一起卖这个,我想跟你一起卖这个,Em muốn cùng anh bán cái này.,1,1,normal,none,zh_000733,vi_000747
+733,2088.28,2089.92,1.64,这个东西叫小灵通,Cái này gọi là điện thoại di động.,这个东西叫小灵通,这个东西叫小灵通,Cái này gọi là điện thoại di động.,1,1,normal,none,zh_000734,vi_000748
+734,2091.11,2092.44,1.33,你现在马上给我回学校,Bây giờ em lập tức về trường cho anh.,你现在马上给我回学校,你现在马上给我回学校,Bây giờ em lập tức về trường cho anh.,1,1,normal,none,zh_000735,vi_000749
+735,2092.44,2093.28,0.84,回去 我回学校,"- Về ngay.
+- Em về trường",回去 我回学校,回去 我回学校,Về ngay. Em về trường,1,1,dash_dialogue,speech,zh_000736,vi_000750
+736,2093.28,2094.4,1.12,没的读了 干吗,"cũng không còn gì để học nữa, anh làm gì vậy?",没的读了 干吗,没的读了 干吗,"cũng không còn gì để học nữa, anh làm gì vậy?",1,1,normal,none,zh_000737,vi_000751
+737,2094.4,2095.44,1.04,你别动我行李 走,"- Anh đừng động vào vali của em.
+- Đi.",你别动我行李 走,你别动我行李 走,Anh đừng động vào vali của em. Đi.,0,1,dash_dialogue,speech,zh_000738,vi_000752
+738,2096.11,2097.48,1.37,回学校 走 哥 哥,"- Về trường ngay.
+- Anh, anh ơi.",回学校 走 哥 哥,回学校 走 哥 哥,"Về trường ngay. Anh, anh ơi.",0,1,dash_dialogue,speech,zh_000739,vi_000753
+739,2097.48,2098.92,1.44,你先松开 你别,"Anh bỏ ra trước đi, anh đừng...",你先松开 你别,你先松开 你别,"Anh bỏ ra trước đi, anh đừng...",1,1,normal,none,zh_000740,vi_000754
+740,2098.92,2100.19,1.27,走 你别扽我,"- Đi.
+- Anh đừng kéo em.",走 你别扽我,走 你别扽我,Đi. Anh đừng kéo em.,0,1,dash_dialogue,speech,zh_000741,vi_000755
+741,2100.92,2101.67,0.75,回去,Về ngay.,回去,回去,Về ngay.,1,1,normal,none,zh_000742,vi_000756
+742,2102.4,2103.67,1.27,不是 哥,"Ơ kìa, anh.",不是 哥,不是 哥,"Ơ kìa, anh.",1,1,normal,none,zh_000743,vi_000757
+743,2103.8,2104.28,0.48,哥 哥,"Anh, anh.",哥 哥,哥 哥,"Anh, anh.",1,1,normal,none,zh_000744,vi_000758
+744,2104.28,2105.55,1.27,我大学都快毕业了,Em sắp tốt nghiệp đại học rồi mà.,我大学都快毕业了,我大学都快毕业了,Em sắp tốt nghiệp đại học rồi mà.,1,1,normal,none,zh_000745,vi_000759
+745,2105.55,2106.23,0.68,我不管你大不大,Anh không quan tâm mày có lớn hay không.,我不管你大不大,我不管你大不大,Anh không quan tâm mày có lớn hay không.,1,1,normal,none,zh_000746,vi_000760
+746,2106.23,2106.96,0.73,我才是这个家里面,Em mới là người có học lực cao nhất...,我才是这个家里面,我才是这个家里面,Em mới là người có học lực cao nhất...,1,1,normal,none,zh_000747,vi_000761
+747,2106.96,2107.8,0.84,你就是个孩子,Mày vẫn chỉ là một thằng nhóc thôi.,你就是个孩子,你就是个孩子,Mày vẫn chỉ là một thằng nhóc thôi.,1,1,normal,none,zh_000748,vi_000762
+748,2107.8,2109.07,1.27,学历最高的人,...trong cái nhà này.,学历最高的人,学历最高的人,...trong cái nhà này.,1,1,normal,none,zh_000749,vi_000763
+749,2109.07,2110.67,1.6,你听我说一次好不好,"- Anh nghe em một lần đi được không?
+- Thế thì đã sao?",你听我说一次好不好,你听我说一次好不好,Anh nghe em một lần đi được không?,0,1,dash_partial,speech,zh_000750,vi_000764
+750,2110.67,2111.36,0.69,回去,Về trường.,回去,回去,Về trường.,1,1,normal,none,zh_000751,vi_000765
+751,2120.19,2121.48,1.29,高启强 我问问你,"Cao Khải Cường, em hỏi anh nhé,",高启强 我问问你,高启强 我问问你,"Cao Khải Cường, em hỏi anh nhé,",1,1,normal,none,zh_000752,vi_000766
+752,2122.19,2122.96,0.77,我大学毕业之后,em tốt nghiệp đại học xong,我大学毕业之后,我大学毕业之后,em tốt nghiệp đại học xong,1,1,normal,none,zh_000753,vi_000767
+753,2122.96,2123.88,0.92,我还回来住吗,em có về đây sống không?,我还回来住吗,我还回来住吗,em có về đây sống không?,1,1,normal,none,zh_000754,vi_000768
+754,2123.88,2124.55,0.67,你不回来住,Mày không về đây sống,你不回来住,你不回来住,Mày không về đây sống,1,1,normal,none,zh_000755,vi_000769
+755,2124.55,2125.51,0.96,你去哪儿住,thì mày đi đâu?,你去哪儿住,你去哪儿住,thì mày đi đâu?,1,1,normal,none,zh_000756,vi_000770
+756,2125.51,2126.11,0.6,好,Được.,好,好,Được.,1,1,normal,none,zh_000757,vi_000771
+757,2128.88,2130.23,1.35,你大学毕业以后,Mày tốt nghiệp đại học xong,你大学毕业以后,你大学毕业以后,Mày tốt nghiệp đại học xong,1,1,normal,none,zh_000758,vi_000772
+758,2130.36,2131.8,1.44,找到好的单位,"tìm một chỗ làm tốt,",找到好的单位,找到好的单位,"tìm một chỗ làm tốt,",1,1,normal,none,zh_000759,vi_000773
+759,2131.8,2132.44,0.64,你挣了钱,"mày kiếm được tiền,",你挣了钱,你挣了钱,"mày kiếm được tiền,",1,1,normal,none,zh_000760,vi_000774
+760,2132.44,2133.4,0.96,你肯定到省城,"chắc chắn mày sẽ lên thành phố,",你肯定到省城,你肯定到省城,"chắc chắn mày sẽ lên thành phố,",1,1,normal,none,zh_000761,vi_000775
+761,2133.4,2134.36,0.96,去买房子,"mua nhà mua cửa,",去买房子,去买房子,"mua nhà mua cửa,",1,1,normal,none,zh_000762,vi_000776
+762,2134.36,2135.15,0.79,你回来干什么,mày về làm gì?,你回来干什么,你回来干什么,mày về làm gì?,1,1,normal,none,zh_000763,vi_000777
+763,2135.15,2136.71,1.56,是不是你也嫌弃这儿啊,Có phải anh cũng chê nơi này không?,是不是你也嫌弃这儿啊,是不是你也嫌弃这儿啊,Có phải anh cũng chê nơi này không?,1,1,normal,none,zh_000764,vi_000778
+764,2138.36,2139.11,0.75,连你也不希望,Ngay cả anh cũng không hy vọng,连你也不希望,连你也不希望,Ngay cả anh cũng không hy vọng,1,1,normal,none,zh_000765,vi_000779
+765,2139.11,2140.07,0.96,我回来住吧,em về đây sống.,我回来住吧,我回来住吧,em về đây sống.,1,1,normal,none,zh_000766,vi_000780
+766,2140.19,2140.8,0.61,那你就守着,Vậy anh còn giữ khư khư,那你就守着,那你就守着,Vậy anh còn giữ khư khư,1,1,normal,none,zh_000767,vi_000781
+767,2140.8,2141.92,1.12,你那个烂鱼摊子,cái sạp bán cá tồi tàn đó của anh.,你那个烂鱼摊子,你那个烂鱼摊子,cái sạp bán cá tồi tàn đó của anh.,1,1,normal,none,zh_000768,vi_000782
+768,2143.4,2144.44,1.04,守一辈子,Giữ cả đời à?,守一辈子,守一辈子,Giữ cả đời à?,1,1,normal,none,zh_000769,vi_000783
+769,2146.59,2147.96,1.37,看看咱们工厂大院,Anh nhìn khu nhà công xưởng của chúng ta đi.,看看咱们工厂大院,看看咱们工厂大院,Anh nhìn khu nhà công xưởng của chúng ta đi.,1,1,normal,none,zh_000770,vi_000784
+770,2150.07,2151.55,1.48,有能耐的都走了,Những người có năng lực đều đi hết rồi.,有能耐的都走了,有能耐的都走了,Những người có năng lực đều đi hết rồi.,1,1,normal,none,zh_000771,vi_000785
+771,2155.28,2155.96,0.68,对,Đúng.,对,对,Đúng.,1,1,normal,none,zh_000772,vi_000786
+772,2158.11,2159.63,1.52,有能耐的都走了,Người có năng lực đều đi hết rồi.,有能耐的都走了,有能耐的都走了,Người có năng lực đều đi hết rồi.,1,1,normal,none,zh_000773,vi_000787
+773,2160.19,2161.92,1.73,有能耐谁会待在这里,Có năng lực thì ai mà ở đây chứ?,有能耐谁会待在这里,有能耐谁会待在这里,Có năng lực thì ai mà ở đây chứ?,1,1,normal,none,zh_000774,vi_000788
+774,2162.4,2163.44,1.04,你有能耐,Mày có năng lực.,你有能耐,你有能耐,Mày có năng lực.,1,1,normal,none,zh_000775,vi_000789
+775,2165.63,2167.32,1.69,你有能耐就走,Mày có năng lực thì đi đi.,你有能耐就走,你有能耐就走,Mày có năng lực thì đi đi.,1,1,normal,none,zh_000776,vi_000790
+776,2168.0,2169.0,1.0,走啊,Đi đi.,走啊,走啊,Đi đi.,1,1,normal,none,zh_000777,vi_000791
+777,2200.0,2201.76,1.76,其实你在我眼里,"Thực ra trong mắt em,",其实你在我眼里,其实你在我眼里,"Thực ra trong mắt em,",1,1,normal,none,zh_000778,vi_000792
+778,2201.76,2203.55,1.79,是世界上最有能耐的人,"anh là người giỏi nhất, có bản lĩnh nhất",是世界上最有能耐的人,是世界上最有能耐的人,"anh là người giỏi nhất, có bản lĩnh nhất",1,1,normal,none,zh_000779,vi_000793
+779,2203.55,2204.76,1.21,最有本事的人,trên thế giới.,最有本事的人,最有本事的人,trên thế giới.,1,1,normal,none,zh_000780,vi_000794
+780,2205.96,2207.23,1.27,你从小就怕腥,Từ nhỏ anh đã sợ mùi tanh.,你从小就怕腥,你从小就怕腥,Từ nhỏ anh đã sợ mùi tanh.,1,1,normal,none,zh_000781,vi_000795
+781,2208.03,2209.32,1.29,为了我跟小兰,"Nhưng vì em và Tiểu Lan,",为了我跟小兰,为了我跟小兰,"Nhưng vì em và Tiểu Lan,",1,1,normal,none,zh_000782,vi_000796
+782,2209.32,2210.48,1.16,在那个烂鱼摊子里,anh đã ở trong cái sạp bán cá,在那个烂鱼摊子里,在那个烂鱼摊子里,anh đã ở trong cái sạp bán cá,1,1,normal,none,zh_000783,vi_000797
+783,2210.48,2211.36,0.88,一窝就是,tồi tàn đó,一窝就是,一窝就是,tồi tàn đó,1,1,normal,none,zh_000784,vi_000798
+784,2211.88,2213.03,1.15,十好几年,suốt mười mấy năm.,十好几年,十好几年,suốt mười mấy năm.,1,1,normal,none,zh_000785,vi_000799
+785,2213.32,2215.0,1.68,那身上腥的呀,Cả người cũng toàn mùi tanh.,那身上腥的呀,那身上腥的呀,Cả người cũng toàn mùi tanh.,1,1,normal,none,zh_000786,vi_000800
+786,2218.23,2219.71,1.48,那我现在把门路带回来,"Bây giờ em mang về một con đường mới,",那我现在把门路带回来,那我现在把门路带回来,"Bây giờ em mang về một con đường mới,",1,1,normal,none,zh_000787,vi_000801
+787,2219.71,2220.51,0.8,我是想,em muốn...,我是想,我是想,em muốn...,1,1,normal,none,zh_000788,vi_000802
+788,2220.63,2222.11,1.48,想你最大限度的,muốn anh có thể phát huy,想你最大限度的,想你最大限度的,muốn anh có thể phát huy,1,1,normal,none,zh_000789,vi_000803
+789,2222.11,2223.55,1.44,你能把你能耐和本事,năng lực và bản lĩnh của anh,你能把你能耐和本事,你能把你能耐和本事,năng lực và bản lĩnh của anh,1,1,normal,none,zh_000790,vi_000804
+790,2223.55,2224.71,1.16,发挥出来,ở mức độ cao nhất.,发挥出来,发挥出来,ở mức độ cao nhất.,1,1,normal,none,zh_000791,vi_000805
+791,2224.84,2226.44,1.6,你不能一把一把地,Anh không thể cứ suốt ngày,你不能一把一把地,你不能一把一把地,Anh không thể cứ suốt ngày,1,1,normal,none,zh_000792,vi_000806
+792,2226.44,2227.92,1.48,把我往外推啊,đẩy em ra ngoài như thế được.,把我往外推啊,把我往外推啊,đẩy em ra ngoài như thế được.,1,1,normal,none,zh_000793,vi_000807
+793,2229.03,2229.8,0.77,哥,Anh à.,哥,哥,Anh à.,1,1,normal,none,zh_000794,vi_000808
+794,2234.32,2235.88,1.56,展示什么能耐,Thể hiện năng lực gì chứ?,展示什么能耐,展示什么能耐,Thể hiện năng lực gì chứ?,1,1,normal,none,zh_000795,vi_000809
+795,2237.55,2238.51,0.96,我陪着你,Anh cùng với em,我陪着你,我陪着你,Anh cùng với em,1,1,normal,none,zh_000796,vi_000810
+796,2238.76,2240.59,1.83,去卖那个什么小铃铛啊,đi bán cái di chuyển gì đó à?,去卖那个什么小铃铛啊,去卖那个什么小铃铛啊,đi bán cái di chuyển gì đó à?,1,1,normal,none,zh_000797,vi_000811
+797,2241.96,2243.15,1.19,不叫小铃铛,"Không phải là di chuyển,",不叫小铃铛,不叫小铃铛,"Không phải là di chuyển,",1,1,normal,none,zh_000798,vi_000812
+798,2244.44,2246.03,1.59,叫小灵通,đó là di động.,叫小灵通,叫小灵通,đó là di động.,1,1,normal,none,zh_000799,vi_000813
+799,2247.23,2249.19,1.96,哥 好好好,"Anh, rồi, rồi, rồi.",哥 好好好,哥 好好好,"Anh, rồi, rồi, rồi.",1,1,normal,none,zh_000800,vi_000814
+800,2249.36,2250.15,0.79,你看,"Anh xem,",你看,你看,"Anh xem,",1,1,normal,none,zh_000801,vi_000815
+801,2250.71,2252.59,1.88,这个叫小灵通,cái này là điện thoại di động.,这个叫小灵通,这个叫小灵通,cái này là điện thoại di động.,1,1,normal,none,zh_000802,vi_000816
+802,2253.76,2255.15,1.39,你当我不懂啊,Em nghĩ anh không hiểu à?,你当我不懂啊,你当我不懂啊,Em nghĩ anh không hiểu à?,1,1,normal,none,zh_000803,vi_000817
+803,2255.4,2256.51,1.11,我也有手机的,"Anh cũng có điện thoại mà,",我也有手机的,我也有手机的,"Anh cũng có điện thoại mà,",1,1,normal,none,zh_000804,vi_000818
+804,2256.51,2257.36,0.85,不一样吗,khác nhau à?,不一样吗,不一样吗,khác nhau à?,1,1,normal,none,zh_000805,vi_000819
+805,2258.51,2259.28,0.77,你拿着啊,Anh cầm lấy.,你拿着啊,你拿着啊,Anh cầm lấy.,1,1,normal,none,zh_000806,vi_000820
+806,2259.63,2260.55,0.92,你听我跟你讲,Anh nghe em nói này.,你听我跟你讲,你听我跟你讲,Anh nghe em nói này.,1,1,normal,none,zh_000807,vi_000821
+807,2261.44,2262.51,1.07,从现在开始,"Từ bây giờ trở đi,",从现在开始,从现在开始,"Từ bây giờ trở đi,",1,1,normal,none,zh_000808,vi_000822
+808,2262.51,2264.44,1.93,你弟弟我再给你打电话,"em trai anh gọi điện thoại cho anh,",你弟弟我再给你打电话,你弟弟我再给你打电话,"em trai anh gọi điện thoại cho anh,",1,1,normal,none,zh_000809,vi_000823
+809,2264.44,2266.67,2.23,你用这台电话接通,anh dùng cái điện thoại này nghe trực tiếp luôn.,你用这台电话接通,你用这台电话接通,anh dùng cái điện thoại này nghe trực tiếp luôn.,1,1,normal,none,zh_000810,vi_000824
+810,2267.4,2268.92,1.52,不要钱的,Không cần trả tiền đâu.,不要钱的,不要钱的,Không cần trả tiền đâu.,1,1,normal,none,zh_000811,vi_000825
+811,2272.36,2273.4,1.04,是不是犯法的,Có phải phạm pháp không?,是不是犯法的,是不是犯法的,Có phải phạm pháp không?,1,1,normal,none,zh_000812,vi_000826
+812,2273.4,2274.71,1.31,完全不犯法,Hoàn toàn không phạm pháp.,完全不犯法,完全不犯法,Hoàn toàn không phạm pháp.,1,1,normal,none,zh_000813,vi_000827
+813,2275.63,2276.4,0.77,打电话呢,Gọi điện thoại thì sao?,打电话呢,打电话呢,Gọi điện thoại thì sao?,1,1,normal,none,zh_000814,vi_000828
+814,2276.67,2279.03,2.36,打电话是你原来话费的,Phí gọi điện thoại chưa bằng một nửa,打电话是你原来话费的,打电话是你原来话费的,Phí gọi điện thoại chưa bằng một nửa,1,1,normal,none,zh_000815,vi_000829
+815,2279.03,2280.11,1.08,一半还少,"phí anh trả trước đây,",一半还少,一半还少,"phí anh trả trước đây,",1,1,normal,none,zh_000816,vi_000830
+816,2280.44,2281.51,1.07,很省钱的,rất tiết kiệm luôn.,很省钱的,很省钱的,rất tiết kiệm luôn.,1,1,normal,none,zh_000817,vi_000831
+817,2287.03,2288.51,1.48,要按你这么说的话,Nếu đúng như em nói,要按你这么说的话,要按你这么说的话,Nếu đúng như em nói,1,1,normal,none,zh_000818,vi_000832
+818,2288.71,2289.59,0.88,那不所有人,thì tất cả mọi người,那不所有人,那不所有人,thì tất cả mọi người,1,1,normal,none,zh_000819,vi_000833
+819,2289.59,2290.51,0.92,都得买小灵通,đều phải mua điện thoại di động rồi.,都得买小灵通,都得买小灵通,đều phải mua điện thoại di động rồi.,1,1,normal,none,zh_000820,vi_000834
+820,2290.51,2291.84,1.33,对啊 所以我就说,"Đúng rồi, thế nên em mới nói",对啊 所以我就说,对啊 所以我就说,"Đúng rồi, thế nên em mới nói",1,1,normal,none,zh_000821,vi_000835
+821,2291.84,2293.03,1.19,这是个大商机,đây là cơ hội làm ăn lớn.,这是个大商机,这是个大商机,đây là cơ hội làm ăn lớn.,1,1,normal,none,zh_000822,vi_000836
+822,2293.03,2294.44,1.41,这款手机一定会火,Kiểu điện thoại này nhất định sẽ rất nổi.,这款手机一定会火,这款手机一定会火,Kiểu điện thoại này nhất định sẽ rất nổi.,1,1,normal,none,zh_000823,vi_000837
+823,2294.44,2295.28,0.84,现在浙江那边,Bây giờ bên Chiết Giang,现在浙江那边,现在浙江那边,Bây giờ bên Chiết Giang,1,1,normal,none,zh_000824,vi_000838
+824,2295.28,2296.19,0.91,已经开始试点了,đã bắt đầu thí điểm rồi.,已经开始试点了,已经开始试点了,đã bắt đầu thí điểm rồi.,1,1,normal,none,zh_000825,vi_000839
+825,2296.19,2297.96,1.77,如果咱们在咱们的城市,Nếu chúng ta làm việc này,如果咱们在咱们的城市,如果咱们在咱们的城市,Nếu chúng ta làm việc này,1,1,normal,none,zh_000826,vi_000840
+826,2297.96,2298.92,0.96,做这个业务的话,ở chính thành phố của chúng ta,做这个业务的话,做这个业务的话,ở chính thành phố của chúng ta,1,1,normal,none,zh_000827,vi_000841
+827,2298.92,2300.55,1.63,那就是头一家,thì là cửa hàng đầu tiên đó.,那就是头一家,那就是头一家,thì là cửa hàng đầu tiên đó.,1,1,normal,none,zh_000828,vi_000842
+828,2300.8,2302.11,1.31,独家代理,Đại lý độc quyền.,独家代理,独家代理,Đại lý độc quyền.,1,1,normal,none,zh_000829,vi_000843
+829,2302.11,2303.59,1.48,没人跟咱们抢的,Không ai giành với chúng ta đâu.,没人跟咱们抢的,没人跟咱们抢的,Không ai giành với chúng ta đâu.,1,1,normal,none,zh_000830,vi_000844
+830,2315.28,2316.59,1.31,疯驴子这两天,Mấy hôm nay Lừa Điên,疯驴子这两天,疯驴子这两天,Mấy hôm nay Lừa Điên,1,1,normal,none,zh_000831,vi_000845
+831,2316.8,2318.76,1.96,老在说上山上山的,"cứ nói lên núi, lên núi mãi,",老在说上山上山的,老在说上山上山的,"cứ nói lên núi, lên núi mãi,",1,1,normal,none,zh_000832,vi_000846
+832,2318.76,2320.03,1.27,我也不知道啥意思,tôi cũng không biết là có ý gì.,我也不知道啥意思,我也不知道啥意思,tôi cũng không biết là có ý gì.,1,1,normal,none,zh_000833,vi_000847
+833,2320.03,2321.59,1.56,你是想让他们带你上山,Anh muốn để chúng đưa anh lên núi à?,你是想让他们带你上山,你是想让他们带你上山,Anh muốn để chúng đưa anh lên núi à?,1,1,normal,none,zh_000834,vi_000848
+834,2321.59,2322.19,0.6,当然,Đương nhiên rồi.,当然,当然,Đương nhiên rồi.,1,1,normal,none,zh_000835,vi_000849
+835,2322.36,2322.92,0.56,尽可能,Cố hết sức,尽可能,尽可能,Cố hết sức,1,1,normal,none,zh_000836,vi_000850
+836,2322.92,2323.96,1.04,把他手底下的小弟,bắt hết đám đàn em,把他手底下的小弟,把他手底下的小弟,bắt hết đám đàn em,1,1,normal,none,zh_000837,vi_000851
+837,2323.96,2324.8,0.84,都抓了,dưới trướng hắn.,都抓了,都抓了,dưới trướng hắn.,1,1,normal,none,zh_000838,vi_000852
+838,2325.11,2326.8,1.69,这样逼着他没有人手,"Như vậy ép cho hắn không còn người,",这样逼着他没有人手,这样逼着他没有人手,"Như vậy ép cho hắn không còn người,",1,1,normal,none,zh_000839,vi_000853
+839,2326.8,2329.03,2.23,最后就只能带着我上山,cuối cùng chỉ có thể đưa tôi lên núi.,最后就只能带着我上山,最后就只能带着我上山,cuối cùng chỉ có thể đưa tôi lên núi.,1,1,normal,none,zh_000840,vi_000854
+840,2330.0,2330.63,0.63,好,Được.,好,好,Được.,1,1,normal,none,zh_000841,vi_000855
+841,2331.32,2332.63,1.31,我没了 你还有什么,"Tôi hết rồi, anh còn gì không?",我没了 你还有什么,我没了 你还有什么,"Tôi hết rồi, anh còn gì không?",1,1,normal,none,zh_000842,vi_000856
+842,2333.63,2335.0,1.37,菜市场那卖鱼的,Tên bán cá ở chợ thực phẩm,菜市场那卖鱼的,菜市场那卖鱼的,Tên bán cá ở chợ thực phẩm,1,1,normal,none,zh_000843,vi_000857
+843,2335.0,2336.51,1.51,高启强找过你,Cao Khải Cường có đi tìm anh.,高启强找过你,高启强找过你,Cao Khải Cường có đi tìm anh.,1,1,normal,none,zh_000844,vi_000858
+844,2336.84,2337.48,0.64,干啥,Làm gì?,干啥,干啥,Làm gì?,1,1,normal,none,zh_000845,vi_000859
+845,2337.88,2338.51,0.63,给你送鱼,"Tặng cá cho anh,",给你送鱼,给你送鱼,"Tặng cá cho anh,",1,1,normal,none,zh_000846,vi_000860
+846,2338.51,2339.59,1.08,让我退回去了,nhưng tôi trả lại rồi.,让我退回去了,让我退回去了,nhưng tôi trả lại rồi.,1,1,normal,none,zh_000847,vi_000861
+847,2339.84,2340.92,1.08,我看他那样,"Tôi thấy anh ta như vậy,",我看他那样,我看他那样,"Tôi thấy anh ta như vậy,",1,1,normal,none,zh_000848,vi_000862
+848,2340.92,2342.15,1.23,怕是让人欺负了,sợ là bị người khác bắt nạt rồi.,怕是让人欺负了,怕是让人欺负了,sợ là bị người khác bắt nạt rồi.,1,1,normal,none,zh_000849,vi_000863
+849,2342.28,2343.15,0.87,以后要见他,"Sau này muốn gặp anh ta,",以后要见他,以后要见他,"Sau này muốn gặp anh ta,",1,1,normal,none,zh_000850,vi_000864
+850,2343.15,2344.51,1.36,你可以穿着警服去,anh có thể mặc cảnh phục đi.,你可以穿着警服去,你可以穿着警服去,anh có thể mặc cảnh phục đi.,1,1,normal,none,zh_000851,vi_000865
+851,2361.36,2362.15,0.79,老高,Lão Cao.,老高,老高,Lão Cao.,1,1,normal,none,zh_000852,vi_000866
+852,2365.88,2367.07,1.19,别影响你玩牌,Đừng ảnh hưởng đến anh chơi bài.,别影响你玩牌,别影响你玩牌,Đừng ảnh hưởng đến anh chơi bài.,1,1,normal,none,zh_000853,vi_000867
+853,2367.59,2368.32,0.73,你们玩 你们玩,"Các anh cứ chơi tự nhiên,",你们玩 你们玩,你们玩 你们玩,"Các anh cứ chơi tự nhiên,",1,1,normal,none,zh_000854,vi_000868
+854,2368.32,2369.44,1.12,玩你们的 没事,"chơi tự nhiên đi, không có gì đâu.",玩你们的 没事,玩你们的 没事,"chơi tự nhiên đi, không có gì đâu.",1,1,normal,none,zh_000855,vi_000869
+855,2370.28,2371.23,0.95,不是 我们,"Không phải, chúng tôi...",不是 我们,不是 我们,"Không phải, chúng tôi...",1,1,normal,none,zh_000856,vi_000870
+856,2372.19,2373.19,1.0,很小 很小,"nhỏ, nhỏ lắm.",很小 很小,很小 很小,"nhỏ, nhỏ lắm.",1,1,normal,none,zh_000857,vi_000871
+857,2373.19,2374.51,1.32,你别给我聚众赌博,"Anh đừng có tụ tập đánh bài,",你别给我聚众赌博,你别给我聚众赌博,"Anh đừng có tụ tập đánh bài,",1,1,normal,none,zh_000858,vi_000872
+858,2374.51,2375.48,0.97,小心我抓你,cẩn thận tôi bắt anh đấy.,小心我抓你,小心我抓你,cẩn thận tôi bắt anh đấy.,1,1,normal,none,zh_000859,vi_000873
+859,2375.48,2376.32,0.84,没有 没有,"Không có, không có.",没有 没有,没有 没有,"Không có, không có.",1,1,normal,none,zh_000860,vi_000874
+860,2378.19,2379.19,1.0,最近怎么样,Dạo này thế nào rồi?,最近怎么样,最近怎么样,Dạo này thế nào rồi?,1,1,normal,none,zh_000861,vi_000875
+861,2379.19,2379.76,0.57,挺好,Ổn cả.,挺好,挺好,Ổn cả.,1,1,normal,none,zh_000862,vi_000876
+862,2380.07,2381.07,1.0,没人找你麻烦吧,Không ai tìm anh gây chuyện chứ?,没人找你麻烦吧,没人找你麻烦吧,Không ai tìm anh gây chuyện chứ?,1,1,normal,none,zh_000863,vi_000877
+863,2381.07,2381.88,0.81,没有 没有 没有,"Không có, không có, không có.",没有 没有 没有,没有 没有 没有,"Không có, không có, không có.",1,1,normal,none,zh_000864,vi_000878
+864,2381.88,2382.88,1.0,没什么事,Cũng không có gì đâu.,没什么事,没什么事,Cũng không có gì đâu.,1,1,normal,none,zh_000865,vi_000879
+865,2382.88,2383.88,1.0,安警官忙,"Cảnh sát An bận,",安警官忙,安警官忙,"Cảnh sát An bận,",1,1,normal,none,zh_000866,vi_000880
+866,2383.88,2385.32,1.44,让我过来看看你,bảo tôi tới thăm anh.,让我过来看看你,让我过来看看你,bảo tôi tới thăm anh.,1,1,normal,none,zh_000867,vi_000881
+867,2387.51,2388.15,0.64,等我一下,Đợi tôi một lát.,等我一下,等我一下,Đợi tôi một lát.,1,1,normal,none,zh_000868,vi_000882
+868,2390.03,2391.44,1.41,安警官和安局,Cảnh sát An và Cục phó An,安警官和安局,安警官和安局,Cảnh sát An và Cục phó An,1,1,normal,none,zh_000869,vi_000883
+869,2391.44,2393.28,1.84,真的太关心我了,thật sự quá quan tâm tôi rồi.,真的太关心我了,真的太关心我了,thật sự quá quan tâm tôi rồi.,1,1,normal,none,zh_000870,vi_000884
+870,2393.28,2395.11,1.83,有空让安局他们过来,Có thời gian thì bảo Cục phó An qua đây,有空让安局他们过来,有空让安局他们过来,Có thời gian thì bảo Cục phó An qua đây,1,1,normal,none,zh_000871,vi_000885
+871,2395.11,2395.84,0.73,挑鱼,chọn cá.,挑鱼,挑鱼,chọn cá.,1,1,normal,none,zh_000872,vi_000886
+872,2397.96,2398.67,0.71,不抽烟,Không hút thuốc.,不抽烟,不抽烟,Không hút thuốc.,1,1,normal,none,zh_000873,vi_000887
+873,2399.28,2400.19,0.91,你刚才说什么,Anh vừa nói gì cơ?,你刚才说什么,你刚才说什么,Anh vừa nói gì cơ?,1,1,normal,none,zh_000874,vi_000888
+874,2400.19,2401.0,0.81,安局,Cục phó An?,安局,安局,Cục phó An?,1,1,normal,none,zh_000875,vi_000889
+875,2403.8,2405.28,1.48,我觉得安警官,Tôi thấy cảnh sát An,我觉得安警官,我觉得安警官,Tôi thấy cảnh sát An,1,1,normal,none,zh_000876,vi_000890
+876,2405.28,2406.48,1.2,将来能当局长,tương lai có thể làm cục trưởng.,将来能当局长,将来能当局长,tương lai có thể làm cục trưởng.,1,1,normal,none,zh_000877,vi_000891
+877,2407.88,2409.92,2.04,行 没人欺负你就行了,"Được, không ai bắt nạt anh là được rồi,",行 没人欺负你就行了,行 没人欺负你就行了,"Được, không ai bắt nạt anh là được rồi,",1,1,normal,none,zh_000878,vi_000892
+878,2409.92,2410.96,1.04,没什么事 那我走了,không có gì thì tôi đi đây.,没什么事 那我走了,没什么事 那我走了,không có gì thì tôi đi đây.,1,1,normal,none,zh_000879,vi_000893
+879,2410.96,2412.0,1.04,你玩你的吧 行,"- Anh cứ chơi đi.
+- Được.",你玩你的吧 行,你玩你的吧 行,Anh cứ chơi đi. Được.,1,1,dash_dialogue,speech,zh_000880,vi_000894
+880,2412.0,2412.55,0.55,别赌钱,Không đánh bạc nhé.,别赌钱,别赌钱,Không đánh bạc nhé.,1,1,normal,none,zh_000881,vi_000895
+881,2412.55,2413.28,0.73,不赌 不赌,"Không đánh, không đánh.",不赌 不赌,不赌 不赌,"Không đánh, không đánh.",1,1,normal,none,zh_000882,vi_000896
+882,2414.71,2415.36,0.65,忙吧,Làm việc đi.,忙吧,忙吧,Làm việc đi.,1,1,normal,none,zh_000883,vi_000897
+883,2415.36,2417.28,1.92,好 有事您随时说话,"Được, có chuyện gì anh cứ nói bất cứ lúc nào.",好 有事您随时说话,好 有事您随时说话,"Được, có chuyện gì anh cứ nói bất cứ lúc nào.",1,1,normal,none,zh_000884,vi_000898
+884,2418.88,2419.55,0.67,老高,"Lão Cao,",老高,老高,"Lão Cao,",1,1,normal,none,zh_000885,vi_000899
+885,2421.88,2423.07,1.19,我跟你打听个人,"tôi hỏi thăm anh người này,",我跟你打听个人,我跟你打听个人,"tôi hỏi thăm anh người này,",1,1,normal,none,zh_000886,vi_000900
+886,2423.07,2424.11,1.04,我把照片给你看看,tôi đưa ảnh cho anh xem.,我把照片给你看看,我把照片给你看看,tôi đưa ảnh cho anh xem.,1,1,normal,none,zh_000887,vi_000901
+887,2424.55,2426.11,1.56,是不是办案的事情,Có phải đang đánh án không?,是不是办案的事情,是不是办案的事情,Có phải đang đánh án không?,1,1,normal,none,zh_000888,vi_000902
+888,2426.88,2428.28,1.4,别在这里说 这里人多,"Đừng nói ở đây, ở đây đông người,",别在这里说 这里人多,别在这里说 这里人多,"Đừng nói ở đây, ở đây đông người,",1,1,normal,none,zh_000889,vi_000903
+889,2428.28,2429.23,0.95,咱们到外面说去,chúng ta ra ngoài rồi nói.,咱们到外面说去,咱们到外面说去,chúng ta ra ngoài rồi nói.,1,1,normal,none,zh_000890,vi_000904
+890,2429.23,2429.59,0.36,那个,"À này,",那个,那个,"À này,",1,1,normal,none,zh_000891,vi_000905
+891,2429.59,2430.76,1.17,我和个朋友出去走一下,tôi với anh bạn ra ngoài một lát nhé.,我和个朋友出去走一下,我和个朋友出去走一下,tôi với anh bạn ra ngoài một lát nhé.,1,1,normal,none,zh_000892,vi_000906
+892,2430.76,2431.44,0.68,别耽误你做生意,Đừng làm lỡ việc làm ăn của anh.,别耽误你做生意,别耽误你做生意,Đừng làm lỡ việc làm ăn của anh.,1,1,normal,none,zh_000893,vi_000907
+893,2431.44,2432.67,1.23,不耽误 没事 没事,"Không lỡ dở gì đâu, không sao.",不耽误 没事 没事,不耽误 没事 没事,"Không lỡ dở gì đâu, không sao.",1,1,normal,none,zh_000894,vi_000908
+894,2432.67,2433.36,0.69,走走走,"Đi, đi, đi.",走走走,走走走,"Đi, đi, đi.",1,1,normal,none,zh_000895,vi_000909
+895,2438.32,2439.51,1.19,死者叫黄翠翠,"Người chết tên Hoàng Thúy Thúy,",死者叫黄翠翠,死者叫黄翠翠,"Người chết tên Hoàng Thúy Thúy,",1,1,normal,none,zh_000896,vi_000910
+896,2439.8,2441.8,2.0,生前在旧厂街一带活动,"lúc sống hoạt động ở khu vực phố nhà xưởng cũ,",生前在旧厂街一带活动,生前在旧厂街一带活动,"lúc sống hoạt động ở khu vực phố nhà xưởng cũ,",1,1,normal,none,zh_000897,vi_000911
+897,2441.8,2442.96,1.16,有过卖淫行为,từng có hành vi bán dâm.,有过卖淫行为,有过卖淫行为,từng có hành vi bán dâm.,1,1,normal,none,zh_000898,vi_000912
+898,2443.51,2445.28,1.77,接触人员也比较复杂,Người tiếp xúc cũng khá phức tạp.,接触人员也比较复杂,接触人员也比较复杂,Người tiếp xúc cũng khá phức tạp.,1,1,normal,none,zh_000899,vi_000913
+899,2445.59,2446.51,0.92,你们这菜市场,Chẳng phải ở chợ thực phẩm các anh,你们这菜市场,你们这菜市场,Chẳng phải ở chợ thực phẩm các anh,1,1,normal,none,zh_000900,vi_000914
+900,2446.51,2447.44,0.93,不是人多吗,đông người sao?,不是人多吗,不是人多吗,đông người sao?,1,1,normal,none,zh_000901,vi_000915
+901,2447.44,2448.15,0.71,你帮我看看,Anh xem giúp tôi xem,你帮我看看,你帮我看看,Anh xem giúp tôi xem,1,1,normal,none,zh_000902,vi_000916
+902,2448.15,2449.19,1.04,有没有什么线索,có manh mối gì không.,有没有什么线索,有没有什么线索,có manh mối gì không.,1,1,normal,none,zh_000903,vi_000917
+903,2450.19,2450.88,0.69,行,Được.,行,行,Được.,1,1,normal,none,zh_000904,vi_000918
+904,2451.59,2452.28,0.69,我对这个人,Tôi thì không có ấn tượng gì,我对这个人,我对这个人,Tôi thì không có ấn tượng gì,1,1,normal,none,zh_000905,vi_000919
+905,2452.28,2453.55,1.27,倒是没什么印象,với người này cả.,倒是没什么印象,倒是没什么印象,với người này cả.,1,1,normal,none,zh_000906,vi_000920
+906,2453.67,2454.4,0.73,回头,Để tôi về,回头,回头,Để tôi về,1,1,normal,none,zh_000907,vi_000921
+907,2454.96,2456.07,1.11,我也打听打听,nghe ngóng thử xem.,我也打听打听,我也打听打听,nghe ngóng thử xem.,1,1,normal,none,zh_000908,vi_000922
+908,2457.28,2458.44,1.16,我能拿着这照片,Tôi có thể cầm bức ảnh này,我能拿着这照片,我能拿着这照片,Tôi có thể cầm bức ảnh này,1,1,normal,none,zh_000909,vi_000923
+909,2458.44,2459.36,0.92,跟他们说,nói với họ...,跟他们说,跟他们说,nói với họ...,1,1,normal,none,zh_000910,vi_000924
+910,2460.48,2461.84,1.36,就我能复印一下吗,Tôi có thể photo một bức không?,就我能复印一下吗,就我能复印一下吗,Tôi có thể photo một bức không?,1,1,normal,none,zh_000911,vi_000925
+911,2461.84,2462.55,0.71,随便印,Photo thoải mái.,随便印,随便印,Photo thoải mái.,1,1,normal,none,zh_000912,vi_000926
+912,2462.88,2463.48,0.6,行,Được.,行,行,Được.,1,1,normal,none,zh_000913,vi_000927
+913,2471.23,2472.15,0.92,强哥来了,Anh Cường tới rồi.,强哥来了,强哥来了,Anh Cường tới rồi.,1,1,normal,none,zh_000914,vi_000928
+914,2472.51,2474.03,1.52,强哥 强哥,"Anh Cường, anh Cường.",强哥 强哥,强哥 强哥,"Anh Cường, anh Cường.",1,1,normal,none,zh_000915,vi_000929
+915,2474.03,2474.88,0.85,以后我这边,Sau này bên tôi...,以后我这边,以后我这边,Sau này bên tôi...,1,1,normal,none,zh_000916,vi_000930
+916,2474.88,2475.67,0.79,干什么呀,Làm gì vậy?,干什么呀,干什么呀,Làm gì vậy?,1,1,normal,none,zh_000917,vi_000931
+917,2475.76,2477.03,1.27,这个我不能要 不能要,"Tôi không lấy cái này được đâu, không lấy được.",这个我不能要 不能要,这个我不能要 不能要,"Tôi không lấy cái này được đâu, không lấy được.",1,1,normal,none,zh_000918,vi_000932
+918,2477.03,2477.71,0.68,拿回去 拿回去,"Mang về đi, mang về đi.",拿回去 拿回去,拿回去 拿回去,"Mang về đi, mang về đi.",1,1,normal,none,zh_000919,vi_000933
+919,2477.71,2478.44,0.73,真的不要 不要,"Thật sự không cần, không cần đâu.",真的不要 不要,真的不要 不要,"Thật sự không cần, không cần đâu.",1,1,normal,none,zh_000920,vi_000934
+920,2478.44,2479.32,0.88,一点小意思,Chút tấm lòng thôi mà.,一点小意思,一点小意思,Chút tấm lòng thôi mà.,1,1,normal,none,zh_000921,vi_000935
+921,2479.32,2481.23,1.91,干什么 一定要说话就行了,"- Làm gì vậy?
+- Nhất định phải nói chuyện là được rồi.",干什么 一定要说话就行了,干什么 一定要说话就行了,Làm gì vậy? Nhất định phải nói chuyện là được rồi.,0,1,dash_dialogue,speech,zh_000922,vi_000936
+922,2481.23,2482.11,0.88,不用 真的,Thật sự không cần đâu.,不用 真的,不用 真的,Thật sự không cần đâu.,1,1,normal,none,zh_000923,vi_000937
+923,2489.28,2490.44,1.16,那个,Chuyện là...,那个,那个,Chuyện là...,1,1,normal,none,zh_000924,vi_000938
+924,2490.96,2492.8,1.84,死者叫黄翠翠,"Nạn nhân tên là Hoàng Thúy Thúy,",死者叫黄翠翠,死者叫黄翠翠,"Nạn nhân tên là Hoàng Thúy Thúy,",1,1,normal,none,zh_000925,vi_000939
+925,2493.76,2495.19,1.43,以前在旧厂街一带,trước đây từng hoạt động ở khu vực,以前在旧厂街一带,以前在旧厂街一带,trước đây từng hoạt động ở khu vực,1,1,normal,none,zh_000926,vi_000940
+926,2495.19,2496.03,0.84,活动过,"phố nhà xưởng cũ,",活动过,活动过,"phố nhà xưởng cũ,",1,1,normal,none,zh_000927,vi_000941
+927,2496.28,2498.07,1.79,要有知道她的消息的话,"nếu biết tin tức gì về cô ấy,",要有知道她的消息的话,要有知道她的消息的话,"nếu biết tin tức gì về cô ấy,",1,1,normal,none,zh_000928,vi_000942
+928,2498.07,2499.88,1.81,马上通知我们警方,hãy lập tức thông báo cho cảnh sát chúng tôi.,马上通知我们警方,马上通知我们警方,hãy lập tức thông báo cho cảnh sát chúng tôi.,1,1,normal,none,zh_000929,vi_000943
+929,2510.51,2512.07,1.56,采沙场被抢走的电路板,Điều tra bảng điện bị trộm mất ở bãi cát,采沙场被抢走的电路板,采沙场被抢走的电路板,Điều tra bảng điện bị trộm mất ở bãi cát,1,1,normal,none,zh_000930,vi_000944
+930,2512.07,2512.8,0.73,查得怎么样了,thế nào rồi?,查得怎么样了,查得怎么样了,thế nào rồi?,1,1,normal,none,zh_000931,vi_000945
+931,2512.88,2513.71,0.83,已经通过关系,Đã thông qua quan hệ,已经通过关系,已经通过关系,Đã thông qua quan hệ,1,1,normal,none,zh_000932,vi_000946
+932,2513.71,2514.71,1.0,锁定了买家,"xác định được người mua,",锁定了买家,锁定了买家,"xác định được người mua,",1,1,normal,none,zh_000933,vi_000947
+933,2514.96,2516.07,1.11,就等着他们交易了,chỉ đợi bọn họ giao dịch thôi.,就等着他们交易了,就等着他们交易了,chỉ đợi bọn họ giao dịch thôi.,1,1,normal,none,zh_000934,vi_000948
+934,2516.15,2517.8,1.65,好 立即抓捕,"Được, lập tức bắt lấy,",好 立即抓捕,好 立即抓捕,"Được, lập tức bắt lấy,",1,1,normal,none,zh_000935,vi_000949
+935,2518.07,2518.84,0.77,倒查销路,"tra ngược lại đường tiêu thụ,",倒查销路,倒查销路,"tra ngược lại đường tiêu thụ,",1,1,normal,none,zh_000936,vi_000950
+936,2519.03,2520.11,1.08,争取把这一批人,nhân cơ hội bắt gọn,争取把这一批人,争取把这一批人,nhân cơ hội bắt gọn,1,1,normal,none,zh_000937,vi_000951
+937,2520.11,2520.84,0.73,一网打尽,đám người này trong một mẻ lưới.,一网打尽,一网打尽,đám người này trong một mẻ lưới.,1,1,normal,none,zh_000938,vi_000952
+938,2529.92,2531.63,1.71,哥 老五老六,"Anh, lão ngũ, lão lục",哥 老五老六,哥 老五老六,"Anh, lão ngũ, lão lục",1,1,normal,none,zh_000939,vi_000953
+939,2531.63,2532.71,1.08,和傻祥都进去了,và Tường Ngốc đều vào rồi.,和傻祥都进去了,和傻祥都进去了,và Tường Ngốc đều vào rồi.,1,1,normal,none,zh_000940,vi_000954
+940,2536.36,2537.11,0.75,你们家人,Người nhà các anh,你们家人,你们家人,Người nhà các anh,1,1,normal,none,zh_000941,vi_000955
+941,2537.4,2539.55,2.15,隔三岔五分拨分批进去,cứ dăm ba ngày lại chia nhóm vào à?,隔三岔五分拨分批进去,隔三岔五分拨分批进去,cứ dăm ba ngày lại chia nhóm vào à?,1,1,normal,none,zh_000942,vi_000956
+942,2556.0,2556.88,0.88,没啥大事,Không có chuyện gì ghê gớm cả.,没啥大事,没啥大事,Không có chuyện gì ghê gớm cả.,1,1,normal,none,zh_000943,vi_000957
+943,2558.36,2560.03,1.67,就是卖个电路板出事了,Chỉ là bán một bảng điện xảy ra chuyện.,就是卖个电路板出事了,就是卖个电路板出事了,Chỉ là bán một bảng điện xảy ra chuyện.,1,1,normal,none,zh_000944,vi_000958
+944,2560.23,2561.03,0.8,他们不会把咱们,Bọn họ sẽ không khai cả,他们不会把咱们,他们不会把咱们,Bọn họ sẽ không khai cả,1,1,normal,none,zh_000945,vi_000959
+945,2561.03,2561.84,0.81,给招了吧,chúng ta ra chứ?,给招了吧,给招了吧,chúng ta ra chứ?,1,1,normal,none,zh_000946,vi_000960
+946,2562.23,2563.59,1.36,不招就是蹲半年,"Không khai thì giam nửa năm,",不招就是蹲半年,不招就是蹲半年,"Không khai thì giam nửa năm,",1,1,normal,none,zh_000947,vi_000961
+947,2564.32,2566.07,1.75,招了就是十年八年,"khai thì ngồi mười năm, tám năm.",招了就是十年八年,招了就是十年八年,"khai thì ngồi mười năm, tám năm.",1,1,normal,none,zh_000948,vi_000962
+948,2568.19,2569.36,1.17,除非他们想不开,Trừ phi chúng nghĩ quẩn.,除非他们想不开,除非他们想不开,Trừ phi chúng nghĩ quẩn.,1,1,normal,none,zh_000949,vi_000963
+949,2570.63,2571.19,0.56,哥,Anh.,哥,哥,Anh.,1,1,normal,none,zh_000950,vi_000964
+950,2572.23,2573.51,1.28,要不咱还是躲躲吧,Hay là chúng ta trốn đi.,要不咱还是躲躲吧,要不咱还是躲躲吧,Hay là chúng ta trốn đi.,1,1,normal,none,zh_000951,vi_000965
+951,2573.51,2574.48,0.97,躲什么躲,Trốn gì mà trốn.,躲什么躲,躲什么躲,Trốn gì mà trốn.,1,1,normal,none,zh_000952,vi_000966
+952,2574.8,2576.15,1.35,周末就要上山了,"Cuối tuần phải lên núi rồi,",周末就要上山了,周末就要上山了,"Cuối tuần phải lên núi rồi,",1,1,normal,none,zh_000953,vi_000967
+953,2576.15,2577.15,1.0,谁来安排,ai sẽ sắp xếp?,谁来安排,谁来安排,ai sẽ sắp xếp?,1,1,normal,none,zh_000954,vi_000968
+954,2577.32,2579.11,1.79,到时候老大找别人干活,"Đến lúc đó đại ca tìm người khác làm việc,",到时候老大找别人干活,到时候老大找别人干活,"Đến lúc đó đại ca tìm người khác làm việc,",1,1,normal,none,zh_000955,vi_000969
+955,2579.11,2580.44,1.33,兄弟们喝西北风啊,các anh em cạp đất mà ăn à?,兄弟们喝西北风啊,兄弟们喝西北风啊,các anh em cạp đất mà ăn à?,1,1,normal,none,zh_000956,vi_000970

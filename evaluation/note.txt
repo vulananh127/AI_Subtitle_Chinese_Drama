@@ -1,0 +1,107 @@
+- Mục đích là tạo môi trường Python riêng và cài PyTorch tương thích với GPU A100 cùng driver NVIDIA hiện tại của máy:
+
+1. Tạo thư mục cache để Conda lưu gói tải xuống và thư mục tạm tmp mới (thư mục mặc định ở /home bị hết dung lượng):
+mkdir -p /data/lananh/conda-pkgs /data/lananh/conda-envs /data/lananh/tmp /data/lananh/pip-cache /data/lananh/huggingface /data/lananh/.cache/modelscope
+
+Lưu cấu hình cho những lần sau: conda config --prepend pkgs_dirs /data/lananh/conda-pkgs
+
+2. Chuyển cache và thư mục tạm tmp sang nơi bạn có quyền ghi, xử lý lỗi `NoWritablePkgsDirError`
+export CONDA_PKGS_DIRS=/data/lananh/conda-pkgs
+export TMPDIR=/data/lananh/tmp
+export PIP_CACHE_DIR=/data/lananh/pip-cache
+export HF_HOME=/data/lananh/huggingface
+3. Tạo môi trường riêng tên `asr-mt`, dùng Python 3.10
+conda create --prefix /data/lananh/conda-envs/asr-mt python=3.10 -y
+4. Chuyển sang dùng Python và thư viện của môi trường mới
+conda activate /data/lananh/conda-envs/asr-mt
+export MODELSCOPE_CACHE=/data/lananh/.cache/modelscope
+export TMPDIR=/data/lananh/tmp
+export PIP_CACHE_DIR=/data/lananh/pip-cache
+export HF_HOME=/data/lananh/huggingface
+5. Cài PyTorch và TorchAudio bản CUDA 12.1 phù hợp với driver hiện có
+python -m pip install torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+
+- Sau khi cài xong pytorch mới, kiểm tra:
+python -c "import sys, torch; print(sys.executable); print(torch.__version__); print('CUDA:', torch.cuda.is_available())"
+- Kết quả mong đợi:
+/data/lananh/conda-envs/asr-mt/bin/python
+2.5.1+cu121
+CUDA: True
+
+- Mỗi lần mở terminal mới để chạy project, bạn cần kích hoạt ại: chạy lại bước 4
+- Biến cache trên chỉ áp dụng trong terminal hiện tại. Lần sau mở terminal mới, nếu cần cài thêm gói bằng Conda: chạy lại bước 2
+
+
+- Môi trường Conda vừa tạo đã là môi trường ảo, nên bạn không cần tạo thêm .venv. Ta sẽ cài thư viện trực tiếp vào /data/lananh/conda-envs/asr-mt.
+
+- Cài đặt các thư viện cần thiết:
+python -m pip install --upgrade pip
+python -m pip install transformers accelerate sentencepiece soundfile sacrebleu tqdm unbabel-comet safetensors
+
+| Model/backend | Cài thêm |
+| Qwen3-ASR | `python -m pip install qwen-asr` |
+| Paraformer, SenseVoice | `python -m pip install funasr` |
+| Whisper | Dùng nhóm thư viện cơ bản phía trên |
+| NLLB, các model MT dùng Transformers | Dùng nhóm thư viện cơ bản phía trên |
+| Chấm COMET | `python -m pip install unbabel-comet` |
+| Backend MT vLLM, tùy chọn | `python -m pip install vllm` |
+
+(/data/lananh/conda-envs/asr-mt) cuongdd@gpu01:/data/lananh/AI_Subtitle_Chinese_Drama$ python -m evaluation.run_eval list
+[asr] backends: ['dummy', 'funasr', 'hf_whisper', 'qwen3_asr']
+   qwen3-asr-1.7b                     qwen3_asr    Qwen/Qwen3-ASR-1.7B
+   qwen3-asr-0.6b                     qwen3_asr    Qwen/Qwen3-ASR-0.6B
+   paraformer-zh                      funasr       paraformer-zh
+   sensevoice-small                   funasr       iic/SenseVoiceSmall
+   whisper-large-v3                   hf_whisper   openai/whisper-large-v3
+   whisper-large-v3-turbo             hf_whisper   openai/whisper-large-v3-turbo
+   belle-whisper-large-v3-turbo-zh    hf_whisper   BELLE-2/Belle-whisper-large-v3-turbo-zh
+   dummy                              dummy        -
+[mt] backends: ['dummy', 'hf_causal', 'hf_seq2seq', 'vllm_causal']
+   nllb-200-3.3b                      hf_seq2seq   facebook/nllb-200-3.3B
+   nllb-200-distilled-600m            hf_seq2seq   facebook/nllb-200-distilled-600M
+   hy-mt1.5-7b                        hf_causal    tencent/HY-MT1.5-7B
+   hy-mt2-7b                          hf_causal    tencent/Hy-MT2-7B
+   qwen3.5-9b                         hf_causal    Qwen/Qwen3.5-9B
+   translategemma-12b                 hf_causal    google/translategemma-12b-it --> không có quyền access
+   seed-x-ppo-7b                      hf_causal    ByteDance-Seed/Seed-X-PPO-7B
+   milmmt-46-4b                       hf_causal    xiaomi-research/MiLMMT-46-4B-v1.0
+   dummy                              dummy        -
+
+- Prompt cũ: 100 câu đầu
+python -m evaluation.run_eval mt --model hy-mt1.5-7b --limit 100 --score-only
+01:51:49 INFO Kết quả lưu ở /data/lananh/AI_Subtitle_Chinese_Drama/dataset/drama/processed/eval/chinese/mt/pretrained/hy-mt1.5-7b
+01:51:49 INFO   n                      100
+01:51:49 INFO   n_empty_hyp            0
+01:51:49 INFO   bleu                   6.9178
+01:51:49 INFO   chrf                   32.3233
+01:51:49 INFO   chrfpp                 30.8542
+01:51:49 INFO   comet_wmt22-comet-da   0.64134
+
+- Prompt mới: 100 câu đầu
+01:43:39 INFO   n                      100
+01:43:39 INFO   n_empty_hyp            0
+01:43:39 INFO   bleu                   16.7497
+01:43:39 INFO   chrf                   42.9056
+01:43:39 INFO   chrfpp                 42.4242
+01:43:39 INFO   comet_wmt22-comet-da   0.8561
+
+- Khi thử nghiệm MT qwen3.5-9b, transformers không tương thích 
+--> tạo môi trường ảo mới (dùng để thử nghiệm MT nllb luôn)
+conda create \
+  --prefix /data/lananh/conda-envs/qwen35 \
+  --clone /data/lananh/conda-envs/asr-mt
+
+--> sau đó active:
+conda activate /data/lananh/conda-envs/qwen35
+export MODELSCOPE_CACHE=/data/lananh/.cache/modelscope
+export TMPDIR=/data/lananh/tmp
+export PIP_CACHE_DIR=/data/lananh/pip-cache
+export HF_HOME=/data/lananh/huggingface
+
+--> đổi bản transformers:
+printf 'torch==2.5.1\ntorchaudio==2.5.1\n' \
+  > /data/lananh/torch-constraints.txt
+
+python -m pip install \
+  -c /data/lananh/torch-constraints.txt \
+  "transformers==5.10.0"

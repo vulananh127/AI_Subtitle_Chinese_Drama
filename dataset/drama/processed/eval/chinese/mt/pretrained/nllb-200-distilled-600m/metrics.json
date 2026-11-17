@@ -1,0 +1,59 @@
+{
+  "task": "mt",
+  "language": "chinese",
+  "stage": "pretrained",
+  "model_name": "nllb-200-distilled-600m",
+  "backend": "hf_seq2seq",
+  "model_path": "facebook/nllb-200-distilled-600M",
+  "backend_cfg": {
+    "batch_size": 64
+  },
+  "src_lang": "zh",
+  "tgt_lang": "vi",
+  "dataset": {
+    "csv": "/data/lananh/AI_Subtitle_Chinese_Drama/dataset/drama/processed/metadata/chinese/metadata_mt.csv",
+    "n_rows_csv": 14879,
+    "n_items": 14879,
+    "n_empty_pair": 0,
+    "context": {
+      "previous": 1,
+      "next": 1,
+      "scope": "same episode, consecutive ID, selected split"
+    },
+    "split_col": null,
+    "split": null,
+    "columns": {
+      "src": "origin_text",
+      "ref": "vi_text",
+      "id": "id"
+    },
+    "fingerprint": "fa6cf76915b4"
+  },
+  "metrics": {
+    "n": 14879,
+    "n_empty_hyp": 6,
+    "bleu": 9.8991,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf": 28.312,
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+    "chrfpp": 28.0964,
+    "chrfpp_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:2|space:no|version:2.6.0",
+    "comet_wmt22-comet-da": 0.73177
+  },
+  "metric_errors": {},
+  "timing": {
+    "inference_sec": 1361.06,
+    "sent_per_sec": 10.93
+  },
+  "created_at": "2026-11-13T09:52:24",
+  "versions": {
+    "python": "3.10.22",
+    "torch": "2.5.1+cu121",
+    "transformers": "4.57.6",
+    "sacrebleu": "2.6.0",
+    "unbabel-comet": "2.2.7",
+    "qwen-asr": "0.0.6",
+    "funasr": "1.4.26",
+    "soundfile": "0.14.0"
+  }
+}

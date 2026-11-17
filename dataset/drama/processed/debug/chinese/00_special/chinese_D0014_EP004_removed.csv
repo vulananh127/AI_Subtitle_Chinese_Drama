@@ -1,0 +1,134 @@
+side,cue_id,reason,text
+origin,zh_000360,in_special_pair,怎么会这样
+origin,zh_000554,in_special_pair,糖放一勺半就行了
+origin,zh_000075,in_special_pair,眼睛好干
+origin,zh_000079,in_special_pair,糟了
+origin,zh_000544,in_special_pair,好吃
+origin,zh_000571,in_special_pair,一起打游戏上分
+origin,zh_000333,in_special_pair,这女的怎么打扮成这样
+origin,zh_000561,in_special_pair,赶紧举报了
+origin,zh_000578,in_special_pair,你什么时候抽空来学校一趟
+origin,zh_000580,in_special_pair,你也别等本科毕业了
+origin,zh_000590,in_special_pair,好的没事 那我等你电话
+origin,zh_000076,in_special_pair,忘记问任初
+origin,zh_000361,in_special_pair,明明我混淆了数据
+origin,zh_000082,in_special_pair,一定是被我迷住了
+origin,zh_000077,in_special_pair,对视要保持多长时间了
+origin,zh_000581,in_special_pair,论文对你来说 小意思
+origin,zh_000331,in_special_pair,任初果然是高手
+origin,zh_000579,in_special_pair,我带你看看实验室
+origin,zh_000081,in_special_pair,他不知道说什么
+origin,zh_000080,in_special_pair,我要哭了
+origin,zh_000074,in_special_pair,对视 达成
+origin,zh_000364,in_special_pair,打完这局游戏我就撤
+origin,zh_000363,in_special_pair,算了 恋爱的世界太难了
+origin,zh_000542,in_special_pair,芒果蛋糕怎么样啊
+origin,zh_000567,in_special_pair,味道太好了
+origin,zh_000556,in_special_pair,五十五度刚好
+origin,zh_000560,in_special_pair,真奇怪
+origin,zh_000568,in_special_pair,醇香浓郁
+origin,zh_000574,in_special_pair,邮件都收到了吧
+origin,zh_000495,in_special_pair,不好意思 我的奶茶
+origin,zh_000078,in_special_pair,到底够了没有呀
+origin,zh_000582,in_special_pair,你就直接进来做项目吧
+origin,zh_000263,in_special_pair,以我的直觉
+origin,zh_000329,in_special_pair,男生居然真的喜欢这种
+origin,zh_000208,in_special_pair,师兄
+origin,zh_000566,in_special_pair,这次的豆浆哪里买的
+origin,zh_000569,in_special_pair,我的菜
+origin,zh_000330,in_special_pair,辣眼睛的打扮
+origin,zh_000369,in_special_pair,我那叫抛媚眼好吗
+origin,zh_000570,in_special_pair,今天有空吗
+origin,zh_000334,in_special_pair,吓我一跳
+origin,zh_000564,in_special_pair,店在哪儿 我帮你出头去
+origin,zh_000394,in_special_pair,这什么奇葩脑回路啊
+origin,zh_000543,in_special_pair,汪彧扬说什么了没
+vi,vi_000447,music_auto,♫Bất giác dừng lại theo ánh nhìn của em♫
+vi,vi_000448,music_auto,♫Bất giác cất giữ nụ cười mà hai ta hiểu ý nhau♫
+vi,vi_000449,music_auto,♫Bất giác nắm chặt lấy ngón tay chạm vào nhau♫
+vi,vi_000450,music_auto,"♫Bất giác lại gần em,
+hai trái tim có thể cách nhau bao xa♫"
+vi,vi_000451,music_auto,"♫Tình yêu làm tim đập mạnh,
+cộng hưởng mọi cảm xúc trong khoảnh khắc này♫"
+vi,vi_000452,music_auto,♫Lờ mờ ký ức và nỗi luyến tiếc chồng lên nhau♫
+vi,vi_000457,music_auto,♫Mãi mới nhận ra♫
+vi,vi_000460,music_auto,"♫Xông vào thế giới của anh,
+ngang nhiên cướp hết mọi niềm vui♫"
+vi,vi_000463,music_auto,"♫Giống như tia chớp tháng Năm, quá đặc biệt,
+không thể miêu tả♫"
+vi,vi_000466,music_auto,"♫Xông vào thế giới của anh,
+để lại mọi thứ liên quan tới em♫"
+vi,vi_000468,music_auto,"♫Tự bao giờ bỗng lại nhớ nhung,
+bất giác thân thiết quá♫"
+vi,vi_000005,scene_text,[Tình yêu lạc mất của sếp tổng bá đạo]
+vi,vi_000007,scene_text,[Giải nghĩa giấc mơ]
+vi,vi_000045,scene_text,"[Phòng nướng bánh, Đại học Thanh Diệu]"
+vi,vi_000049,scene_text,"[Cách nhanh nhất để trở thành người yêu
+là tiếng sét ái tình]"
+vi,vi_000067,scene_text,"[Một, đọc to gây chú ý]"
+vi,vi_000595,scene_text,[Công thức làm sữa đậu nành]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Lần đầu yêu anh]
+vi,vi_000003,scene_text,[Tập 4]
+vi,vi_000008,scene_text,"[Mang thai bỏ trốn, cầu cậu chủ Quyền buông tha]"
+vi,vi_000009,scene_text,[Tình yêu lạc mất của sếp tổng bá đạo]
+vi,vi_000048,scene_text,[Làm thế nào để yêu đương khoa học]
+vi,vi_000063,scene_text,"[Khu dạy học 3, phòng 107, lớp tiếng Anh 01]"
+vi,vi_000083,scene_text,"[Hai, nhìn vào mắt nhau]"
+vi,vi_000193,scene_text,[Phòng giải phẫu]
+vi,vi_000286,scene_text,[Hình như hơi thích em rồi]
+vi,vi_000291,scene_text,[Không kìm được muốn thích em]
+vi,vi_000295,scene_text,[Hình như hơi thích em rồi]
+vi,vi_000301,scene_text,[Sơ đồ mặt bằng tiệm net]
+vi,vi_000310,scene_text,"[Đàn ông ghét nhất phụ nữ mặc thế này: Vớ ren +
+giày thể thao + áo ánh kim + váy đinh tán]"
+vi,vi_000527,scene_text,[Kế hoạch loại bỏ tin đồn]
+vi,vi_000604,scene_text,[Câu lạc bộ bơi lội Đại học Thanh Diệu]
+vi,vi_000605,scene_text,"[Cấp bậc: Thạc sĩ; Trường, khoa: Khoa thông tin và khoa học công trình
+Đại học Bình Châu. Phương hướng nghiên cứu: Trí tuệ nhân tạo]"
+vi,vi_000707,scene_text,[Sách ôn tập thi cao học chính trị]
+vi,vi_000615,in_special_pair,"[với em thì luận văn là chuyện nhỏ thôi,]"
+vi,vi_000381,in_special_pair,[Rõ ràng mình đã xáo trộn số liệu rồi mà.]
+vi,vi_000093,in_special_pair,[Mình sắp khóc rồi.]
+vi,vi_000573,in_special_pair,[Bánh kem xoài thế nào?]
+vi,vi_000601,in_special_pair,[đúng gu của tôi.]
+vi,vi_000612,in_special_pair,"[Lúc nào em rảnh qua trường một chuyến,]"
+vi,vi_000091,in_special_pair,[Đã đủ chưa nhỉ?]
+vi,vi_000351,in_special_pair,[Nhậm Sơ đúng là cao thủ.]
+vi,vi_000600,in_special_pair,"[Mùi cực thơm,]"
+vi,vi_000616,in_special_pair,[em tới đây làm dự án luôn đi.]
+vi,vi_000596,in_special_pair,[Quán ở đâu? Tôi ra mặt giúp anh.]
+vi,vi_000602,in_special_pair,[Hôm nay rảnh không?]
+vi,vi_000088,in_special_pair,[Mắt mình khô quá.]
+vi,vi_000598,in_special_pair,[Sữa đậu nành lần này mua ở quán nào thế?]
+vi,vi_000525,in_special_pair,"- Tớ xin lỗi.
+- Trà sữa của tớ."
+vi,vi_000414,in_special_pair,[Tư duy kỳ cục kiểu gì vậy?]
+vi,vi_000087,in_special_pair,"[Nhìn vào mắt, thành công.]"
+vi,vi_000624,in_special_pair,"[Được, không sao, vậy tôi đợi điện thoại của em.]"
+vi,vi_000353,in_special_pair,[Cô gái này ăn mặc kiểu gì vậy?]
+vi,vi_000389,in_special_pair,"[Đấy là nháy mắt, được chứ?]"
+vi,vi_000222,in_special_pair,"[Đàn anh,]"
+vi,vi_000092,in_special_pair,[Tiêu rồi.]
+vi,vi_000384,in_special_pair,[chơi xong ván game này mình sẽ rút.]
+vi,vi_000614,in_special_pair,"[Em cũng đừng đợi tốt nghiệp đại học nữa,]"
+vi,vi_000380,in_special_pair,[Sao lại vậy?]
+vi,vi_000350,in_special_pair,[rõ là đau mắt này thật á?]
+vi,vi_000277,in_special_pair,[Với trực giác của tôi]
+vi,vi_000094,in_special_pair,"[Cậu ấy không biết phải nói gì,]"
+vi,vi_000090,in_special_pair,[nhìn bao lâu là đủ rồi.]
+vi,vi_000089,in_special_pair,[Quên hỏi Nhậm Sơ]
+vi,vi_000599,in_special_pair,[Vị ngon quá.]
+vi,vi_000613,in_special_pair,[tôi dẫn em đi tham quan phòng thí nghiệm.]
+vi,vi_000587,in_special_pair,[Năm mươi lăm độ là vừa đẹp.]
+vi,vi_000603,in_special_pair,"[Cùng chơi game, lên hạng đi.]"
+vi,vi_000585,in_special_pair,[cho một thìa rưỡi đường là được.]
+vi,vi_000592,in_special_pair,[Mau báo cáo quán đi.]
+vi,vi_000591,in_special_pair,[Kỳ lạ thật.]
+vi,vi_000575,in_special_pair,[Ngon.]
+vi,vi_000383,in_special_pair,"[Thôi, thế giới yêu đương khó quá,]"
+vi,vi_000574,in_special_pair,[Uông Úc Dương nói gì không?]
+vi,vi_000608,in_special_pair,[Nhận được email rồi chứ?]
+vi,vi_000354,in_special_pair,[Làm mình hết hồn.]
+vi,vi_000349,in_special_pair,[Con trai thích kiểu ăn mặc]
+vi,vi_000095,in_special_pair,[nhất định là đã mình mê hoặc rồi.]

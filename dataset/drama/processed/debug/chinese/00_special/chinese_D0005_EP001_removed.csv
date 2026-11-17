@@ -1,0 +1,145 @@
+side,cue_id,reason,text
+origin,zh_000476,in_special_pair,别动 别动
+origin,zh_001031,in_special_pair,身体健康 好好好
+origin,zh_000767,in_special_pair,你先喝水去 我 我跟
+origin,zh_000005,in_special_pair,打掉涉恶犯罪集团
+origin,zh_000076,in_special_pair,解决黑大伞小
+origin,zh_000558,in_special_pair,收你两块五 阿强
+origin,zh_000639,in_special_pair,新年好 阿龙
+origin,zh_000478,in_special_pair,都别动 干什么
+origin,zh_000001,in_special_pair,自扫黑除恶
+origin,zh_000477,in_special_pair,警察 别动 干什么
+origin,zh_000629,in_special_pair,谁啊 红中啊
+origin,zh_000775,in_special_pair,安欣 崔姨过年好
+origin,zh_000810,in_special_pair,谢谢安警官 我问
+origin,zh_000007,in_special_pair,黑恶犯罪
+origin,zh_000969,in_special_pair,没有没有 你看看
+origin,zh_000078,in_special_pair,衔接省扫黑办
+origin,zh_000561,in_special_pair,快一点的啦 来了来了
+origin,zh_000077,in_special_pair,有黑无伞的问题
+origin,zh_000548,in_special_pair,发财 发财 这谁的车
+origin,zh_000002,in_special_pair,专项斗争开展以来
+origin,zh_000642,in_special_pair,好手气 快一点
+origin,zh_000003,in_special_pair,我省共打掉涉黑组织
+origin,zh_000008,in_special_pair,得到了根本的抑制
+origin,zh_000963,in_special_pair,身体健康 健康
+origin,zh_000258,in_special_pair,这回 是
+origin,zh_000227,in_special_pair,我不想打 走走走
+origin,zh_000004,in_special_pair,三百二十二个
+origin,zh_000006,in_special_pair,一千两百七十五个
+origin,zh_000079,in_special_pair,做好教育整顿工作
+origin,zh_000487,in_special_pair,那个 他 你闭嘴
+origin,zh_000809,in_special_pair,行 哥
+vi,vi_000013,scene_text,"[Tổng kết biểu dương chiến dịch diệt trừ tội phạm của toàn tỉnh và
+đại hội động viên chỉnh đốn giáo dục đội ngũ chính trị và pháp luật]"
+vi,vi_000023,scene_text,"[Lý Mục, Tổ trưởng Tổ giám sát chỉ đạo chỉnh đốn
+giáo dục đội ngũ chính trị pháp luật trung ương số 20]"
+vi,vi_000030,scene_text,"[Châu Chí Hợp, Ủy viên thường vụ tỉnh Giám Giang,
+Bí thư Ủy ban Chính trị và Pháp luật]"
+vi,vi_000043,scene_text,"[Tài liệu tố cáo vấn đề phạm tội của Tập đoàn Cường Thịnh thành phố Kinh Hải
+và vấn đề ""ô dù bảo vệ"" trong đội ngũ chính trị và pháp luật]"
+vi,vi_000062,scene_text,"[Tội trạng: 1. Chiếm hữu phi pháp tài sản tập thể,
+trộm tài sản doanh nghiệp nhà nước, số tiền cực lớn.]"
+vi,vi_000090,scene_text,"[Từ Trung, chuyên viên giám sát diệt trừ tội phạm tỉnh Giám Giang,
+Tổ trưởng Tổ chỉ đạo đồn chỉnh đốn giáo dục tỉnh]"
+vi,vi_000095,scene_text,"[Kỷ Trạch, thanh tra cấp hai của Ủy ban Kiểm tra và Giám sát kỷ luật tỉnh Giám Giang,
+Tổ phó Tổ chỉ đạo đồn chỉnh đốn giáo dục tỉnh]"
+vi,vi_000117,scene_text,[Sơ yếu lý lịch cán bộ]
+vi,vi_000119,scene_text,[Cung Khai Cương]
+vi,vi_000127,scene_text,"[Cung Khai Cương, Phó chủ tịch
+Hội nghị Hiệp thương Chính trị thành phố Kinh Hải]"
+vi,vi_000150,scene_text,[Cung Khai Cương]
+vi,vi_000155,scene_text,"[Tôn Húc, cán bộ Phòng Diệt trừ tội phạm
+thuộc Sở Công an tỉnh]"
+vi,vi_000158,scene_text,"[Dương Ấu Trúc, kiểm sát viên của phòng kiểm sát số một thuộc Viện kiểm sát nhân dân tỉnh,
+thành viên Tổ chỉ đạo đồn chỉnh đốn giáo dục tỉnh]"
+vi,vi_000160,scene_text,"[Lư Tùng, cán bộ Trung tâm tin tức Tòa án nhân dân cấp cao của tỉnh,
+thành viên Tổ chỉ đạo đồn chỉnh đốn giáo dục tỉnh]"
+vi,vi_000200,scene_text,"[Triệu Lập Đông, phó bí thư Thành ủy thành phố Kinh Hải
+nước Cộng hòa Nhân dân Trung Hoa, thị trưởng thành phố Kinh Hải]"
+vi,vi_000202,scene_text,"[Mạnh Đức Hải, chủ nhiệm Ủy ban Thường vụ
+Đại hội Đại biểu Nhân dân thành phố Kinh Hải]"
+vi,vi_000206,scene_text,"[An Trường Lâm, ủy viên Ban Thường vụ Thành ủy, bí thư Ủy ban Chính trị và pháp luật
+thành phố Kinh Hải nước Cộng hòa Nhân dân Trung Hoa]"
+vi,vi_000317,scene_text,"[Tần Kiến Quốc, phó cục trưởng thường vụ
+Cục Công an thành phố Kinh Hải]"
+vi,vi_000329,scene_text,[Ủy ban nhân dân thành phố Kinh Hải]
+vi,vi_000385,scene_text,[Cục Công an - Tòa án]
+vi,vi_000389,scene_text,[Viện kiểm sát]
+vi,vi_000413,scene_text,[An Hân]
+vi,vi_000650,scene_text,"[""Vô Đề"" - Lý Thương Ẩn]"
+vi,vi_000787,scene_text,[Phòng thẩm vấn]
+vi,vi_000839,scene_text,[Cục Công an thành phố Kinh Hải]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Cuồng Phong]
+vi,vi_000003,scene_text,[Tập 1]
+vi,vi_000042,scene_text,[Túi tài liệu]
+vi,vi_000089,scene_text,"[Tố giác vấn đề Tập đoàn Cường Thịnh
+ở thành phố Kinh Hải phạm tội]"
+vi,vi_000220,scene_text,[Kinh Hải]
+vi,vi_000221,scene_text,[Chọn năng lượng: (J) 200]
+vi,vi_000288,scene_text,"[Phương Trung Ninh, cán bộ
+Ủy ban Kiểm tra và Giám sát kỷ luật tỉnh Lâm Giang]"
+vi,vi_000327,scene_text,[Tảo mộ]
+vi,vi_000364,scene_text,[Mộ mẹ Lý Tú Kỳ]
+vi,vi_000418,scene_text,[Cẩn thận kính]
+vi,vi_000427,scene_text,"[An Hân, trưởng ban tuyên truyền
+Cục Công an thành phố Kinh Hải]"
+vi,vi_000500,scene_text,[Năm 2000]
+vi,vi_000583,scene_text,[Khu chợ nhà xưởng cũ]
+vi,vi_000584,scene_text,[Ba ngày trước]
+vi,vi_000653,scene_text,[Sản phẩm mới 21860 tệ]
+vi,vi_000667,scene_text,[7288 tệ - Sản phẩm mới ra mắt]
+vi,vi_000898,scene_text,"[Cục Công an thành phố Kinh Hải
+Cảnh sát hình sự]"
+vi,vi_001003,scene_text,[Năm 2021]
+vi,vi_000088,in_special_pair,[làm tốt công việc chỉnh đốn giáo dục.]
+vi,vi_000011,in_special_pair,[đã được khắc chế về căn bản.]
+vi,vi_000682,in_special_pair,"- Số đỏ thế.
+- Nhanh lên nào."
+vi,vi_000512,in_special_pair,"- Cảnh sát đây. Đứng im.
+- Làm gì vậy?"
+vi,vi_000522,in_special_pair,"- tên đó...
+- Cậu trật tự đi."
+vi,vi_000585,in_special_pair,"- Phát tài, phát tài.
+- Xe ai đây?"
+vi,vi_000598,in_special_pair,"- nhanh lên nào.
+- Tới đây, tới đây."
+vi,vi_000005,in_special_pair,"[chiến dịch diệt trừ tội phạm,]"
+vi,vi_001075,in_special_pair,"- Chúc sức khỏe ông.
+- Được, được, được."
+vi,vi_001013,in_special_pair,"- Đâu có, đâu có.
+- Cậu xem kìa."
+vi,vi_000007,in_special_pair,"[tổ chức có hành vi xấu,]"
+vi,vi_000085,in_special_pair,"[Giải quyết vấn đề tội phạm lớn, ô dù nhỏ]"
+vi,vi_000251,in_special_pair,"- Tôi không muốn đánh.
+- Đi nào, đi."
+vi,vi_000008,in_special_pair,[đánh sập 1275 tập đoàn]
+vi,vi_000595,in_special_pair,"- lấy cô hai tệ rưỡi.
+- A Cường."
+vi,vi_000009,in_special_pair,[phạm tội ác.]
+vi,vi_000851,in_special_pair,"- Được.
+- Anh."
+vi,vi_000282,in_special_pair,"- Lần này,
+- Phải."
+vi,vi_001007,in_special_pair,"- Chúc sức khỏe nhé.
+- Chúc sức khỏe."
+vi,vi_000816,in_special_pair,"- An Hân
+- Chúc mừng năm mới, cô Thôi."
+vi,vi_000006,in_special_pair,[tỉnh ta đã đánh sập 322]
+vi,vi_000679,in_special_pair,"- Chúc mừng năm mới.
+- A Long."
+vi,vi_000852,in_special_pair,"- Cảm ơn cảnh sát An.
+- Để anh hỏi."
+vi,vi_000808,in_special_pair,"- cậu đi uống nước trước đi.
+- Tôi, tôi đi..."
+vi,vi_000004,in_special_pair,[Từ lúc bắt đầu triển khai]
+vi,vi_000010,in_special_pair,[Phạm tội xấu và ác]
+vi,vi_000669,in_special_pair,"- Ai thế?
+- Trung."
+vi,vi_000511,in_special_pair,"- Đứng im.
+- Đứng im."
+vi,vi_000087,in_special_pair,"[gắn liền với việc diệt trừ tội phạm của tỉnh,]"
+vi,vi_000086,in_special_pair,"[và tội phạm không có ô dù,]"
+vi,vi_000513,in_special_pair,"- Tất cả đứng im.
+- Làm gì vậy?"

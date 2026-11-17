@@ -1,0 +1,85 @@
+side,cue_id,reason,text
+origin,zh_000155,in_special_pair,关他什么事呀
+origin,zh_000156,in_special_pair,他又不是我师父
+origin,zh_000598,in_special_pair,还要本座等多久
+origin,zh_000205,in_special_pair,修好命簿要紧
+origin,zh_000602,in_special_pair,荡平水云天
+origin,zh_000599,in_special_pair,待本座解开咒术
+origin,zh_000158,in_special_pair,他肯定是在没话找话说
+origin,zh_000157,in_special_pair,干吗管着我
+origin,zh_000600,in_special_pair,马上杀了那该死的小花妖
+origin,zh_000039,in_special_pair,这小花妖又使的什么妖术
+origin,zh_000038,in_special_pair,这怎么回事儿
+origin,zh_000603,in_special_pair,敲碎云中君的骨头泡酒
+origin,zh_000154,in_special_pair,我修不修命簿
+origin,zh_000206,in_special_pair,算了
+origin,zh_000159,in_special_pair,难得这几天清闲我才不修呢
+origin,zh_000207,in_special_pair,先不与这懒散无知的小花妖计较
+origin,zh_000601,in_special_pair,烧光这花圃
+vi,vi_000595,music_auto,♫Đắm chìm nơi đôi mắt trong veo của nàng♫
+vi,vi_000596,music_auto,♫Là quang cảnh khó quên nhất suốt chặng đường♫
+vi,vi_000597,music_auto,"♫Nào ai sánh được, năm tháng xưa ấy♫"
+vi,vi_000598,music_auto,♫Lấp lánh như những vì sao kia♫
+vi,vi_000599,music_auto,♫Mỗi quyết định vì nàng♫
+vi,vi_000600,music_auto,"♫Câu chuyện xoay chuyển mấy hồi, chẳng thể nào hạ bút♫"
+vi,vi_000601,music_auto,♫Những khung cảnh ấy không ngừng hiện hữu trong tâm trí♫
+vi,vi_000602,music_auto,♫Khắc cốt ghi tâm♫
+vi,vi_000603,music_auto,"♫Chẳng nhớ nhung, chẳng tiếc cuối, chẳng muốn nghe♫"
+vi,vi_000604,music_auto,♫Con tim sẽ không còn bồi hồi rung động♫
+vi,vi_000605,music_auto,"♫Thiên đăng sáng dậy, tụ họp phân ly♫"
+vi,vi_000606,music_auto,"♫Người qua kẻ lại, vật đổi sao dời♫"
+vi,vi_000607,music_auto,"♫Trèo đèo lội suối, mong được thấy nàng♫"
+vi,vi_000609,music_auto,"♫Không phụ kiếp này, đôi ta gặp gỡ♫"
+vi,vi_000611,music_auto,"♫Không phụ ta, hướng về bể khổ♫"
+vi,vi_000613,music_auto,♫Chỉ mong độ nàng♫
+vi,vi_000614,music_auto,"♫Đạp bằng chông gai, để tìm được nàng♫"
+vi,vi_000615,music_auto,"♫Vạn dặm xa xôi, chỉ vì chốc lát bên nhau♫"
+vi,vi_000616,music_auto,"♫Dù rằng phụ cả thiên hạ, quyết không phụ nàng♫"
+vi,vi_000620,music_auto,♫Mỗi quyết định vì nàng♫
+vi,vi_000623,music_auto,"♫Câu chuyện xoay chuyển mấy hồi, chẳng thể nào hạ bút♫"
+vi,vi_000625,music_auto,♫Những khung cảnh ấy không ngừng hiện hữu trong tâm trí♫
+vi,vi_000626,music_auto,♫Khắc cốt ghi tâm♫
+vi,vi_000627,music_auto,"♫Chẳng nhớ nhung, chẳng tiếc cuối, chẳng muốn nghe♫"
+vi,vi_000628,music_auto,♫Con tim sẽ không còn bồi hồi rung động♫
+vi,vi_000629,music_auto,"♫Thiên đăng sáng dậy, tụ họp phân ly♫"
+vi,vi_000631,music_auto,"♫Người qua kẻ lại, vật đổi sao dời♫"
+vi,vi_000634,music_auto,"♫Trèo đèo lội suối, mong được thấy nàng♫"
+vi,vi_000637,music_auto,"♫Không phụ kiếp này, đôi ta gặp gỡ♫"
+vi,vi_000639,music_auto,"♫Không phụ ta, hướng về bể khổ♫"
+vi,vi_000640,music_auto,♫Chỉ mong độ nàng♫
+vi,vi_000642,music_auto,"♫Đạp bằng chông gai, để tìm được nàng♫"
+vi,vi_000646,music_auto,"♫Vạn dặm xa xôi, chỉ vì chốc lát bên nhau♫"
+vi,vi_000650,music_auto,"♫Dù rằng phụ cả thiên hạ, quyết không phụ nàng♫"
+vi,vi_000654,music_auto,"♫Trèo đèo lội suối, mong được thấy nàng♫"
+vi,vi_000655,music_auto,"♫Không phụ kiếp này, đôi ta gặp gỡ♫"
+vi,vi_000656,music_auto,"♫Không phụ ta, hướng về bể khổ♫"
+vi,vi_000658,music_auto,♫Chỉ mong độ nàng♫
+vi,vi_000660,music_auto,"♫Đạp bằng chông gai, để tìm được nàng♫"
+vi,vi_000662,music_auto,"♫Vạn dặm xa xôi, chỉ vì chốc lát bên nhau♫"
+vi,vi_000664,music_auto,"♫Dù rằng phụ cả thiên hạ, quyết không phụ nàng♫"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thương Lan Quyết]
+vi,vi_000003,scene_text,[Tập 4]
+vi,vi_000519,scene_text,[500 năm trước]
+vi,vi_000653,scene_text,[Điện Ti Mệnh]
+vi,vi_000673,scene_text,[Thương Lan Quyết]
+vi,vi_000210,in_special_pair,"[Sửa lại sổ số mệnh quan trọng hơn,]"
+vi,vi_000632,in_special_pair,[Đợi bổn tọa giải được thuật nguyền rủa]
+vi,vi_000633,in_special_pair,"[thì sẽ lập tức giết tiểu hoa yêu đáng chết đó,]"
+vi,vi_000162,in_special_pair,[quản mình làm gì chứ?]
+vi,vi_000164,in_special_pair,"[Hiếm lắm mấy ngày nay
+mới rảnh rỗi, mình không sửa đâu]"
+vi,vi_000211,in_special_pair,"[thôi vậy,]"
+vi,vi_000630,in_special_pair,[Còn muốn bổn tọa đợi bao lâu nữa?]
+vi,vi_000635,in_special_pair,"[đốt rụi vườn hoa này,]"
+vi,vi_000636,in_special_pair,"[san bằng Thủy Vân Thiên,]"
+vi,vi_000159,in_special_pair,[Mình sửa sổ số mệnh hay không]
+vi,vi_000161,in_special_pair,[Hắn cũng không phải là sư phụ mình]
+vi,vi_000041,in_special_pair,[Chuyện này là thế nào?]
+vi,vi_000638,in_special_pair,[đập nát xương Vân Trung Quân ngâm rượu.]
+vi,vi_000212,in_special_pair,"[tạm thời không chấp nhặt
+với tiểu hoa yêu lười biếng ngu ngốc này.]"
+vi,vi_000042,in_special_pair,[Tiểu hoa yêu này lại dùng yêu thuật gì?]
+vi,vi_000163,in_special_pair,"[Chắc chắn hắn đang không biết nói gì
+nên nói linh tinh.]"
+vi,vi_000160,in_special_pair,[thì liên quan gì tới hắn?]

@@ -1,0 +1,332 @@
+1
+00:02:04,600 --> 00:02:06,120
+[phone_speech] 人民广场到了
+Đã đến Quảng trường Nhân Dân
+
+2
+00:02:06,120 --> 00:02:07,880
+[phone_speech] 请乘客带好随身物品
+Hành khách hãy kiểm tra lại đồ đạc cá nhân
+
+3
+00:02:08,360 --> 00:02:10,000
+[phone_speech] 请从左边车门下车
+Xin hãy xuống tàu từ cửa phía bên trái
+
+4
+00:03:33,760 --> 00:03:34,680
+[phone_speech] 你赶紧叫天科的
+Cô mau gọi sếp Hoàng của bên
+
+5
+00:03:34,680 --> 00:03:35,200
+[phone_speech] 黄总过来
+Thiên Khoa đến
+
+6
+00:03:35,960 --> 00:03:36,600
+[phone_speech] 把那文件给我
+đưa tài liệu kia cho tôi.
+
+7
+00:03:38,160 --> 00:03:39,360
+[phone_speech] 项目的工人要账来了
+Công nhân của dự án đến đòi tiền rồi.
+
+8
+00:03:39,840 --> 00:03:41,079
+[phone_speech] 赶紧叫他过来 快点
+Mau gọi anh ta qua đây, mau lên.
+
+9
+00:03:43,079 --> 00:03:44,360
+[phone_speech] 赶紧叫他过来 快点
+Mau gọi anh ta đến đây, nhanh lên.
+
+10
+00:03:59,320 --> 00:04:00,080
+[phone_speech] 您的血压过高
+Huyết áp của bạn quá cao
+
+11
+00:04:02,240 --> 00:04:03,320
+[phone_speech] 您多长时间到
+Anh mất bao lâu thì đến được?
+
+12
+00:07:05,600 --> 00:07:06,000
+[phone_speech] 老公
+Chồng à.
+
+13
+00:07:08,960 --> 00:07:09,360
+[phone_speech] 怎么了
+Sao thế?
+
+14
+00:07:17,720 --> 00:07:18,200
+[phone_speech] 还没呢
+Vẫn chưa.
+
+15
+00:07:50,840 --> 00:07:51,320
+[phone_speech] 您好
+Xin chào.
+
+16
+00:07:51,560 --> 00:07:52,560
+[phone_speech] 您拨打的电话
+Số máy quý khách vừa gọi
+
+17
+00:07:52,560 --> 00:07:53,520
+[phone_speech] 正在通话中
+hiện đang bận.
+
+18
+00:13:19,560 --> 00:13:20,000
+[phone_speech] 苏姐
+Cô Tô.
+
+19
+00:13:20,600 --> 00:13:21,520
+[phone_speech] 你给到的预算
+Theo dự toán cô gửi,
+
+20
+00:13:21,720 --> 00:13:22,160
+[phone_speech] 我们按照
+chúng tôi tính theo
+
+21
+00:13:22,160 --> 00:13:23,080
+[phone_speech] 现在的行情来算
+giá thị trường bây giờ
+
+22
+00:13:23,680 --> 00:13:24,520
+[phone_speech] 能拿到的利润
+thì lợi nhuận có thể lấy được
+
+23
+00:13:24,840 --> 00:13:25,760
+[phone_speech] 只有百分之十二
+chỉ có 12%.
+
+24
+00:18:55,880 --> 00:18:57,240
+[phone_speech] 你说你这事办的
+Anh nói anh làm chuyện này rồi,
+
+25
+00:18:57,360 --> 00:18:58,440
+[phone_speech] 你让我说你什么好
+anh bảo tôi nói anh sao mới được đây?
+
+26
+00:22:25,760 --> 00:22:26,160
+[phone_speech] 美
+Đẹp.
+
+27
+00:22:27,040 --> 00:22:28,240
+[phone_speech] 那奖金高的嘛
+Mấy dự án tiền thưởng cao,
+
+28
+00:22:28,240 --> 00:22:29,160
+[phone_speech] 要么时间紧
+một là thời gian rất gắt,
+
+29
+00:22:29,240 --> 00:22:30,200
+[phone_speech] 要么难度大
+hai là độ khó cao,
+
+30
+00:22:30,840 --> 00:22:31,960
+[phone_speech] 没日没夜地加班
+tăng ca cả ngày lẫn đêm,
+
+31
+00:22:31,960 --> 00:22:33,200
+[phone_speech] 还时不时得睡工地
+còn phải suốt ngày ngủ ở công trường nữa.
+
+32
+00:22:33,680 --> 00:22:34,160
+[phone_speech] 你行吗
+Em làm được không?
+
+33
+00:23:00,240 --> 00:23:01,400
+[phone_speech] 白色的不行吧
+Màu trắng là không được rồi.
+
+34
+00:23:02,440 --> 00:23:02,800
+[phone_speech] 对了
+Đúng rồi.
+
+35
+00:23:03,040 --> 00:23:04,240
+[phone_speech] 你说咱们结婚的时候
+Lúc chúng ta kết hôn,
+
+36
+00:23:04,240 --> 00:23:04,920
+[phone_speech] 我请领导过来
+anh mời lãnh đạo của mình qua
+
+37
+00:23:04,920 --> 00:23:06,240
+[phone_speech] 给我们做证婚人好不好
+làm người chứng hôn cho chúng ta được không?
+
+38
+00:23:15,480 --> 00:23:15,960
+[phone_speech] 是啊
+Phải đấy.
+
+39
+00:23:15,960 --> 00:23:16,840
+[phone_speech] 所以我得想办法
+Vậy nên anh phải nghĩ cách
+
+40
+00:23:16,840 --> 00:23:17,720
+[phone_speech] 让他先认识我
+để ông ấy biết anh trước.
+
+41
+00:30:29,200 --> 00:30:31,240
+[phone_speech] 老黄啊 出事了
+Lão Hoàng, xảy ra chuyện rồi.
+
+42
+00:30:34,400 --> 00:30:35,480
+[phone_speech] 有事没事啊
+Kể ra thì cũng không có gì.
+
+43
+00:30:39,960 --> 00:30:41,040
+[phone_speech] 我是听说
+Tôi nghe nói
+
+44
+00:30:41,080 --> 00:30:42,480
+[phone_speech] 老赵参加国际会议
+Lão Triệu đi tham gia hội nghị quốc tế,
+
+45
+00:30:42,480 --> 00:30:43,480
+[phone_speech] 走半路就回来了
+nhưng đi nửa đường lại quay về.
+
+46
+00:30:44,320 --> 00:30:46,200
+[phone_speech] 没事 给你擦屁股
+Không sao đâu, tôi sẽ xử lý chuyện này giúp anh.
+
+47
+00:30:51,440 --> 00:30:52,360
+[phone_speech] 你把哥们儿买卖
+Anh cướp hết việc làm ăn
+
+48
+00:30:52,360 --> 00:30:53,080
+[phone_speech] 都抢完了
+của các anh em luôn rồi.
+
+49
+00:30:53,840 --> 00:30:55,200
+[phone_speech] 我只能在外面度假了
+Tôi không ra ngoài nghỉ dưỡng thì làm gì.
+
+50
+00:30:56,200 --> 00:30:57,080
+[phone_speech] 出这么大的事
+Xảy ra một chuyện lớn như vậy,
+
+51
+00:30:57,520 --> 00:30:59,120
+[phone_speech] 我真担心你的身体
+tôi thật sự rất lo cho sức khỏe của anh đấy.
+
+52
+00:31:00,000 --> 00:31:01,240
+[phone_speech] 天成 天科是一家
+Thiên Thành, Thiên Khoa là một nhà mà.
+
+53
+00:31:01,920 --> 00:31:03,000
+[phone_speech] 你有需求尽管开口啊
+Nếu anh cần gì thì cứ nói nhé.
+
+54
+00:31:10,560 --> 00:31:11,600
+[phone_speech] 那是你心比我黑
+Có mà do anh xấu xa hơn tôi thì có.
+
+55
+00:38:48,200 --> 00:38:49,440
+[phone_speech] 物料报告已经送检了
+Đã đưa báo cáo vật liệu đi kiểm tra rồi.
+
+56
+00:38:50,040 --> 00:38:51,000
+[phone_speech] 很快就会出结果
+Sẽ mau chóng có kết quả.
+
+57
+00:38:54,480 --> 00:38:55,320
+[phone_speech] 到底是墙塌了
+Suy cho cùng tường đã sập rồi.
+
+58
+00:03:19,640 --> 00:03:21,800
+[dash_dialogue] 还钱 还钱 还钱
+- Trả tiền.
+- Trả tiền. Trả tiền.
+
+59
+00:03:45,760 --> 00:03:46,680
+[dash_dialogue] 给钱 给钱
+- Trả tiền.
+- Trả tiền.
+
+60
+00:04:19,200 --> 00:04:21,320
+[dash_dialogue] 还钱 还钱 还钱
+- Trả tiền.
+- Trả tiền. Trả tiền.
+
+61
+00:05:49,280 --> 00:05:52,360
+[dash_dialogue] 还钱 还钱 还钱
+- Trả tiền.
+- Trả tiền. Trả tiền.
+
+62
+00:05:52,400 --> 00:05:55,159
+[dash_dialogue] 拿钱 拿钱 拿钱
+- Lấy tiền.
+- Lấy tiền. Lấy tiền.
+
+63
+00:06:08,920 --> 00:06:09,840
+[dash_dialogue] 对呀 可不是嘛
+- Đúng thế.
+- Cũng đúng thật.
+
+64
+00:06:20,240 --> 00:06:21,200
+[dash_dialogue] 这 这
+- Đây.
+- Đây.
+
+65
+00:23:50,800 --> 00:23:52,120
+[dash_dialogue] 怎么回事 这样好吗
+- Có chuyện gì vậy?
+- Thế này liệu có ổn không?

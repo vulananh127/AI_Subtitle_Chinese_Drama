@@ -1,0 +1,171 @@
+side,cue_id,reason,text
+origin,zh_000352,in_special_pair,你给到的预算
+origin,zh_000065,in_special_pair,你赶紧叫天科的
+origin,zh_000588,in_special_pair,美
+origin,zh_000095,in_special_pair,还钱 还钱 还钱
+origin,zh_000608,in_special_pair,我请领导过来
+origin,zh_000824,in_special_pair,老赵参加国际会议
+origin,zh_000013,in_special_pair,请乘客带好随身物品
+origin,zh_000828,in_special_pair,你把哥们儿买卖
+origin,zh_000072,in_special_pair,赶紧叫他过来 快点
+origin,zh_000830,in_special_pair,我只能在外面度假了
+origin,zh_000496,in_special_pair,你让我说你什么好
+origin,zh_000590,in_special_pair,要么时间紧
+origin,zh_000210,in_special_pair,您好
+origin,zh_001034,in_special_pair,物料报告已经送检了
+origin,zh_000061,in_special_pair,还钱 还钱 还钱
+origin,zh_000211,in_special_pair,您拨打的电话
+origin,zh_000832,in_special_pair,我真担心你的身体
+origin,zh_000084,in_special_pair,您的血压过高
+origin,zh_000605,in_special_pair,白色的不行吧
+origin,zh_000495,in_special_pair,你说你这事办的
+origin,zh_000589,in_special_pair,那奖金高的嘛
+origin,zh_000353,in_special_pair,我们按照
+origin,zh_000591,in_special_pair,要么难度大
+origin,zh_000820,in_special_pair,有事没事啊
+origin,zh_000826,in_special_pair,没事 给你擦屁股
+origin,zh_000187,in_special_pair,老公
+origin,zh_000159,in_special_pair,对呀 可不是嘛
+origin,zh_000067,in_special_pair,把那文件给我
+origin,zh_000818,in_special_pair,老黄啊 出事了
+origin,zh_000823,in_special_pair,我是听说
+origin,zh_000087,in_special_pair,您多长时间到
+origin,zh_000628,in_special_pair,怎么回事 这样好吗
+origin,zh_000592,in_special_pair,没日没夜地加班
+origin,zh_000195,in_special_pair,还没呢
+origin,zh_001038,in_special_pair,到底是墙塌了
+origin,zh_000152,in_special_pair,拿钱 拿钱 拿钱
+origin,zh_000014,in_special_pair,请从左边车门下车
+origin,zh_000615,in_special_pair,让他先认识我
+origin,zh_000609,in_special_pair,给我们做证婚人好不好
+origin,zh_000831,in_special_pair,出这么大的事
+origin,zh_000614,in_special_pair,所以我得想办法
+origin,zh_000825,in_special_pair,走半路就回来了
+origin,zh_000190,in_special_pair,怎么了
+origin,zh_000834,in_special_pair,你有需求尽管开口啊
+origin,zh_000829,in_special_pair,都抢完了
+origin,zh_000069,in_special_pair,项目的工人要账来了
+origin,zh_000168,in_special_pair,这 这
+origin,zh_000613,in_special_pair,是啊
+origin,zh_000594,in_special_pair,你行吗
+origin,zh_000355,in_special_pair,能拿到的利润
+origin,zh_001035,in_special_pair,很快就会出结果
+origin,zh_000066,in_special_pair,黄总过来
+origin,zh_000151,in_special_pair,还钱 还钱 还钱
+origin,zh_000833,in_special_pair,天成 天科是一家
+origin,zh_000212,in_special_pair,正在通话中
+origin,zh_000606,in_special_pair,对了
+origin,zh_000356,in_special_pair,只有百分之十二
+origin,zh_000838,in_special_pair,那是你心比我黑
+origin,zh_000354,in_special_pair,现在的行情来算
+origin,zh_000012,in_special_pair,人民广场到了
+origin,zh_000070,in_special_pair,赶紧叫他过来 快点
+origin,zh_000074,in_special_pair,给钱 给钱
+origin,zh_000593,in_special_pair,还时不时得睡工地
+origin,zh_000607,in_special_pair,你说咱们结婚的时候
+origin,zh_000351,in_special_pair,苏姐
+vi,vi_000020,scene_text,[Công ty TNHH Kiến trúc Tập đoàn Chúng Kiến]
+vi,vi_000033,scene_text,"[Tô Tiểu - Quản lý chi phí
+Tập đoàn Chúng Kiến]"
+vi,vi_000094,scene_text,"[Hoàng Lễ Lâm - Tổng giám đốc
+Công ty TNHH Kiến trúc Thiên Khoa]"
+vi,vi_000108,scene_text,"[Dư Triều - Trưởng phòng
+phòng Hợp đồng kinh doanh Tập đoàn Chúng Kiến]"
+vi,vi_000130,scene_text,"[Phan Kiến Hoa -
+Tổng giám đốc Tập đoàn Chúng Kiến]"
+vi,vi_000197,scene_text,"[Chu Tuấn - Thành viên
+Tổ công tác dự án xây dựng cấp huyện]"
+vi,vi_000389,scene_text,"[Hạ Minh - Giám đốc kinh tế
+Công ty TNHH Kiến trúc Thiên Khoa]"
+vi,vi_000485,scene_text,"[Hạ Thắng Lợi -
+Trưởng nhóm dự án xây dựng cấp quận]"
+vi,vi_000536,scene_text,"[Ngô Hồng Mai -
+Quản lý tuyển dụng Tập đoàn Doanh Hải]"
+vi,vi_000867,scene_text,"[Uông Minh Vũ - Tổng giám đốc công ty thầu,
+Phó tổng giám đốc một của Tập đoàn Doanh Hải.]"
+vi,vi_000972,scene_text,[Triệu Hiển Khôn - Chủ tịch Tập đoàn Doanh Hải]
+vi,vi_001052,scene_text,[Lý Tuyết - Trưởng phòng ban công tác xây dựng cấp quận]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thành Phố Lý Tưởng]
+vi,vi_000003,scene_text,[Câu chuyện này chỉ là hư cấu]
+vi,vi_000004,scene_text,[Tập 1]
+vi,vi_000379,scene_text,"[Công ty TNHH Kiến trúc Thiên Khoa
+Tập đoàn Kiến trúc Doanh Hải]"
+vi,vi_000472,scene_text,"[Tối anh phải tăng ca, không thể đi cùng em được,
+em đi ăn mừng với Hồng Mai đi, anh thanh toán.]"
+vi,vi_000833,scene_text,[Uông Dương]
+vi,vi_000624,in_special_pair,[anh mời lãnh đạo của mình qua]
+vi,vi_000845,in_special_pair,[Anh cướp hết việc làm ăn]
+vi,vi_000362,in_special_pair,[Cô Tô.]
+vi,vi_000366,in_special_pair,[thì lợi nhuận có thể lấy được]
+vi,vi_000511,in_special_pair,[anh bảo tôi nói anh sao mới được đây?]
+vi,vi_000103,in_special_pair,"- Trả tiền.
+- Trả tiền. Trả tiền."
+vi,vi_000162,in_special_pair,"- Lấy tiền.
+- Lấy tiền. Lấy tiền."
+vi,vi_000607,in_special_pair,"[hai là độ khó cao,]"
+vi,vi_000630,in_special_pair,[Vậy nên anh phải nghĩ cách]
+vi,vi_000842,in_special_pair,[nhưng đi nửa đường lại quay về.]
+vi,vi_000169,in_special_pair,"- Đúng thế.
+- Cũng đúng thật."
+vi,vi_000018,in_special_pair,[Xin hãy xuống tàu từ cửa phía bên trái]
+vi,vi_000608,in_special_pair,"[tăng ca cả ngày lẫn đêm,]"
+vi,vi_000363,in_special_pair,"[Theo dự toán cô gửi,]"
+vi,vi_001055,in_special_pair,[Sẽ mau chóng có kết quả.]
+vi,vi_000644,in_special_pair,"- Có chuyện gì vậy?
+- Thế này liệu có ổn không?"
+vi,vi_000610,in_special_pair,[Em làm được không?]
+vi,vi_000604,in_special_pair,[Đẹp.]
+vi,vi_000198,in_special_pair,[Chồng à.]
+vi,vi_000847,in_special_pair,[Tôi không ra ngoài nghỉ dưỡng thì làm gì.]
+vi,vi_000848,in_special_pair,"[Xảy ra một chuyện lớn như vậy,]"
+vi,vi_000076,in_special_pair,[Công nhân của dự án đến đòi tiền rồi.]
+vi,vi_000077,in_special_pair,"[Mau gọi anh ta qua đây, mau lên.]"
+vi,vi_000161,in_special_pair,"- Trả tiền.
+- Trả tiền. Trả tiền."
+vi,vi_000629,in_special_pair,[Phải đấy.]
+vi,vi_000073,in_special_pair,[Thiên Khoa đến]
+vi,vi_000621,in_special_pair,[Màu trắng là không được rồi.]
+vi,vi_000849,in_special_pair,[tôi thật sự rất lo cho sức khỏe của anh đấy.]
+vi,vi_000606,in_special_pair,"[một là thời gian rất gắt,]"
+vi,vi_000095,in_special_pair,[Anh mất bao lâu thì đến được?]
+vi,vi_000851,in_special_pair,[Nếu anh cần gì thì cứ nói nhé.]
+vi,vi_000016,in_special_pair,[Đã đến Quảng trường Nhân Dân]
+vi,vi_000631,in_special_pair,[để ông ấy biết anh trước.]
+vi,vi_000201,in_special_pair,[Sao thế?]
+vi,vi_000223,in_special_pair,[hiện đang bận.]
+vi,vi_000840,in_special_pair,[Tôi nghe nói]
+vi,vi_000846,in_special_pair,[của các anh em luôn rồi.]
+vi,vi_000072,in_special_pair,[Cô mau gọi sếp Hoàng của bên]
+vi,vi_000625,in_special_pair,"[làm người chứng hôn
+cho chúng ta được không?]"
+vi,vi_000364,in_special_pair,[chúng tôi tính theo]
+vi,vi_000079,in_special_pair,"[Mau gọi anh ta đến đây, nhanh lên.]"
+vi,vi_000843,in_special_pair,"[Không sao đâu, tôi sẽ
+xử lý chuyện này giúp anh.]"
+vi,vi_000074,in_special_pair,[đưa tài liệu kia cho tôi.]
+vi,vi_000222,in_special_pair,[Số máy quý khách vừa gọi]
+vi,vi_000622,in_special_pair,[Đúng rồi.]
+vi,vi_000367,in_special_pair,[chỉ có 12%.]
+vi,vi_000837,in_special_pair,[Kể ra thì cũng không có gì.]
+vi,vi_000017,in_special_pair,[Hành khách hãy kiểm tra lại đồ đạc cá nhân]
+vi,vi_000221,in_special_pair,[Xin chào.]
+vi,vi_000365,in_special_pair,[giá thị trường bây giờ]
+vi,vi_000068,in_special_pair,"- Trả tiền.
+- Trả tiền. Trả tiền."
+vi,vi_000510,in_special_pair,"[Anh nói anh làm chuyện này rồi,]"
+vi,vi_000605,in_special_pair,"[Mấy dự án tiền thưởng cao,]"
+vi,vi_000841,in_special_pair,"[Lão Triệu đi tham gia hội nghị quốc tế,]"
+vi,vi_000835,in_special_pair,"[Lão Hoàng, xảy ra chuyện rồi.]"
+vi,vi_000623,in_special_pair,"[Lúc chúng ta kết hôn,]"
+vi,vi_000855,in_special_pair,[Có mà do anh xấu xa hơn tôi thì có.]
+vi,vi_000081,in_special_pair,"- Trả tiền.
+- Trả tiền."
+vi,vi_000206,in_special_pair,[Vẫn chưa.]
+vi,vi_001058,in_special_pair,[Suy cho cùng tường đã sập rồi.]
+vi,vi_000850,in_special_pair,"[Thiên Thành, Thiên Khoa là một nhà mà.]"
+vi,vi_000178,in_special_pair,"- Đây.
+- Đây."
+vi,vi_000091,in_special_pair,[Huyết áp của bạn quá cao]
+vi,vi_001054,in_special_pair,[Đã đưa báo cáo vật liệu đi kiểm tra rồi.]
+vi,vi_000609,in_special_pair,[còn phải suốt ngày ngủ ở công trường nữa.]

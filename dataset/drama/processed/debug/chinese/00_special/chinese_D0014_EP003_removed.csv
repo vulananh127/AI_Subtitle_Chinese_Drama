@@ -1,0 +1,79 @@
+side,cue_id,reason,text
+origin,zh_000211,in_special_pair,到时候 别说签协议了
+origin,zh_000724,in_special_pair,追人都要他帮忙
+origin,zh_000614,in_special_pair,我们俩短期内还是不要见面了
+origin,zh_000203,in_special_pair,这不是专业 这是变态啊
+origin,zh_000616,in_special_pair,再见
+origin,zh_000209,in_special_pair,对呀
+origin,zh_000597,in_special_pair,难道是在暗示我什么吗
+origin,zh_000723,in_special_pair,难道是觉得我太笨了
+origin,zh_000385,in_special_pair,回学校
+origin,zh_000139,in_special_pair,第一次上解剖课
+origin,zh_000210,in_special_pair,监控视频加倍伤害
+origin,zh_000141,in_special_pair,待会儿要出丑了
+origin,zh_000611,in_special_pair,你等着我来给你装
+origin,zh_000252,in_special_pair,别紧张 别紧张
+origin,zh_000170,in_special_pair,走着瞧 我早晚让你签了
+origin,zh_000393,in_special_pair,甲方 乙方
+origin,zh_000140,in_special_pair,再强大的内心也接受不了
+origin,zh_000251,in_special_pair,我背过这道题的 深呼吸
+origin,zh_000663,in_special_pair,有事 面谈
+origin,zh_000595,in_special_pair,刚说掉个男朋友给我
+origin,zh_000615,in_special_pair,我自己看说明书
+origin,zh_000722,in_special_pair,怎么觉得不太高兴
+origin,zh_000596,in_special_pair,就来了个男生
+vi,vi_000248,scene_text,"[Nhóm một: Nhậm Sơ, Lư Vãn Vãn, An Gia Tiên]"
+vi,vi_000578,scene_text,"[Đàn anh Nhậm Sơ và Lư Vãn Vãn hẹn hò rồi,
+trước đây họ còn lén mặc đồ đôi...]"
+vi,vi_000634,scene_text,[Vãn Vãn]
+vi,vi_000710,scene_text,[Túi hồ sơ]
+vi,vi_000724,scene_text,[Thông tin cá nhân: Lý Tử Hoa]
+vi,vi_000736,scene_text,[Thông tin cá nhân: Uông Úc Dương]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Lần Đầu Yêu Anh]
+vi,vi_000003,scene_text,[Tập 3]
+vi,vi_000004,scene_text,[Câu lạc bộ nướng bánh tuyển thành viên]
+vi,vi_000031,scene_text,[Kế hoạch loại bỏ tin đồn]
+vi,vi_000239,scene_text,[Phòng học khoa Phục hồi chức năng 02]
+vi,vi_000353,scene_text,[Nhậm Sơ]
+vi,vi_000401,scene_text,[Kế hoạch loại bỏ tin đồn]
+vi,vi_000436,scene_text,[Bên B: Lư Vãn Vãn]
+vi,vi_000437,scene_text,[Bên A: Nhậm Sơ]
+vi,vi_000572,scene_text,"[Bài thanh minh của anh Nhậm Sơ không rõ ràng, chắc chắn
+là để đánh lạc hướng dư luận, trên thực tế là chuyển từ công khai thành yêu nhau bí mật]"
+vi,vi_000648,scene_text,[Biết ơn - Báo đáp - Tình yêu - Trách nhiệm]
+vi,vi_000677,scene_text,[Nhậm Sơ]
+vi,vi_000686,scene_text,[Bản đồ an toàn trong trường]
+vi,vi_000714,scene_text,[Thông tin cá nhân: Lý Quân]
+vi,vi_000715,scene_text,[Thông tin cá nhân: Nhậm Sơ]
+vi,vi_000726,scene_text,[Thông tin cá nhân: Lưu Chí Bảo]
+vi,vi_000728,scene_text,[Thông tin cá nhân: Uông Úc Dương]
+vi,vi_000609,in_special_pair,[Lẽ nào đây là gợi ý cho mình sao?]
+vi,vi_000678,in_special_pair,"[Có chuyện, gặp mặt nói.]"
+vi,vi_000215,in_special_pair,"[Video camera giám sát
+thì độ sát thương tăng gấp đôi.]"
+vi,vi_000627,in_special_pair,[Tôi tự xem hướng dẫn.]
+vi,vi_000214,in_special_pair,[Đúng thế.]
+vi,vi_000393,in_special_pair,"- để về trường...
+- Về trường."
+vi,vi_000745,in_special_pair,[Sao cảm giác anh ta không vui lắm nhỉ?]
+vi,vi_000626,in_special_pair,"[Trong thời gian ngắn tới đây hai chúng ta
+đừng nên gặp nhau thì hơn.]"
+vi,vi_000145,in_special_pair,"[dù có nội tâm kiên cường thế nào
+cũng không chịu nổi đâu.]"
+vi,vi_000144,in_special_pair,[Lần đầu tiên học giải phẫu]
+vi,vi_000258,in_special_pair,"[Mình học câu này rồi, hít thở sâu.]"
+vi,vi_000259,in_special_pair,"[Đừng căng thẳng, đừng căng thẳng.]"
+vi,vi_000216,in_special_pair,[Tới lúc đó đừng nói là ký thỏa thuận.]
+vi,vi_000175,in_special_pair,"[Cứ chờ đấy,
+sớm muộn gì tôi cũng bắt anh ký thôi.]"
+vi,vi_000623,in_special_pair,"[Cô chờ lát, tôi đến lắp cho cô.]"
+vi,vi_000607,in_special_pair,[Vừa xin trao một anh bạn trai cho mình]
+vi,vi_000208,in_special_pair,"[Đây không phải chuyên nghiệp, đây là biến thái.]"
+vi,vi_000402,in_special_pair,"- Bên A.
+- Bên B."
+vi,vi_000746,in_special_pair,[Lẽ nào là vì thấy mình ngốc quá]
+vi,vi_000628,in_special_pair,[Tạm biệt.]
+vi,vi_000747,in_special_pair,[theo đuổi người khác mà cũng đòi anh ấy giúp?]
+vi,vi_000608,in_special_pair,[thì có một anh chàng tới.]
+vi,vi_000146,in_special_pair,[Chút nữa anh sẽ xấu mặt đấy.]

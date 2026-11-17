@@ -1,0 +1,69 @@
+side,cue_id,reason,text
+origin,zh_000460,in_special_pair,好帅
+origin,zh_000400,in_special_pair,现在我们请徐总
+origin,zh_000401,in_special_pair,宣布竞标结果
+origin,zh_000156,in_special_pair,我去不了了
+origin,zh_000237,in_special_pair,是建筑企业的生命线
+origin,zh_000146,in_special_pair,喂 您好
+origin,zh_000701,in_special_pair,请到二诊室就诊
+origin,zh_000402,in_special_pair,经过这个
+origin,zh_000405,in_special_pair,天同八十八分
+origin,zh_000236,in_special_pair,施工质量
+origin,zh_000157,in_special_pair,跟董事长请个假啊
+origin,zh_000700,in_special_pair,二十三号黄礼林
+origin,zh_000803,in_special_pair,谢谢 你等我
+origin,zh_000173,in_special_pair,汪总 董事长说了
+origin,zh_000153,in_special_pair,好不容易定下的时间
+origin,zh_000152,in_special_pair,我得带业主去趟泰国
+origin,zh_000439,in_special_pair,五千两百万
+origin,zh_000174,in_special_pair,不能请假
+origin,zh_000154,in_special_pair,那个
+origin,zh_000403,in_special_pair,评标小组的商量
+origin,zh_000404,in_special_pair,本次竞标已经出来了
+origin,zh_000412,in_special_pair,行 散会吧
+origin,zh_000406,in_special_pair,天正八十七分
+origin,zh_000155,in_special_pair,后天的内审大会
+vi,vi_000019,scene_text,[Bản vẽ thiết kế kiến trúc]
+vi,vi_000145,scene_text,"[Đỗ Vĩnh Ba - Trưởng phòng Tài chính
+Công ty TNHH Kiến trúc Thiên Khoa]"
+vi,vi_000156,scene_text,[Hứa Phong - Trợ lý Chủ tịch Tập đoàn Doanh Hải]
+vi,vi_000300,scene_text,"[Lục Tranh Minh - Quản lý dự toán công trình
+xây dựng dân dụngCông ty Kiến trúc Thiên Thành]"
+vi,vi_000301,scene_text,"[Trần Tư Dân - Giám đốc kinh tế
+Công ty TNHH Kiến trúc Thiên Thành]"
+vi,vi_000430,scene_text,"[Triệu Bằng - Phó trưởng ban chuyên gia kinh tế
+Tập đoàn Doanh Hải]"
+vi,vi_000498,scene_text,"[Từ Tri Bình - Trưởng ban chuyên gia kinh tế
+Tập đoàn Doanh Hải]"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Thành Phố Lý Tưởng]
+vi,vi_000003,scene_text,[Câu chuyện này chỉ là hư cấu]
+vi,vi_000004,scene_text,[Tập 5]
+vi,vi_000374,scene_text,[Người xét duyệt: Lục Tranh Minh]
+vi,vi_000531,scene_text,[Phương án kiểm toán nội bộ Tập đoàn Doanh Hải]
+vi,vi_000716,in_special_pair,[Xin mời tới phòng khám số 2.]
+vi,vi_000243,in_special_pair,[Chất lượng thi công]
+vi,vi_000413,in_special_pair,[tuyên bố kết quả đấu thầu.]
+vi,vi_000414,in_special_pair,[Qua sự bàn bạc]
+vi,vi_000415,in_special_pair,"[của nhóm đánh giá thầu,]"
+vi,vi_000244,in_special_pair,"[là đường sinh mạng
+của doanh nghiệp xây dựng.]"
+vi,vi_000164,in_special_pair,[muốn xin Chủ tịch cho phép vắng mặt.]
+vi,vi_000159,in_special_pair,"[Tôi phải đưa chủ đầu tư qua Thái một chuyến,]"
+vi,vi_000416,in_special_pair,[đã có kết quả đấu thầu lần này.]
+vi,vi_000181,in_special_pair,[không được xin nghỉ.]
+vi,vi_000161,in_special_pair,[À...]
+vi,vi_000180,in_special_pair,"[Sếp Uông, Chủ tịch nói]"
+vi,vi_000818,in_special_pair,"- Cảm ơn cậu!
+- Đợi mình đi."
+vi,vi_000452,in_special_pair,[Năm mươi hai triệu.]
+vi,vi_000715,in_special_pair,"[Bệnh nhân số 23, Hoàng Lễ Lâm.]"
+vi,vi_000160,in_special_pair,[khó lắm mới hẹn được thời gian.]
+vi,vi_000152,in_special_pair,"[A lô, xin chào.]"
+vi,vi_000412,in_special_pair,[Bây giờ chúng ta mời sếp Từ]
+vi,vi_000417,in_special_pair,[Thiên Đồng 88 điểm.]
+vi,vi_000163,in_special_pair,"[tôi không tham gia được,]"
+vi,vi_000424,in_special_pair,"[Được rồi, tan họp đi.]"
+vi,vi_000473,in_special_pair,[Đẹp trai quá!]
+vi,vi_000162,in_special_pair,[cuộc họp kiểm toán nội bộ vào ngày kia]
+vi,vi_000418,in_special_pair,[Thiên Chính 87 điểm.]

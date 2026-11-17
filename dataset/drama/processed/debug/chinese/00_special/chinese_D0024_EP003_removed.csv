@@ -1,0 +1,62 @@
+side,cue_id,reason,text
+origin,zh_000073,in_special_pair,你这个人最大的弱点
+origin,zh_000015,in_special_pair,舅舅偷偷想教我武功
+origin,zh_000443,in_special_pair,竟然被不知哪儿来的骷髅
+origin,zh_000441,in_special_pair,路过前面不远处的林子时
+origin,zh_000074,in_special_pair,就是喜欢当英雄
+origin,zh_000017,in_special_pair,身子骨实在太弱了
+origin,zh_000133,in_special_pair,来 来了 轻点轻点啊
+origin,zh_000018,in_special_pair,舅舅总骂我没用
+origin,zh_000072,in_special_pair,我师兄单孤刀的尸体到底在哪儿
+origin,zh_000050,in_special_pair,没想到这臭小子长这么大了
+origin,zh_000078,in_special_pair,你给我 我来处理
+origin,zh_000076,in_special_pair,不该有弱点
+origin,zh_000442,in_special_pair,看到两个商贩
+origin,zh_000198,in_special_pair,一念心清净
+origin,zh_000016,in_special_pair,但我那个时候
+origin,zh_000617,in_special_pair,是 是
+origin,zh_000049,in_special_pair,原来是你
+origin,zh_000444,in_special_pair,给活活掐死了
+origin,zh_000199,in_special_pair,莲花处处开
+origin,zh_000075,in_special_pair,一个剑客
+vi,vi_000135,scene_text,"[Tiêu Tử Khâm, Tứ Cố Môn]"
+vi,vi_000139,scene_text,"[Kiều Uyển Vãn, Tứ Cố Môn]"
+vi,vi_000547,scene_text,"[Vân Kiều, Ngọc Thành]"
+vi,vi_000796,scene_text,"[Ngọc Hồng Chúc,
+phu nhân thành chủ Ngọc Thành]"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Liên Hoa Lâu]
+vi,vi_000003,scene_text,[Tập 3]
+vi,vi_000095,scene_text,[Tứ Cố Môn]
+vi,vi_000145,scene_text,"[Vô Liễu đại sư, chùa Phổ Độ]"
+vi,vi_000342,scene_text,[Liên Hoa Lâu]
+vi,vi_000343,scene_text,[Nhà trọ Tiểu Miên]
+vi,vi_000505,scene_text,"[Nhị tiểu thư Ngọc Thành, Ngọc Thu Sương]"
+vi,vi_000696,scene_text,[Ngọc Thành]
+vi,vi_000697,scene_text,[Cao Các Lăng Vân]
+vi,vi_000700,scene_text,"[Ngọc Mục Lam, thành chủ Ngọc Thành]"
+vi,vi_000018,in_special_pair,"[Cữu cữu muốn âm thầm dạy ta võ công,]"
+vi,vi_000019,in_special_pair,"[nhưng hồi đó,]"
+vi,vi_000452,in_special_pair,[không biết bị bộ xương khô từ đâu chui ra]
+vi,vi_000021,in_special_pair,[cữu cữu toàn mắng ta vô dụng.]
+vi,vi_000081,in_special_pair,"- Đưa cho ta.
+- Để ta xử lý."
+vi,vi_000053,in_special_pair,"[Không ngờ tiểu tử thối này
+đã lớn như vậy rồi.]"
+vi,vi_000450,in_special_pair,[lúc đi qua cánh rừng không xa phía trước]
+vi,vi_000020,in_special_pair,"[cơ thể ta quả thật quá yếu,]"
+vi,vi_000078,in_special_pair,[Một kiếm khách]
+vi,vi_000453,in_special_pair,[bóp cổ chết tươi.]
+vi,vi_000076,in_special_pair,[Điểm yếu lớn nhất của ngươi]
+vi,vi_000206,in_special_pair,[sen nở rộ khắp nơi.]
+vi,vi_000205,in_special_pair,"[Thoáng nghĩ tâm thanh tịnh,]"
+vi,vi_000451,in_special_pair,[đã nhìn thấy hai thương nhân]
+vi,vi_000052,in_special_pair,[Hóa ra là ngươi.]
+vi,vi_000079,in_special_pair,[không nên có điểm yếu.]
+vi,vi_000628,in_special_pair,"- Rõ.
+- Rõ."
+vi,vi_000077,in_special_pair,[chính là thích làm anh hùng.]
+vi,vi_000075,in_special_pair,"[Thi thể của Thiện Cô Đao
+sư huynh ta rốt cuộc ở đâu?]"
+vi,vi_000138,in_special_pair,"- Nào, đến đây.
+- Nhẹ thôi, nhẹ thôi."

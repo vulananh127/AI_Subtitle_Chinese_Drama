@@ -1,0 +1,87 @@
+side,cue_id,reason,text
+origin,zh_000073,in_special_pair,但你店里生意兴隆
+origin,zh_000074,in_special_pair,你老婆笑容满面
+origin,zh_000012,in_special_pair,他不惜加害李相夷的师兄单孤刀
+origin,zh_000005,in_special_pair,十七岁建立四顾门
+origin,zh_000007,in_special_pair,结束武林混战
+origin,zh_000002,in_special_pair,江湖中最快的剑是李相夷的剑
+origin,zh_000013,in_special_pair,引得李相夷与之一战
+origin,zh_000050,in_special_pair,就是 李相夷肯定还活着
+origin,zh_000603,in_special_pair,这场戏
+origin,zh_000003,in_special_pair,他十五岁战胜血域天魔
+origin,zh_000010,in_special_pair,但更多人以战胜他为念
+origin,zh_000733,in_special_pair,竟然当众蝉蜕登仙了
+origin,zh_000732,in_special_pair,灵山派的掌门人
+origin,zh_000581,in_special_pair,站住 走
+origin,zh_000004,in_special_pair,成为天下第一高手
+origin,zh_000001,in_special_pair,十年前
+origin,zh_000008,in_special_pair,一时成为传奇
+origin,zh_000604,in_special_pair,我的东西呢
+origin,zh_000011,in_special_pair,其中包括魔教金鸳盟盟主笛飞声
+origin,zh_000075,in_special_pair,可见问题不是她
+origin,zh_000006,in_special_pair,二十岁便问鼎武林盟主
+origin,zh_000009,in_special_pair,有人以他为中原武林的希望
+vi,vi_000024,scene_text,"[Địch Phi Thanh, minh chủ Kim Uyên Minh]"
+vi,vi_000063,scene_text,"[Lý Liên Hoa, thầy thuốc ngao du giang hồ]"
+vi,vi_000140,scene_text,[Quản sự Phong Hỏa Đường]
+vi,vi_000166,scene_text,[Viện Bách Xuyên]
+vi,vi_000167,scene_text,"[Ly Nhi, nha hoàn của sơn trang Thiên Cơ]"
+vi,vi_000168,scene_text,"[Vượng Phúc, người hầu của sơn trang Thiên Cơ]"
+vi,vi_000180,scene_text,"[Kỷ Hán Phật, viện chủ viện Bách Xuyên]"
+vi,vi_000185,scene_text,"[Bạch Giang Thuần, viện chủ viện Bách Xuyên]"
+vi,vi_000190,scene_text,"[Vân Bỉ Khưu, viện chủ viện Bách Xuyên]"
+vi,vi_000194,scene_text,"[Thạch Thủy, viện chủ viện Bách Xuyên]"
+vi,vi_000257,scene_text,[Khế ước]
+vi,vi_000282,scene_text,[Viện Bách Xuyên]
+vi,vi_000329,scene_text,[Viện Bách Xuyên]
+vi,vi_000706,scene_text,[Cáo thị]
+vi,vi_000758,scene_text,[Đằng Vân Các]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Liên Hoa Lâu]
+vi,vi_000003,scene_text,[Tập 1]
+vi,vi_000023,scene_text,"[Lý Tương Di, môn chủ Tứ Cố Môn]"
+vi,vi_000040,scene_text,[Mười năm sau]
+vi,vi_000164,scene_text,[Y quán Liên Hoa Lâu]
+vi,vi_000172,scene_text,[Viên Kiện Khang]
+vi,vi_000173,scene_text,[Giới luật tự viện Bách Xuyên]
+vi,vi_000196,scene_text,"[Phương Đa Bệnh,
+thiếu trang chủ sơn trang Thiên Cơ]"
+vi,vi_000234,scene_text,[Tương Di]
+vi,vi_000493,scene_text,[Phái Linh Sơn]
+vi,vi_000494,scene_text,[Liên Hoa Lâu]
+vi,vi_000696,scene_text,[Thành Gia Châu]
+vi,vi_000775,scene_text,"[Người thừa kế do trời sắp đặt là linh đồng 16 tuổi, ở phía Tây Nam thành,
+sinh vào đầu tháng tư, chân phải có nốt ruồi hình hoa sen]"
+vi,vi_000056,in_special_pair,"- Đúng đấy.
+- Chắc chắn Lý Tương Di vẫn còn sống."
+vi,vi_000010,in_special_pair,"[kết thúc trận hỗn chiến trong võ lâm,]"
+vi,vi_000015,in_special_pair,"[Hắn không tiếc hãm hại sư huynh
+của Lý Tương Di là Thiện Cô Đao,]"
+vi,vi_000009,in_special_pair,"[hai mươi tuổi đã ngồi lên vị trí
+minh chủ võ lâm,]"
+vi,vi_000007,in_special_pair,[trở thành cao thủ đệ nhất thiên hạ.]
+vi,vi_000004,in_special_pair,"[Mười năm trước,]"
+vi,vi_000759,in_special_pair,[chưởng môn phái Linh Sơn]
+vi,vi_000081,in_special_pair,"[vợ ngươi tươi cười hớn hở,]"
+vi,vi_000016,in_special_pair,[dụ Lý Tương Di chiến đấu với mình.]
+vi,vi_000012,in_special_pair,"[Có người coi hắn là hy vọng
+của võ lâm Trung Nguyên,]"
+vi,vi_000014,in_special_pair,"[trong đó bao gồm minh chủ Kim Uyên Minh
+của Ma giáo, Địch Phi Thanh.]"
+vi,vi_000006,in_special_pair,"[Mười lăm tuổi, hắn chiến thắng
+Thiên Ma Huyết Vực,]"
+vi,vi_000760,in_special_pair,"[bất ngờ thoát xác thăng tiên
+trước mặt nhiều người.]"
+vi,vi_000013,in_special_pair,"[nhưng càng nhiều người
+nuôi hy vọng chiến thắng hắn,]"
+vi,vi_000011,in_special_pair,[thoáng chốc trở thành truyền kỳ.]
+vi,vi_000606,in_special_pair,"- Đứng lại.
+- Đi."
+vi,vi_000082,in_special_pair,[có thể thấy vấn đề không nằm ở cô ấy.]
+vi,vi_000628,in_special_pair,"- Vở kịch này...
+- Đồ của ta đâu?"
+vi,vi_000008,in_special_pair,"[Mười bảy tuổi lập nên Tứ Cố Môn,]"
+vi,vi_000005,in_special_pair,"[thanh kiếm nhanh nhất trong giang hồ
+là kiếm của Lý Tương Di.]"
+vi,vi_000080,in_special_pair,"[Nhưng cửa hàng của ngươi
+làm ăn phát đạt,]"

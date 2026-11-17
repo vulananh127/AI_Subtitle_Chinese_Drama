@@ -1,0 +1,89 @@
+side,cue_id,reason,text
+origin,zh_000748,in_special_pair,等头顶血水渗下
+origin,zh_000742,in_special_pair,六日正好血冰融化
+origin,zh_000743,in_special_pair,而将镖箱抬入客栈时
+origin,zh_000019,in_special_pair,是 是
+origin,zh_000725,in_special_pair,但尸身却与血冰一起封入镖箱
+origin,zh_000754,in_special_pair,也就唱完了
+origin,zh_000749,in_special_pair,她将大家注意力引上二楼
+origin,zh_000741,in_special_pair,镖箱用寒铁密封特制
+origin,zh_000745,in_special_pair,只等人接近便会察觉异常
+origin,zh_000751,in_special_pair,染血的镖箱也一定会被打开
+origin,zh_000726,in_special_pair,送到镖局
+origin,zh_000731,in_special_pair,于是玉秋霜的尸体
+origin,zh_000738,in_special_pair,配合皮影装出二人对答的声音
+origin,zh_000730,in_special_pair,自也不会逐个开箱查验
+origin,zh_000733,in_special_pair,云娇带着护卫以寻找玉秋霜为名
+origin,zh_000739,in_special_pair,远处的护卫们
+origin,zh_000740,in_special_pair,只会当是二小姐真的回来了
+origin,zh_000727,in_special_pair,而凶手再以走人头私镖为由
+origin,zh_000752,in_special_pair,玉秋霜的尸身就此重见天日
+origin,zh_000729,in_special_pair,程云鹤不想私镖暴露
+origin,zh_000744,in_special_pair,血水更会溢出镖箱
+origin,zh_000724,in_special_pair,玉秋霜本是死在玉城
+origin,zh_000732,in_special_pair,便这样被运到了小棉客栈
+origin,zh_000734,in_special_pair,提前一日住进客栈
+origin,zh_000735,in_special_pair,便可用一晚的时间布置
+origin,zh_000736,in_special_pair,次日傍晚
+origin,zh_000737,in_special_pair,她扮作玉秋霜进门
+origin,zh_000753,in_special_pair,这场鬼杀人的大戏
+origin,zh_000728,in_special_pair,贿赂程云鹤
+origin,zh_000746,in_special_pair,而这时的云娇恢复妆容
+origin,zh_000747,in_special_pair,独自下楼入浴
+origin,zh_000750,in_special_pair,便可让护卫们发现二小姐不见
+vi,vi_000034,scene_text,[Tông Chính Minh Châu]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Liên Hoa Lâu]
+vi,vi_000003,scene_text,[Tập 4]
+vi,vi_000131,scene_text,[Viện Bách Xuyên]
+vi,vi_000368,scene_text,[Khinh Vân Tế Nguyệt]
+vi,vi_000454,scene_text,[Liên Hoa Lâu]
+vi,vi_000736,in_special_pair,"[Trình Vân Hạc không muốn
+lộ việc vận chuyển riêng,]"
+vi,vi_000735,in_special_pair,[để hối lộ Trình Vân Hạc.]
+vi,vi_000740,in_special_pair,"[Vân Kiều dẫn theo hộ vệ
+lấy danh nghĩa tìm Ngọc Thu Sương,]"
+vi,vi_000752,in_special_pair,"[chỉ chờ người đến gần
+là sẽ phát hiện ra điểm bất thường.]"
+vi,vi_000742,in_special_pair,"[vậy là có thể
+dùng một buổi tối để bố trí.]"
+vi,vi_000755,in_special_pair,"[Chờ máu trên đầu nhỏ xuống,]"
+vi,vi_000759,in_special_pair,"[thi thể Ngọc Thu Sương
+sẽ hiện ra như thế.]"
+vi,vi_000737,in_special_pair,"[tất nhiên cũng sẽ
+không mở từng hòm kiểm tra.]"
+vi,vi_000753,in_special_pair,"[Mà Vân Kiều lúc này khôi phục diện mạo,]"
+vi,vi_000757,in_special_pair,"[sẽ có thể khiến đám hộ vệ
+phát hiện ra nhị tiểu thư biến mất.]"
+vi,vi_000734,in_special_pair,"[Mà hung thủ lại lấy cớ
+vận chuyển riêng đầu người]"
+vi,vi_000732,in_special_pair,"[nhưng thi thể lại được
+giấu trong rương hàng cùng đá máu,]"
+vi,vi_000731,in_special_pair,"[Ngọc Thu Sương vốn chết ở Ngọc Thành,]"
+vi,vi_000743,in_special_pair,"[Chập tối hôm sau,]"
+vi,vi_000746,in_special_pair,[Đám hộ vệ ở đằng xa]
+vi,vi_000749,in_special_pair,[sáu ngày vừa hay đá máu tan chảy.]
+vi,vi_000756,in_special_pair,"[cô ta sẽ thu hút
+sự chú ý của mọi người lên tầng hai,]"
+vi,vi_000754,in_special_pair,[một mình xuống nhà tắm.]
+vi,vi_000739,in_special_pair,"[đã được chuyển đến
+nhà trọ Tiểu Miên như thế.]"
+vi,vi_000760,in_special_pair,[Vở kịch ma giết người này]
+vi,vi_000741,in_special_pair,"[vào nhà trọ ở trước một ngày,]"
+vi,vi_000022,in_special_pair,"- Vâng.
+- Vâng."
+vi,vi_000761,in_special_pair,[cũng kết thúc.]
+vi,vi_000738,in_special_pair,[Vậy là thi thể Ngọc Thu Sương]
+vi,vi_000748,in_special_pair,"[Rương hàng được đặc chế
+niêm phong bằng hàn thiết,]"
+vi,vi_000747,in_special_pair,"[sẽ chỉ cho rằng nhị tiểu thư
+thật sự đã về.]"
+vi,vi_000733,in_special_pair,[đưa đến tiêu cục.]
+vi,vi_000758,in_special_pair,"[Chiếc hòm thấm máu
+chắc chắn cũng sẽ bị mở ra,]"
+vi,vi_000744,in_special_pair,"[cô ta đóng giả Ngọc Thu Sương
+vào nhà trọ,]"
+vi,vi_000745,in_special_pair,"[kết hợp với múa rối bóng
+giả giọng hai người đối đáp.]"
+vi,vi_000750,in_special_pair,"[Mà lúc khiêng rương hàng vào nhà trọ,]"
+vi,vi_000751,in_special_pair,"[máu sẽ chảy ra khỏi hòm,]"

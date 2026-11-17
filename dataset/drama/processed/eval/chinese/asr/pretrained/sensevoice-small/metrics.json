@@ -1,0 +1,58 @@
+{
+  "task": "asr",
+  "language": "chinese",
+  "stage": "pretrained",
+  "model_name": "sensevoice-small",
+  "backend": "funasr",
+  "model_path": "iic/SenseVoiceSmall",
+  "backend_cfg": {
+    "pass_language": true
+  },
+  "src_lang": "zh",
+  "tgt_lang": null,
+  "dataset": {
+    "csv": "/data/lananh/AI_Subtitle_Chinese_Drama/dataset/drama/processed/metadata/chinese/metadata_asr.csv",
+    "n_rows_csv": 15552,
+    "n_items": 15552,
+    "n_empty_ref": 0,
+    "n_missing_audio": 0,
+    "split_col": null,
+    "split": null,
+    "columns": {
+      "audio": "audio_path",
+      "text": "origin_text",
+      "id": "id",
+      "duration": "duration"
+    },
+    "fingerprint": "815b06a2dd0e"
+  },
+  "metrics": {
+    "cer": 11.5801,
+    "cer_macro": 15.991,
+    "cer_sub": 8.0415,
+    "cer_del": 2.2363,
+    "cer_ins": 1.3024,
+    "n": 15552,
+    "ref_len_total": 151950,
+    "n_empty_hyp": 11,
+    "n_over_100pct": 92,
+    "n_skipped_empty_ref": 0
+  },
+  "metric_errors": {},
+  "timing": {
+    "inference_sec": 1085.4,
+    "audio_sec": 31950.59,
+    "rtf": 0.034
+  },
+  "created_at": "2026-11-13T08:38:24",
+  "versions": {
+    "python": "3.10.22",
+    "torch": "2.5.1+cu121",
+    "transformers": "4.57.6",
+    "sacrebleu": "2.6.0",
+    "unbabel-comet": "2.2.7",
+    "qwen-asr": "0.0.6",
+    "funasr": "1.4.26",
+    "soundfile": "0.14.0"
+  }
+}

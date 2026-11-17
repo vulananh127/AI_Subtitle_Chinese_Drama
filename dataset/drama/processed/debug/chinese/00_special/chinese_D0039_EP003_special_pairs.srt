@@ -1,0 +1,101 @@
+1
+00:23:02,200 --> 00:23:03,559
+[dash_dialogue] 喝口水 来
+- Uống ngụm nước.
+- Nào.
+
+2
+00:24:34,480 --> 00:24:36,480
+[dash_dialogue] 可可
+小叔好
+- Khả Khả.
+- Cháu chào chú út.
+
+3
+00:24:51,680 --> 00:24:52,920
+[dash_dialogue] 等会儿
+我再紧一紧
+- Đợi đã.
+- Cháu thắt chặt lại đã.
+
+4
+00:25:08,960 --> 00:25:10,359
+[dash_dialogue] 是吗
+是啊
+- Vậy sao?
+- Đúng ạ.
+
+5
+00:25:44,880 --> 00:25:45,799
+[dash_dialogue] 下去洗去 牵牛啊
+- Xuống đó mà tắm.
+- Khiên Ngưu à.
+
+6
+00:25:45,799 --> 00:25:46,519
+[dash_dialogue] 不能 二姨 牵牛
+- Không được đâu, dì hai.
+- Khiên Ngưu.
+
+7
+00:25:50,960 --> 00:25:52,240
+[dash_dialogue] 回家吧
+走
+- Về nhà thôi.
+- Đi.
+
+8
+00:26:30,160 --> 00:26:31,680
+[dash_dialogue] 我跟你二姨夫就没完了
+等会儿 二姨
+- dì và dượng hai cháu lại cãi nhau.
+- Đợi đã, dì hai.
+
+9
+00:27:41,920 --> 00:27:43,519
+[dash_dialogue] 可可好
+大伯好
+- Chào Khả Khả.
+- Cháu chào bác cả.
+
+10
+00:27:45,319 --> 00:27:46,599
+[dash_dialogue] 回家吧
+走
+- Về nhà thôi.
+- Đi.
+
+11
+00:35:26,360 --> 00:35:27,840
+[dash_dialogue] 慢走啊
+保重啊
+- Về cẩn thận nhé.
+- Bảo trọng.
+
+12
+00:41:31,519 --> 00:41:33,320
+[dash_dialogue] 爷爷早
+早
+- Chào buổi sáng ông.
+- Chào buổi sáng.
+
+13
+00:42:09,760 --> 00:42:12,679
+[dash_dialogue] 可可 你吃完了吗
+吃完了
+- Khả Khả, cháu ăn xong chưa?
+- Ăn xong rồi ạ.
+
+14
+00:42:15,800 --> 00:42:17,760
+[dash_dialogue] 爷爷再见
+再见 再见
+- Tạm biệt ông.
+- Tạm biệt, tạm biệt.
+
+15
+00:42:19,199 --> 00:42:21,039
+[dash_dialogue] 再见
+再见 拜拜
+- Tạm biệt.
+- Tạm biệt, tạm biệt.

@@ -1,0 +1,642 @@
+pair_idx,start,end,duration,origin_text,vi_text,origin_text_asr,origin_text_mt,vi_text_mt,asr_keep,mt_keep,source,overlap,origin_cue_ids,vi_cue_ids
+1,113.24,114.28,1.04,你们干什么,Các người làm gì vậy?,你们干什么,你们干什么,Các người làm gì vậy?,1,1,normal,none,zh_000001,vi_000004
+2,114.28,114.88,0.6,跟我走,Đi theo ta.,跟我走,跟我走,Đi theo ta.,1,1,normal,none,zh_000002,vi_000005
+3,119.28,120.28,1.0,小罪仙,Tiểu tội tiên?,小罪仙,小罪仙,Tiểu tội tiên?,1,1,normal,none,zh_000003,vi_000006
+4,130.199,131.6,1.401,长 长 长,Trường... Trường... Trường,长 长 长,长 长 长,Trường... Trường... Trường,1,1,normal,none,zh_000004,vi_000007
+5,133.32,134.12,0.8,长珩仙君,"Trường Hành tiên quân,",长珩仙君,长珩仙君,"Trường Hành tiên quân,",1,1,normal,none,zh_000005,vi_000008
+6,134.12,135.44,1.32,长珩仙君 你不要杀我,"Trường Hành tiên quân, đừng giết ta.",长珩仙君 你不要杀我,长珩仙君 你不要杀我,"Trường Hành tiên quân, đừng giết ta.",1,1,normal,none,zh_000006,vi_000009
+7,136.0,137.44,1.44,大胆罪仙,"Tội tiên to gan,",大胆罪仙,大胆罪仙,"Tội tiên to gan,",1,1,normal,none,zh_000007,vi_000010
+8,137.44,138.8,1.36,私逃越狱,"tự ý vượt ngục,",私逃越狱,私逃越狱,"tự ý vượt ngục,",1,1,normal,none,zh_000008,vi_000011
+9,139.72,141.64,1.92,按律当诛,theo luật phải giết.,按律当诛,按律当诛,theo luật phải giết.,1,1,normal,none,zh_000009,vi_000012
+10,153.079,154.4,1.321,长 长珩,Trường... Trường Hành...,长 长珩,长 长珩,Trường... Trường Hành...,1,1,normal,none,zh_000010,vi_000013
+11,156.88,157.68,0.8,小兰花,"Hoa Lan Nhỏ,",小兰花,小兰花,"Hoa Lan Nhỏ,",1,1,normal,none,zh_000011,vi_000014
+12,157.68,159.72,2.04,你明知道罪仙在你身边,cô rõ ràng biết tội tiên ở bên cạnh cô,你明知道罪仙在你身边,你明知道罪仙在你身边,cô rõ ràng biết tội tiên ở bên cạnh cô,1,1,normal,none,zh_000012,vi_000015
+13,159.72,160.96,1.24,却知情不报,"nhưng lại không báo,",却知情不报,却知情不报,"nhưng lại không báo,",1,1,normal,none,zh_000013,vi_000016
+14,160.96,162.68,1.72,还将他藏于司命殿中,còn giấu hắn ở trong điện Ti Mệnh.,还将他藏于司命殿中,还将他藏于司命殿中,còn giấu hắn ở trong điện Ti Mệnh.,1,1,normal,none,zh_000014,vi_000017
+15,162.68,163.84,1.16,我 我,Ta... ta...,我 我,我 我,Ta... ta...,1,1,normal,none,zh_000015,vi_000018
+16,164.36,165.24,0.88,不要说了,"Đừng nói nữa,",不要说了,不要说了,"Đừng nói nữa,",1,1,normal,none,zh_000016,vi_000019
+17,165.96,167.079,1.119,我对你很失望,ta rất thất vọng về cô.,我对你很失望,我对你很失望,ta rất thất vọng về cô.,1,1,normal,none,zh_000017,vi_000020
+18,175.09,175.82,0.73,不要,Đừng.,不要,不要,Đừng.,1,1,normal,none,zh_000018,vi_000021
+19,185.88,186.88,1.0,这是,Đây là,这是,这是,Đây là,1,1,normal,none,zh_000019,vi_000022
+20,187.92,189.8,1.88,恐惧的感觉,cảm giác sợ hãi.,恐惧的感觉,恐惧的感觉,cảm giác sợ hãi.,1,1,normal,none,zh_000020,vi_000023
+21,201.16,202.92,1.76,真的是久违了,Đúng là đã lâu không cảm nhận được.,真的是久违了,真的是久违了,Đúng là đã lâu không cảm nhận được.,1,1,normal,none,zh_000021,vi_000024
+22,210.44,211.96,1.52,还好是个梦,Cũng may chỉ là mơ thôi.,还好是个梦,还好是个梦,Cũng may chỉ là mơ thôi.,1,1,normal,none,zh_000022,vi_000025
+23,250.2,251.4,1.2,醒醒,Dậy đi.,醒醒,醒醒,Dậy đi.,1,1,normal,none,zh_000023,vi_000026
+24,254.04,256.279,2.239,再睡半刻,Ngủ thêm nửa khắc.,再睡半刻,再睡半刻,Ngủ thêm nửa khắc.,1,1,normal,none,zh_000024,vi_000027
+25,256.279,258.399,2.12,现在已经是卯时了,Bây giờ đã là giờ Mão rồi.,现在已经是卯时了,现在已经是卯时了,Bây giờ đã là giờ Mão rồi.,1,1,normal,none,zh_000025,vi_000028
+26,258.399,261.16,2.761,我要再多睡一会儿,Để ta ngủ thêm một lát nữa.,我要再多睡一会儿,我要再多睡一会儿,Để ta ngủ thêm một lát nữa.,1,1,normal,none,zh_000026,vi_000029
+27,262.4,264.96,2.56,赶紧起来给本座修命簿,Mau thức dậy sửa sổ số mệnh cho bổn tọa.,赶紧起来给本座修命簿,赶紧起来给本座修命簿,Mau thức dậy sửa sổ số mệnh cho bổn tọa.,1,1,normal,none,zh_000027,vi_000030
+28,264.96,267.04,2.08,你别烦我了,Đừng làm phiền ta.,你别烦我了,你别烦我了,Đừng làm phiền ta.,1,1,normal,none,zh_000028,vi_000031
+29,267.04,268.64,1.6,你要是大早上觉着无聊,Nếu sáng sớm huynh cảm thấy buồn chán,你要是大早上觉着无聊,你要是大早上觉着无聊,Nếu sáng sớm huynh cảm thấy buồn chán,1,1,normal,none,zh_000029,vi_000032
+30,268.64,269.48,0.84,就去花房里,thì đi nhà kính,就去花房里,就去花房里,thì đi nhà kính,1,1,normal,none,zh_000030,vi_000033
+31,269.48,271.04,1.56,把我的花都数一遍,đếm hết số hoa của ta một lượt đi.,把我的花都数一遍,把我的花都数一遍,đếm hết số hoa của ta một lượt đi.,1,1,normal,none,zh_000031,vi_000034
+32,271.04,273.8,2.76,让我安安生生睡行不行,"Để yên cho ta ngủ, được không hả?",让我安安生生睡行不行,让我安安生生睡行不行,"Để yên cho ta ngủ, được không hả?",1,1,normal,none,zh_000032,vi_000035
+33,274.36,275.84,1.48,本座没功夫陪你瞎耗,Bổn tọa không có thời gian dây dưa với cô.,本座没功夫陪你瞎耗,本座没功夫陪你瞎耗,Bổn tọa không có thời gian dây dưa với cô.,1,1,normal,none,zh_000033,vi_000036
+34,275.84,276.6,0.76,你现在,Bây giờ cô...,你现在,你现在,Bây giờ cô...,1,1,normal,none,zh_000034,vi_000037
+35,305.8,306.4,0.6,一,Một.,一,一,Một.,1,1,normal,none,zh_000035,vi_000038
+36,307.96,308.88,0.92,二,Hai.,二,二,Hai.,1,1,normal,none,zh_000036,vi_000039
+37,311.48,312.4,0.92,三,Ba.,三,三,Ba.,1,1,normal,none,zh_000037,vi_000040
+38,313.24,314.52,1.28,这怎么回事儿,Chuyện này là thế nào?,这怎么回事儿,这怎么回事儿,Chuyện này là thế nào?,1,1,inner_monologue,none,zh_000038,vi_000041
+39,315.16,317.56,2.4,这小花妖又使的什么妖术,Tiểu hoa yêu này lại dùng yêu thuật gì?,这小花妖又使的什么妖术,这小花妖又使的什么妖术,Tiểu hoa yêu này lại dùng yêu thuật gì?,1,1,inner_monologue,none,zh_000039,vi_000042
+40,321.48,323.16,1.68,你要是大早上闲着无聊,Nếu sáng sớm huynh cảm thấy buồn chán,你要是大早上闲着无聊,你要是大早上闲着无聊,Nếu sáng sớm huynh cảm thấy buồn chán,1,1,normal,none,zh_000040,vi_000043
+41,323.16,324.0,0.84,就去花房里,thì đi nhà kính,就去花房里,就去花房里,thì đi nhà kính,1,1,normal,none,zh_000041,vi_000044
+42,324.0,325.52,1.52,把我的花都数一遍,đếm hết số hoa của ta một lượt đi.,把我的花都数一遍,把我的花都数一遍,đếm hết số hoa của ta một lượt đi.,1,1,normal,none,zh_000042,vi_000045
+43,325.52,328.2,2.68,让我安安生生睡行不行,"Để yên cho ta ngủ, được không hả?",让我安安生生睡行不行,让我安安生生睡行不行,"Để yên cho ta ngủ, được không hả?",1,1,normal,none,zh_000043,vi_000046
+44,329.84,330.72,0.88,九,Chín.,九,九,Chín.,1,1,normal,none,zh_000044,vi_000047
+45,331.88,333.0,1.12,十,Mười.,十,十,Mười.,1,1,normal,none,zh_000045,vi_000048
+46,335.159,336.24,1.081,十一,Mười một.,十一,十一,Mười một.,1,1,normal,none,zh_000046,vi_000049
+47,336.24,337.159,0.919,十二,Mười hai.,十二,十二,Mười hai.,1,1,normal,none,zh_000047,vi_000050
+48,341.159,342.24,1.081,十四,Mười bốn.,十四,十四,Mười bốn.,1,1,normal,none,zh_000048,vi_000051
+49,342.24,343.36,1.12,十五,Mười lăm.,十五,十五,Mười lăm.,1,1,normal,none,zh_000049,vi_000052
+50,345.04,345.88,0.84,觞阙,Thương Khuyết.,觞阙,觞阙,Thương Khuyết.,1,1,normal,none,zh_000050,vi_000053
+51,347.159,347.96,0.801,觞阙,Thương Khuyết.,觞阙,觞阙,Thương Khuyết.,1,1,normal,none,zh_000051,vi_000054
+52,351.8,353.36,1.56,尊上 有何吩咐,"Tôn thượng, ngài có gì dặn dò?",尊上 有何吩咐,尊上 有何吩咐,"Tôn thượng, ngài có gì dặn dò?",1,1,normal,none,zh_000052,vi_000055
+53,354.04,355.28,1.24,十五,Mười lăm.,十五,十五,Mười lăm.,1,1,normal,none,zh_000053,vi_000056
+54,355.28,356.64,1.36,十六,Mười sáu.,十六,十六,Mười sáu.,1,1,normal,none,zh_000054,vi_000057
+55,358.52,359.76,1.24,十七,Mười bảy.,十七,十七,Mười bảy.,1,1,normal,none,zh_000055,vi_000058
+56,362.92,364.68,1.76,尊上 您这是在,"Tôn thượng, ngài đang...",尊上 您这是在,尊上 您这是在,"Tôn thượng, ngài đang...",1,1,normal,none,zh_000056,vi_000059
+57,367.72,368.88,1.16,数花吗,đếm hoa sao?,数花吗,数花吗,đếm hoa sao?,1,1,normal,none,zh_000057,vi_000060
+58,370.24,370.96,0.72,有何深意,Có ý nghĩa sâu xa gì vậy?,有何深意,有何深意,Có ý nghĩa sâu xa gì vậy?,1,1,normal,none,zh_000058,vi_000061
+59,373.12,375.28,2.16,本座正在静心冥想,"Bổn tọa đang tĩnh tâm suy nghĩ,",本座正在静心冥想,本座正在静心冥想,"Bổn tọa đang tĩnh tâm suy nghĩ,",1,1,normal,none,zh_000059,vi_000062
+60,376.04,377.6,1.56,调养元神,điều dưỡng nguyên thần.,调养元神,调养元神,điều dưỡng nguyên thần.,1,1,normal,none,zh_000060,vi_000063
+61,377.6,378.8,1.2,不愧是尊上,"Không hổ là tôn thượng,",不愧是尊上,不愧是尊上,"Không hổ là tôn thượng,",1,1,normal,none,zh_000061,vi_000064
+62,378.8,380.12,1.32,您的修为已臻化境,tu vi của ngài đã đạt tới Hóa Cảnh,您的修为已臻化境,您的修为已臻化境,tu vi của ngài đã đạt tới Hóa Cảnh,1,1,normal,none,zh_000062,vi_000065
+63,380.12,381.76,1.64,尚且片刻不肯松懈,mà không hề lơi lỏng tí nào.,尚且片刻不肯松懈,尚且片刻不肯松懈,mà không hề lơi lỏng tí nào.,1,1,normal,none,zh_000063,vi_000066
+64,381.76,382.96,1.2,苍盐海有您统治,"Biển Thương Diêm có ngài thống trị,",苍盐海有您统治,苍盐海有您统治,"Biển Thương Diêm có ngài thống trị,",1,1,normal,none,zh_000064,vi_000067
+65,382.96,385.0,2.04,重振苍盐海 一统三界,chấn hưng biển Thương Diêm thống nhất tam giới lần nữa,重振苍盐海 一统三界,重振苍盐海 一统三界,chấn hưng biển Thương Diêm thống nhất tam giới lần nữa,1,1,normal,none,zh_000065,vi_000068
+66,385.0,385.84,0.84,指日可待,là việc trong tầm tay.,指日可待,指日可待,là việc trong tầm tay.,1,1,normal,none,zh_000066,vi_000069
+67,388.52,389.96,1.44,本座记得息兰一族,Bổn tọa nhớ tộc Tức Lan,本座记得息兰一族,本座记得息兰一族,Bổn tọa nhớ tộc Tức Lan,1,1,normal,none,zh_000067,vi_000070
+68,389.96,391.88,1.92,尽数将不传之秘,ghi chép toàn bộ bí mật không truyền ra ngoài,尽数将不传之秘,尽数将不传之秘,ghi chép toàn bộ bí mật không truyền ra ngoài,1,1,normal,none,zh_000068,vi_000071
+69,391.88,393.88,2.0,记录于息兰全书之中,"trong ""Tức Lan toàn thư"".",记录于息兰全书之中,记录于息兰全书之中,"trong ""Tức Lan toàn thư"".",1,1,normal,none,zh_000069,vi_000072
+70,393.88,395.44,1.56,息兰圣印的破解之法,Cách phá giải thánh ấn Tức Lan,息兰圣印的破解之法,息兰圣印的破解之法,Cách phá giải thánh ấn Tức Lan,1,1,normal,none,zh_000070,vi_000073
+71,395.44,396.36,0.92,当在其中,cũng ở trong đó.,当在其中,当在其中,cũng ở trong đó.,1,1,normal,none,zh_000071,vi_000074
+72,396.36,398.8,2.44,你可知息兰全书现在何处,"Ngươi có biết bây giờ ""Tức Lan toàn thư"" ở đâu không?",你可知息兰全书现在何处,你可知息兰全书现在何处,"Ngươi có biết bây giờ ""Tức Lan toàn thư"" ở đâu không?",1,1,normal,none,zh_000072,vi_000075
+73,398.8,399.28,0.48,知道,Biết ạ.,知道,知道,Biết ạ.,1,1,normal,none,zh_000073,vi_000076
+74,399.64,401.48,1.84,息兰全书当年流落云梦泽,"Năm đó ""Tức Lan toàn thư"" thất lạc ở Vân Mộng Trạch",息兰全书当年流落云梦泽,息兰全书当年流落云梦泽,"Năm đó ""Tức Lan toàn thư"" thất lạc ở Vân Mộng Trạch",1,1,normal,none,zh_000074,vi_000077
+75,401.48,402.56,1.08,被我族寻获,được tộc ta tìm thấy.,被我族寻获,被我族寻获,được tộc ta tìm thấy.,1,1,normal,none,zh_000075,vi_000078
+76,402.56,404.2,1.64,现在正放在我族的密阁之中,"Bây giờ đang để trong mật các của tộc ta,",现在正放在我族的密阁之中,现在正放在我族的密阁之中,"Bây giờ đang để trong mật các của tộc ta,",1,1,normal,none,zh_000076,vi_000079
+77,404.2,405.12,0.92,严加看管,trông coi nghiêm ngặt.,严加看管,严加看管,trông coi nghiêm ngặt.,1,1,normal,none,zh_000077,vi_000080
+78,405.12,406.52,1.4,这三万年来 属下,"Ba vạn năm trở lại đây, thuộc hạ...",这三万年来 属下,这三万年来 属下,"Ba vạn năm trở lại đây, thuộc hạ...",1,1,normal,none,zh_000078,vi_000081
+79,406.52,408.84,2.32,那你还不快去取来,Vậy ngươi còn không mau đem tới đây.,那你还不快去取来,那你还不快去取来,Vậy ngươi còn không mau đem tới đây.,1,1,normal,none,zh_000079,vi_000082
+80,411.68,412.6,0.92,快,Nhanh.,快,快,Nhanh.,1,1,normal,none,zh_000080,vi_000083
+81,412.6,413.2,0.6,是,Vâng.,是,是,Vâng.,1,1,normal,none,zh_000081,vi_000084
+82,429.88,430.64,0.76,尊上,"Tôn thượng,",尊上,尊上,"Tôn thượng,",1,1,normal,none,zh_000082,vi_000087
+83,430.64,431.72,1.08,息兰全书在此,"""Tức Lan toàn thư"" ở đây.",息兰全书在此,息兰全书在此,"""Tức Lan toàn thư"" ở đây.",1,1,normal,none,zh_000083,vi_000088
+84,461.56,462.24,0.68,尊上,Tôn thượng.,尊上,尊上,Tôn thượng.,1,1,normal,none,zh_000084,vi_000089
+85,488.76,489.96,1.2,原来如此,Hóa ra là vậy.,原来如此,原来如此,Hóa ra là vậy.,1,1,normal,none,zh_000085,vi_000090
+86,490.84,493.08,2.24,同心咒既成,"Lời nguyền Đồng Tâm hình thành,",同心咒既成,同心咒既成,"Lời nguyền Đồng Tâm hình thành,",1,1,normal,none,zh_000086,vi_000091
+87,493.08,495.0,1.92,本座便与施咒者,"bổn tọa sẽ cùng vui cùng buồn,",本座便与施咒者,本座便与施咒者,"bổn tọa sẽ cùng vui cùng buồn,",1,1,normal,none,zh_000087,vi_000092
+88,495.0,496.36,1.36,同喜同悲,"cùng chết, cùng tổn thương,",同喜同悲,同喜同悲,"cùng chết, cùng tổn thương,",1,1,normal,none,zh_000088,vi_000093
+89,496.36,498.12,1.76,同死同伤,thể xác và tinh thần,同死同伤,同死同伤,thể xác và tinh thần,1,1,normal,none,zh_000089,vi_000094
+90,498.12,499.36,1.24,身心相连,như cùng một thể,身心相连,身心相连,như cùng một thể,1,1,normal,none,zh_000090,vi_000095
+91,499.36,500.56,1.2,如同一体,với người thực hiện lời nguyền.,如同一体,如同一体,với người thực hiện lời nguyền.,1,1,normal,none,zh_000091,vi_000096
+92,501.96,503.36,1.4,本座如何,Bổn tọa như thế nào,本座如何,本座如何,Bổn tọa như thế nào,1,1,normal,none,zh_000092,vi_000097
+93,503.36,505.48,2.12,她都不会受影响,"cô ta đều không bị ảnh hưởng,",她都不会受影响,她都不会受影响,"cô ta đều không bị ảnh hưởng,",1,1,normal,none,zh_000093,vi_000098
+94,506.08,508.04,1.96,可她的所受所感,nhưng mọi cảm nhận của cô ta,可她的所受所感,可她的所受所感,nhưng mọi cảm nhận của cô ta,1,1,normal,none,zh_000094,vi_000099
+95,508.68,510.72,2.04,会一一加诸本座,thì bổn tọa lại cảm nhận được gấp bội.,会一一加诸本座,会一一加诸本座,thì bổn tọa lại cảm nhận được gấp bội.,1,1,normal,none,zh_000095,vi_000100
+96,510.72,513.159,2.439,如果现在有人想杀了本座,"Nếu bây giờ có người muốn giết bổn tọa,",如果现在有人想杀了本座,如果现在有人想杀了本座,"Nếu bây giờ có người muốn giết bổn tọa,",1,1,normal,none,zh_000096,vi_000101
+97,513.159,515.32,2.161,只要杀了她就可以,chỉ cần giết cô ta là được.,只要杀了她就可以,只要杀了她就可以,chỉ cần giết cô ta là được.,1,1,normal,none,zh_000097,vi_000102
+98,517.039,518.44,1.401,也就是说 这,Cũng có nghĩa là...,也就是说 这,也就是说 这,Cũng có nghĩa là...,1,1,normal,none,zh_000098,vi_000103
+99,518.44,519.4,0.96,她现在是本座,Bây giờ cô ta chính là,她现在是本座,她现在是本座,Bây giờ cô ta chính là,1,1,normal,none,zh_000099,vi_000104
+100,519.4,520.96,1.56,最大的弱点和软肋,điểm yếu và uy hiếp lớn nhất của bổn tọa.,最大的弱点和软肋,最大的弱点和软肋,điểm yếu và uy hiếp lớn nhất của bổn tọa.,1,1,normal,none,zh_000100,vi_000105
+101,525.36,527.72,2.36,施咒者一旦用息兰圣印,Một khi người thực hiện lời nguyền dùng thánh ấn Tức Lan,施咒者一旦用息兰圣印,施咒者一旦用息兰圣印,Một khi người thực hiện lời nguyền dùng thánh ấn Tức Lan,1,1,normal,none,zh_000101,vi_000106
+102,527.72,529.12,1.4,发动命令,ra lệnh,发动命令,发动命令,ra lệnh,1,1,normal,none,zh_000102,vi_000107
+103,529.12,530.84,1.72,本座便不可违抗,thì bổn tọa sẽ không thể làm trái.,本座便不可违抗,本座便不可违抗,thì bổn tọa sẽ không thể làm trái.,1,1,normal,none,zh_000103,vi_000108
+104,533.08,534.8,1.72,何等狠毒啊,Thật ác độc.,何等狠毒啊,何等狠毒啊,Thật ác độc.,1,1,normal,none,zh_000104,vi_000109
+105,536.36,538.2,1.84,难道本座以后,Lẽ nào sau này,难道本座以后,难道本座以后,Lẽ nào sau này,1,1,normal,none,zh_000105,vi_000110
+106,538.2,540.44,2.24,便要被这棵小草拿住,"bổn tọa sẽ bị cây cỏ nhỏ này kiểm soát,",便要被这棵小草拿住,便要被这棵小草拿住,"bổn tọa sẽ bị cây cỏ nhỏ này kiểm soát,",1,1,normal,none,zh_000106,vi_000111
+107,540.44,543.28,2.84,任凭她拿捏差使不成,mặc cho cô ta sai khiến hay sao?,任凭她拿捏差使不成,任凭她拿捏差使不成,mặc cho cô ta sai khiến hay sao?,1,1,normal,none,zh_000107,vi_000112
+108,550.32,551.08,0.76,尊 尊,Tôn... tôn...,尊 尊,尊 尊,Tôn... tôn...,1,1,normal,none,zh_000108,vi_000113
+109,553.0,554.0,1.0,尊上息怒,Tôn thượng bớt giận.,尊上息怒,尊上息怒,Tôn thượng bớt giận.,1,1,normal,none,zh_000109,vi_000114
+110,554.68,555.84,1.16,属下观之,Thuộc hạ thấy,属下观之,属下观之,Thuộc hạ thấy,1,1,normal,none,zh_000110,vi_000115
+111,555.84,557.48,1.64,这息兰咒语虽然蹊跷可恶,"tuy thần chú Tức Lan này kỳ quặc đáng ghét,",这息兰咒语虽然蹊跷可恶,这息兰咒语虽然蹊跷可恶,"tuy thần chú Tức Lan này kỳ quặc đáng ghét,",1,1,normal,none,zh_000111,vi_000116
+112,558.08,559.4,1.32,不过那小花妖似乎并不知道,nhưng dường như tiểu hoa yêu kia,不过那小花妖似乎并不知道,不过那小花妖似乎并不知道,nhưng dường như tiểu hoa yêu kia,1,1,normal,none,zh_000112,vi_000117
+113,559.4,560.56,1.16,自己是息兰族人,không biết mình là người tộc Tức Lan.,自己是息兰族人,自己是息兰族人,không biết mình là người tộc Tức Lan.,1,1,normal,none,zh_000113,vi_000118
+114,561.52,563.12,1.6,就算无意间施了咒术,"Cho dù vô tình thực hiện nguyền rủa,",就算无意间施了咒术,就算无意间施了咒术,"Cho dù vô tình thực hiện nguyền rủa,",1,1,normal,none,zh_000114,vi_000119
+115,563.76,564.6,0.84,也不知道用,thì cũng không biết dùng.,也不知道用,也不知道用,thì cũng không biết dùng.,1,1,normal,none,zh_000115,vi_000120
+116,568.2,568.8,0.6,罢了,Bỏ đi.,罢了,罢了,Bỏ đi.,1,1,normal,none,zh_000116,vi_000121
+117,569.92,571.76,1.84,待她修好命簿,"Đợi cô ta sửa xong sổ số mệnh,",待她修好命簿,待她修好命簿,"Đợi cô ta sửa xong sổ số mệnh,",1,1,normal,none,zh_000117,vi_000122
+118,571.76,573.4,1.64,本座便能找到,bổn tọa sẽ có thể tìm được,本座便能找到,本座便能找到,bổn tọa sẽ có thể tìm được,1,1,normal,none,zh_000118,vi_000123
+119,573.4,575.76,2.36,赤地女子转世元神,"nguyên thần chuyển thế của Xích Địa Nữ Tử,",赤地女子转世元神,赤地女子转世元神,"nguyên thần chuyển thế của Xích Địa Nữ Tử,",1,1,normal,none,zh_000119,vi_000124
+120,576.44,578.0,1.56,解封十万将士,"giải phong ấn cho một trăm nghìn binh sĩ,",解封十万将士,解封十万将士,"giải phong ấn cho một trăm nghìn binh sĩ,",1,1,normal,none,zh_000120,vi_000125
+121,578.0,579.4,1.4,荡平仙界,san bằng tiên giới.,荡平仙界,荡平仙界,san bằng tiên giới.,1,1,normal,none,zh_000121,vi_000126
+122,579.92,581.72,1.8,区区息兰咒语,"Chỉ là câu thần chú Tức Lan nhỏ bé,",区区息兰咒语,区区息兰咒语,"Chỉ là câu thần chú Tức Lan nhỏ bé,",1,1,normal,none,zh_000122,vi_000127
+123,581.72,583.56,1.84,届时自有办法解开,tới lúc đó tự có cách giải trừ.,届时自有办法解开,届时自有办法解开,tới lúc đó tự có cách giải trừ.,1,1,normal,none,zh_000123,vi_000128
+124,586.32,586.96,0.64,是,Vâng.,是,是,Vâng.,1,1,normal,none,zh_000124,vi_000129
+125,598.04,600.88,2.84,好困哪,Buồn ngủ quá.,好困哪,好困哪,Buồn ngủ quá.,1,1,normal,none,zh_000125,vi_000130
+126,602.68,604.04,1.36,小罪仙,Tiểu tội tiên.,小罪仙,小罪仙,Tiểu tội tiên.,1,1,normal,none,zh_000126,vi_000131
+127,604.04,605.48,1.44,你怎么来了,Sao huynh lại tới đây?,你怎么来了,你怎么来了,Sao huynh lại tới đây?,1,1,normal,none,zh_000127,vi_000132
+128,605.48,607.52,2.04,八千四百五十二,Tám nghìn bốn trăm năm mươi hai.,八千四百五十二,八千四百五十二,Tám nghìn bốn trăm năm mươi hai.,1,1,normal,none,zh_000128,vi_000133
+129,608.32,610.56,2.24,什么八千四百五十二,Tám nghìn bốn trăm năm mươi hai gì cơ?,什么八千四百五十二,什么八千四百五十二,Tám nghìn bốn trăm năm mươi hai gì cơ?,1,1,normal,none,zh_000129,vi_000134
+130,610.56,611.8,1.24,你这花房,Nhà kính của cô,你这花房,你这花房,Nhà kính của cô,1,1,normal,none,zh_000130,vi_000135
+131,612.36,614.92,2.56,有八千四百五十二朵花,có 8452 bông hoa.,有八千四百五十二朵花,有八千四百五十二朵花,có 8452 bông hoa.,1,1,normal,none,zh_000131,vi_000136
+132,616.28,616.76,0.48,你,Huynh...,你,你,Huynh...,1,1,normal,none,zh_000132,vi_000137
+133,617.64,619.92,2.28,你真的数了花园里的花,Huynh đếm hoa trong nhà kính thật à?,你真的数了花园里的花,你真的数了花园里的花,Huynh đếm hoa trong nhà kính thật à?,1,1,normal,none,zh_000133,vi_000138
+134,619.92,620.8,0.88,正是,Đúng vậy.,正是,正是,Đúng vậy.,1,1,normal,none,zh_000134,vi_000139
+135,622.08,624.68,2.6,是因为我说的话吗,Là do ta nói sao?,是因为我说的话吗,是因为我说的话吗,Là do ta nói sao?,1,1,normal,none,zh_000135,vi_000140
+136,632.12,633.6,1.48,我只是随口一说,"Ta chỉ nói bừa thôi,",我只是随口一说,我只是随口一说,"Ta chỉ nói bừa thôi,",1,1,normal,none,zh_000136,vi_000141
+137,633.6,635.2,1.6,你怎么就当真了,sao huynh lại xem là thật vậy?,你怎么就当真了,你怎么就当真了,sao huynh lại xem là thật vậy?,1,1,normal,none,zh_000137,vi_000142
+138,635.2,637.4,2.2,你这个人怎么这么天真啊,Sao huynh lại ngây thơ thế.,你这个人怎么这么天真啊,你这个人怎么这么天真啊,Sao huynh lại ngây thơ thế.,1,1,normal,none,zh_000138,vi_000143
+139,639.44,640.12,0.68,你记住,"Cô nhớ kỹ cho ta,",你记住,你记住,"Cô nhớ kỹ cho ta,",1,1,normal,none,zh_000139,vi_000144
+140,640.92,641.92,1.0,你说的每一句话,mỗi câu cô nói,你说的每一句话,你说的每一句话,mỗi câu cô nói,1,1,normal,none,zh_000140,vi_000145
+141,641.92,644.12,2.2,对本座都非常重要,đều rất quan trọng đối với bổn tọa.,对本座都非常重要,对本座都非常重要,đều rất quan trọng đối với bổn tọa.,1,1,normal,none,zh_000141,vi_000146
+142,644.12,646.88,2.76,以后断不可如此随口一说,Sau này không được nói bừa như thế nữa.,以后断不可如此随口一说,以后断不可如此随口一说,Sau này không được nói bừa như thế nữa.,1,1,normal,none,zh_000142,vi_000147
+143,653.0,655.04,2.04,其实 我就是一棵,Thật ra ta chỉ là,其实 我就是一棵,其实 我就是一棵,Thật ra ta chỉ là,1,1,normal,none,zh_000143,vi_000148
+144,655.04,656.96,1.92,平平凡凡的小草,một cây cỏ bình thường thôi.,平平凡凡的小草,平平凡凡的小草,một cây cỏ bình thường thôi.,1,1,normal,none,zh_000144,vi_000149
+145,656.96,658.32,1.36,从来没有人把我的话,Từ trước tới giờ chưa có ai coi trọng,从来没有人把我的话,从来没有人把我的话,Từ trước tới giờ chưa có ai coi trọng,1,1,normal,none,zh_000145,vi_000150
+146,658.32,659.8,1.48,放在心上的,lời nói của ta cả.,放在心上的,放在心上的,lời nói của ta cả.,1,1,normal,none,zh_000146,vi_000151
+147,659.8,661.96,2.16,自从师父出去云游之后,"Từ khi sư phụ ra ngoài du ngoạn,",自从师父出去云游之后,自从师父出去云游之后,"Từ khi sư phụ ra ngoài du ngoạn,",1,1,normal,none,zh_000147,vi_000152
+148,661.96,664.16,2.2,也没什么人关心我,cũng không có ai quan tâm ta.,也没什么人关心我,也没什么人关心我,cũng không có ai quan tâm ta.,1,1,normal,none,zh_000148,vi_000153
+149,664.16,665.88,1.72,所以你以后不必再,Vậy nên sau này huynh cũng không cần...,所以你以后不必再,所以你以后不必再,Vậy nên sau này huynh cũng không cần...,1,1,normal,none,zh_000149,vi_000154
+150,669.08,669.68,0.6,算了,Bỏ đi.,算了,算了,Bỏ đi.,1,1,normal,none,zh_000150,vi_000155
+151,669.68,670.68,1.0,很好,Rất tốt.,很好,很好,Rất tốt.,1,1,normal,none,zh_000151,vi_000156
+152,671.76,673.04,1.28,赶快去修命簿吧,Mau đi sửa sổ số mệnh đi.,赶快去修命簿吧,赶快去修命簿吧,Mau đi sửa sổ số mệnh đi.,1,1,normal,none,zh_000152,vi_000157
+153,673.72,674.68,0.96,修命簿,Sửa sổ số mệnh?,修命簿,修命簿,Sửa sổ số mệnh?,1,1,normal,none,zh_000153,vi_000158
+154,676.96,678.24,1.28,我修不修命簿,Mình sửa sổ số mệnh hay không,我修不修命簿,我修不修命簿,Mình sửa sổ số mệnh hay không,1,1,inner_monologue,none,zh_000154,vi_000159
+155,678.24,679.84,1.6,关他什么事呀,thì liên quan gì tới hắn?,关他什么事呀,关他什么事呀,thì liên quan gì tới hắn?,1,1,inner_monologue,none,zh_000155,vi_000160
+156,679.84,681.56,1.72,他又不是我师父,Hắn cũng không phải là sư phụ mình,他又不是我师父,他又不是我师父,Hắn cũng không phải là sư phụ mình,1,1,inner_monologue,none,zh_000156,vi_000161
+157,681.56,682.72,1.16,干吗管着我,quản mình làm gì chứ?,干吗管着我,干吗管着我,quản mình làm gì chứ?,1,1,inner_monologue,none,zh_000157,vi_000162
+158,683.96,686.12,2.16,他肯定是在没话找话说,Chắc chắn hắn đang không biết nói gì nên nói linh tinh.,他肯定是在没话找话说,他肯定是在没话找话说,Chắc chắn hắn đang không biết nói gì nên nói linh tinh.,1,1,inner_monologue,none,zh_000158,vi_000163
+159,686.12,688.12,2.0,难得这几天清闲我才不修呢,"Hiếm lắm mấy ngày nay mới rảnh rỗi, mình không sửa đâu",难得这几天清闲我才不修呢,难得这几天清闲我才不修呢,"Hiếm lắm mấy ngày nay mới rảnh rỗi, mình không sửa đâu",1,1,inner_monologue,none,zh_000159,vi_000164
+160,688.92,690.72,1.8,我肚子饿了 我去吃早饭,"Ta đói rồi, ta đi ăn sáng.",我肚子饿了 我去吃早饭,我肚子饿了 我去吃早饭,"Ta đói rồi, ta đi ăn sáng.",1,1,normal,none,zh_000160,vi_000165
+161,694.12,695.04,0.92,早饭,Ăn sáng?,早饭,早饭,Ăn sáng?,1,1,normal,none,zh_000161,vi_000166
+162,695.56,697.44,1.88,你还知道吃早饭,Cô còn biết ăn sáng cơ à?,你还知道吃早饭,你还知道吃早饭,Cô còn biết ăn sáng cơ à?,1,1,normal,none,zh_000162,vi_000167
+163,697.44,699.32,1.88,你可知现在已是巳时,Cô có biết bây giờ đã là giờ Tỵ rồi không?,你可知现在已是巳时,你可知现在已是巳时,Cô có biết bây giờ đã là giờ Tỵ rồi không?,1,1,normal,none,zh_000163,vi_000168
+164,700.2,701.4,1.2,像你这样,"Không chịu tu hành,",像你这样,像你这样,"Không chịu tu hành,",1,1,normal,none,zh_000164,vi_000169
+165,701.4,703.48,2.08,不事修行 正事不做,"không làm chuyện chính,",不事修行 正事不做,不事修行 正事不做,"không làm chuyện chính,",1,1,normal,none,zh_000165,vi_000170
+166,703.48,705.72,2.24,每天睡到日上三竿,ngày nào cũng ngủ tới khi mặt trời lên cao như cô,每天睡到日上三竿,每天睡到日上三竿,ngày nào cũng ngủ tới khi mặt trời lên cao như cô,1,1,normal,none,zh_000166,vi_000171
+167,705.72,708.16,2.44,还想通过那什么仙考,mà còn muốn vượt qua cuộc thi tiên nhân gì chứ?,还想通过那什么仙考,还想通过那什么仙考,mà còn muốn vượt qua cuộc thi tiên nhân gì chứ?,1,1,normal,none,zh_000167,vi_000172
+168,708.16,709.36,1.2,你懂什么呀,Huynh thì hiểu cái gì chứ?,你懂什么呀,你懂什么呀,Huynh thì hiểu cái gì chứ?,1,1,normal,none,zh_000168,vi_000173
+169,709.36,711.36,2.0,不睡饱人哪里会有精神,Không ngủ đủ giấc thì làm sao có tinh thần?,不睡饱人哪里会有精神,不睡饱人哪里会有精神,Không ngủ đủ giấc thì làm sao có tinh thần?,1,1,normal,none,zh_000169,vi_000174
+170,711.36,714.12,2.76,睡觉乃是修行之人的头等大事,Ngủ là việc quan trọng hàng đầu của người tu hành.,睡觉乃是修行之人的头等大事,睡觉乃是修行之人的头等大事,Ngủ là việc quan trọng hàng đầu của người tu hành.,1,1,normal,none,zh_000170,vi_000175
+171,715.56,716.96,1.4,三界之中,Bổn tọa chưa từng thấy,三界之中,三界之中,Bổn tọa chưa từng thấy,1,1,normal,none,zh_000171,vi_000176
+172,716.96,718.56,1.6,本座还从未见过,người phụ nữ nào lười biếng như cô,本座还从未见过,本座还从未见过,người phụ nữ nào lười biếng như cô,1,1,normal,none,zh_000172,vi_000177
+173,718.56,720.56,2.0,像你这般懒惰的女人,trong tam giới.,像你这般懒惰的女人,像你这般懒惰的女人,trong tam giới.,1,1,normal,none,zh_000173,vi_000178
+174,721.2,722.2,1.0,你 你,Huynh... huynh...,你 你,你 你,Huynh... huynh...,1,1,normal,none,zh_000174,vi_000179
+175,728.12,729.52,1.4,你看嘛 看嘛,"Huynh nhìn đi, nhìn đi.",你看嘛 看嘛,你看嘛 看嘛,"Huynh nhìn đi, nhìn đi.",1,1,normal,none,zh_000175,vi_000180
+176,729.52,730.24,0.72,对吧,Đúng chứ?,对吧,对吧,Đúng chứ?,1,1,normal,none,zh_000176,vi_000181
+177,730.24,732.08,1.84,不吃饱人也没有力气,Không ăn no thì làm gì có sức chứ.,不吃饱人也没有力气,不吃饱人也没有力气,Không ăn no thì làm gì có sức chứ.,1,1,normal,none,zh_000177,vi_000182
+178,732.08,734.8,2.72,吃饭也是修行之人的头等大事,Ăn no cũng là chuyện quan trọng hàng đầu của người tu hành.,吃饭也是修行之人的头等大事,吃饭也是修行之人的头等大事,Ăn no cũng là chuyện quan trọng hàng đầu của người tu hành.,1,1,normal,none,zh_000178,vi_000183
+179,742.12,742.88,0.76,好吃吗,Có ngon không?,好吃吗,好吃吗,Có ngon không?,1,1,normal,none,zh_000179,vi_000184
+180,748.0,749.68,1.68,这外面的饭,Cơm ở bên ngoài,这外面的饭,这外面的饭,Cơm ở bên ngoài,1,1,normal,none,zh_000180,vi_000185
+181,749.68,751.52,1.84,自然是比里面的香,đương nhiên là ngon hơn ở trong tháp.,自然是比里面的香,自然是比里面的香,đương nhiên là ngon hơn ở trong tháp.,1,1,normal,none,zh_000181,vi_000186
+182,752.4,753.44,1.04,自由嘛,"Tự do mà,",自由嘛,自由嘛,"Tự do mà,",1,1,normal,none,zh_000182,vi_000187
+183,753.44,755.96,2.52,也是正当途径来的比较好,"đi con đường đúng đắn vẫn tốt hơn,",也是正当途径来的比较好,也是正当途径来的比较好,"đi con đường đúng đắn vẫn tốt hơn,",1,1,normal,none,zh_000183,vi_000188
+184,755.96,757.0,1.04,你说对不对,huynh thấy có đúng không?,你说对不对,你说对不对,huynh thấy có đúng không?,1,1,normal,none,zh_000184,vi_000189
+185,762.8,763.56,0.76,对了,"Đúng rồi,",对了,对了,"Đúng rồi,",1,1,normal,none,zh_000185,vi_000190
+186,763.56,765.2,1.64,我们都认识这么久了,chúng ta đã quen nhau lâu như vậy rồi,我们都认识这么久了,我们都认识这么久了,chúng ta đã quen nhau lâu như vậy rồi,1,1,normal,none,zh_000186,vi_000191
+187,765.2,766.68,1.48,我还不知道你是谁,"mà ta còn chưa biết huynh là ai,",我还不知道你是谁,我还不知道你是谁,"mà ta còn chưa biết huynh là ai,",1,1,normal,none,zh_000187,vi_000192
+188,766.68,767.84,1.16,叫什么名字,tên là gì.,叫什么名字,叫什么名字,tên là gì.,1,1,normal,none,zh_000188,vi_000193
+189,776.48,778.16,1.68,本座的名讳,Tên của bổn tọa là,本座的名讳,本座的名讳,Tên của bổn tọa là,1,1,normal,none,zh_000189,vi_000194
+190,779.56,780.48,0.92,东方,Đông Phương,东方,东方,Đông Phương,1,1,normal,none,zh_000190,vi_000195
+191,781.64,782.4,0.76,青,Thanh...,青,青,Thanh...,1,1,normal,none,zh_000191,vi_000196
+192,786.04,788.68,2.64,该不会是昨天在海市受凉了吧,Không phải là tối hôm qua bị cảm lạnh ở Hải Thị chứ?,该不会是昨天在海市受凉了吧,该不会是昨天在海市受凉了吧,Không phải là tối hôm qua bị cảm lạnh ở Hải Thị chứ?,1,1,normal,none,zh_000192,vi_000197
+193,792.84,794.36,1.52,你刚才说你叫什么,Vừa nãy huynh nói huynh tên là gì?,你刚才说你叫什么,你刚才说你叫什么,Vừa nãy huynh nói huynh tên là gì?,1,1,normal,none,zh_000193,vi_000198
+194,797.36,798.8,1.44,东方强,Đông Phương Cường?,东方强,东方强,Đông Phương Cường?,1,1,normal,none,zh_000194,vi_000199
+195,806.44,807.48,1.04,我说出来,Ta nói câu này,我说出来,我说出来,Ta nói câu này,1,1,normal,none,zh_000195,vi_000200
+196,807.48,808.92,1.44,你别不开心啊,huynh đừng không vui nhé.,你别不开心啊,你别不开心啊,huynh đừng không vui nhé.,1,1,normal,none,zh_000196,vi_000201
+197,810.16,811.92,1.76,东方这个姓,Cái họ Đông Phương này,东方这个姓,东方这个姓,Cái họ Đông Phương này,1,1,normal,none,zh_000197,vi_000202
+198,812.92,816.32,3.4,和死去的那个东方青苍是同个,"là cùng họ với Đông Phương Thanh Thương đã chết,",和死去的那个东方青苍是同个,和死去的那个东方青苍是同个,"là cùng họ với Đông Phương Thanh Thương đã chết,",1,1,normal,none,zh_000198,vi_000203
+199,816.88,817.6,0.72,不好,không tốt.,不好,不好,không tốt.,1,1,normal,none,zh_000199,vi_000204
+200,818.36,821.16,2.8,死去的 东方青苍,Đông Phương Thanh Thương đã chết?,死去的 东方青苍,死去的 东方青苍,Đông Phương Thanh Thương đã chết?,1,1,normal,none,zh_000200,vi_000205
+201,821.88,822.76,0.88,是啊,"Đúng vậy,",是啊,是啊,"Đúng vậy,",1,1,normal,none,zh_000201,vi_000206
+202,822.76,823.84,1.08,你不知道吗,huynh không biết sao?,你不知道吗,你不知道吗,huynh không biết sao?,1,1,normal,none,zh_000202,vi_000207
+203,825.76,828.88,3.12,你该不会连两族大战都不知道吧,Không phải là huynh còn không biết cả đại chiến hai tộc đấy chứ?,你该不会连两族大战都不知道吧,你该不会连两族大战都不知道吧,Không phải là huynh còn không biết cả đại chiến hai tộc đấy chứ?,1,1,normal,none,zh_000203,vi_000208
+204,828.88,830.36,1.48,你没读过书吗,Huynh không đọc sách à?,你没读过书吗,你没读过书吗,Huynh không đọc sách à?,1,1,normal,none,zh_000204,vi_000209
+205,833.12,834.48,1.36,修好命簿要紧,"Sửa lại sổ số mệnh quan trọng hơn,",修好命簿要紧,修好命簿要紧,"Sửa lại sổ số mệnh quan trọng hơn,",1,1,inner_monologue,none,zh_000205,vi_000210
+206,835.2,835.76,0.56,算了,"thôi vậy,",算了,算了,"thôi vậy,",1,1,inner_monologue,none,zh_000206,vi_000211
+207,836.32,838.96,2.64,先不与这懒散无知的小花妖计较,tạm thời không chấp nhặt với tiểu hoa yêu lười biếng ngu ngốc này.,先不与这懒散无知的小花妖计较,先不与这懒散无知的小花妖计较,tạm thời không chấp nhặt với tiểu hoa yêu lười biếng ngu ngốc này.,1,1,inner_monologue,none,zh_000207,vi_000212
+208,840.04,842.32,2.28,大强 真不是我瞎说,"Đại Cường, ta không nói linh tinh đâu,",大强 真不是我瞎说,大强 真不是我瞎说,"Đại Cường, ta không nói linh tinh đâu,",1,1,normal,none,zh_000208,vi_000213
+209,842.32,843.64,1.32,那个东方青苍,tên Đông Phương Thanh Thương đó,那个东方青苍,那个东方青苍,tên Đông Phương Thanh Thương đó,1,1,normal,none,zh_000209,vi_000214
+210,843.64,845.08,1.44,真的是无恶不作,"thực sự là làm đủ chuyện ác,",真的是无恶不作,真的是无恶不作,"thực sự là làm đủ chuyện ác,",1,1,normal,none,zh_000210,vi_000215
+211,845.08,846.72,1.64,我们仙界当年也在他手下,năm xưa tiên giới chúng ta cũng đã bị hắn làm cho,我们仙界当年也在他手下,我们仙界当年也在他手下,năm xưa tiên giới chúng ta cũng đã bị hắn làm cho,1,1,normal,none,zh_000211,vi_000216
+212,846.72,848.2,1.48,吃了不少亏,tổn thất rất nhiều.,吃了不少亏,吃了不少亏,tổn thất rất nhiều.,1,1,normal,none,zh_000212,vi_000217
+213,848.2,850.32,2.12,所以 东方这二字,Vì vậy hai chữ Đông Phương này,所以 东方这二字,所以 东方这二字,Vì vậy hai chữ Đông Phương này,1,1,normal,none,zh_000213,vi_000218
+214,850.32,851.76,1.44,在整个玉京,"ở cả Ngọc Kinh,",在整个玉京,在整个玉京,"ở cả Ngọc Kinh,",1,1,normal,none,zh_000214,vi_000219
+215,851.76,853.56,1.8,不对 整个水云天,"à không, ở cả Thủy Vân Thiên",不对 整个水云天,不对 整个水云天,"à không, ở cả Thủy Vân Thiên",1,1,normal,none,zh_000215,vi_000220
+216,853.56,855.56,2.0,都十分晦气不祥,đều vô cùng xui xẻo.,都十分晦气不祥,都十分晦气不祥,đều vô cùng xui xẻo.,1,1,normal,none,zh_000216,vi_000221
+217,855.56,856.28,0.72,是吗,Vậy sao?,是吗,是吗,Vậy sao?,1,1,normal,none,zh_000217,vi_000222
+218,858.56,860.04,1.48,你也别难过,"Huynh cũng đừng buồn,",你也别难过,你也别难过,"Huynh cũng đừng buồn,",1,1,normal,none,zh_000218,vi_000223
+219,860.04,862.28,2.24,这姓氏都是父母给的,"họ này là do cha mẹ cho,",这姓氏都是父母给的,这姓氏都是父母给的,"họ này là do cha mẹ cho,",1,1,normal,none,zh_000219,vi_000224
+220,862.28,863.72,1.44,我们也选不了,chúng ta cũng không lựa chọn được.,我们也选不了,我们也选不了,chúng ta cũng không lựa chọn được.,1,1,normal,none,zh_000220,vi_000225
+221,865.32,866.88,1.56,你已经很幸运了,"Huynh đã may mắn lắm rồi,",你已经很幸运了,你已经很幸运了,"Huynh đã may mắn lắm rồi,",1,1,normal,none,zh_000221,vi_000226
+222,866.88,868.68,1.8,至少还有姓,ít ra còn có họ.,至少还有姓,至少还有姓,ít ra còn có họ.,1,1,normal,none,zh_000222,vi_000227
+223,868.68,870.2,1.52,我只是一棵草,"Ta là một cái cây,",我只是一棵草,我只是一棵草,"Ta là một cái cây,",1,1,normal,none,zh_000223,vi_000228
+224,870.2,871.52,1.32,无父无母,"không cha không mẹ,",无父无母,无父无母,"không cha không mẹ,",1,1,normal,none,zh_000224,vi_000229
+225,871.52,873.12,1.6,连姓氏都没有,ngay cả họ cũng không có.,连姓氏都没有,连姓氏都没有,ngay cả họ cũng không có.,1,1,normal,none,zh_000225,vi_000230
+226,875.08,876.32,1.24,你没有名字,Cô không có tên à?,你没有名字,你没有名字,Cô không có tên à?,1,1,normal,none,zh_000226,vi_000231
+227,878.08,880.24,2.16,大家都叫我小兰花,Mọi người đều gọi ta là Hoa Lan Nhỏ.,大家都叫我小兰花,大家都叫我小兰花,Mọi người đều gọi ta là Hoa Lan Nhỏ.,1,1,normal,none,zh_000227,vi_000232
+228,880.24,881.8,1.56,虽然你运气不太好,"Tuy huynh không may mắn lắm,",虽然你运气不太好,虽然你运气不太好,"Tuy huynh không may mắn lắm,",1,1,normal,none,zh_000228,vi_000233
+229,881.8,883.52,1.72,和东方青苍同姓,cùng họ với Đông Phương Thanh Thương,和东方青苍同姓,和东方青苍同姓,cùng họ với Đông Phương Thanh Thương,1,1,normal,none,zh_000229,vi_000234
+230,883.52,886.0,2.48,但是 你长得比他好看多了,nhưng mà huynh tuấn tú hơn hắn ta nhiều.,但是 你长得比他好看多了,但是 你长得比他好看多了,nhưng mà huynh tuấn tú hơn hắn ta nhiều.,1,1,normal,none,zh_000230,vi_000235
+231,887.52,888.92,1.4,你这小花妖,Tiểu hoa yêu nhà cô,你这小花妖,你这小花妖,Tiểu hoa yêu nhà cô,1,1,normal,none,zh_000231,vi_000236
+232,888.92,890.64,1.72,见识短浅,"kiến thức nông cạn,",见识短浅,见识短浅,"kiến thức nông cạn,",1,1,normal,none,zh_000232,vi_000237
+233,890.64,892.36,1.72,不过千把岁,"tuổi đời chẳng quá nghìn năm,",不过千把岁,不过千把岁,"tuổi đời chẳng quá nghìn năm,",1,1,normal,none,zh_000233,vi_000238
+234,892.36,895.52,3.16,莫非还真见过三界第一强者,"chẳng lẽ đã từng gặp người mạnh nhất tam giới,",莫非还真见过三界第一强者,莫非还真见过三界第一强者,"chẳng lẽ đã từng gặp người mạnh nhất tam giới,",1,1,normal,none,zh_000234,vi_000239
+235,895.52,898.2,2.68,旷世月尊东方青苍不成,Nguyệt tôn nổi danh Đông Phương Thanh Thương hay sao?,旷世月尊东方青苍不成,旷世月尊东方青苍不成,Nguyệt tôn nổi danh Đông Phương Thanh Thương hay sao?,1,1,normal,none,zh_000235,vi_000240
+236,901.12,902.6,1.48,我是没有见过,"Đúng là ta chưa từng gặp,",我是没有见过,我是没有见过,"Đúng là ta chưa từng gặp,",1,1,normal,none,zh_000236,vi_000241
+237,902.6,904.6,2.0,但是书上写了呀,nhưng trong sách có viết mà.,但是书上写了呀,但是书上写了呀,nhưng trong sách có viết mà.,1,1,normal,none,zh_000237,vi_000242
+238,904.6,906.32,1.72,那个东方青苍,Tên Đông Phương Thanh Thương đó,那个东方青苍,那个东方青苍,Tên Đông Phương Thanh Thương đó,1,1,normal,none,zh_000238,vi_000243
+239,906.32,908.04,1.72,长得是青面獠牙,"mặt xanh nanh vàng,",长得是青面獠牙,长得是青面獠牙,"mặt xanh nanh vàng,",1,1,normal,none,zh_000239,vi_000244
+240,908.04,909.56,1.52,发长拖地,"tóc dài quét đất,",发长拖地,发长拖地,"tóc dài quét đất,",1,1,normal,none,zh_000240,vi_000245
+241,909.56,911.84,2.28,那头发里还全都是虱子,trên bộ tóc đó toàn là chấy rận.,那头发里还全都是虱子,那头发里还全都是虱子,trên bộ tóc đó toàn là chấy rận.,1,1,normal,none,zh_000241,vi_000246
+242,911.84,913.28,1.44,听说他好几千好几万年,Nghe nói hắn đã không đánh răng tắm rửa,听说他好几千好几万年,听说他好几千好几万年,Nghe nói hắn đã không đánh răng tắm rửa,1,1,normal,none,zh_000242,vi_000247
+243,913.28,914.6,1.32,都不刷牙洗澡,"cả mấy nghìn mấy vạn năm rồi,",都不刷牙洗澡,都不刷牙洗澡,"cả mấy nghìn mấy vạn năm rồi,",1,1,normal,none,zh_000243,vi_000248
+244,914.6,915.76,1.16,口吐恶气,"hơi thở hôi thối,",口吐恶气,口吐恶气,"hơi thở hôi thối,",1,1,normal,none,zh_000244,vi_000249
+245,915.76,917.0,1.24,可恶心啦,ghê tởm lắm.,可恶心啦,可恶心啦,ghê tởm lắm.,1,1,normal,none,zh_000245,vi_000250
+246,922.68,924.32,1.64,怪我 怪我,"Tại ta, tại ta,",怪我 怪我,怪我 怪我,"Tại ta, tại ta,",1,1,normal,none,zh_000246,vi_000251
+247,924.32,925.48,1.16,不该在你吃饭的时候,ta không nên nói những chuyện ghê tởm này,不该在你吃饭的时候,不该在你吃饭的时候,ta không nên nói những chuyện ghê tởm này,1,1,normal,none,zh_000247,vi_000252
+248,925.48,927.36,1.88,讲这些恶心的东西,trong lúc huynh ăn cơm.,讲这些恶心的东西,讲这些恶心的东西,trong lúc huynh ăn cơm.,1,1,normal,none,zh_000248,vi_000253
+249,928.32,929.44,1.12,我想说的是,Ý ta muốn nói là,我想说的是,我想说的是,Ý ta muốn nói là,1,1,normal,none,zh_000249,vi_000254
+250,929.44,930.2,0.76,总之,"tóm lại,",总之,总之,"tóm lại,",1,1,normal,none,zh_000250,vi_000255
+251,930.2,932.12,1.92,你比他可强太多了,huynh tốt hơn hắn nhiều lắm.,你比他可强太多了,你比他可强太多了,huynh tốt hơn hắn nhiều lắm.,1,1,normal,none,zh_000251,vi_000256
+252,932.72,934.76,2.04,本座还要谢谢你啦,Bổn tọa còn phải cảm ơn cô sao?,本座还要谢谢你啦,本座还要谢谢你啦,Bổn tọa còn phải cảm ơn cô sao?,1,1,normal,none,zh_000252,vi_000257
+253,936.44,937.68,1.24,不用 不用,"Không cần, không cần,",不用 不用,不用 不用,"Không cần, không cần,",1,1,normal,none,zh_000253,vi_000258
+254,937.68,939.84,2.16,你要是真的记得我的好,nếu như huynh thực sự ghi nhớ điểm tốt của ta,你要是真的记得我的好,你要是真的记得我的好,nếu như huynh thực sự ghi nhớ điểm tốt của ta,1,1,normal,none,zh_000254,vi_000259
+255,939.84,941.24,1.4,就早日回那个,thì huynh hãy sớm ngày quay về,就早日回那个,就早日回那个,thì huynh hãy sớm ngày quay về,1,1,normal,none,zh_000255,vi_000260
+256,942.6,944.28,1.68,你该回的地方去吧,"nơi huynh nên quay về đi,",你该回的地方去吧,你该回的地方去吧,"nơi huynh nên quay về đi,",1,1,normal,none,zh_000256,vi_000261
+257,944.28,945.48,1.2,比什么都强,thế là tốt nhất.,比什么都强,比什么都强,thế là tốt nhất.,1,1,normal,none,zh_000257,vi_000262
+258,949.56,951.72,2.16,你既然这么了解月尊,Nếu cô đã hiểu về Nguyệt tôn như vậy,你既然这么了解月尊,你既然这么了解月尊,Nếu cô đã hiểu về Nguyệt tôn như vậy,1,1,normal,none,zh_000258,vi_000263
+259,951.72,953.72,2.0,你知道他喜欢吃什么吗,thì cô có biết hắn ta thích ăn gì không?,你知道他喜欢吃什么吗,你知道他喜欢吃什么吗,thì cô có biết hắn ta thích ăn gì không?,1,1,normal,none,zh_000259,vi_000264
+260,960.52,963.0,2.48,东方青苍最喜欢吃的,Thứ Đông Phương Thanh Thương thích ăn nhất,东方青苍最喜欢吃的,东方青苍最喜欢吃的,Thứ Đông Phương Thanh Thương thích ăn nhất,1,1,normal,none,zh_000260,vi_000265
+261,963.76,966.52,2.76,就是你这种细皮嫩肉,"chính là tiểu tiên nữ da thịt nõn nà,",就是你这种细皮嫩肉,就是你这种细皮嫩肉,"chính là tiểu tiên nữ da thịt nõn nà,",1,1,normal,none,zh_000261,vi_000266
+262,966.52,969.4,2.88,白白胖胖的小仙女,trắng trẻo mập mạp như cô.,白白胖胖的小仙女,白白胖胖的小仙女,trắng trẻo mập mạp như cô.,1,1,normal,none,zh_000262,vi_000267
+263,969.4,970.6,1.2,他吃的小仙女,Số tiểu tiên nữ mà hắn đã ăn,他吃的小仙女,他吃的小仙女,Số tiểu tiên nữ mà hắn đã ăn,1,1,normal,none,zh_000263,vi_000268
+264,970.6,972.56,1.96,没有一万也有八千,không được mười nghìn thì cũng đến tám nghìn.,没有一万也有八千,没有一万也有八千,không được mười nghìn thì cũng đến tám nghìn.,1,1,normal,none,zh_000264,vi_000269
+265,973.4,974.68,1.28,涮着吃,"Chần lên ăn,",涮着吃,涮着吃,"Chần lên ăn,",1,1,normal,none,zh_000265,vi_000270
+266,975.2,976.56,1.36,烤着吃,"nướng lên ăn,",烤着吃,烤着吃,"nướng lên ăn,",1,1,normal,none,zh_000266,vi_000271
+267,977.24,979.16,1.92,干煸 清蒸,"xào, hấp,",干煸 清蒸,干煸 清蒸,"xào, hấp,",1,1,normal,none,zh_000267,vi_000272
+268,979.16,980.08,0.92,还有,còn cả,还有,还有,còn cả,1,1,normal,none,zh_000268,vi_000273
+269,981.52,983.0,1.48,生着吃,ăn sống nữa.,生着吃,生着吃,ăn sống nữa.,1,1,normal,none,zh_000269,vi_000274
+270,1003.2,1004.84,1.64,三万年前,"Ba vạn năm trước,",三万年前,三万年前,"Ba vạn năm trước,",1,1,normal,none,zh_000270,vi_000275
+271,1005.12,1007.88,2.76,两族大战异常惨烈,đại chiến của hai tộc vô cùng oanh liệt.,两族大战异常惨烈,两族大战异常惨烈,đại chiến của hai tộc vô cùng oanh liệt.,1,1,normal,none,zh_000271,vi_000276
+272,1008.76,1010.72,1.96,先战神赤地女子,Chiến thần quá cố là Xích Địa Nữ Tử,先战神赤地女子,先战神赤地女子,Chiến thần quá cố là Xích Địa Nữ Tử,1,1,normal,none,zh_000272,vi_000277
+273,1010.72,1012.68,1.96,神勇无双,"thần dũng vô song,",神勇无双,神勇无双,"thần dũng vô song,",1,1,normal,none,zh_000273,vi_000278
+274,1012.68,1013.56,0.88,拼尽全力,cố gắng hết sức,拼尽全力,拼尽全力,cố gắng hết sức,1,1,normal,none,zh_000274,vi_000279
+275,1013.56,1016.32,2.76,终以死封印十万月族士兵,dùng tính mạng để phong ấn một trăm nghìn binh sĩ Nguyệt tộc.,终以死封印十万月族士兵,终以死封印十万月族士兵,dùng tính mạng để phong ấn một trăm nghìn binh sĩ Nguyệt tộc.,1,1,normal,none,zh_000275,vi_000280
+276,1017.0,1018.44,1.44,众仙家被战神,Chúng tiên được cổ vũ,众仙家被战神,众仙家被战神,Chúng tiên được cổ vũ,1,1,normal,none,zh_000276,vi_000281
+277,1018.44,1020.24,1.8,英勇无畏的精神激励,"bởi tinh thần anh dũng của chiến thần,",英勇无畏的精神激励,英勇无畏的精神激励,"bởi tinh thần anh dũng của chiến thần,",1,1,normal,none,zh_000277,vi_000282
+278,1020.24,1021.44,1.2,勇战魔头,"dũng cảm chiến đấu với quân địch,",勇战魔头,勇战魔头,"dũng cảm chiến đấu với quân địch,",1,1,normal,none,zh_000278,vi_000283
+279,1021.44,1024.0,2.56,将东方青苍打得落花流水,"đánh cho Đông Phương Thanh Thương tơi bời hoa lá,",将东方青苍打得落花流水,将东方青苍打得落花流水,"đánh cho Đông Phương Thanh Thương tơi bời hoa lá,",1,1,normal,none,zh_000279,vi_000284
+280,1024.0,1025.319,1.319,鼻青脸肿,"mặt mũi bầm dập,",鼻青脸肿,鼻青脸肿,"mặt mũi bầm dập,",1,1,normal,none,zh_000280,vi_000285
+281,1025.319,1027.56,2.241,跪地求饶,quỳ gối xin tha.,跪地求饶,跪地求饶,quỳ gối xin tha.,1,1,normal,none,zh_000281,vi_000286
+282,1029.88,1030.68,0.8,够了,Đủ rồi!,够了,够了,Đủ rồi!,1,1,normal,none,zh_000282,vi_000287
+283,1041.0,1042.96,1.96,干什么呀你 大强,"Huynh làm gì vậy, Đại Cường?",干什么呀你 大强,干什么呀你 大强,"Huynh làm gì vậy, Đại Cường?",1,1,normal,none,zh_000283,vi_000288
+284,1042.96,1044.68,1.72,鼻青脸肿,"Mặt mũi bầm dập,",鼻青脸肿,鼻青脸肿,"Mặt mũi bầm dập,",1,1,normal,none,zh_000284,vi_000289
+285,1044.68,1046.599,1.919,跪地求饶,quỳ gối xin tha.,跪地求饶,跪地求饶,quỳ gối xin tha.,1,1,normal,none,zh_000285,vi_000290
+286,1046.599,1048.56,1.961,水云天的史书都这么写的吗,Sử sách của Thủy Vân Thiên đều viết như vậy sao?,水云天的史书都这么写的吗,水云天的史书都这么写的吗,Sử sách của Thủy Vân Thiên đều viết như vậy sao?,1,1,normal,none,zh_000286,vi_000291
+287,1050.2,1051.8,1.6,你是在纠结这个呀,Huynh đang thắc mắc cái này sao?,你是在纠结这个呀,你是在纠结这个呀,Huynh đang thắc mắc cái này sao?,1,1,normal,none,zh_000287,vi_000292
+288,1052.68,1055.24,2.56,书上当然没写那么多了,Đương nhiên trong sách không viết nhiều như vậy.,书上当然没写那么多了,书上当然没写那么多了,Đương nhiên trong sách không viết nhiều như vậy.,1,1,normal,none,zh_000288,vi_000293
+289,1055.24,1056.72,1.48,歪曲史实,"Xuyên tạc lịch sử,",歪曲史实,歪曲史实,"Xuyên tạc lịch sử,",1,1,normal,none,zh_000289,vi_000294
+290,1057.4,1059.2,1.8,难怪你连一个小小的仙考,chẳng trách đến cả cuộc thi tiên nhân cỏn con,难怪你连一个小小的仙考,难怪你连一个小小的仙考,chẳng trách đến cả cuộc thi tiên nhân cỏn con,1,1,normal,none,zh_000290,vi_000295
+291,1059.2,1060.12,0.92,都过不了,mà cô cũng không qua được.,都过不了,都过不了,mà cô cũng không qua được.,1,1,normal,none,zh_000291,vi_000296
+292,1060.64,1062.52,1.88,你懂什么呀,Huynh thì hiểu cái gì chứ?,你懂什么呀,你懂什么呀,Huynh thì hiểu cái gì chứ?,1,1,normal,none,zh_000292,vi_000297
+293,1062.52,1064.2,1.68,那史书上只有干巴巴的,Trong sách lịch sử chỉ có vài dòng chữ,那史书上只有干巴巴的,那史书上只有干巴巴的,Trong sách lịch sử chỉ có vài dòng chữ,1,1,normal,none,zh_000293,vi_000298
+294,1064.2,1065.56,1.36,那么一点点,khô khan vậy thôi.,那么一点点,那么一点点,khô khan vậy thôi.,1,1,normal,none,zh_000294,vi_000299
+295,1065.56,1067.08,1.52,我要想通过仙考,Nếu ta muốn vượt qua cuộc thi tiên nhân,我要想通过仙考,我要想通过仙考,Nếu ta muốn vượt qua cuộc thi tiên nhân,1,1,normal,none,zh_000295,vi_000300
+296,1067.08,1069.64,2.56,就必须得用这些修辞手法,thì bắt buộc phải sử dụng những biện pháp tu từ này,就必须得用这些修辞手法,就必须得用这些修辞手法,thì bắt buộc phải sử dụng những biện pháp tu từ này,1,1,normal,none,zh_000296,vi_000301
+297,1069.64,1072.12,2.48,形象生动地把当时激烈的状况,để miêu tả cảnh tượng kịch liệt khi đó,形象生动地把当时激烈的状况,形象生动地把当时激烈的状况,để miêu tả cảnh tượng kịch liệt khi đó,1,1,normal,none,zh_000297,vi_000302
+298,1072.12,1073.76,1.64,给描述出来才行,một cách sinh động mới được.,给描述出来才行,给描述出来才行,một cách sinh động mới được.,1,1,normal,none,zh_000298,vi_000303
+299,1077.72,1079.0,1.28,这些细节,Những chi tiết này,这些细节,这些细节,Những chi tiết này,1,1,normal,none,zh_000299,vi_000304
+300,1080.0,1081.28,1.28,都是你编的,đều là do cô bịa ra sao?,都是你编的,都是你编的,đều là do cô bịa ra sao?,1,1,normal,none,zh_000300,vi_000305
+301,1082.48,1083.36,0.88,对啊 对啊,"Đúng thế, đúng thế,",对啊 对啊,对啊 对啊,"Đúng thế, đúng thế,",1,1,normal,none,zh_000301,vi_000306
+302,1083.36,1084.6,1.24,就是我编的,"là do ta bịa ra đấy,",就是我编的,就是我编的,"là do ta bịa ra đấy,",1,1,normal,none,zh_000302,vi_000307
+303,1084.6,1085.12,0.52,怎么样,thế nào?,怎么样,怎么样,thế nào?,1,1,normal,none,zh_000303,vi_000308
+304,1085.12,1086.28,1.16,是不是很生动,Rất sinh động phải không?,是不是很生动,是不是很生动,Rất sinh động phải không?,1,1,normal,none,zh_000304,vi_000309
+305,1092.8,1094.0,1.2,一棵小草,Một cái cây nhỏ,一棵小草,一棵小草,Một cái cây nhỏ,1,1,normal,none,zh_000305,vi_000310
+306,1094.0,1096.24,2.24,整天看这些打打杀杀的做什么,suốt ngày đọc mấy thứ chém giết này để làm gì?,整天看这些打打杀杀的做什么,整天看这些打打杀杀的做什么,suốt ngày đọc mấy thứ chém giết này để làm gì?,1,1,normal,none,zh_000306,vi_000311
+307,1096.24,1097.12,0.88,换一段读,Đọc đoạn khác đi.,换一段读,换一段读,Đọc đoạn khác đi.,1,1,normal,none,zh_000307,vi_000312
+308,1101.92,1103.08,1.16,对啊,"Đúng rồi,",对啊,对啊,"Đúng rồi,",1,1,normal,none,zh_000308,vi_000313
+309,1103.08,1105.4,2.32,马上就要到该庆祝的节日了,sắp sửa đến lễ chúc mừng rồi.,马上就要到该庆祝的节日了,马上就要到该庆祝的节日了,sắp sửa đến lễ chúc mừng rồi.,1,1,normal,none,zh_000309,vi_000314
+310,1107.04,1107.76,0.72,就听你的,"Nghe lời huynh vậy,",就听你的,就听你的,"Nghe lời huynh vậy,",1,1,normal,none,zh_000310,vi_000315
+311,1107.76,1109.16,1.4,换个不打打杀杀的,đọc đoạn khác không có chém giết.,换个不打打杀杀的,换个不打打杀杀的,đọc đoạn khác không có chém giết.,1,1,normal,none,zh_000311,vi_000316
+312,1129.76,1131.76,2.0,这个节日就是为了庆祝,Ngày này là để chúc mừng,这个节日就是为了庆祝,这个节日就是为了庆祝,Ngày này là để chúc mừng,1,1,normal,none,zh_000312,vi_000317
+313,1131.76,1134.6,2.84,两族大战仙族胜利的日子,ngày Tiên tộc thắng lợi trận đại chiến hai tộc.,两族大战仙族胜利的日子,两族大战仙族胜利的日子,ngày Tiên tộc thắng lợi trận đại chiến hai tộc.,1,1,normal,none,zh_000313,vi_000318
+314,1134.6,1136.6,2.0,我们水云天每逢此日,"Mỗi khi đến ngày này, Thủy Vân Thiên chúng ta",我们水云天每逢此日,我们水云天每逢此日,"Mỗi khi đến ngày này, Thủy Vân Thiên chúng ta",1,1,normal,none,zh_000314,vi_000319
+315,1136.6,1138.88,2.28,都会庆祝大战的胜利,"đều sẽ chúc mừng ngày trận đại chiến thắng lợi,",都会庆祝大战的胜利,都会庆祝大战的胜利,"đều sẽ chúc mừng ngày trận đại chiến thắng lợi,",1,1,normal,none,zh_000315,vi_000320
+316,1138.88,1140.44,1.56,封印月尊的节日,phong ấn Nguyệt tôn.,封印月尊的节日,封印月尊的节日,phong ấn Nguyệt tôn.,1,1,normal,none,zh_000316,vi_000321
+317,1148.44,1149.44,1.0,你干吗,Huynh làm gì đó?,你干吗,你干吗,Huynh làm gì đó?,1,1,normal,none,zh_000317,vi_000322
+318,1149.44,1151.04,1.6,吓 吓死我了,Làm ta sợ hết hồn.,吓 吓死我了,吓 吓死我了,Làm ta sợ hết hồn.,1,1,normal,none,zh_000318,vi_000323
+319,1151.04,1152.0,0.96,大强,"Đại Cường,",大强,大强,"Đại Cường,",1,1,normal,none,zh_000319,vi_000324
+320,1152.0,1154.84,2.84,做节日糕饼也不用这么使劲吧,làm điểm tâm ngày lễ cũng không cần dùng sức đến vậy đâu.,做节日糕饼也不用这么使劲吧,做节日糕饼也不用这么使劲吧,làm điểm tâm ngày lễ cũng không cần dùng sức đến vậy đâu.,1,1,normal,none,zh_000320,vi_000325
+321,1155.52,1156.6,1.08,节日,Ngày lễ?,节日,节日,Ngày lễ?,1,1,normal,none,zh_000321,vi_000326
+322,1158.44,1159.4,0.96,糕点,Điểm tâm?,糕点,糕点,Điểm tâm?,1,1,normal,none,zh_000322,vi_000327
+323,1160.0,1160.64,0.64,对啊,Đúng vậy.,对啊,对啊,Đúng vậy.,1,1,normal,none,zh_000323,vi_000328
+324,1160.64,1162.08,1.44,你不会没关系,"Huynh không biết làm cũng không sao,",你不会没关系,你不会没关系,"Huynh không biết làm cũng không sao,",1,1,normal,none,zh_000324,vi_000329
+325,1162.08,1163.04,0.96,我来教你,"ta sẽ dạy huynh,",我来教你,我来教你,"ta sẽ dạy huynh,",1,1,normal,none,zh_000325,vi_000330
+326,1163.04,1164.04,1.0,慢慢来嘛,cứ làm từ từ.,慢慢来嘛,慢慢来嘛,cứ làm từ từ.,1,1,normal,none,zh_000326,vi_000331
+327,1164.04,1164.84,0.8,你看,"Huynh nhìn nhé,",你看,你看,"Huynh nhìn nhé,",1,1,normal,none,zh_000327,vi_000332
+328,1164.84,1166.6,1.76,就把这个糯米这样子,chỉ cần dùng sức giã gạo nếp,就把这个糯米这样子,就把这个糯米这样子,chỉ cần dùng sức giã gạo nếp,1,1,normal,none,zh_000328,vi_000333
+329,1167.28,1170.12,2.84,用力地拿手 去捣它,"ra như thế này,",用力地拿手 去捣它,用力地拿手 去捣它,"ra như thế này,",1,1,normal,none,zh_000329,vi_000334
+330,1172.16,1174.24,2.08,把它就这样子,"sau đó cứ giã như vậy,",把它就这样子,把它就这样子,"sau đó cứ giã như vậy,",1,1,normal,none,zh_000330,vi_000335
+331,1174.24,1176.36,2.12,捣得像一坨泥一样,"giã như một cục bùn vậy,",捣得像一坨泥一样,捣得像一坨泥一样,"giã như một cục bùn vậy,",1,1,normal,none,zh_000331,vi_000336
+332,1176.36,1178.76,2.4,待会儿就可以做一个糕点啦,lát nữa là có thể làm thành điểm tâm rồi.,待会儿就可以做一个糕点啦,待会儿就可以做一个糕点啦,lát nữa là có thể làm thành điểm tâm rồi.,1,1,normal,none,zh_000332,vi_000337
+333,1178.76,1179.52,0.76,你看,Huynh nhìn đi.,你看,你看,Huynh nhìn đi.,1,1,normal,none,zh_000333,vi_000338
+334,1179.52,1180.48,0.96,你看 你看,"Huynh nhìn đi, nhìn đi.",你看 你看,你看 你看,"Huynh nhìn đi, nhìn đi.",1,1,normal,none,zh_000334,vi_000339
+335,1182.88,1183.8,0.92,你看是不是,Huynh nhìn xem có đúng không?,你看是不是,你看是不是,Huynh nhìn xem có đúng không?,1,1,normal,none,zh_000335,vi_000340
+336,1184.56,1186.04,1.48,小心 小心 小心 小心,"Cẩn thận, cẩn thận, cẩn thận.",小心 小心 小心 小心,小心 小心 小心 小心,"Cẩn thận, cẩn thận, cẩn thận.",1,1,normal,none,zh_000336,vi_000341
+337,1186.04,1187.32,1.28,小心 小心 小心,"Cẩn thận, cẩn thận, cẩn thận.",小心 小心 小心,小心 小心 小心,"Cẩn thận, cẩn thận, cẩn thận.",1,1,normal,none,zh_000337,vi_000342
+338,1190.84,1192.4,1.56,好烫,Nóng quá.,好烫,好烫,Nóng quá.,1,1,normal,none,zh_000338,vi_000343
+339,1197.48,1198.96,1.48,怎么那么烫,Sao lại nóng thế.,怎么那么烫,怎么那么烫,Sao lại nóng thế.,1,1,normal,none,zh_000339,vi_000344
+340,1202.92,1204.76,1.84,以后不准用手去抓了,Sau này không được dùng tay cầm.,以后不准用手去抓了,以后不准用手去抓了,Sau này không được dùng tay cầm.,1,1,normal,none,zh_000340,vi_000345
+341,1204.76,1206.48,1.72,烫也不知道想点办法,"Nóng mà cũng không biết nghĩ cách,",烫也不知道想点办法,烫也不知道想点办法,"Nóng mà cũng không biết nghĩ cách,",1,1,normal,none,zh_000341,vi_000346
+342,1206.48,1207.36,0.88,果然蠢,đúng là ngu ngốc.,果然蠢,果然蠢,đúng là ngu ngốc.,1,1,normal,none,zh_000342,vi_000347
+343,1210.2,1211.36,1.16,你懂什么,"Huynh thì hiểu cái gì,",你懂什么,你懂什么,"Huynh thì hiểu cái gì,",1,1,normal,none,zh_000343,vi_000348
+344,1211.36,1213.36,2.0,接下来才是重要的步骤,tiếp theo đây mới là bước quan trọng.,接下来才是重要的步骤,接下来才是重要的步骤,tiếp theo đây mới là bước quan trọng.,1,1,normal,none,zh_000344,vi_000349
+345,1234.8,1236.28,1.48,真像,Giống quá.,真像,真像,Giống quá.,1,1,normal,none,zh_000345,vi_000350
+346,1236.96,1238.08,1.12,像什么,Giống cái gì?,像什么,像什么,Giống cái gì?,1,1,normal,none,zh_000346,vi_000351
+347,1238.08,1239.84,1.76,东方青苍啊,Đông Phương Thanh Thương đó.,东方青苍啊,东方青苍啊,Đông Phương Thanh Thương đó.,1,1,normal,none,zh_000347,vi_000352
+348,1240.4,1244.0,3.6,你看他长得青面獠牙,"Huynh nhìn đi, trông mặt xanh nanh vàng,",你看他长得青面獠牙,你看他长得青面獠牙,"Huynh nhìn đi, trông mặt xanh nanh vàng,",1,1,normal,none,zh_000348,vi_000353
+349,1244.0,1245.44,1.44,张牙舞爪,"nhe nanh múa vuốt,",张牙舞爪,张牙舞爪,"nhe nanh múa vuốt,",1,1,normal,none,zh_000349,vi_000354
+350,1246.28,1248.36,2.08,太搞笑啦,buồn cười quá.,太搞笑啦,太搞笑啦,buồn cười quá.,1,1,normal,none,zh_000350,vi_000355
+351,1250.48,1251.0,0.52,对 对 对,"Đúng, đúng, đúng.",对 对 对,对 对 对,"Đúng, đúng, đúng.",1,1,normal,none,zh_000351,vi_000356
+352,1251.0,1251.68,0.68,这个 这个,Cái này... cái này...,这个 这个,这个 这个,Cái này... cái này...,1,1,normal,none,zh_000352,vi_000357
+353,1253.04,1255.36,2.32,这个就是先战神赤地女子的,cái này chính là kiếm Sóc Phong của chiến thần quá cố,这个就是先战神赤地女子的,这个就是先战神赤地女子的,cái này chính là kiếm Sóc Phong của chiến thần quá cố,1,1,normal,none,zh_000353,vi_000358
+354,1255.36,1256.84,1.48,朔风剑,Xích Địa Nữ Tử.,朔风剑,朔风剑,Xích Địa Nữ Tử.,1,1,normal,none,zh_000354,vi_000359
+355,1256.84,1260.76,3.92,对着东方青苍这里这么一插,Đâm vào Đông Phương Thanh Thương như thế này.,对着东方青苍这里这么一插,对着东方青苍这里这么一插,Đâm vào Đông Phương Thanh Thương như thế này.,1,1,normal,none,zh_000355,vi_000360
+356,1260.76,1261.68,0.92,然后再,Rồi sau đó!,然后再,然后再,Rồi sau đó!,1,1,normal,none,zh_000356,vi_000361
+357,1264.72,1265.88,1.16,住手,Dừng tay!,住手,住手,Dừng tay!,1,1,normal,none,zh_000357,vi_000362
+358,1283.08,1284.28,1.2,本座的意思是,Ý của bổn tọa là,本座的意思是,本座的意思是,Ý của bổn tọa là,1,1,normal,none,zh_000358,vi_000363
+359,1285.48,1286.52,1.04,你说得不对,cô nói không đúng.,你说得不对,你说得不对,cô nói không đúng.,1,1,normal,none,zh_000359,vi_000364
+360,1287.32,1289.92,2.6,赤地女子是用朔风剑自戕的,Xích Địa Nữ Tử dùng kiếm Sóc Phong để tự sát mà.,赤地女子是用朔风剑自戕的,赤地女子是用朔风剑自戕的,Xích Địa Nữ Tử dùng kiếm Sóc Phong để tự sát mà.,1,1,normal,none,zh_000360,vi_000365
+361,1294.08,1296.16,2.08,那你也不用这么凶吧,Vậy thì huynh cũng đâu cần phải hung dữ như thế.,那你也不用这么凶吧,那你也不用这么凶吧,Vậy thì huynh cũng đâu cần phải hung dữ như thế.,1,1,normal,none,zh_000361,vi_000366
+362,1296.92,1298.04,1.12,意思情节,Tình tiết mang ý nghĩa,意思情节,意思情节,Tình tiết mang ý nghĩa,1,1,normal,none,zh_000362,vi_000367
+363,1298.04,1300.16,2.12,大概差不多不就行了吗,chẳng phải cứ đại khái thôi là được rồi à?,大概差不多不就行了吗,大概差不多不就行了吗,chẳng phải cứ đại khái thôi là được rồi à?,1,1,normal,none,zh_000363,vi_000368
+364,1300.16,1301.44,1.28,怎么能差不多,Sao có thể đại khái được?,怎么能差不多,怎么能差不多,Sao có thể đại khái được?,1,1,normal,none,zh_000364,vi_000369
+365,1301.44,1303.2,1.76,赤地女子从未真正战胜过,Xích Địa Nữ Tử chưa từng thực sự chiến thắng,赤地女子从未真正战胜过,赤地女子从未真正战胜过,Xích Địa Nữ Tử chưa từng thực sự chiến thắng,1,1,normal,none,zh_000365,vi_000370
+366,1303.2,1304.56,1.36,东方青苍,Đông Phương Thanh Thương.,东方青苍,东方青苍,Đông Phương Thanh Thương.,1,1,normal,none,zh_000366,vi_000371
+367,1304.56,1305.92,1.36,行 行 行,"Được, được, được,",行 行 行,行 行 行,"Được, được, được,",1,1,normal,none,zh_000367,vi_000372
+368,1305.92,1308.08,2.16,你说怎么样就是怎么样吧,huynh nói sao thì là vậy.,你说怎么样就是怎么样吧,你说怎么样就是怎么样吧,huynh nói sao thì là vậy.,1,1,normal,none,zh_000368,vi_000373
+369,1309.64,1310.44,0.8,对了,"Đúng rồi,",对了,对了,"Đúng rồi,",1,1,normal,none,zh_000369,vi_000374
+370,1311.24,1312.16,0.92,你不是说,chẳng phải huynh nói là,你不是说,你不是说,chẳng phải huynh nói là,1,1,normal,none,zh_000370,vi_000375
+371,1312.16,1314.36,2.2,你不知道两族大战是什么吗,huynh không biết đại chiến hai tộc là gì sao?,你不知道两族大战是什么吗,你不知道两族大战是什么吗,huynh không biết đại chiến hai tộc là gì sao?,1,1,normal,none,zh_000371,vi_000376
+372,1314.36,1314.96,0.6,怎么会知道,Sao huynh lại biết,怎么会知道,怎么会知道,Sao huynh lại biết,1,1,normal,none,zh_000372,vi_000377
+373,1314.96,1316.96,2.0,这些鸡毛蒜皮的细节,những chi tiết nhỏ nhặt này?,这些鸡毛蒜皮的细节,这些鸡毛蒜皮的细节,những chi tiết nhỏ nhặt này?,1,1,normal,none,zh_000373,vi_000378
+374,1316.96,1319.32,2.36,这不是鸡毛蒜皮的细节,Đây không phải là chi tiết nhỏ nhặt.,这不是鸡毛蒜皮的细节,这不是鸡毛蒜皮的细节,Đây không phải là chi tiết nhỏ nhặt.,1,1,normal,none,zh_000374,vi_000379
+375,1322.56,1323.16,0.6,算了,Bỏ đi.,算了,算了,Bỏ đi.,1,1,normal,none,zh_000375,vi_000380
+376,1328.28,1330.28,2.0,方才你去取东西的时候,Vừa nãy lúc cô đi lấy đồ,方才你去取东西的时候,方才你去取东西的时候,Vừa nãy lúc cô đi lấy đồ,1,1,normal,none,zh_000376,vi_000381
+377,1330.28,1331.64,1.36,本座已经把你放在那儿的书,bổn tọa đã đọc hết số sách,本座已经把你放在那儿的书,本座已经把你放在那儿的书,bổn tọa đã đọc hết số sách,1,1,normal,none,zh_000377,vi_000382
+378,1331.64,1332.6,0.96,都读过了,cô để ở đó rồi.,都读过了,都读过了,cô để ở đó rồi.,1,1,normal,none,zh_000378,vi_000383
+379,1335.92,1337.44,1.52,还有书中那个,Còn cả bức tranh chân dung bị xé rách,还有书中那个,还有书中那个,Còn cả bức tranh chân dung bị xé rách,1,1,normal,none,zh_000379,vi_000384
+380,1337.44,1338.68,1.24,撕碎的画像,trong sách.,撕碎的画像,撕碎的画像,trong sách.,1,1,normal,none,zh_000380,vi_000385
+381,1345.12,1346.32,1.2,那画像是何人,Bức tranh đó là kẻ nào?,那画像是何人,那画像是何人,Bức tranh đó là kẻ nào?,1,1,normal,none,zh_000381,vi_000386
+382,1347.08,1347.88,0.8,你慌什么,Cô hoảng hốt cái gì?,你慌什么,你慌什么,Cô hoảng hốt cái gì?,1,1,normal,none,zh_000382,vi_000387
+383,1348.52,1349.96,1.44,我没有慌啊,Ta đâu có hoảng.,我没有慌啊,我没有慌啊,Ta đâu có hoảng.,1,1,normal,none,zh_000383,vi_000388
+384,1349.96,1351.28,1.32,我 我的,Ta... ta...,我 我的,我 我的,Ta... ta...,1,1,normal,none,zh_000384,vi_000389
+385,1351.28,1352.48,1.2,你 我,Huynh... ta...,你 我,你 我,Huynh... ta...,1,1,normal,none,zh_000385,vi_000390
+386,1352.48,1353.84,1.36,我是太热了,Ta nóng quá.,我是太热了,我是太热了,Ta nóng quá.,1,1,normal,none,zh_000386,vi_000391
+387,1354.4,1355.08,0.68,对了,"Đúng rồi,",对了,对了,"Đúng rồi,",1,1,normal,none,zh_000387,vi_000392
+388,1355.08,1356.4,1.32,那个师父的酒,"rượu của sư phụ,",那个师父的酒,那个师父的酒,"rượu của sư phụ,",1,1,normal,none,zh_000388,vi_000393
+389,1356.4,1358.12,1.72,我还没来得及去晒呢,ta còn chưa kịp đi phơi.,我还没来得及去晒呢,我还没来得及去晒呢,ta còn chưa kịp đi phơi.,1,1,normal,none,zh_000389,vi_000394
+390,1358.12,1359.24,1.12,去晒酒了,Ta phải đi phơi rượu.,去晒酒了,去晒酒了,Ta phải đi phơi rượu.,1,1,normal,none,zh_000390,vi_000395
+391,1371.28,1373.2,1.92,小花妖,"Tiểu hoa yêu,",小花妖,小花妖,"Tiểu hoa yêu,",1,1,normal,none,zh_000391,vi_000396
+392,1373.2,1374.28,1.08,修命簿之事,chuyện sửa sổ số mệnh,修命簿之事,修命簿之事,chuyện sửa sổ số mệnh,1,1,normal,none,zh_000392,vi_000397
+393,1374.28,1376.44,2.16,你到底要磨蹭到几时,rốt cuộc cô muốn lề mề đến bao giờ?,你到底要磨蹭到几时,你到底要磨蹭到几时,rốt cuộc cô muốn lề mề đến bao giờ?,1,1,normal,none,zh_000393,vi_000398
+394,1379.12,1380.92,1.8,尊上 您没事吧,"Tôn thượng, ngài không sao chứ?",尊上 您没事吧,尊上 您没事吧,"Tôn thượng, ngài không sao chứ?",1,1,normal,none,zh_000394,vi_000399
+395,1381.56,1382.6,1.04,本座陪着小花妖,Bổn tọa ở cùng tiểu hoa yêu,本座陪着小花妖,本座陪着小花妖,Bổn tọa ở cùng tiểu hoa yêu,1,1,normal,none,zh_000395,vi_000400
+396,1382.6,1384.28,1.68,浪费了一天的时间,lãng phí mất cả ngày.,浪费了一天的时间,浪费了一天的时间,lãng phí mất cả ngày.,1,1,normal,none,zh_000396,vi_000401
+397,1384.28,1386.84,2.56,修命簿之事硬是被拖到了明日,Chuyện sửa sổ số mệnh lại bị kéo đến ngày mai.,修命簿之事硬是被拖到了明日,修命簿之事硬是被拖到了明日,Chuyện sửa sổ số mệnh lại bị kéo đến ngày mai.,1,1,normal,none,zh_000397,vi_000402
+398,1388.76,1389.56,0.8,尊上息怒,"Tôn thượng bớt giận,",尊上息怒,尊上息怒,"Tôn thượng bớt giận,",1,1,normal,none,zh_000398,vi_000403
+399,1391.28,1392.92,1.64,现在赤地女子元神的命簿,bây giờ sổ số mệnh của nguyên thần Xích Địa Nữ Tử,现在赤地女子元神的命簿,现在赤地女子元神的命簿,bây giờ sổ số mệnh của nguyên thần Xích Địa Nữ Tử,1,1,normal,none,zh_000399,vi_000404
+400,1392.92,1394.0,1.08,已经在您的手中,"đã nằm trong tay ngài,",已经在您的手中,已经在您的手中,"đã nằm trong tay ngài,",1,1,normal,none,zh_000400,vi_000405
+401,1394.84,1396.8,1.96,现在犹如囊中取物,"chuyện này chẳng khác nào lấy đồ trong túi,",现在犹如囊中取物,现在犹如囊中取物,"chuyện này chẳng khác nào lấy đồ trong túi,",1,1,normal,none,zh_000401,vi_000406
+402,1396.8,1397.72,0.92,这事不急一时,không cần gấp gáp nhất thời.,这事不急一时,这事不急一时,không cần gấp gáp nhất thời.,1,1,normal,none,zh_000402,vi_000407
+403,1398.44,1401.64,3.2,小花妖不知息兰咒术的厉害,Tiểu hoa yêu không biết sự ghê gớm của thuật nguyền rủa Tức Lan,小花妖不知息兰咒术的厉害,小花妖不知息兰咒术的厉害,Tiểu hoa yêu không biết sự ghê gớm của thuật nguyền rủa Tức Lan,1,1,normal,none,zh_000403,vi_000408
+404,1401.64,1404.48,2.84,尚把本座指使得团团转,mà đã sai khiến bổn tọa rối tinh lên.,尚把本座指使得团团转,尚把本座指使得团团转,mà đã sai khiến bổn tọa rối tinh lên.,1,1,normal,none,zh_000404,vi_000409
+405,1404.48,1406.04,1.56,若她知晓,Nếu cô ta biết,若她知晓,若她知晓,Nếu cô ta biết,1,1,normal,none,zh_000405,vi_000410
+406,1406.04,1408.04,2.0,本座不真成了她的佣人了,thì chẳng phải bổn tọa sẽ trở thành người hầu của cô ta thật sao?,本座不真成了她的佣人了,本座不真成了她的佣人了,thì chẳng phải bổn tọa sẽ trở thành người hầu của cô ta thật sao?,1,1,normal,none,zh_000406,vi_000411
+407,1408.96,1410.32,1.36,三界之中,"Trong tam giới,",三界之中,三界之中,"Trong tam giới,",1,1,normal,none,zh_000407,vi_000412
+408,1410.88,1412.04,1.16,本座就不信,bổn tọa không tin,本座就不信,本座就不信,bổn tọa không tin,1,1,normal,none,zh_000408,vi_000413
+409,1412.04,1415.16,3.12,没有这息兰咒术的破解之法,không có cách phá giải thuật nguyền rủa Tức Lan.,没有这息兰咒术的破解之法,没有这息兰咒术的破解之法,không có cách phá giải thuật nguyền rủa Tức Lan.,1,1,normal,none,zh_000409,vi_000414
+410,1416.6,1417.48,0.88,觞阙,Thương Khuyết.,觞阙,觞阙,Thương Khuyết.,1,1,normal,none,zh_000410,vi_000415
+411,1417.48,1417.92,0.44,在,Có.,在,在,Có.,1,1,normal,none,zh_000411,vi_000416
+412,1421.68,1423.28,1.6,去把藏心簪找来,Đi tìm trâm Tàng Tâm về đây.,去把藏心簪找来,去把藏心簪找来,Đi tìm trâm Tàng Tâm về đây.,1,1,normal,none,zh_000412,vi_000417
+413,1423.28,1424.76,1.48,务必行事谨慎,"Nhất định phải hành động cẩn thận,",务必行事谨慎,务必行事谨慎,"Nhất định phải hành động cẩn thận,",1,1,normal,none,zh_000413,vi_000418
+414,1424.76,1426.04,1.28,不可引人注意,không được để kẻ khác chú ý.,不可引人注意,不可引人注意,không được để kẻ khác chú ý.,1,1,normal,none,zh_000414,vi_000419
+415,1426.64,1428.48,1.84,属下必定竭尽全力去办,Thuộc hạ sẽ dốc hết sức thực hiện.,属下必定竭尽全力去办,属下必定竭尽全力去办,Thuộc hạ sẽ dốc hết sức thực hiện.,1,1,normal,none,zh_000415,vi_000420
+416,1429.52,1431.56,2.04,待本座解开这咒术,Đợi bổn tọa giải được thuật nguyền rủa,待本座解开这咒术,待本座解开这咒术,Đợi bổn tọa giải được thuật nguyền rủa,1,1,normal,none,zh_000416,vi_000421
+417,1432.44,1435.08,2.64,非杀了这个小花妖不可,thì nhất định sẽ giết chết tiểu hoa yêu này.,非杀了这个小花妖不可,非杀了这个小花妖不可,thì nhất định sẽ giết chết tiểu hoa yêu này.,1,1,normal,none,zh_000417,vi_000422
+418,1437.0,1437.56,0.56,等等,Đợi đã.,等等,等等,Đợi đã.,1,1,normal,none,zh_000418,vi_000423
+419,1439.4,1441.56,2.16,备水 本座要沐浴,"Chuẩn bị nước đi, bổn tọa muốn đi tắm.",备水 本座要沐浴,备水 本座要沐浴,"Chuẩn bị nước đi, bổn tọa muốn đi tắm.",1,1,normal,none,zh_000419,vi_000424
+420,1442.16,1442.64,0.48,是,Vâng.,是,是,Vâng.,1,1,normal,none,zh_000420,vi_000425
+421,1469.04,1470.2,1.16,司命殿已经好久,Lâu lắm rồi điện Ti Mệnh,司命殿已经好久,司命殿已经好久,Lâu lắm rồi điện Ti Mệnh,1,1,normal,none,zh_000421,vi_000426
+422,1470.2,1471.6,1.4,没有这么热闹了,không náo nhiệt thế này.,没有这么热闹了,没有这么热闹了,không náo nhiệt thế này.,1,1,normal,none,zh_000422,vi_000427
+423,1471.92,1473.6,1.68,大强这个人,Tuy Đại Cường,大强这个人,大强这个人,Tuy Đại Cường,1,1,normal,none,zh_000423,vi_000428
+424,1473.6,1476.28,2.68,虽然动不动就发脾气,"hơi tí là nổi cáu,",虽然动不动就发脾气,虽然动不动就发脾气,"hơi tí là nổi cáu,",1,1,normal,none,zh_000424,vi_000429
+425,1476.28,1478.2,1.92,脑子也不好使,đầu óc cũng không thông minh lắm,脑子也不好使,脑子也不好使,đầu óc cũng không thông minh lắm,1,1,normal,none,zh_000425,vi_000430
+426,1478.2,1480.24,2.04,还整天本座本座的,"còn suốt ngày bổn tọa bổn tọa,",还整天本座本座的,还整天本座本座的,"còn suốt ngày bổn tọa bổn tọa,",1,1,normal,none,zh_000426,vi_000431
+427,1481.24,1483.0,1.76,但本性好像不坏,nhưng hình như bản tính không xấu.,但本性好像不坏,但本性好像不坏,nhưng hình như bản tính không xấu.,1,1,normal,none,zh_000427,vi_000432
+428,1483.8,1486.04,2.24,法力虽说比我强点,Tuy pháp lực mạnh hơn ta một chút,法力虽说比我强点,法力虽说比我强点,Tuy pháp lực mạnh hơn ta một chút,1,1,normal,none,zh_000428,vi_000433
+429,1486.96,1488.36,1.4,但应该也就那样,nhưng chắc cũng chỉ như thế.,但应该也就那样,但应该也就那样,nhưng chắc cũng chỉ như thế.,1,1,normal,none,zh_000429,vi_000434
+430,1489.36,1493.04,3.68,他应该也没犯什么大错吧,Chắc hắn cũng không phạm phải tội gì lớn nhỉ?,他应该也没犯什么大错吧,他应该也没犯什么大错吧,Chắc hắn cũng không phạm phải tội gì lớn nhỉ?,1,1,normal,none,zh_000430,vi_000435
+431,1493.04,1495.48,2.44,在昊天塔里待了这么久,"Ở trong tháp Hạo Thiên lâu như vậy,",在昊天塔里待了这么久,在昊天塔里待了这么久,"Ở trong tháp Hạo Thiên lâu như vậy,",1,1,normal,none,zh_000431,vi_000436
+432,1495.48,1497.04,1.56,确实很可怜,quả thật rất đáng thương.,确实很可怜,确实很可怜,quả thật rất đáng thương.,1,1,normal,none,zh_000432,vi_000437
+433,1498.12,1499.04,0.92,这回,Lần này,这回,这回,Lần này,1,1,normal,none,zh_000433,vi_000438
+434,1499.6,1501.84,2.24,也算过了一天自由的日子了,cũng xem như được sống một ngày tự do rồi.,也算过了一天自由的日子了,也算过了一天自由的日子了,cũng xem như được sống một ngày tự do rồi.,1,1,normal,none,zh_000434,vi_000439
+435,1532.96,1534.08,1.12,歇了那么久,Nghỉ ngơi lâu như vậy,歇了那么久,歇了那么久,Nghỉ ngơi lâu như vậy,1,1,normal,none,zh_000435,vi_000440
+436,1534.08,1535.4,1.32,为什么还是修不好,tại sao vẫn chưa sửa xong?,为什么还是修不好,为什么还是修不好,tại sao vẫn chưa sửa xong?,1,1,normal,none,zh_000436,vi_000441
+437,1537.0,1538.88,1.88,谁让你盯着我看的,Ai bảo huynh nhìn chằm chằm ta?,谁让你盯着我看的,谁让你盯着我看的,Ai bảo huynh nhìn chằm chằm ta?,1,1,normal,none,zh_000437,vi_000442
+438,1538.88,1539.96,1.08,你这样看着我,Huynh nhìn ta như vậy,你这样看着我,你这样看着我,Huynh nhìn ta như vậy,1,1,normal,none,zh_000438,vi_000443
+439,1539.96,1541.16,1.2,我怎么专心,làm sao ta tập trung được?,我怎么专心,我怎么专心,làm sao ta tập trung được?,1,1,normal,none,zh_000439,vi_000444
+440,1543.92,1545.48,1.56,本座不看了 快修,"Bổn tọa không nhìn nữa, mau sửa đi.",本座不看了 快修,本座不看了 快修,"Bổn tọa không nhìn nữa, mau sửa đi.",1,1,normal,none,zh_000440,vi_000445
+441,1573.56,1574.28,0.72,你没事吧,Cô không sao chứ?,你没事吧,你没事吧,Cô không sao chứ?,1,1,normal,none,zh_000441,vi_000446
+442,1574.8,1575.84,1.04,没事,Không sao.,没事,没事,Không sao.,1,1,normal,none,zh_000442,vi_000447
+443,1575.84,1577.76,1.92,修命簿是我的老本行,"Sửa sổ số mệnh là nghề của ta,",修命簿是我的老本行,修命簿是我的老本行,"Sửa sổ số mệnh là nghề của ta,",1,1,normal,none,zh_000443,vi_000448
+444,1577.76,1579.92,2.16,只不过这个命簿太坏了,chẳng qua sổ này hư hỏng nặng quá.,只不过这个命簿太坏了,只不过这个命簿太坏了,chẳng qua sổ này hư hỏng nặng quá.,1,1,normal,none,zh_000444,vi_000449
+445,1579.92,1582.52,2.6,我从未修过如此破损的命簿,Ta chưa từng sửa sổ số mệnh nào hư hại đến mức này.,我从未修过如此破损的命簿,我从未修过如此破损的命簿,Ta chưa từng sửa sổ số mệnh nào hư hại đến mức này.,1,1,normal,none,zh_000445,vi_000450
+446,1582.52,1583.8,1.28,有点费神,Hơi tốn sức một chút.,有点费神,有点费神,Hơi tốn sức một chút.,1,1,normal,none,zh_000446,vi_000451
+447,1602.48,1602.88,0.4,喂,Này.,喂,喂,Này.,1,1,normal,none,zh_000447,vi_000452
+448,1629.24,1630.44,1.2,禀尊上,"Bẩm tôn thượng,",禀尊上,禀尊上,"Bẩm tôn thượng,",1,1,normal,none,zh_000448,vi_000453
+449,1630.44,1632.6,2.16,这小花妖法力耗损严重,pháp lực của tiểu hoa yêu này bị hao tổn nặng nề.,这小花妖法力耗损严重,这小花妖法力耗损严重,pháp lực của tiểu hoa yêu này bị hao tổn nặng nề.,1,1,normal,none,zh_000449,vi_000454
+450,1633.16,1634.88,1.72,想必是在昊天塔时,Chắc hẳn lúc ở tháp Hạo Thiên,想必是在昊天塔时,想必是在昊天塔时,Chắc hẳn lúc ở tháp Hạo Thiên,1,1,normal,none,zh_000450,vi_000455
+451,1634.88,1636.16,1.28,险些触动了封印,suýt nữa chạm tới phong ấn,险些触动了封印,险些触动了封印,suýt nữa chạm tới phong ấn,1,1,normal,none,zh_000451,vi_000456
+452,1636.16,1637.12,0.96,耗损了法力,"nên pháp lực bị hao tổn,",耗损了法力,耗损了法力,"nên pháp lực bị hao tổn,",1,1,normal,none,zh_000452,vi_000457
+453,1637.92,1639.68,1.76,又在海市险些遭人炼化,"rồi ở Hải Thị suýt thì bị người ta luyện hóa,",又在海市险些遭人炼化,又在海市险些遭人炼化,"rồi ở Hải Thị suýt thì bị người ta luyện hóa,",1,1,normal,none,zh_000453,vi_000458
+454,1640.2,1642.64,2.44,加上我们现在又强行逼她修命簿,lại thêm chúng ta cố ép cô ta sửa sổ số mệnh,加上我们现在又强行逼她修命簿,加上我们现在又强行逼她修命簿,lại thêm chúng ta cố ép cô ta sửa sổ số mệnh,1,1,normal,none,zh_000454,vi_000459
+455,1642.64,1643.68,1.04,这才会晕了过去,nên giờ mới ngất đi.,这才会晕了过去,这才会晕了过去,nên giờ mới ngất đi.,1,1,normal,none,zh_000455,vi_000460
+456,1645.2,1646.72,1.52,以她现在的情况,Với tình trạng của cô ta bây giờ,以她现在的情况,以她现在的情况,Với tình trạng của cô ta bây giờ,1,1,normal,none,zh_000456,vi_000461
+457,1647.52,1648.76,1.24,何时才能修好,thì khi nào mới sửa xong?,何时才能修好,何时才能修好,thì khi nào mới sửa xong?,1,1,normal,none,zh_000457,vi_000462
+458,1649.24,1649.84,0.6,尊上,"Tôn thượng,",尊上,尊上,"Tôn thượng,",1,1,normal,none,zh_000458,vi_000463
+459,1650.72,1652.72,2.0,命簿乃集天地灵气而成,"sổ số mệnh do linh lực trời đất ngưng tụ mà thành,",命簿乃集天地灵气而成,命簿乃集天地灵气而成,"sổ số mệnh do linh lực trời đất ngưng tụ mà thành,",1,1,normal,none,zh_000459,vi_000464
+460,1652.72,1654.24,1.52,暗含万物的因果机缘,ẩn chứa cơ duyên nhân quả của vạn vật.,暗含万物的因果机缘,暗含万物的因果机缘,ẩn chứa cơ duyên nhân quả của vạn vật.,1,1,normal,none,zh_000460,vi_000465
+461,1654.84,1656.16,1.32,要修复命簿,Muốn sửa sổ số mệnh...,要修复命簿,要修复命簿,Muốn sửa sổ số mệnh...,1,1,normal,none,zh_000461,vi_000466
+462,1656.16,1657.84,1.68,你到底想说什么,Rốt cuộc ngươi muốn nói gì?,你到底想说什么,你到底想说什么,Rốt cuộc ngươi muốn nói gì?,1,1,normal,none,zh_000462,vi_000467
+463,1658.64,1660.36,1.72,在她还没有完全康复以前,"Trước khi cô ta hoàn toàn khỏe lại,",在她还没有完全康复以前,在她还没有完全康复以前,"Trước khi cô ta hoàn toàn khỏe lại,",1,1,normal,none,zh_000463,vi_000468
+464,1660.92,1662.28,1.36,恐怕是没办法再修了,e rằng không cách nào sửa tiếp được.,恐怕是没办法再修了,恐怕是没办法再修了,e rằng không cách nào sửa tiếp được.,1,1,normal,none,zh_000464,vi_000469
+465,1666.08,1668.08,2.0,那她何时才能彻底恢复,Vậy bao giờ cô ta mới hoàn toàn khỏe lại?,那她何时才能彻底恢复,那她何时才能彻底恢复,Vậy bao giờ cô ta mới hoàn toàn khỏe lại?,1,1,normal,none,zh_000465,vi_000470
+466,1670.08,1671.16,1.08,一天,Một ngày?,一天,一天,Một ngày?,1,1,normal,none,zh_000466,vi_000471
+467,1671.16,1672.24,1.08,两天,Hai ngày?,两天,两天,Hai ngày?,1,1,normal,none,zh_000467,vi_000472
+468,1673.96,1675.32,1.36,莫不是要让本座,Lẽ nào bắt bổn tọa,莫不是要让本座,莫不是要让本座,Lẽ nào bắt bổn tọa,1,1,normal,none,zh_000468,vi_000473
+469,1675.32,1677.2,1.88,等上十天半个月,đợi hơn mười ngày nửa tháng?,等上十天半个月,等上十天半个月,đợi hơn mười ngày nửa tháng?,1,1,normal,none,zh_000469,vi_000474
+470,1679.36,1680.36,1.0,尊上,"Tôn thượng,",尊上,尊上,"Tôn thượng,",1,1,normal,none,zh_000470,vi_000475
+471,1680.36,1682.48,2.12,属下只略通歧黄之术,thuộc hạ chỉ hiểu sơ về y thuật.,属下只略通歧黄之术,属下只略通歧黄之术,thuộc hạ chỉ hiểu sơ về y thuật.,1,1,normal,none,zh_000471,vi_000476
+472,1682.48,1684.28,1.8,这小花妖又是息兰族人,"Tiểu hoa yêu này lại là người của tộc Tức Lan,",这小花妖又是息兰族人,这小花妖又是息兰族人,"Tiểu hoa yêu này lại là người của tộc Tức Lan,",1,1,normal,none,zh_000472,vi_000477
+473,1684.28,1685.4,1.12,想必体质特殊,chắc hẳn có thể chất đặc biệt.,想必体质特殊,想必体质特殊,chắc hẳn có thể chất đặc biệt.,1,1,normal,none,zh_000473,vi_000478
+474,1685.96,1688.44,2.48,属下只知道现在需要静心休养,"Thuộc hạ chỉ biết bây giờ cần tĩnh tâm nghỉ ngơi,",属下只知道现在需要静心休养,属下只知道现在需要静心休养,"Thuộc hạ chỉ biết bây giờ cần tĩnh tâm nghỉ ngơi,",1,1,normal,none,zh_000474,vi_000479
+475,1688.44,1690.24,1.8,至于何时才能完全康复,còn bao giờ mới hoàn toàn khỏe lại,至于何时才能完全康复,至于何时才能完全康复,còn bao giờ mới hoàn toàn khỏe lại,1,1,normal,none,zh_000475,vi_000480
+476,1690.56,1691.6,1.04,属下也不清楚,thuộc hạ cũng không rõ.,属下也不清楚,属下也不清楚,thuộc hạ cũng không rõ.,1,1,normal,none,zh_000476,vi_000481
+477,1692.56,1694.32,1.76,莫说十天半月,Đừng nói mười ngày nửa tháng...,莫说十天半月,莫说十天半月,Đừng nói mười ngày nửa tháng...,1,1,normal,none,zh_000477,vi_000482
+478,1695.48,1696.2,0.72,说,Nói.,说,说,Nói.,1,1,normal,none,zh_000478,vi_000483
+479,1698.08,1700.48,2.4,三年五载 百来年,"Dù ba bốn năm, hoặc cả trăm năm",三年五载 百来年,三年五载 百来年,"Dù ba bốn năm, hoặc cả trăm năm",1,1,normal,none,zh_000479,vi_000484
+480,1702.68,1703.76,1.08,也不是没,cũng không phải...,也不是没,也不是没,cũng không phải...,1,1,normal,none,zh_000480,vi_000485
+481,1704.96,1705.84,0.88,没有可能,không có khả năng.,没有可能,没有可能,không có khả năng.,1,1,normal,none,zh_000481,vi_000486
+482,1740.08,1741.0,0.92,仙君,Tiên quân.,仙君,仙君,Tiên quân.,1,1,normal,none,zh_000482,vi_000487
+483,1741.0,1742.4,1.4,就算您法力深厚,Cho dù ngài có pháp lực lớn mạnh,就算您法力深厚,就算您法力深厚,Cho dù ngài có pháp lực lớn mạnh,1,1,normal,none,zh_000483,vi_000488
+484,1742.4,1744.28,1.88,也不能一直这样耗着吧,cũng không thể tiêu hao mãi như vậy chứ?,也不能一直这样耗着吧,也不能一直这样耗着吧,cũng không thể tiêu hao mãi như vậy chứ?,1,1,normal,none,zh_000484,vi_000489
+485,1744.28,1745.2,0.92,我自有分寸,Ta tự có chừng mực.,我自有分寸,我自有分寸,Ta tự có chừng mực.,1,1,normal,none,zh_000485,vi_000490
+486,1745.88,1746.52,0.64,去忙吧,"Đi làm việc đi,",去忙吧,去忙吧,"Đi làm việc đi,",1,1,normal,none,zh_000486,vi_000491
+487,1747.88,1749.2,1.32,不必守着我,không cần gác ở đây.,不必守着我,不必守着我,không cần gác ở đây.,1,1,normal,none,zh_000487,vi_000492
+488,1749.2,1750.08,0.88,仙君,Tiên quân.,仙君,仙君,Tiên quân.,1,1,normal,none,zh_000488,vi_000493
+489,1750.08,1751.28,1.2,青川不明白,Thanh Xuyên không hiểu.,青川不明白,青川不明白,Thanh Xuyên không hiểu.,1,1,normal,none,zh_000489,vi_000494
+490,1751.28,1753.2,1.92,这神芝丸到底是为谁炼的,Rốt cuộc ngài luyện Thần Chi Hoàn này cho ai?,这神芝丸到底是为谁炼的,这神芝丸到底是为谁炼的,Rốt cuộc ngài luyện Thần Chi Hoàn này cho ai?,1,1,normal,none,zh_000490,vi_000495
+491,1753.6,1754.64,1.04,什么药啊,Đây là thuốc gì,什么药啊,什么药啊,Đây là thuốc gì,1,1,normal,none,zh_000491,vi_000496
+492,1754.64,1756.24,1.6,值得您这么费心费力,mà đáng để ngài tốn công như vậy?,值得您这么费心费力,值得您这么费心费力,mà đáng để ngài tốn công như vậy?,1,1,normal,none,zh_000492,vi_000497
+493,1757.48,1759.28,1.8,他守的哪是什么药丸呀,"Cái hắn đang trông chừng nào phải thuốc thang gì,",他守的哪是什么药丸呀,他守的哪是什么药丸呀,"Cái hắn đang trông chừng nào phải thuốc thang gì,",1,1,normal,none,zh_000493,vi_000498
+494,1759.92,1763.2,3.28,他守的可是他的一片真心,mà đó chính là trái tim chân thành của hắn.,他守的可是他的一片真心,他守的可是他的一片真心,mà đó chính là trái tim chân thành của hắn.,1,1,normal,none,zh_000494,vi_000499
+495,1763.2,1764.8,1.6,一片真心,Trái tim chân thành?,一片真心,一片真心,Trái tim chân thành?,1,1,normal,none,zh_000495,vi_000500
+496,1766.36,1767.56,1.2,几千岁的小孩,"Nhóc con mấy ngàn tuổi,",几千岁的小孩,几千岁的小孩,"Nhóc con mấy ngàn tuổi,",1,1,normal,none,zh_000496,vi_000501
+497,1767.56,1769.2,1.64,不该打听的事儿就别瞎打听,chuyện không nên nghe ngóng thì đừng nghe ngóng lung tung.,不该打听的事儿就别瞎打听,不该打听的事儿就别瞎打听,chuyện không nên nghe ngóng thì đừng nghe ngóng lung tung.,1,1,normal,none,zh_000497,vi_000502
+498,1771.76,1772.52,0.76,仙君,"Tiên quân,",仙君,仙君,"Tiên quân,",1,1,normal,none,zh_000498,vi_000503
+499,1772.52,1774.36,1.84,您也不能一直这样守着,ngài cũng không thể cứ trông chừng thế này mãi được.,您也不能一直这样守着,您也不能一直这样守着,ngài cũng không thể cứ trông chừng thế này mãi được.,1,1,normal,none,zh_000499,vi_000504
+500,1774.36,1776.32,1.96,要不 换我替您守,Hay là để ta trông chừng thay ngài?,要不 换我替您守,要不 换我替您守,Hay là để ta trông chừng thay ngài?,1,1,normal,none,zh_000500,vi_000505
+501,1776.32,1777.16,0.84,您放心,"Ngài yên tâm,",您放心,您放心,"Ngài yên tâm,",1,1,normal,none,zh_000501,vi_000506
+502,1777.16,1778.76,1.6,我绝对不会坏您事的,ta tuyệt đối sẽ không làm hỏng việc của ngài.,我绝对不会坏您事的,我绝对不会坏您事的,ta tuyệt đối sẽ không làm hỏng việc của ngài.,1,1,normal,none,zh_000502,vi_000507
+503,1782.12,1783.08,0.96,我说小青川,"Tiểu Thanh Xuyên này,",我说小青川,我说小青川,"Tiểu Thanh Xuyên này,",1,1,normal,none,zh_000503,vi_000508
+504,1783.68,1784.48,0.8,你仙君我呢,tiên quân của ngươi,你仙君我呢,你仙君我呢,tiên quân của ngươi,1,1,normal,none,zh_000504,vi_000509
+505,1784.48,1785.96,1.48,好不容易回一趟仙界,"khó khăn lắm mới về tiên giới một chuyến,",好不容易回一趟仙界,好不容易回一趟仙界,"khó khăn lắm mới về tiên giới một chuyến,",1,1,normal,none,zh_000505,vi_000510
+506,1785.96,1788.0,2.04,不如我们找个地方好好喝茶,"chi bằng chúng ta tìm nơi nào đó từ từ uống trà,",不如我们找个地方好好喝茶,不如我们找个地方好好喝茶,"chi bằng chúng ta tìm nơi nào đó từ từ uống trà,",1,1,normal,none,zh_000506,vi_000511
+507,1788.0,1788.96,0.96,你给我讲一讲,ngươi kể ta nghe,你给我讲一讲,你给我讲一讲,ngươi kể ta nghe,1,1,normal,none,zh_000507,vi_000512
+508,1788.96,1789.96,1.0,这玉京,Ngọc Kinh,这玉京,这玉京,Ngọc Kinh,1,1,normal,none,zh_000508,vi_000513
+509,1789.96,1791.68,1.72,最近又发生了什么有趣的事了,dạo này có xảy ra chuyện gì thú vị không.,最近又发生了什么有趣的事了,最近又发生了什么有趣的事了,dạo này có xảy ra chuyện gì thú vị không.,1,1,normal,none,zh_000509,vi_000514
+510,1792.32,1793.08,0.76,可 可是,Nhưng... nhưng mà...,可 可是,可 可是,Nhưng... nhưng mà...,1,1,normal,none,zh_000510,vi_000515
+511,1793.08,1794.2,1.12,走吧,Đi thôi.,走吧,走吧,Đi thôi.,1,1,normal,none,zh_000511,vi_000516
+512,1794.2,1795.76,1.56,容昊仙君 你放开我,"Dung Hạo tiên quân, ngài buông ta ra.",容昊仙君 你放开我,容昊仙君 你放开我,"Dung Hạo tiên quân, ngài buông ta ra.",1,1,normal,none,zh_000512,vi_000517
+513,1795.76,1797.12,1.36,我要陪我家仙君的,Ta phải ở bên tiên quân nhà ta.,我要陪我家仙君的,我要陪我家仙君的,Ta phải ở bên tiên quân nhà ta.,1,1,normal,none,zh_000513,vi_000518
+514,1810.12,1811.0,0.88,你醒了,Huynh tỉnh rồi?,你醒了,你醒了,Huynh tỉnh rồi?,1,1,normal,none,zh_000514,vi_000520
+515,1814.16,1815.68,1.52,你别起来,Huynh đừng dậy.,你别起来,你别起来,Huynh đừng dậy.,1,1,normal,none,zh_000515,vi_000521
+516,1815.68,1816.96,1.28,你伤太重了,"Huynh bị thương quá nặng,",你伤太重了,你伤太重了,"Huynh bị thương quá nặng,",1,1,normal,none,zh_000516,vi_000522
+517,1816.96,1818.6,1.64,不能乱动,không thể cử động lung tung.,不能乱动,不能乱动,không thể cử động lung tung.,1,1,normal,none,zh_000517,vi_000523
+518,1818.6,1820.64,2.04,可惜我法力低微,"Đáng tiếc pháp lực ta thấp kém,",可惜我法力低微,可惜我法力低微,"Đáng tiếc pháp lực ta thấp kém,",1,1,normal,none,zh_000518,vi_000524
+519,1820.64,1822.2,1.56,只能先帮你止血,chỉ có thể cầm máu giúp huynh trước.,只能先帮你止血,只能先帮你止血,chỉ có thể cầm máu giúp huynh trước.,1,1,normal,none,zh_000519,vi_000525
+520,1822.2,1823.32,1.12,多谢仙子,Đa tạ tiên tử.,多谢仙子,多谢仙子,Đa tạ tiên tử.,1,1,normal,none,zh_000520,vi_000526
+521,1824.6,1825.36,0.76,叨扰了,Làm phiền rồi.,叨扰了,叨扰了,Làm phiền rồi.,1,1,normal,none,zh_000521,vi_000527
+522,1827.6,1830.36,2.76,其实我还称不上是什么仙子,Thực ra ta còn chưa được gọi là tiên tử gì cả.,其实我还称不上是什么仙子,其实我还称不上是什么仙子,Thực ra ta còn chưa được gọi là tiên tử gì cả.,1,1,normal,none,zh_000522,vi_000528
+523,1830.36,1833.08,2.72,我才刚化成形,"Ta mới hóa hình người thôi,",我才刚化成形,我才刚化成形,"Ta mới hóa hình người thôi,",1,1,normal,none,zh_000523,vi_000529
+524,1833.08,1834.72,1.64,连名字都没有呢,ngay cả tên cũng chưa có.,连名字都没有呢,连名字都没有呢,ngay cả tên cũng chưa có.,1,1,normal,none,zh_000524,vi_000530
+525,1835.6,1837.0,1.4,你有名字吗,Huynh có tên không?,你有名字吗,你有名字吗,Huynh có tên không?,1,1,normal,none,zh_000525,vi_000531
+526,1838.36,1839.44,1.08,你不认识我,Cô không biết ta à?,你不认识我,你不认识我,Cô không biết ta à?,1,1,normal,none,zh_000526,vi_000532
+527,1840.56,1842.36,1.8,除了我师父,"Ngoài sư phụ ta ra,",除了我师父,除了我师父,"Ngoài sư phụ ta ra,",1,1,normal,none,zh_000527,vi_000533
+528,1842.36,1844.08,1.72,我谁也不认识,"ta chẳng biết ai cả,",我谁也不认识,我谁也不认识,"ta chẳng biết ai cả,",1,1,normal,none,zh_000528,vi_000534
+529,1844.08,1845.72,1.64,也没什么朋友,cũng chẳng có bạn bè.,也没什么朋友,也没什么朋友,cũng chẳng có bạn bè.,1,1,normal,none,zh_000529,vi_000535
+530,1864.24,1865.6,1.36,长珩仙君,Trường Hành tiên quân!,长珩仙君,长珩仙君,Trường Hành tiên quân!,1,1,normal,none,zh_000530,vi_000536
+531,1866.28,1867.84,1.56,我一定要通过仙考,"Ta nhất định sẽ vượt qua cuộc thi tiên nhân,",我一定要通过仙考,我一定要通过仙考,"Ta nhất định sẽ vượt qua cuộc thi tiên nhân,",1,1,normal,none,zh_000531,vi_000537
+532,1867.84,1869.96,2.12,我一定会考进涌泉宫的,ta nhất định sẽ thi được vào cung Dũng Tuyền!,我一定会考进涌泉宫的,我一定会考进涌泉宫的,ta nhất định sẽ thi được vào cung Dũng Tuyền!,1,1,normal,none,zh_000532,vi_000538
+533,1891.36,1892.36,1.0,尊上不可,"Tôn thượng, không được đâu.",尊上不可,尊上不可,"Tôn thượng, không được đâu.",1,1,normal,none,zh_000533,vi_000539
+534,1892.36,1894.16,1.8,擅动因果 惊扰天道,"Tự ý đụng đến nhân quả, quấy nhiễu thiên đạo",擅动因果 惊扰天道,擅动因果 惊扰天道,"Tự ý đụng đến nhân quả, quấy nhiễu thiên đạo",1,1,normal,none,zh_000534,vi_000540
+535,1894.16,1895.56,1.4,会有神魂俱灭的可能,có khả năng sẽ tan thành mây khói.,会有神魂俱灭的可能,会有神魂俱灭的可能,có khả năng sẽ tan thành mây khói.,1,1,normal,none,zh_000535,vi_000541
+536,1897.04,1898.76,1.72,惊扰天道,Quấy nhiễu thiên đạo?,惊扰天道,惊扰天道,Quấy nhiễu thiên đạo?,1,1,normal,none,zh_000536,vi_000542
+537,1898.76,1901.08,2.32,本座惊扰的天道还少了吗,Bổn tọa quấy nhiễu thiên đạo chưa đủ nhiều sao?,本座惊扰的天道还少了吗,本座惊扰的天道还少了吗,Bổn tọa quấy nhiễu thiên đạo chưa đủ nhiều sao?,1,1,normal,none,zh_000537,vi_000543
+538,1927.36,1928.4,1.04,尊上,"Tôn thượng,",尊上,尊上,"Tôn thượng,",1,1,normal,none,zh_000538,vi_000544
+539,1928.4,1930.32,1.92,命簿天机唯司命可窥,chỉ có Ti Mệnh dòm ngó được thiên cơ trong sổ số mệnh.,命簿天机唯司命可窥,命簿天机唯司命可窥,chỉ có Ti Mệnh dòm ngó được thiên cơ trong sổ số mệnh.,1,1,normal,none,zh_000539,vi_000545
+540,1930.32,1931.92,1.6,现在司命行踪难觅,"Bây giờ không biết tung tích Ti Mệnh,",现在司命行踪难觅,现在司命行踪难觅,"Bây giờ không biết tung tích Ti Mệnh,",1,1,normal,none,zh_000540,vi_000546
+541,1931.92,1933.08,1.16,这解封成败,có phá giải phong ấn được hay không,这解封成败,这解封成败,có phá giải phong ấn được hay không,1,1,normal,none,zh_000541,vi_000547
+542,1933.08,1934.32,1.24,还是系在那个司命弟子,vẫn phụ thuộc vào đệ tử tiểu hoa yêu này,还是系在那个司命弟子,还是系在那个司命弟子,vẫn phụ thuộc vào đệ tử tiểu hoa yêu này,1,1,normal,none,zh_000542,vi_000548
+543,1934.32,1935.32,1.0,小花妖身上,của Ti Mệnh.,小花妖身上,小花妖身上,của Ti Mệnh.,1,1,normal,none,zh_000543,vi_000549
+544,1936.6,1938.48,1.88,只是属下最近需寻息兰咒语,Chỉ là dạo này thuộc hạ cần tìm cách phá giải,只是属下最近需寻息兰咒语,只是属下最近需寻息兰咒语,Chỉ là dạo này thuộc hạ cần tìm cách phá giải,1,1,normal,none,zh_000544,vi_000550
+545,1938.48,1939.32,0.84,的破解之法,"thần chú Tức Lan,",的破解之法,的破解之法,"thần chú Tức Lan,",1,1,normal,none,zh_000545,vi_000551
+546,1939.32,1940.56,1.24,无法长留水云天,"không cách nào ở Thủy Vân Thiên lâu,",无法长留水云天,无法长留水云天,"không cách nào ở Thủy Vân Thiên lâu,",1,1,normal,none,zh_000546,vi_000552
+547,1941.44,1943.08,1.64,这养护她身体之事,chuyện chăm sóc sức khỏe cho cô ta,这养护她身体之事,这养护她身体之事,chuyện chăm sóc sức khỏe cho cô ta,1,1,normal,none,zh_000547,vi_000553
+548,1943.92,1944.72,0.8,恐怕,e rằng,恐怕,恐怕,e rằng,1,1,normal,none,zh_000548,vi_000554
+549,1945.52,1947.92,2.4,只能辛苦尊上亲力亲为了,chỉ có thể để tôn thượng vất vả đích thân làm rồi.,只能辛苦尊上亲力亲为了,只能辛苦尊上亲力亲为了,chỉ có thể để tôn thượng vất vả đích thân làm rồi.,1,1,normal,none,zh_000549,vi_000555
+550,1959.6,1960.24,0.64,罢了,Thôi vậy.,罢了,罢了,Thôi vậy.,1,1,normal,none,zh_000550,vi_000556
+551,1961.64,1963.28,1.64,养一棵草,Chăm sóc một cây cỏ,养一棵草,养一棵草,Chăm sóc một cây cỏ,1,1,normal,none,zh_000551,vi_000557
+552,1963.28,1965.08,1.8,想来也难不到哪儿去,hẳn là cũng không khó khăn gì.,想来也难不到哪儿去,想来也难不到哪儿去,hẳn là cũng không khó khăn gì.,1,1,normal,none,zh_000552,vi_000558
+553,1971.92,1973.32,1.4,息兰草,Cỏ Tức Lan,息兰草,息兰草,Cỏ Tức Lan,1,1,normal,none,zh_000553,vi_000559
+554,1973.64,1975.56,1.92,生于息兰秘境,"sinh trưởng ở bí cảnh Tức Lan,",生于息兰秘境,生于息兰秘境,"sinh trưởng ở bí cảnh Tức Lan,",1,1,normal,none,zh_000554,vi_000560
+555,1975.8,1978.28,2.48,喜温暖 忌严寒,"thích ấm áp, sợ rét lạnh,",喜温暖 忌严寒,喜温暖 忌严寒,"thích ấm áp, sợ rét lạnh,",1,1,normal,none,zh_000555,vi_000561
+556,1978.84,1980.4,1.56,喜半荫之地,"thích nơi râm mát,",喜半荫之地,喜半荫之地,"thích nơi râm mát,",1,1,normal,none,zh_000556,vi_000562
+557,1980.4,1982.36,1.96,忌阳光日晒,"sợ phơi nắng,",忌阳光日晒,忌阳光日晒,"sợ phơi nắng,",1,1,normal,none,zh_000557,vi_000563
+558,1982.36,1984.68,2.32,喜清晨自正东照射的,thích tia nắng đầu tiên chiếu rọi từ hướng chính Đông,喜清晨自正东照射的,喜清晨自正东照射的,thích tia nắng đầu tiên chiếu rọi từ hướng chính Đông,1,1,normal,none,zh_000558,vi_000564
+559,1984.68,1986.12,1.44,第一缕阳光,buổi sáng sớm.,第一缕阳光,第一缕阳光,buổi sáng sớm.,1,1,normal,none,zh_000559,vi_000565
+560,1986.12,1989.72,3.6,除春分 清明 谷雨之时,"Ngoài tiết xuân phân, thanh minh, cốc vũ ra",除春分 清明 谷雨之时,除春分 清明 谷雨之时,"Ngoài tiết xuân phân, thanh minh, cốc vũ ra",1,1,normal,none,zh_000560,vi_000566
+561,1989.72,1991.64,1.92,不可移动根系,thì không được di chuyển bộ rễ.,不可移动根系,不可移动根系,thì không được di chuyển bộ rễ.,1,1,normal,none,zh_000561,vi_000567
+562,2001.48,2004.2,2.72,若干燥缺水,Nếu khô hanh thiếu nước,若干燥缺水,若干燥缺水,Nếu khô hanh thiếu nước,1,1,normal,none,zh_000562,vi_000568
+563,2004.2,2006.88,2.68,则根易萎缩干枯,"thì rễ dễ bị héo khô,",则根易萎缩干枯,则根易萎缩干枯,"thì rễ dễ bị héo khô,",1,1,normal,none,zh_000563,vi_000569
+564,2007.48,2009.64,2.16,叶易焦边卷曲,"lá dễ cháy mép xoăn lại,",叶易焦边卷曲,叶易焦边卷曲,"lá dễ cháy mép xoăn lại,",1,1,normal,none,zh_000564,vi_000570
+565,2010.52,2013.36,2.84,则生长发育不良,"sinh trưởng phát triển không tốt,",则生长发育不良,则生长发育不良,"sinh trưởng phát triển không tốt,",1,1,normal,none,zh_000565,vi_000571
+566,2013.36,2014.8,1.44,灵智难开,khó mở linh trí.,灵智难开,灵智难开,khó mở linh trí.,1,1,normal,none,zh_000566,vi_000572
+567,2018.64,2022.16,3.52,息兰圣草 至纯至粹,"Cỏ thánh Tức Lan, tinh khiết cùng cực,",息兰圣草 至纯至粹,息兰圣草 至纯至粹,"Cỏ thánh Tức Lan, tinh khiết cùng cực,",1,1,normal,none,zh_000567,vi_000573
+568,2022.16,2023.52,1.36,若生神魂,nếu sinh ra thần hồn,若生神魂,若生神魂,nếu sinh ra thần hồn,1,1,normal,none,zh_000568,vi_000574
+569,2023.52,2025.96,2.44,则需用无根水浇灌,"thì phải dùng nước không nguồn tưới,",则需用无根水浇灌,则需用无根水浇灌,"thì phải dùng nước không nguồn tưới,",1,1,normal,none,zh_000569,vi_000575
+570,2025.96,2029.28,3.32,其中每日以卯时最佳,"trong đó thời điểm tốt nhất là giờ Mão mỗi ngày,",其中每日以卯时最佳,其中每日以卯时最佳,"trong đó thời điểm tốt nhất là giờ Mão mỗi ngày,",1,1,normal,none,zh_000570,vi_000576
+571,2029.96,2031.32,1.36,忌浇水过度,không được tưới nước quá mức,忌浇水过度,忌浇水过度,không được tưới nước quá mức,1,1,normal,none,zh_000571,vi_000577
+572,2031.32,2034.64,3.32,以免 渍水烂根枯叶,tránh ứ đọng nước làm thối rễ khô lá.,以免 渍水烂根枯叶,以免 渍水烂根枯叶,tránh ứ đọng nước làm thối rễ khô lá.,1,1,normal,none,zh_000572,vi_000578
+573,2038.68,2040.04,1.36,何为无根之水,Cái gì là nước không nguồn?,何为无根之水,何为无根之水,Cái gì là nước không nguồn?,1,1,normal,none,zh_000573,vi_000579
+574,2041.16,2041.72,0.56,唾液,Nước bọt?,唾液,唾液,Nước bọt?,1,1,normal,none,zh_000574,vi_000580
+575,2042.32,2042.96,0.64,汗水,Mồ hôi?,汗水,汗水,Mồ hôi?,1,1,normal,none,zh_000575,vi_000581
+576,2043.64,2044.4,0.76,眼泪,Nước mắt?,眼泪,眼泪,Nước mắt?,1,1,normal,none,zh_000576,vi_000582
+577,2052.52,2054.719,2.199,天水无根,"Nước trời không nguồn,",天水无根,天水无根,"Nước trời không nguồn,",1,1,normal,none,zh_000577,vi_000583
+578,2054.719,2056.52,1.801,生于朝露,sinh ra từ sương sớm.,生于朝露,生于朝露,sinh ra từ sương sớm.,1,1,normal,none,zh_000578,vi_000584
+579,2057.76,2059.4,1.64,竟是朝露水,Không ngờ lại là sương sớm.,竟是朝露水,竟是朝露水,Không ngờ lại là sương sớm.,1,1,normal,none,zh_000579,vi_000585
+580,2060.6,2061.56,0.96,笑话,Nực cười.,笑话,笑话,Nực cười.,1,1,normal,none,zh_000580,vi_000586
+581,2062.199,2064.199,2.0,难道要本座一滴一滴接给她吗,Lẽ nào muốn bổn tọa hứng từng giọt cho cô ta sao?,难道要本座一滴一滴接给她吗,难道要本座一滴一滴接给她吗,Lẽ nào muốn bổn tọa hứng từng giọt cho cô ta sao?,1,1,normal,none,zh_000581,vi_000587
+582,2068.12,2068.88,0.76,绝不可能,Tuyệt đối không thể nào.,绝不可能,绝不可能,Tuyệt đối không thể nào.,1,1,normal,none,zh_000582,vi_000588
+583,2074.76,2075.36,0.6,尊上,"Tôn thượng,",尊上,尊上,"Tôn thượng,",1,1,normal,none,zh_000583,vi_000589
+584,2076.32,2077.32,1.0,可是这命簿,nhưng sổ số mệnh này...,可是这命簿,可是这命簿,nhưng sổ số mệnh này...,1,1,normal,none,zh_000584,vi_000590
+585,2077.32,2079.199,1.879,若不是为了命簿和同心咒,Nếu không vì sổ số mệnh và lời nguyền Đồng Tâm,若不是为了命簿和同心咒,若不是为了命簿和同心咒,Nếu không vì sổ số mệnh và lời nguyền Đồng Tâm,1,1,normal,none,zh_000585,vi_000591
+586,2079.88,2081.36,1.48,本座早杀她了,thì bổn tọa giết cô ta từ lâu rồi.,本座早杀她了,本座早杀她了,thì bổn tọa giết cô ta từ lâu rồi.,1,1,normal,none,zh_000586,vi_000592
+587,2087.8,2090.76,2.96,想让本座给她端茶递水,Muốn để bổn tọa bưng trà rót nước cho cô ta à?,想让本座给她端茶递水,想让本座给她端茶递水,Muốn để bổn tọa bưng trà rót nước cho cô ta à?,1,1,normal,none,zh_000587,vi_000593
+588,2093.8,2095.239,1.439,休想,Nằm mơ!,休想,休想,Nằm mơ!,1,1,normal,none,zh_000588,vi_000594
+589,2131.07,2146.81,15.74,[音乐],[nhạc],,,,0,0,music,none,,
+590,2148.29,2163.95,15.66,[音乐],[nhạc],,,,0,0,music,none,,
+591,2164.96,2184.8,19.84,[音乐],[nhạc],,,,0,0,music,none,,
+592,2184.8,2186.28,1.48,奇怪,Lạ thật.,奇怪,奇怪,Lạ thật.,1,1,normal,music,zh_000589,vi_000608
+593,2187.2,2187.96,0.76,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,music,zh_000590,vi_000610
+594,2187.96,2190.44,2.48,[音乐],[nhạc],,,,0,0,music,none,,
+595,2190.44,2191.28,0.84,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,music,zh_000591,vi_000612
+596,2191.28,2206.67,15.39,[音乐],[nhạc],,,,0,0,music,none,,
+597,2208.24,2214.43,6.19,[音乐],[nhạc],,,,0,0,music,none,,
+598,2218.44,2220.12,1.68,这是哪儿来的大傻子,Tên ngốc này từ đâu tới vậy?,这是哪儿来的大傻子,这是哪儿来的大傻子,Tên ngốc này từ đâu tới vậy?,1,1,normal,none,zh_000592,vi_000617
+599,2224.76,2225.72,0.96,快跑 快跑,"Chạy mau, chạy mau!",快跑 快跑,快跑 快跑,"Chạy mau, chạy mau!",1,1,normal,none,zh_000593,vi_000618
+600,2225.72,2227.04,1.32,这人眼神好凶啊,Ánh mắt kẻ này dữ tợn quá.,这人眼神好凶啊,这人眼神好凶啊,Ánh mắt kẻ này dữ tợn quá.,1,1,normal,none,zh_000594,vi_000619
+601,2232.32,2233.04,0.72,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,music,zh_000595,vi_000621
+602,2233.04,2234.36,1.32,[音乐],[nhạc],,,,0,0,music,none,,
+603,2234.36,2235.08,0.72,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,music,zh_000596,vi_000622
+604,2235.08,2237.44,2.36,[音乐],[nhạc],,,,0,0,music,none,,
+605,2237.44,2238.32,0.88,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,music,zh_000597,vi_000624
+606,2238.32,2259.48,21.16,[音乐],[nhạc],,,,0,0,music,none,,
+607,2259.48,2261.52,2.04,还要本座等多久,Còn muốn bổn tọa đợi bao lâu nữa?,还要本座等多久,还要本座等多久,Còn muốn bổn tọa đợi bao lâu nữa?,1,1,inner_monologue,music,zh_000598,vi_000630
+608,2262.28,2264.6,2.32,待本座解开咒术,Đợi bổn tọa giải được thuật nguyền rủa,待本座解开咒术,待本座解开咒术,Đợi bổn tọa giải được thuật nguyền rủa,1,1,inner_monologue,music,zh_000599,vi_000632
+609,2264.6,2267.24,2.64,马上杀了那该死的小花妖,"thì sẽ lập tức giết tiểu hoa yêu đáng chết đó,",马上杀了那该死的小花妖,马上杀了那该死的小花妖,"thì sẽ lập tức giết tiểu hoa yêu đáng chết đó,",1,1,inner_monologue,music,zh_000600,vi_000633
+610,2267.24,2268.84,1.6,烧光这花圃,"đốt rụi vườn hoa này,",烧光这花圃,烧光这花圃,"đốt rụi vườn hoa này,",1,1,inner_monologue,music,zh_000601,vi_000635
+611,2268.84,2270.08,1.24,荡平水云天,"san bằng Thủy Vân Thiên,",荡平水云天,荡平水云天,"san bằng Thủy Vân Thiên,",1,1,inner_monologue,music,zh_000602,vi_000636
+612,2270.64,2274.12,3.48,敲碎云中君的骨头泡酒,đập nát xương Vân Trung Quân ngâm rượu.,敲碎云中君的骨头泡酒,敲碎云中君的骨头泡酒,đập nát xương Vân Trung Quân ngâm rượu.,1,1,inner_monologue,music,zh_000603,vi_000638
+613,2274.12,2281.4,7.28,[音乐],[nhạc],,,,0,0,music,none,,
+614,2281.4,2282.72,1.32,仙君,Tiên quân.,仙君,仙君,Tiên quân.,1,1,normal,music,zh_000604,vi_000641
+615,2282.72,2283.6,0.88,仙君,Tiên quân.,仙君,仙君,Tiên quân.,1,1,normal,music,zh_000605,vi_000643
+616,2283.6,2284.52,0.92,可找到您了,Tìm được ngài rồi.,可找到您了,可找到您了,Tìm được ngài rồi.,1,1,normal,music,zh_000606,vi_000644
+617,2284.52,2285.56,1.04,[音乐],[nhạc],,,,0,0,music,none,,
+618,2285.56,2287.52,1.96,云中君召您去云中水阁议事,Vân Trung Quân gọi ngài đến Vân Trung Thủy Các bàn việc.,云中君召您去云中水阁议事,云中君召您去云中水阁议事,Vân Trung Quân gọi ngài đến Vân Trung Thủy Các bàn việc.,1,1,normal,music,zh_000607,vi_000645
+619,2287.52,2289.16,1.64,[音乐],[nhạc],,,,0,0,music,none,,
+620,2289.16,2289.92,0.76,稍后就去,Lát nữa ta sẽ đi.,稍后就去,稍后就去,Lát nữa ta sẽ đi.,1,1,normal,music,zh_000608,vi_000647
+621,2290.84,2291.32,0.48,可是,Nhưng mà,可是,可是,Nhưng mà,1,1,normal,none,zh_000609,vi_000648
+622,2291.76,2293.6,1.84,云中君特别叮嘱速去,"Vân Trung Quân đặc biệt căn dặn phải đến ngay,",云中君特别叮嘱速去,云中君特别叮嘱速去,"Vân Trung Quân đặc biệt căn dặn phải đến ngay,",1,1,normal,music,zh_000610,vi_000649
+623,2293.6,2294.6,1.0,不得有误,không được chậm trễ.,不得有误,不得有误,không được chậm trễ.,1,1,normal,music,zh_000611,vi_000651
+624,2294.6,2298.12,3.52,[音乐],[nhạc],,,,0,0,music,none,,
+625,2309.16,2309.8,0.64,大强,Đại Cường!,大强,大强,Đại Cường!,1,1,normal,none,zh_000612,vi_000652
+626,2316.26,2326.56,10.3,[音乐],[nhạc],,,,0,0,music,none,,
+627,2326.56,2327.56,1.0,人呢,Đâu rồi?,人呢,人呢,Đâu rồi?,1,1,normal,music,zh_000613,vi_000657
+628,2327.56,2332.52,4.96,[音乐],[nhạc],,,,0,0,music,none,,
+629,2332.52,2334.2,1.68,他平时阴魂不散的,"Bình thường cứ bám mãi không tha,",他平时阴魂不散的,他平时阴魂不散的,"Bình thường cứ bám mãi không tha,",1,1,normal,music,zh_000614,vi_000659
+630,2334.2,2335.6,1.4,到底去哪儿了,rốt cuộc đi đâu rồi?,到底去哪儿了,到底去哪儿了,rốt cuộc đi đâu rồi?,1,1,normal,music,zh_000615,vi_000661
+631,2335.6,2339.32,3.72,[音乐],[nhạc],,,,0,0,music,none,,
+632,2339.32,2342.72,3.4,该不会是走了吧,Đừng nói đi rồi nhé?,该不会是走了吧,该不会是走了吧,Đừng nói đi rồi nhé?,1,1,normal,music,zh_000616,vi_000663
+633,2343.28,2344.32,1.04,[音乐],[nhạc],,,,0,0,music,none,,
+634,2344.32,2345.4,1.08,太好了,Quá tốt rồi!,太好了,太好了,Quá tốt rồi!,1,1,normal,music,zh_000617,vi_000665
+635,2346.0,2347.16,1.16,他走了,Hắn đi rồi!,他走了,他走了,Hắn đi rồi!,1,1,normal,music,zh_000618,vi_000666
+636,2347.96,2349.84,1.88,爬山虎 多肉 冬青 桃桃,"Dây Thường Xuân, Hoa Đá, Sồi Xanh, Đào Đào!",爬山虎 多肉 冬青 桃桃,爬山虎 多肉 冬青 桃桃,"Dây Thường Xuân, Hoa Đá, Sồi Xanh, Đào Đào!",1,1,normal,music,zh_000619,vi_000667
+637,2349.84,2350.76,0.92,别躲了,"Đừng trốn nữa,",别躲了,别躲了,"Đừng trốn nữa,",1,1,normal,none,zh_000620,vi_000668
+638,2350.76,2352.0,1.24,他真的走了,hắn đi thật rồi!,他真的走了,他真的走了,hắn đi thật rồi!,1,1,normal,none,zh_000621,vi_000669
+639,2352.24,2353.48,1.24,快出来吧,Mau ra đây đi!,快出来吧,快出来吧,Mau ra đây đi!,1,1,normal,none,zh_000622,vi_000670
+640,2354.04,2354.68,0.64,再不出来,Còn không ra,再不出来,再不出来,Còn không ra,1,1,normal,none,zh_000623,vi_000671
+641,2354.68,2356.16,1.48,我可就拿你们灵石咯,ta sẽ lấy linh thạch của mọi người đó.,我可就拿你们灵石咯,我可就拿你们灵石咯,ta sẽ lấy linh thạch của mọi người đó.,1,1,normal,none,zh_000624,vi_000672

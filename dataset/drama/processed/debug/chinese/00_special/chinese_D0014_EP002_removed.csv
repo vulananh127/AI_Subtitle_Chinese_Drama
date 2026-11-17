@@ -1,0 +1,185 @@
+side,cue_id,reason,text
+origin,zh_000415,music_lyrics,套马的汉子你威武雄壮
+origin,zh_000416,music_lyrics,奔驰的骏马像疾风一样
+origin,zh_000417,music_lyrics,套马的汉子你在我心上
+origin,zh_000418,music_lyrics,我愿融化在你宽阔的胸膛
+origin,zh_000455,in_special_pair,我不是三儿 嫂子
+origin,zh_000217,in_special_pair,不行不行
+origin,zh_000374,in_special_pair,以感谢你帮我解围
+origin,zh_000009,in_special_pair,犯法的事情不能做
+origin,zh_000373,in_special_pair,我给你做了个蛋糕
+origin,zh_000377,in_special_pair,我好把蛋糕送过去
+origin,zh_000075,in_special_pair,好帅啊 好帅啊
+origin,zh_000440,in_special_pair,该不会是听到绯闻
+origin,zh_000006,in_special_pair,我也没什么胜算反杀
+origin,zh_000163,in_special_pair,这是校外我避什么嫌
+origin,zh_000053,in_special_pair,我哪有尾随他
+origin,zh_000572,in_special_pair,要交新的朋友
+origin,zh_000010,in_special_pair,尤其还是为这种恶霸犯法
+origin,zh_000376,in_special_pair,你给我个地址
+origin,zh_000441,in_special_pair,来抓小三了
+origin,zh_000571,in_special_pair,要做甜品
+origin,zh_000575,in_special_pair,抱歉了
+origin,zh_000003,in_special_pair,我都不算是个女的
+origin,zh_000561,in_special_pair,我请你
+origin,zh_000375,in_special_pair,之后咱俩就彻底两清了
+origin,zh_000007,in_special_pair,卢晚晚你疯了吧
+origin,zh_000077,in_special_pair,他对你笑 他对我笑
+origin,zh_000428,in_special_pair,学长 不会是全校都知道
+origin,zh_000165,in_special_pair,我怕什么
+origin,zh_000054,in_special_pair,我让你们看看到底谁追谁
+origin,zh_000219,in_special_pair,他肯定听到了
+origin,zh_000557,in_special_pair,我们什么时候
+origin,zh_000117,in_special_pair,尝试着融入融入
+origin,zh_000364,in_special_pair,我刚刚怎么没有发现
+origin,zh_000051,in_special_pair,哪有爱情
+origin,zh_000363,in_special_pair,他怎么在这
+origin,zh_000558,in_special_pair,四个人一起约个会
+origin,zh_000008,in_special_pair,动什么歪脑筋呢
+origin,zh_000218,in_special_pair,那天在卫生间喝醉的胡言乱语
+origin,zh_000437,in_special_pair,这么亲密
+origin,zh_000556,in_special_pair,晚晚
+origin,zh_000560,in_special_pair,就我们两个人组个闺蜜局
+origin,zh_000438,in_special_pair,难道是正牌女友
+origin,zh_000567,in_special_pair,梁夏
+origin,zh_000193,in_special_pair,今天是什么日子
+origin,zh_000002,in_special_pair,还是在他的眼里
+origin,zh_000004,in_special_pair,这身材
+origin,zh_000568,in_special_pair,我祝福你和安嘉先是真的
+origin,zh_000574,in_special_pair,我的能力和微笑都有限
+origin,zh_000091,in_special_pair,跟钉子也差不了多少
+origin,zh_000005,in_special_pair,他要是有什么不轨的行为
+origin,zh_000439,in_special_pair,糟了
+origin,zh_000070,in_special_pair,我心虚什么
+origin,zh_000116,in_special_pair,多跟陌生人交流
+origin,zh_000220,in_special_pair,说出去怎么办
+origin,zh_000090,in_special_pair,芒刺在背
+origin,zh_000164,in_special_pair,又是我家
+origin,zh_000576,in_special_pair,以后我们就做普通同学吧
+origin,zh_000423,in_special_pair,学长 来来来
+origin,zh_000069,in_special_pair,我又没谈恋爱
+origin,zh_000559,in_special_pair,或者不带男朋友
+origin,zh_000569,in_special_pair,但不想看到你们秀恩爱也是真的
+origin,zh_000001,in_special_pair,一起洗澡岂不是被看光了
+origin,zh_000570,in_special_pair,我还要学习
+origin,zh_000573,in_special_pair,我很忙
+origin,zh_000052,in_special_pair,这是尊严
+origin,zh_000413,in_special_pair,走了 算了
+vi,vi_000336,music_auto,♫Em bước đến mang theo ánh sáng♫
+vi,vi_000340,music_auto,♫Lần đầu hai trái tim gặp nhau♫
+vi,vi_000342,music_auto,"♫Em bước đến mang theo ánh sáng,
+xua tan u buồn và mưa rơi♫"
+vi,vi_000344,music_auto,"♫Dường như nhìn thấy trời trong xanh,
+tiếp tục mong chờ♫"
+vi,vi_000345,music_auto,"♫Khoảng cách thật gần,
+chiếu sáng trong phút chốc♫"
+vi,vi_000346,music_auto,"♫Không thể ngăn suy nghĩ muốn khám phá
+câu chuyện cảm động đến mức nào♫"
+vi,vi_000347,music_auto,♫Nếu như nhấn nút tạm dừng lần gặp gỡ đó♫
+vi,vi_000348,music_auto,♫Có lẽ sẽ bỏ lỡ mùa hoa♫
+vi,vi_000349,music_auto,"♫Ánh sáng chợt thấy của tuổi trẻ,
+có phải là duyên phận trời định không?♫"
+vi,vi_000350,music_auto,♫Không còn ai có thể sánh bằng♫
+vi,vi_000351,music_auto,"♫Sao băng tỏa sáng
+lần đầu tiên dừng lại trong mắt em♫"
+vi,vi_000352,music_auto,♫Anh bỗng dưng tìm thấy chỉ dẫn của con tim♫
+vi,vi_000354,music_auto,♫Cuộc sống bỗng khắc đầy những dấu tích của em♫
+vi,vi_000358,music_auto,♫Cuối cùng cũng có ánh sáng chiếu qua khe hở♫
+vi,vi_000360,music_auto,"♫Mối quan hệ mập mờ, ai là người để ý trước♫"
+vi,vi_000362,music_auto,♫May mắn quý giá♫
+vi,vi_000364,music_auto,♫Em bước đến mang theo ánh sáng♫
+vi,vi_000443,music_auto,♫Rõ ràng là ghét anh nhưng sao lại rung động?♫
+vi,vi_000444,music_auto,♫Em bất giác từ từ tiến lại gần anh♫
+vi,vi_000445,music_auto,♫Bầu không khí và hơi thở kỳ lạ này♫
+vi,vi_000446,music_auto,♫Tình ý khiến người ta như ngưng thở♫
+vi,vi_000447,music_auto,♫Sao lại để anh đánh cắp mất trái tim?♫
+vi,vi_000448,music_auto,"♫Chàng chăn ngựa,
+chàng là người anh dũng cường tráng♫"
+vi,vi_000449,music_auto,♫Ngựa phi như bay lướt nhanh như gió♫
+vi,vi_000450,music_auto,♫Chàng trai chăn ngựa chiếm trọn trái tim em♫
+vi,vi_000452,music_auto,"♫Em nguyện nép trong
+vòm ngực rộng lớn của chàng♫"
+vi,vi_000382,scene_text,[Thả ra để gửi]
+vi,vi_000603,scene_text,[Lương Hạ]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Lần Đầu Yêu Anh]
+vi,vi_000003,scene_text,[Tập 2]
+vi,vi_000027,scene_text,[Phòng tắm vòi sen]
+vi,vi_000131,scene_text,[Cửa hàng hoa quả Tiểu Lư]
+vi,vi_000167,scene_text,[Bảng xếp hạng: 1. Cửa hàng hoa quả Tiểu Lư]
+vi,vi_000168,scene_text,[Cửa hàng hoa quả Tiểu Lư]
+vi,vi_000363,scene_text,[Cửa hàng hoa quả Tiểu Lư]
+vi,vi_000365,scene_text,[An Gia Tiên: Tôi và cô ấy của tôi]
+vi,vi_000366,scene_text,[An Gia Tiên: Tôi và cô ấy của tôi]
+vi,vi_000367,scene_text,[Cố Kiều]
+vi,vi_000668,scene_text,[Bản kế hoạch hoạt động câu lạc bộ nướng bánh]
+vi,vi_000009,in_special_pair,[thì mình cũng chẳng thể địch lại.]
+vi,vi_000056,in_special_pair,[đây là lòng tự trọng.]
+vi,vi_000058,in_special_pair,[tôi sẽ cho các cậu thấy rốt cuộc là ai theo đuôi ai.]
+vi,vi_000593,in_special_pair,[lúc nào chúng ta]
+vi,vi_000010,in_special_pair,"[Lư Vãn Vãn, mày điên hả?]"
+vi,vi_000609,in_special_pair,[phải kết giao bạn mới.]
+vi,vi_000458,in_special_pair,"- Đàn anh.
+- Vào đây, vào đây."
+vi,vi_000441,in_special_pair,"- Đi thôi.
+- Thôi mà."
+vi,vi_000226,in_special_pair,"[chắc chắn anh ta đã nghe thấy rồi,]"
+vi,vi_000391,in_special_pair,[Sao anh ta lại ở đây?]
+vi,vi_000612,in_special_pair,"[Xin lỗi,]"
+vi,vi_000606,in_special_pair,"[nhưng cũng thật sự không muốn nhìn thấy
+các cậu tình tứ với nhau.]"
+vi,vi_000604,in_special_pair,"[Lương Hạ,]"
+vi,vi_000081,in_special_pair,"- Anh ấy cười với cậu.
+- Anh ta cười với mình."
+vi,vi_000079,in_special_pair,"- Đẹp trai quá.
+- Đẹp trai vậy."
+vi,vi_000596,in_special_pair,"[hai chúng ta tổ chức cuộc hẹn bạn thân,]"
+vi,vi_000463,in_special_pair,"- Đàn anh.
+- Không phải là cả trường đều biết"
+vi,vi_000595,in_special_pair,"[Hoặc là không đưa bạn trai đi cùng,]"
+vi,vi_000475,in_special_pair,[không phải là nghe thấy tin đồn]
+vi,vi_000011,in_special_pair,[Nghĩ linh tinh gì vậy?]
+vi,vi_000401,in_special_pair,[Tôi đã làm cho anh một chiếc bánh kem]
+vi,vi_000224,in_special_pair,"[Không được, không được,]"
+vi,vi_000008,in_special_pair,[lỡ anh ta có hành vi gây rối gì đó]
+vi,vi_000013,in_special_pair,[nhất là phạm pháp vì hạng bắt nạt này.]
+vi,vi_000007,in_special_pair,"[Dáng người anh ta thế này,]"
+vi,vi_000392,in_special_pair,[Sao vừa nãy mình không phát hiện ra?]
+vi,vi_000121,in_special_pair,[thử hòa nhập nhiều hơn xem.]
+vi,vi_000225,in_special_pair,"[hôm đó mình say khướt, nói lung tung ở toilet,]"
+vi,vi_000094,in_special_pair,"[Lưng như bị kim chích,]"
+vi,vi_000473,in_special_pair,[lẽ nào là bạn gái hàng thật?]
+vi,vi_000171,in_special_pair,"[Lại còn là nhà mình,]"
+vi,vi_000613,in_special_pair,"[sau này chúng ta chỉ là
+bạn học bình thường thôi nhé.]"
+vi,vi_000594,in_special_pair,[tổ chức một buổi hẹn bốn người đi.]
+vi,vi_000405,in_special_pair,[để tôi mang bánh đến.]
+vi,vi_000592,in_special_pair,"[Vãn Vãn,]"
+vi,vi_000610,in_special_pair,"[Tớ rất bận,]"
+vi,vi_000474,in_special_pair,"[Nguy rồi,]"
+vi,vi_000597,in_special_pair,[tớ đãi cậu.]
+vi,vi_000404,in_special_pair,[Anh cho tôi địa chỉ]
+vi,vi_000006,in_special_pair,[mình không được coi là con gái?]
+vi,vi_000472,in_special_pair,[Thân mật như thế]
+vi,vi_000607,in_special_pair,"[Tớ còn phải học tập,]"
+vi,vi_000073,in_special_pair,"[Mình cũng đâu yêu đương,]"
+vi,vi_000402,in_special_pair,"[để cảm ơn anh đã giải vây giúp tôi,]"
+vi,vi_000004,in_special_pair,[Tắm cùng thì chẳng phải sẽ thấy hết à?]
+vi,vi_000120,in_special_pair,"[thử giao lưu với người lạ,]"
+vi,vi_000170,in_special_pair,"[Đang ở ngoài trường, mình tránh né cái gì?]"
+vi,vi_000012,in_special_pair,"[Không được làm chuyện phạm pháp,]"
+vi,vi_000057,in_special_pair,"[Tôi đâu có theo đuôi anh ta,]"
+vi,vi_000490,in_special_pair,"- Tôi không phải là kẻ thứ ba!
+- Chị dâu!"
+vi,vi_000227,in_special_pair,[lỡ anh ta nói ra thì sao?]
+vi,vi_000611,in_special_pair,[năng lực và nụ cười của tớ đều có hạn.]
+vi,vi_000074,in_special_pair,[việc gì phải chột dạ.]
+vi,vi_000055,in_special_pair,"[Làm gì có tình yêu,]"
+vi,vi_000608,in_special_pair,"[phải làm bánh ngọt,]"
+vi,vi_000200,in_special_pair,[Nay là ngày gì vậy?]
+vi,vi_000403,in_special_pair,[sau này chúng ta không còn nợ gì nhau nữa.]
+vi,vi_000005,in_special_pair,"[Hay trong mắt anh ta,]"
+vi,vi_000476,in_special_pair,[đến bắt kẻ thứ ba đấy chứ?]
+vi,vi_000605,in_special_pair,"[tớ thật lòng chúc phúc cho cậu và An Gia Tiên,]"
+vi,vi_000172,in_special_pair,[mình sợ gì chứ?]
+vi,vi_000095,in_special_pair,[cũng chẳng khác nào ghế có đinh.]

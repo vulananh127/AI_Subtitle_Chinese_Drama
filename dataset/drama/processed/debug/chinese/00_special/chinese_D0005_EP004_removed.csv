@@ -1,0 +1,149 @@
+side,cue_id,reason,text
+origin,zh_000607,in_special_pair,谢谢 辛苦阿雄
+origin,zh_000009,in_special_pair,沦为犯罪分子的保护伞
+origin,zh_000648,in_special_pair,可以吧 随意
+origin,zh_000015,in_special_pair,不会变通
+origin,zh_000524,in_special_pair,安警官 里边请 里边请
+origin,zh_000005,in_special_pair,但在长期的工作中
+origin,zh_000030,in_special_pair,廉洁
+origin,zh_000292,in_special_pair,船还是正常开
+origin,zh_000811,in_special_pair,给他放那儿 我放这儿
+origin,zh_000001,in_special_pair,在这次教育整顿工作中
+origin,zh_000290,in_special_pair,你这次带来的小弟
+origin,zh_000023,in_special_pair,一顿饭开始的
+origin,zh_000114,in_special_pair,您定 都您定 好
+origin,zh_000029,in_special_pair,唯有执法者严守公正
+origin,zh_000019,in_special_pair,恰恰是政法队伍
+origin,zh_000024,in_special_pair,面对领导干部的一杯酒
+origin,zh_000025,in_special_pair,商人朋友的一顿饭
+origin,zh_000293,in_special_pair,到海上去解决
+origin,zh_000517,in_special_pair,对 龙哥
+origin,zh_000007,in_special_pair,放松了警惕
+origin,zh_000022,in_special_pair,贪腐就是从一杯酒
+origin,zh_000032,in_special_pair,成为一柄
+origin,zh_000088,in_special_pair,服务员 点菜 服务员 点菜
+origin,zh_000033,in_special_pair,永不生锈的钢刀
+origin,zh_000026,in_special_pair,有多少同志
+origin,zh_000021,in_special_pair,很多时候
+origin,zh_000515,in_special_pair,阿雄 你们这边
+origin,zh_000027,in_special_pair,能够做到严词拒绝
+origin,zh_000092,in_special_pair,对 好好
+origin,zh_000002,in_special_pair,经常会谈到初心
+origin,zh_000014,in_special_pair,常常被嘲笑不够聪明
+origin,zh_000003,in_special_pair,其实大多数同志的初心
+origin,zh_000008,in_special_pair,被腐蚀 被拉拢
+origin,zh_000319,in_special_pair,师父教你一招
+origin,zh_000020,in_special_pair,最需要的
+origin,zh_000031,in_special_pair,才能立于不败之地
+origin,zh_000028,in_special_pair,公生明 廉生威
+origin,zh_000010,in_special_pair,这说明
+origin,zh_000289,in_special_pair,刚收到消息
+origin,zh_000731,in_special_pair,快接一下 干吗呀
+origin,zh_000060,in_special_pair,您请您请 久等了
+origin,zh_000017,in_special_pair,安欣确实不够精明
+origin,zh_000004,in_special_pair,都是好的
+origin,zh_000011,in_special_pair,坚持初心
+origin,zh_000516,in_special_pair,都是卖鱼啊 阿雄
+origin,zh_000291,in_special_pair,是警察
+origin,zh_000006,in_special_pair,有的人却一步步
+origin,zh_000287,in_special_pair,人都上船了吗
+origin,zh_000016,in_special_pair,如果以升官发财为标准
+origin,zh_000061,in_special_pair,领导您这边请 这边进啊
+origin,zh_000012,in_special_pair,确实是一件难得的事情
+origin,zh_000013,in_special_pair,像安欣这样的警察
+origin,zh_000018,in_special_pair,但他的品质
+origin,zh_000540,in_special_pair,警官 放这里
+origin,zh_000809,in_special_pair,你抽吧 不要不要
+vi,vi_000005,scene_text,[Năm 2021]
+vi,vi_000010,scene_text,[Hồ sơ vụ án]
+vi,vi_000015,scene_text,[Văn phòng phó viện trưởng Viện kiểm sát]
+vi,vi_000032,scene_text,[Phòng trao đổi]
+vi,vi_000034,scene_text,[Gương cảnh sát]
+vi,vi_000040,scene_text,"[Trung thành với Đảng, phục vụ nhân dân,
+chấp pháp công chính, kỷ luật nghiêm minh]"
+vi,vi_000077,scene_text,"[Cung Khai Cương, phó tổng giám đốc
+Công ty viễn thông thành phố Kinh Hải]"
+vi,vi_000158,scene_text,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải]
+vi,vi_000235,scene_text,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải]
+vi,vi_000667,scene_text,[Khách hàng xin dừng bước]
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Cuồng Phong]
+vi,vi_000003,scene_text,[Tập 4]
+vi,vi_000043,scene_text,[Năm 2000]
+vi,vi_000165,scene_text,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải]
+vi,vi_000168,scene_text,[Trung tâm chỉ huy Cục Công an thành phố Kinh Hải]
+vi,vi_000494,scene_text,[Phố nhà xưởng cũ]
+vi,vi_000850,scene_text,[Cộng]
+vi,vi_000851,scene_text,[1200]
+vi,vi_000852,scene_text,[bằng 5350.]
+vi,vi_000023,in_special_pair,"[thì quả thật An Hân không đủ khôn khéo,]"
+vi,vi_000036,in_special_pair,"[Làm quan thanh liêm trị quốc, phục dân,]"
+vi,vi_000011,in_special_pair,[có người lại dần dần]
+vi,vi_000037,in_special_pair,"[chỉ khi người chấp pháp giữ vững sự công chính,]"
+vi,vi_000028,in_special_pair,[tham nhũng được bắt đầu]
+vi,vi_000038,in_special_pair,[thanh liêm]
+vi,vi_000042,in_special_pair,[không bao giờ gỉ sét.]
+vi,vi_000030,in_special_pair,"[Đối mặt với một ly rượu của cấp trên,]"
+vi,vi_000533,in_special_pair,"- toàn là bán cá.
+- A Hùng."
+vi,vi_000335,in_special_pair,[Thầy dạy cậu một chiêu.]
+vi,vi_000309,in_special_pair,[ra biển rồi giải quyết.]
+vi,vi_000103,in_special_pair,"- Đúng rồi ạ.
+- Được, được."
+vi,vi_000534,in_special_pair,"- Đúng.
+- Anh Long."
+vi,vi_000305,in_special_pair,"[Vừa nhận được tin,]"
+vi,vi_000541,in_special_pair,"- Chào cảnh sát An.
+- Mời vào trong, mời vào trong."
+vi,vi_000035,in_special_pair,[có thể nghiêm mặt từ chối.]
+vi,vi_000031,in_special_pair,"[một bữa cơm của đối tác làm ăn,]"
+vi,vi_000014,in_special_pair,[trở thành ô dù của phần tử phạm tội.]
+vi,vi_000041,in_special_pair,[trở thành một con dao thép]
+vi,vi_000007,in_special_pair,"[Thật ra lý tưởng ban đầu
+của phần lớn các đồng chí]"
+vi,vi_000624,in_special_pair,"- Cảm ơn.
+- A Hùng vất vả rồi."
+vi,vi_000308,in_special_pair,"[Vẫn lái thuyền đi như thường,]"
+vi,vi_000019,in_special_pair,"[Một người cảnh sát như An Hân,]"
+vi,vi_000033,in_special_pair,[có bao nhiêu đồng chí]
+vi,vi_000125,in_special_pair,"- Chú chọn, chú chọn hết đi ạ.
+- Được."
+vi,vi_000008,in_special_pair,"[đều là tốt,]"
+vi,vi_000303,in_special_pair,[Người lên thuyền hết chưa?]
+vi,vi_000013,in_special_pair,"[bị bào mòn, bị lôi kéo,]"
+vi,vi_000039,in_special_pair,"[mới có thể đứng vững được,]"
+vi,vi_000024,in_special_pair,[nhưng phẩm chất của cậu ấy]
+vi,vi_000665,in_special_pair,"- được chứ?
+- Cứ thoải mái."
+vi,vi_000025,in_special_pair,[vừa hay lại là yếu tố cần thiết nhất]
+vi,vi_000012,in_special_pair,"[buông lỏng cảnh giác,]"
+vi,vi_000557,in_special_pair,"- Anh cảnh sát.
+- Để đây."
+vi,vi_000009,in_special_pair,"[nhưng trong quá trình làm việc lâu dài,]"
+vi,vi_000070,in_special_pair,"- Mời chú, mời chú.
+- Để mọi người đợi lâu rồi."
+vi,vi_000018,in_special_pair,[quả thật là một chuyện rất khó.]
+vi,vi_000026,in_special_pair,[trong đội ngũ chính trị và pháp luật.]
+vi,vi_000029,in_special_pair,"[từ một ly rượu, một bữa cơm.]"
+vi,vi_000017,in_special_pair,[giữ được lý tưởng ban đầu]
+vi,vi_000099,in_special_pair,"- Nhân viên, gọi món.
+- Nhân viên, gọi món."
+vi,vi_000021,in_special_pair,[không linh hoạt.]
+vi,vi_000827,in_special_pair,"- Anh hút đi.
+- Đừng, đừng."
+vi,vi_000307,in_special_pair,[là cảnh sát.]
+vi,vi_000006,in_special_pair,[thường nói đến lý tưởng ban đầu.]
+vi,vi_000020,in_special_pair,"[thường bị chê cười là không thông minh,]"
+vi,vi_000306,in_special_pair,[thằng đệ mà lần này cậu mang tới]
+vi,vi_000027,in_special_pair,"[Có nhiều lúc,]"
+vi,vi_000532,in_special_pair,"- A Hùng.
+- Bên chỗ này"
+vi,vi_000004,in_special_pair,"[Trong quá trình chỉnh đốn giáo dục lần này,]"
+vi,vi_000016,in_special_pair,[Chứng tỏ rằng
+vi,vi_000749,in_special_pair,"- Mau nghe máy đi.
+- Làm gì vậy?"
+vi,vi_000071,in_special_pair,"- Mời sếp vào trong.
+- Mời vào trong."
+vi,vi_000022,in_special_pair,"[Nếu muốn thăng quan tiến chức, muốn làm giàu,]"
+vi,vi_000829,in_special_pair,"- Để ở đây cho anh ấy.
+- Tôi để đây nhé."

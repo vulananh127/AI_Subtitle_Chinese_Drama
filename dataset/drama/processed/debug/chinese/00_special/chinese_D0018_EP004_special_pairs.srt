@@ -1,0 +1,329 @@
+1
+00:02:31,920 --> 00:02:32,840
+[inner_monologue] 外边有人吗
+Bên ngoài có ai không?
+
+2
+00:02:35,840 --> 00:02:36,520
+[inner_monologue] 有人吗
+Có ai không?
+
+3
+00:02:43,840 --> 00:02:44,840
+[inner_monologue] 扔个纸进来
+Ném miếng giấy vào đây đi!
+
+4
+00:02:54,640 --> 00:02:55,160
+[inner_monologue] 进来呀
+Vào đi!
+
+5
+00:03:48,520 --> 00:03:50,520
+[inner_monologue] 没问题 你放心吧
+Không vấn đề, anh yên tâm đi!
+
+6
+00:03:51,200 --> 00:03:52,240
+[inner_monologue] 就这么点小事
+Có mỗi xíu chuyện nhỏ nhặt như thế.
+
+7
+00:07:51,400 --> 00:07:52,200
+[phone_speech] 你不要跟我提他啊
+Cháu đừng nhắc đến anh ta với cậu.
+
+8
+00:07:53,400 --> 00:07:54,120
+[phone_speech] 我不想去找他
+Cậu không muốn đi tìm anh ta.
+
+9
+00:07:56,240 --> 00:07:56,800
+[phone_speech] 找他没有用
+Tìm anh ta cũng vô ích.
+
+10
+00:07:57,760 --> 00:07:58,720
+[phone_speech] 还得让他看笑话
+Lại còn để anh ta cười cho.
+
+11
+00:08:00,200 --> 00:08:00,840
+[phone_speech] 挂了啊
+Cúp máy đây.
+
+12
+00:08:53,120 --> 00:08:55,040
+[inner_monologue] 最帅的当然是夏主任了
+Người đẹp trai nhất đương nhiên là Giám đốc Hạ rồi!
+
+13
+00:08:55,800 --> 00:08:57,000
+[inner_monologue] 行了 赶紧的
+Được rồi, mau lên đi!
+
+14
+00:08:57,480 --> 00:08:59,040
+[inner_monologue] 别让夏主任等急了
+Đừng để Giám đốc Hạ đợi sốt ruột!
+
+15
+00:08:59,520 --> 00:09:01,400
+[inner_monologue] 他不等我还能等谁呀
+Anh ấy không đợi tôi thì còn có thể đợi ai?
+
+16
+00:09:01,560 --> 00:09:02,560
+[inner_monologue] 瞧你美的
+Xem cô tưởng bở kìa.
+
+17
+00:09:02,840 --> 00:09:03,760
+[inner_monologue] 夏主任知道
+Giám đốc Hạ có biết
+
+18
+00:09:03,760 --> 00:09:04,800
+[inner_monologue] 他有几个前任吗
+anh ấy có mấy cô bạn gái cũ không?
+
+19
+00:09:05,200 --> 00:09:06,960
+[inner_monologue] 譬如上个月的孔刘
+Ví dụ như Khổng Lưu hồi tháng trước...
+
+20
+00:15:28,200 --> 00:15:29,880
+[phone_speech] 说咱们的水泥质量不行
+Ông ta bảo xi măng của chúng ta chất lượng kém,
+
+21
+00:15:30,240 --> 00:15:31,840
+[phone_speech] 他们甲方要求换水泥
+bên chủ đầu tư của họ yêu cầu đổi.
+
+22
+00:16:10,080 --> 00:16:11,520
+[phone_speech] 哪个业主 所有的业主
+Chủ đầu tư nào, tất cả các chủ đầu tư.
+
+23
+00:16:21,800 --> 00:16:22,760
+[phone_speech] 是因为咱们集团
+là do chất lượng xi măng
+
+24
+00:16:22,760 --> 00:16:24,000
+[phone_speech] 水泥质量不行引起的
+của tập đoàn chúng ta kém.
+
+25
+00:18:17,800 --> 00:18:18,320
+[phone_speech] 你是不是找过
+Có phải cháu đã đến tìm
+
+26
+00:18:18,320 --> 00:18:19,240
+[phone_speech] 汪炀那个傻瓜了
+tên ngốc Uông Dương kia không?
+
+27
+00:18:19,880 --> 00:18:21,080
+[phone_speech] 你怎么不跟我讲一声呢
+Sao cháu không nói gì với cậu?
+
+28
+00:18:22,960 --> 00:18:24,200
+[phone_speech] 集团刚刚发布了通知
+Tập đoàn vừa phát thông báo,
+
+29
+00:18:24,640 --> 00:18:25,880
+[phone_speech] 要召开水泥座谈会
+muốn mở một cuộc thảo luận về xi măng.
+
+30
+00:18:26,760 --> 00:18:27,320
+[phone_speech] 大概是因为
+Chắc là vì
+
+31
+00:18:27,320 --> 00:18:28,440
+[phone_speech] 汪炀把水泥订单
+Uông Dương đã trả lại hết
+
+32
+00:18:28,440 --> 00:18:29,160
+[phone_speech] 全给退了吧
+các đơn hàng xi măng.
+
+33
+00:18:32,600 --> 00:18:33,480
+[phone_speech] 什么不是重点
+Không phải trọng điểm cái gì chứ?
+
+34
+00:18:34,360 --> 00:18:35,200
+[phone_speech] 我一想到他那张
+Vừa nghĩ đến khuôn mặt
+
+35
+00:18:35,200 --> 00:18:36,040
+[phone_speech] 得意洋洋的脸
+dương dương đắc ý của anh ta,
+
+36
+00:18:36,440 --> 00:18:37,720
+[phone_speech] 我 我血压就高
+là cậu... cậu lại tăng huyết áp.
+
+37
+00:19:29,320 --> 00:19:30,840
+[inner_monologue] 安居项目墙都塌了
+Dự án An Cư này đã sập cả tường rồi,
+
+38
+00:19:31,240 --> 00:19:32,800
+[inner_monologue] 我们再怎么编也编不圆啊
+chúng ta bịa kiểu gì cũng không lấp liếm được.
+
+39
+00:19:33,000 --> 00:19:33,880
+[inner_monologue] 你就 关键是还
+Quan trọng là
+
+40
+00:19:33,880 --> 00:19:35,200
+[inner_monologue] 价格还死贵死贵的
+giá còn đắt cắt cổ.
+
+41
+00:19:35,200 --> 00:19:35,520
+[inner_monologue] 是吧
+Đúng không?
+
+42
+00:19:36,080 --> 00:19:36,760
+[inner_monologue] 不是我说啊
+Không phải tôi nói đâu,
+
+43
+00:19:37,160 --> 00:19:37,840
+[inner_monologue] 我都不愿意
+tôi còn không muốn
+
+44
+00:19:37,840 --> 00:19:39,200
+[inner_monologue] 用咱们集团自己的水泥
+dùng xi măng của tập đoàn chúng ta.
+
+45
+00:19:39,680 --> 00:19:40,440
+[inner_monologue] 可是能怎么办呢
+Nhưng biết làm sao được?
+
+46
+00:19:41,000 --> 00:19:41,480
+[inner_monologue] 咱又没有
+Chúng ta cũng đâu có
+
+47
+00:19:41,480 --> 00:19:42,840
+[inner_monologue] 挑水泥的权力啊
+quyền lựa chọn xi măng.
+
+48
+00:26:56,080 --> 00:26:57,880
+[phone_speech] 筱筱 你在天成啊
+Tiểu Tiểu, cậu ở Thiên Thành à?
+
+49
+00:27:28,880 --> 00:27:30,040
+[phone_speech] 所以你现在是黑户
+Nên giờ cậu đang là nhân viên lậu,
+
+50
+00:27:30,040 --> 00:27:30,760
+[phone_speech] 你知道吗
+cậu biết không?
+
+51
+00:27:35,720 --> 00:27:36,720
+[phone_speech] 你在哪儿啊 筱筱
+Cậu đang ở đâu, Tiểu Tiểu?
+
+52
+00:27:38,080 --> 00:27:39,240
+[phone_speech] 你在上洗手间啊
+Cậu đang ở trong nhà vệ sinh à?
+
+53
+00:27:43,280 --> 00:27:43,880
+[phone_speech] 我说的话
+Lời mình nói
+
+54
+00:27:43,880 --> 00:27:44,840
+[phone_speech] 你听明白了吗
+cậu hiểu chưa?
+
+55
+00:27:56,480 --> 00:27:58,520
+[phone_speech] 筱筱 不好意思啊
+Tiểu Tiểu, xin lỗi nhé!
+
+56
+00:27:58,520 --> 00:27:59,960
+[phone_speech] 我一着急又乱说话
+Mình gấp quá nên nói bậy.
+
+57
+00:27:59,960 --> 00:28:00,680
+[phone_speech] 你别介意啊
+Cậu đừng để ý.
+
+58
+00:28:11,080 --> 00:28:12,240
+[phone_speech] 这事也不能怪你
+Chuyện này cũng không thể trách cậu.
+
+59
+00:28:12,240 --> 00:28:13,280
+[phone_speech] 要怪就怪他们
+Muốn trách phải trách bọn họ
+
+60
+00:28:13,280 --> 00:28:14,680
+[phone_speech] 根本不按规章制度来
+hoàn toàn không làm theo chế độ quy định.
+
+61
+00:28:24,240 --> 00:28:25,800
+[phone_speech] 没事 我觉得你
+Không sao, mình thấy cậu
+
+62
+00:28:25,800 --> 00:28:27,080
+[phone_speech] 肯定会越来越好的
+chắc chắn sẽ ngày càng tốt hơn thôi.
+
+63
+00:28:27,440 --> 00:28:28,120
+[phone_speech] 说不定
+Nói không chừng
+
+64
+00:28:28,440 --> 00:28:29,000
+[phone_speech] 你就成了
+cậu sẽ thành
+
+65
+00:28:29,000 --> 00:28:30,240
+[phone_speech] 我在赢海的大腿呢
+chỗ cho mình bám vào ở Doanh Hải đấy.
+
+66
+00:28:38,000 --> 00:28:38,280
+[phone_speech] 好
+Được.

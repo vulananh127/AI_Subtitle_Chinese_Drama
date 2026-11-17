@@ -230,3 +230,98 @@ def write_csv_rows(path: Path, fieldnames: list[str], rows: list[dict]) -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
+
+
+# ==== Merge cue (dùng chung: hội thoại gạch đầu dòng, cue bị tách, ghép nhiều cue thành 1) ====
+# Cùng bộ ký tự với MARKER_PATTERNS["leading_dash"] trong config.py
+LEADING_DASH_STRIP_RE = re.compile(r"^\s*[-－–—]\s*")
+
+
+def strip_leading_dash(text: str) -> str:
+    """Bỏ dấu gạch đầu dòng (- － – —) ở đầu MỖI dòng, giữ nguyên số dòng.
+    '- Có.\\n- Không.' -> 'Có.\\nKhông.'"""
+    return "\n".join(LEADING_DASH_STRIP_RE.sub("", line) for line in (text or "").splitlines())
+
+
+def join_text_parts(parts: list[str], sep: str = " ") -> str:
+    """Nối nhiều đoạn text thành 1 dòng, giữa các đoạn luôn có đúng 1 dấu cách.
+
+    Mỗi đoạn được tách theo dòng, bỏ khoảng trắng đầu/cuối từng dòng rồi nối bằng `sep`.
+    Nhờ vậy cue thoại dài bị tách làm 2 dòng (hoặc 2 cue) khi nối sẽ:
+      - chưa có dấu cách ở giữa -> được chèn 1 dấu cách;
+      - đã có sẵn dấu cách (kể cả cuối dòng trước / đầu dòng sau) -> không bị đôi.
+    Dòng rỗng bị bỏ qua.
+    """
+    pieces = []
+    for part in parts:
+        for line in (part or "").splitlines():
+            line = line.strip()
+            if line:
+                pieces.append(line)
+    return sep.join(pieces)
+
+
+def flatten_text(text: str, strip_dash: bool = False) -> str:
+    """Đưa text 1 cue (có thể nhiều dòng) về 1 dòng; strip_dash=True thì bỏ dash đầu dòng trước."""
+    return join_text_parts([strip_leading_dash(text) if strip_dash else text])
+
+
+def max_cue_gap(cues: list[dict]) -> float:
+    """Khoảng hở lớn nhất giữa 2 cue liên tiếp (sau khi sắp theo thời gian).
+    Âm nếu các cue chồng nhau; 0.0 nếu chỉ có 1 cue."""
+    ordered = sorted(cues, key=lambda c: (c["start"], c["end"]))
+    return max((b["start"] - a["end"] for a, b in zip(ordered, ordered[1:])), default=0.0)
+
+
+def merge_cues(cues: list[dict], text_key: str = "text", strip_dash: bool = False) -> dict:
+    """Gộp nhiều cue thành 1 cue.
+
+    - Sắp theo (start, end); start = min start, end = max end.
+    - text = các text nối bằng join_text_parts (đảm bảo có dấu cách giữa các đoạn);
+      strip_dash=True thì bỏ dấu gạch đầu dòng trước khi nối.
+    - cues: dict có "start", "end" (giây) và text ở khóa `text_key` ("text" cho parse_srt,
+      "text_raw" cho cue của test_review.py).
+    Trả về {"start", "end", "text", "n_cues", "max_gap"}; có thể đưa thẳng vào write_srt.
+    """
+    if not cues:
+        raise ValueError("merge_cues: danh sách cue rỗng")
+    ordered = sorted(cues, key=lambda c: (c["start"], c["end"]))
+    texts = [strip_leading_dash(c.get(text_key, "")) if strip_dash else (c.get(text_key, "") or "")
+             for c in ordered]
+    return {
+        "start": min(c["start"] for c in ordered),
+        "end": max(c["end"] for c in ordered),
+        "text": join_text_parts(texts),
+        "n_cues": len(ordered),
+        "max_gap": max_cue_gap(ordered),
+    }
+
+
+def merge_cue_groups(origin_cues: list[dict], vi_cues: list[dict], text_key: str = "text",
+                     strip_dash_origin: bool = True, strip_dash_vi: bool = True) -> tuple[dict, dict]:
+    """Gộp 1 nhóm cue gốc và 1 nhóm cue VI thành một cặp (origin_cue, vi_cue).
+    Dùng cho cả hội thoại gạch đầu dòng (2 cue gốc <-> 1 cue VI 2 dash, hoặc ngược lại)
+    lẫn các cặp N-M thông thường. Mỗi phía gộp độc lập bằng merge_cues."""
+    return (merge_cues(origin_cues, text_key, strip_dash_origin),
+            merge_cues(vi_cues, text_key, strip_dash_vi))
+
+def split_dash_turns(text: str) -> list[str]:
+    """Tách text 1 cue thành các LƯỢT THOẠI (mỗi lượt đã bỏ dấu gạch đầu dòng).
+ 
+    - Dòng bắt đầu bằng dash (- － – —) mở một lượt mới.
+    - Dòng không có dash nối vào lượt đang mở (cue dài bị tách 2 dòng) bằng join_text_parts,
+      nên chắc chắn có đúng 1 dấu cách ở chỗ nối.
+    - Dòng không dash nằm ĐẦU cue tự thành lượt 1.
+    '- Được, đi nhé.\\n- Vốn dĩ chỉ là\\nmột vụ án.' -> ['Được, đi nhé.', 'Vốn dĩ chỉ là một vụ án.']
+    """
+    turns: list[list[str]] = []
+    for line in (text or "").splitlines():
+        if not line.strip():
+            continue
+        if LEADING_DASH_STRIP_RE.match(line):
+            turns.append([LEADING_DASH_STRIP_RE.sub("", line)])
+        elif turns:
+            turns[-1].append(line)
+        else:
+            turns.append([line])
+    return [t for t in (join_text_parts(parts) for parts in turns) if t]

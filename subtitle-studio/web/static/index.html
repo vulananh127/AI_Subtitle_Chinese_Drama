@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Xưởng phụ đề — hỗ trợ biên dịch phim Trung</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap">
+<style>
+:root{--bg:#f4f5f8;--panel:#fff;--line:#d9dde5;--text:#1c2330;--muted:#667085;--accent:#5a46e8;--accent-t:#fff;--wave:#8a94a8;--prog:#5a46e8;--reg:rgba(240,170,20,.28);--regsel:rgba(240,170,20,.6);--regok:rgba(46,158,91,.3);--regoksel:rgba(46,158,91,.6);--live:#ecebfc;--danger:#c0392b;--side:#0f1623;--side-t:#c5ccdb;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#10141b;--panel:#181e28;--line:#2b3342;--text:#e6e9ef;--muted:#8d97ab;--accent:#8b7dff;--accent-t:#10141b;--wave:#5d6980;--prog:#8b7dff;--live:#232044;--danger:#ff7a6b;--side:#0a0e16;color-scheme:dark}}
+*{box-sizing:border-box}[hidden]{display:none!important}
+html{height:100%;scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;height:100%;overflow-x:hidden;background:var(--bg);color:var(--text);font:14px/1.45 "Be Vietnam Pro",system-ui,sans-serif}
+button,select,input,textarea{font:inherit;color:inherit}
+button{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:5px 10px;cursor:pointer}
+button:hover{border-color:var(--accent)}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+button.primary{background:var(--accent);color:var(--accent-t);border-color:var(--accent);font-weight:500}
+button:disabled{opacity:.5;cursor:default}
+button[aria-pressed=true]{background:var(--accent);color:var(--accent-t);border-color:var(--accent)}
+input,select,textarea{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:6px 8px}
+kbd{border:1px solid var(--line);border-radius:4px;padding:0 5px;font-size:12px}
+.tag{color:var(--muted);font-size:12px;line-height:1.3}.err{color:var(--danger);min-height:1.3em}
+dialog{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:20px;width:min(420px,92vw)}
+dialog::backdrop{background:rgba(10,14,22,.55)}
+dialog h3{margin:0 0 10px}dialog td{padding:3px 14px 3px 0;vertical-align:top}
+.fld{display:flex;flex-direction:column;gap:4px;margin-bottom:10px}.fld label{font-size:13px;color:var(--muted)}
+.mrow{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
+/* ---- Trang giới thiệu ---- */
+#landing{min-height:100%;background:radial-gradient(1000px 500px at 80% -10%,color-mix(in srgb,var(--accent) 22%,transparent),transparent),var(--bg)}
+.lp-top{display:flex;align-items:center;padding:16px clamp(16px,5vw,56px)}.brand{font-weight:700;font-size:18px;flex:1}
+.hero{max-width:780px;margin:0 auto;padding:clamp(40px,10vh,110px) 20px 30px;text-align:center}
+.hero h1{font-size:clamp(28px,5vw,48px);line-height:1.15;margin:0 0 16px}
+.hero p{font-size:clamp(15px,2vw,18px);color:var(--muted);margin:0 auto 26px;max-width:640px}
+.big{padding:12px 26px;font-size:16px;border-radius:10px}
+.feats{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;max-width:980px;margin:30px auto 60px;padding:0 20px}
+.feat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}.feat b{display:block;margin-bottom:4px}
+.tabs{display:flex;margin:-6px 0 14px;border-bottom:1px solid var(--line)}
+.tabs button{flex:1;border:0;border-bottom:2px solid transparent;border-radius:0;background:none;padding:10px}
+.tabs button[aria-selected=true]{border-bottom-color:var(--accent);font-weight:600}
+.pane{display:flex;flex-direction:column;gap:10px}
+/* ---- Khung sau đăng nhập: thanh tab dọc bên trái ---- */
+#shell{display:flex;height:100%}
+#side{width:76px;flex:none;background:var(--side);display:flex;flex-direction:column;align-items:center;gap:6px;padding:12px 6px}
+.nav-btn{width:64px;border:0;background:none;color:var(--side-t);display:flex;flex-direction:column;align-items:center;gap:4px;padding:8px 0;border-radius:10px;font-size:12px}
+.nav-btn:hover,.nav-btn.active{background:rgba(255,255,255,.12);color:#fff}
+.nav-btn svg{width:22px;height:22px}
+#nav-new svg{background:var(--accent);color:var(--accent-t);border-radius:8px;padding:5px;width:32px;height:32px}
+.spacer{flex:1}.acc{position:relative}
+#accmenu{position:absolute;left:calc(100% + 8px);bottom:0;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:4px;display:flex;flex-direction:column;min-width:160px;z-index:30;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+#accmenu button{border:0;text-align:left;padding:8px 10px;background:none}#accmenu button:hover{background:var(--live)}
+#content{flex:1;min-width:0;height:100%}
+.page{height:100%;overflow:auto;padding:28px clamp(16px,3vw,40px)}
+.page h2{margin:0 0 16px}
+.prow{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1.6fr) .7fr 1.2fr auto;gap:12px;align-items:center;padding:10px 14px;background:var(--panel);border:1px solid var(--line);border-radius:8px;margin-bottom:6px}
+.prow.head{background:none;border:0;color:var(--muted);font-size:12px;padding-bottom:0}
+.prow .name{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.prow .del{color:var(--danger)}
+.prow .bt{display:flex;gap:6px}
+/* ---- Trang chỉnh sửa ---- */
+#app{height:100%;display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:auto 1fr auto;gap:8px;padding:8px}
+#app>header{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+#status{color:var(--muted);margin-left:auto}#saved{color:var(--muted)}
+#fname{font-weight:600;max-width:30vw;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#app>main{display:grid;grid-template-columns:minmax(280px,40%) minmax(0,1fr);gap:8px;min-height:0;min-width:0}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;min-height:0;min-width:0}
+.stage{display:flex;flex-direction:column;overflow:hidden}
+.vwrap{position:relative;background:#000;border-radius:8px 8px 0 0}
+video{display:block;width:100%;max-height:46vh;background:#000}
+#ov{position:absolute;inset:0;pointer-events:none;color:#fff;font-weight:500;font-size:clamp(13px,1.7vw,19px);text-shadow:0 1px 3px #000,0 0 6px #000;white-space:pre-line}
+.ovz{position:absolute;left:8%;right:8%;display:flex;flex-direction:column;gap:2px}
+.ovz.top{top:6%}.ovz.mid{top:50%;transform:translateY(-50%)}.ovz.bot{bottom:10%}.ovc{width:100%}
+.fmt{display:flex;flex-direction:column;gap:4px}.fmt select{width:100%;padding:2px 4px;font-size:12px}
+.f-sty{display:flex;gap:4px;align-items:center}.f-sty button{padding:1px 8px;font-size:12px}
+.f-c{flex:1;min-width:0;height:24px;padding:0;border:1px solid var(--line);background:none}
+.fld label.chk{display:flex;gap:6px;align-items:flex-start;color:var(--text);font-size:13px}
+.bar{display:flex;gap:8px;align-items:center;padding:8px;flex-wrap:wrap}
+.lhead{display:flex;gap:8px;align-items:center;padding:6px 8px;border-bottom:1px solid var(--line)}.lhead span{margin-right:auto;color:var(--muted)}
+#empty{padding:12px;color:var(--muted)}
+#list{position:relative;overflow:auto;padding:6px;display:flex;flex-direction:column;gap:6px}
+.cue{display:grid;grid-template-columns:92px 1fr 92px 118px;gap:8px;padding:8px;border:1px solid var(--line);border-radius:6px}
+.cue.sel{border-color:var(--accent)}.cue.live{background:var(--live)}.cue.ok{border-left:4px solid #2e9e5b}.cue.hide{display:none}
+.times{display:flex;flex-direction:column;gap:4px}.no{font-weight:700;color:var(--accent);font-size:13px}
+.t{width:100%;font-variant-numeric:tabular-nums;padding:3px 6px}
+.txt{display:flex;flex-direction:column;gap:4px;min-width:0}.txt textarea{width:100%;resize:vertical;min-height:34px}.txt .src{color:var(--muted);font-size:13px}
+.act{display:flex;flex-direction:column;gap:4px}.act button{width:100%;padding:3px 6px;font-size:13px}.act .del{color:var(--danger)}
+#wavebox{padding:6px 8px;min-width:0;overflow:hidden}
+#ruler{display:block;width:100%;height:26px;cursor:pointer;touch-action:none}
+#wave{height:88px;width:100%;overflow:hidden}
+#hbar{position:relative;height:14px;margin-top:6px;background:var(--bg);border:1px solid var(--line);border-radius:7px;touch-action:none}
+#hthumb{position:absolute;top:1px;bottom:1px;left:0;width:100%;background:var(--accent);opacity:.7;border-radius:6px;cursor:grab}
+#hbar.off #hthumb{opacity:.2;cursor:default}
+.zoom{display:flex;gap:8px;align-items:center;color:var(--muted);padding-top:4px}
+#dlg textarea{width:100%;height:50vh;font-family:ui-monospace,monospace;font-size:12px}
+@media (max-width:760px){#app>main{grid-template-columns:1fr;grid-template-rows:auto 1fr;overflow:auto}#app{height:auto;min-height:100%}.cue{grid-template-columns:1fr}.act{flex-direction:row}#side{width:60px}.nav-btn{width:52px}.prow{grid-template-columns:1fr auto}.prow>:nth-child(n+2):not(.bt){display:none}}
+</style>
+</head>
+<body>
+
+<!-- ===== Trang 1: giới thiệu ===== -->
+<div id="landing" hidden>
+ <div class="lp-top"><div class="brand">Xưởng phụ đề</div><button id="lp-login" class="primary">Đăng nhập</button></div>
+ <section class="hero">
+  <h1>Biên dịch phim Trung nhanh hơn, chính xác hơn</h1>
+  <p>Nơi hỗ trợ biên dịch viên làm phụ đề phim Trung. AI nghe và dịch sơ, bạn chỉnh từng câu trên waveform, duyệt và xuất file SRT.</p>
+  <button id="lp-cta" class="primary big">Bắt đầu — Đăng nhập</button>
+ </section>
+ <section class="feats">
+  <div class="feat"><b>AI tạo phụ đề tự động</b><span class="tag">Nhận dạng giọng nói và dịch máy được tinh chỉnh riêng cho phim Trung → Việt.</span></div>
+  <div class="feat"><b>Chỉnh trên waveform</b><span class="tag">Kéo mép từng câu để chỉnh thời gian, nghe lại từng đoạn, phím tắt cho mọi thao tác.</span></div>
+  <div class="feat"><b>Duyệt từng câu</b><span class="tag">Đánh dấu đã duyệt / chưa duyệt, theo dõi tiến độ cả phim.</span></div>
+  <div class="feat"><b>SRT và lịch sử</b><span class="tag">Nhập SRT có sẵn để sửa, xuất SRT/VTT, khôi phục mọi phiên bản đã lưu.</span></div>
+ </section>
+</div>
+
+<dialog id="authm">
+ <div class="tabs" role="tablist"><button id="tab-login" role="tab" aria-selected="true">Đăng nhập</button><button id="tab-reg" role="tab" aria-selected="false">Đăng ký</button></div>
+ <div id="pane-login" class="pane">
+  <div id="gbtn" style="min-height:0"></div>
+  <div class="tag" id="gor">hoặc dùng tài khoản</div>
+  <input id="li-em" type="email" placeholder="Email" autocomplete="email">
+  <input id="li-pw" type="password" placeholder="Mật khẩu" autocomplete="current-password">
+  <button id="li-go" class="primary">Đăng nhập</button>
+ </div>
+ <div id="pane-reg" class="pane" hidden>
+  <input id="rg-em" type="email" placeholder="Email" autocomplete="email">
+  <input id="rg-pw" type="password" placeholder="Mật khẩu (từ 8 ký tự)" autocomplete="new-password">
+  <input id="rg-nm" placeholder="Tên hiển thị" autocomplete="nickname">
+  <button id="rg-go" class="primary">Tạo tài khoản</button>
+ </div>
+ <div id="aerr" class="err"></div>
+ <div class="mrow" style="margin-top:0"><button id="authx">Đóng</button></div>
+</dialog>
+
+<!-- ===== Sau đăng nhập: thanh tab dọc + nội dung ===== -->
+<div id="shell" hidden>
+ <nav id="side" aria-label="Menu chính">
+  <button class="nav-btn" id="nav-new"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg><span>Tạo</span></button>
+  <button class="nav-btn active" id="nav-proj"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg><span>Dự án</span></button>
+  <div class="spacer"></div>
+  <div class="acc">
+   <button class="nav-btn" id="nav-acc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span>Tài khoản</span></button>
+   <div id="accmenu" hidden><button id="acc-info">Xem thông tin</button><button id="acc-out">Đăng xuất</button></div>
+  </div>
+ </nav>
+ <div id="content">
+  <!-- Trang 2: danh sách dự án -->
+  <section id="v-projects" class="page" hidden>
+   <h2>Dự án</h2>
+   <div class="prow head"><div>Tên dự án</div><div>Ngôn ngữ</div><div>Số cue</div><div>Sửa lần cuối</div><div style="width:112px"></div></div>
+   <div id="plist"></div>
+  </section>
+
+  <!-- Trang 3: chỉnh sửa -->
+  <section id="app" hidden>
+   <header>
+    <button id="back">← Quay về</button>
+    <button id="run" class="primary" disabled>Tạo phụ đề tự động AI</button>
+    <button id="imp" disabled>Nhập SRT</button>
+    <button id="exp" disabled>Xuất phụ đề</button>
+    <span id="status"></span>
+    <span id="saved"></span><span id="fname" title="Tên dự án"></span><button id="hist" disabled>Lịch sử</button>
+   </header>
+   <main>
+    <section class="panel stage">
+     <div class="vwrap"><video id="video" controls playsinline></video><div id="ov"></div></div>
+     <div class="bar">
+      <button id="undo" title="Ctrl+Z">Hoàn tác</button><button id="redo" title="Ctrl+Shift+Z">Làm lại</button>
+      <button id="split" disabled title="Alt+S">Tách cue</button><button id="merge" disabled title="Alt+M">Gộp cue kế</button>
+      <button id="loop" aria-pressed="false" title="Alt+L">Lặp cue</button>
+      <button id="addnow" disabled title="Alt+N">Thêm cue</button><button id="playsel" disabled title="Alt+Enter">Phát cue</button>
+      <button id="helpbtn">Phím tắt</button>
+      <select id="viewlang" title="Ngôn ngữ hiển thị trên video" aria-label="Ngôn ngữ hiển thị trên video"></select>
+     </div>
+    </section>
+    <section class="panel" style="display:flex;flex-direction:column">
+     <div class="lhead"><span id="prog">Đã duyệt 0/0</span><select id="filt" aria-label="Lọc cue"><option value="all">Tất cả</option><option value="todo">Chưa duyệt</option><option value="done">Đã duyệt</option></select></div>
+     <div id="empty">Chưa có phụ đề. Bấm “Tạo phụ đề tự động AI” để model tạo bản nháp, nhập file SRT, hoặc thêm cue thủ công.</div>
+     <div id="list" hidden></div>
+    </section>
+   </main>
+   <section class="panel" id="wavebox">
+    <canvas id="ruler" aria-label="Thước thời gian (bấm hoặc kéo để di chuyển)"></canvas>
+    <div id="wave"></div>
+    <div id="hbar" class="off" aria-label="Thanh cuộn ngang waveform"><div id="hthumb"></div></div>
+    <div class="zoom"><label for="zoom">Thu phóng</label><input type="range" id="zoom" min="20" max="400" value="60"><span>Kéo khối vàng để dời, kéo mép để đổi thời gian bắt đầu/kết thúc.</span></div>
+   </section>
+  </section>
+ </div>
+</div>
+
+<!-- ===== Cửa sổ nhỏ ===== -->
+<dialog id="newm">
+ <h3>Tạo dự án mới</h3>
+ <div class="fld"><label for="np-file">Video</label><input id="np-file" type="file" accept="video/*"></div>
+ <div class="fld"><label for="np-title">Tên dự án</label><input id="np-title" placeholder="Mặc định theo tên file"></div>
+ <div class="fld"><label for="np-sl">Ngôn ngữ nguồn</label><select id="np-sl"><option value="zh">Tiếng Trung (giản thể)</option></select></div>
+ <div class="fld"><label for="np-tl">Ngôn ngữ đích</label><select id="np-tl"><option value="vi">Tiếng Việt</option></select></div>
+ <div id="np-msg" class="tag"></div>
+ <div class="mrow"><button id="np-cancel">Hủy</button><button id="np-go" class="primary">Tạo dự án</button></div>
+</dialog>
+<dialog id="infom">
+ <h3>Thông tin tài khoản</h3>
+ <table id="infot"></table>
+ <div class="mrow"><button id="info-close" class="primary">Đóng</button></div>
+</dialog>
+<dialog id="dlg" style="width:min(640px,92vw)">
+ <h3>Xuất phụ đề</h3>
+ <div class="fld"><label for="ex-lang">Chọn ngôn ngữ cần xuất</label><select id="ex-lang"></select></div>
+ <div class="fld"><label>Định dạng file</label><div style="display:flex;gap:8px"><button data-f="srt">SRT</button><button data-f="vtt">WebVTT</button></div></div>
+ <div style="display:flex;gap:8px;margin-bottom:8px"><input id="fn" aria-label="Tên file" placeholder="Tên file" style="flex:1;min-width:0"><button id="dl" class="primary">Tải xuống</button><button id="copy">Sao chép</button><button id="close">Đóng</button></div>
+ <textarea id="out" readonly></textarea>
+</dialog>
+<dialog id="impd">
+ <h3>Nhập file phụ đề (SRT / VTT)</h3>
+ <div class="fld"><label for="imp-lang">Ngôn ngữ của file</label><select id="imp-lang"></select></div>
+ <div class="fld" id="imp-modef"><label>Cách nhập</label>
+  <label class="chk"><input type="radio" name="impmode" value="merge" checked> Ghép vào cue hiện có (theo thời gian, giữ thời gian cũ); cue không khớp được thêm mới</label>
+  <label class="chk"><input type="radio" name="impmode" value="replace"> Thay toàn bộ cue (lấy thời gian theo file, xóa cue cũ)</label></div>
+ <div class="fld"><label for="imp-file">File</label><input id="imp-file" type="file" accept=".srt,.vtt"></div>
+ <div id="imp-msg" class="err"></div>
+ <div class="mrow"><button id="imp-cancel">Hủy</button><button id="imp-go" class="primary">Nhập</button></div>
+</dialog>
+<dialog id="fmtq">
+ <h3>Vị trí và kiểu chữ</h3><p id="fmtq-msg" style="margin:0"></p>
+ <div class="mrow"><button id="fmtq-cancel">Hủy</button><button id="fmtq-drop">Bỏ định dạng</button><button id="fmtq-keep" class="primary">Giữ định dạng</button></div>
+</dialog>
+<dialog id="histd" style="width:min(560px,92vw)">
+ <h3>Lịch sử chỉnh sửa</h3>
+ <div id="hlist" style="max-height:55vh;overflow:auto"></div>
+ <div class="mrow"><button id="hclose2" class="primary">Đóng</button></div>
+</dialog>
+<dialog id="help" style="width:min(520px,92vw)">
+ <h3>Phím tắt</h3>
+ <p class="tag" style="margin:0 0 8px">Phím Alt (Option trên Mac) dùng được cả khi đang gõ trong ô văn bản. Esc để thoát ô nhập; ngoài ô nhập, Space phát/dừng.</p>
+ <table>
+  <tr><td><kbd>Alt</kbd>+<kbd>Enter</kbd></td><td>Phát / dừng cue đang chọn</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>↑</kbd> <kbd>↓</kbd></td><td>Cue trước / sau (tự phát)</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>L</kbd></td><td>Bật/tắt lặp cue</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>S</kbd></td><td>Tách cue tại vị trí phát (và vị trí con trỏ nếu đang gõ bản dịch)</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>M</kbd></td><td>Gộp với cue kế tiếp</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>[</kbd> <kbd>]</kbd></td><td>Đặt đầu / cuối cue tại vị trí phát</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>A</kbd></td><td>Duyệt / bỏ duyệt cue và sang cue kế</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>N</kbd></td><td>Thêm cue tại vị trí phát</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>Delete</kbd></td><td>Xóa cue</td></tr>
+  <tr><td><kbd>Alt</kbd>+<kbd>←</kbd> <kbd>→</kbd></td><td>Lùi / tiến 2 giây</td></tr>
+  <tr><td><kbd>Ctrl</kbd>+<kbd>Z</kbd> / <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Z</kbd></td><td>Hoàn tác / làm lại</td></tr>
+ </table>
+ <div class="mrow"><button id="hclose" class="primary">Đóng</button></div>
+</dialog>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/7.8.6/wavesurfer.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/7.8.6/plugins/regions.min.js"></script>
+<script src="app.js"></script>
+<script src="shell.js"></script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+</body>
+</html>

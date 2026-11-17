@@ -1,0 +1,152 @@
+side,cue_id,reason,text
+origin,zh_000385,in_special_pair,笛飞声
+origin,zh_000667,in_special_pair,今
+origin,zh_000673,in_special_pair,李施主还年轻
+origin,zh_000089,in_special_pair,可红烛着恼
+origin,zh_000756,in_special_pair,李相夷根本不记得这些
+origin,zh_000276,in_special_pair,二小姐年前在后山
+origin,zh_000388,in_special_pair,我必要找你问个清楚
+origin,zh_000278,in_special_pair,她是从后山一路跟着我们
+origin,zh_000124,in_special_pair,玉穆蓝
+origin,zh_000291,in_special_pair,难道
+origin,zh_000759,in_special_pair,傻小子
+origin,zh_000285,in_special_pair,藏在里头的人来头不小啊
+origin,zh_000672,in_special_pair,出家人不打诳语
+origin,zh_000757,in_special_pair,也不会再回去
+origin,zh_000116,in_special_pair,她只能来找我
+origin,zh_000665,in_special_pair,曾言施主碧茶难解
+origin,zh_000095,in_special_pair,此时却忽然听到窗外有声响
+origin,zh_000274,in_special_pair,这红泥是哪里粘来的呢
+origin,zh_000114,in_special_pair,秋霜中了那一掌后
+origin,zh_000758,in_special_pair,做人别太认真了
+origin,zh_000277,in_special_pair,被毒虫咬伤了脸
+origin,zh_000290,in_special_pair,尊上
+origin,zh_000386,in_special_pair,你既还活着
+origin,zh_000094,in_special_pair,才让她静下心来听我说话
+origin,zh_000670,in_special_pair,不若回归复见四顾门故人
+origin,zh_000093,in_special_pair,我好言相劝许久
+origin,zh_000090,in_special_pair,我不能一走了之
+origin,zh_000323,in_special_pair,笛飞声
+origin,zh_000119,in_special_pair,可却撞见了我跟玉穆蓝私会
+origin,zh_000092,in_special_pair,红烛本就烈性如火
+origin,zh_000324,in_special_pair,笛飞声没死
+origin,zh_000666,in_special_pair,仅十年光景可度
+origin,zh_000674,in_special_pair,何必便宜了阎王爷
+origin,zh_000273,in_special_pair,红泥
+origin,zh_000583,in_special_pair,属下定会助尊上称霸武林
+origin,zh_000122,in_special_pair,她本就身受重伤
+origin,zh_000091,in_special_pair,于是追她入寝宅安抚
+origin,zh_000098,in_special_pair,等我翻窗察看时
+origin,zh_000669,in_special_pair,施主心结可解
+origin,zh_000584,in_special_pair,君临天下
+origin,zh_000097,in_special_pair,仓皇中我便向窗外打出一掌
+origin,zh_000284,in_special_pair,药魔的生死瘴
+origin,zh_000099,in_special_pair,却不见有人
+origin,zh_000125,in_special_pair,你却担心事情败露
+origin,zh_000123,in_special_pair,此时该有多绝望
+origin,zh_000087,in_special_pair,那日我与红烛在外面相会
+origin,zh_000088,in_special_pair,本是要断了这样的关系
+origin,zh_000126,in_special_pair,又对她下了杀手
+origin,zh_000675,in_special_pair,笛飞声
+origin,zh_000127,in_special_pair,而我为了活下去
+origin,zh_000129,in_special_pair,我也只能装疯卖傻
+origin,zh_000668,in_special_pair,只余一年期
+origin,zh_000671,in_special_pair,与众共寻救命之法
+origin,zh_000676,in_special_pair,你到底在哪儿
+origin,zh_000275,in_special_pair,玉城到底还藏着什么秘密
+origin,zh_000128,in_special_pair,即使知道你要杀我
+origin,zh_000096,in_special_pair,我们的事万万不能让人知晓
+origin,zh_000664,in_special_pair,当年一别
+origin,zh_000387,in_special_pair,有些事
+origin,zh_000117,in_special_pair,找她最好的朋友
+origin,zh_000115,in_special_pair,在偌大的玉城却无处可去
+vi,vi_000230,scene_text,"[Dương Vân Xuân, Giám Sát Ty]"
+vi,vi_000293,scene_text,"[Tuyết Công, Kim Uyên Minh]"
+vi,vi_000294,scene_text,"[Giác Lệ Tiêu, Kim Uyên Minh]"
+vi,vi_000317,scene_text,"[Dược ma, Kim Uyên Minh]"
+vi,vi_000448,scene_text,"[Hà Hiểu Phượng, sơn trang Thiên Cơ]"
+vi,vi_000498,scene_text,[Vạn Thế Hồng Hoang]
+vi,vi_000570,scene_text,"[Huyết Bà, Kim Uyên Minh]"
+vi,vi_000001,scene_text,[Chương trình này có phụ đề tiếng Việt]
+vi,vi_000002,scene_text,[Liên Hoa Lâu]
+vi,vi_000003,scene_text,[Tập 5]
+vi,vi_000338,scene_text,[Ngọc Thành]
+vi,vi_000339,scene_text,[Liên Hoa Lâu]
+vi,vi_000495,scene_text,[Vạn Thế Hồng Hoang]
+vi,vi_000683,in_special_pair,[cùng mọi người tìm cách cứu mạng.]
+vi,vi_000279,in_special_pair,[Rốt cuộc Ngọc Thành còn giấu bí mật gì?]
+vi,vi_000282,in_special_pair,"[Cô ấy cứ đi theo chúng ta
+suốt từ ngọn núi phía sau.]"
+vi,vi_000595,in_special_pair,"[Thuộc hạ nhất định sẽ giúp
+tôn thượng xưng bá võ lâm,]"
+vi,vi_000101,in_special_pair,[Đến khi ta mở cửa sổ ra nhìn]
+vi,vi_000094,in_special_pair,"[nên đã đuổi theo cô ấy đến phòng ngủ
+để dỗ dành.]"
+vi,vi_000102,in_special_pair,[thì không thấy ai cả.]
+vi,vi_000118,in_special_pair,"[thì chẳng còn nơi nào để đi
+trong Ngọc Thành rộng lớn này.]"
+vi,vi_000130,in_special_pair,[Còn ta để được sống tiếp]
+vi,vi_000397,in_special_pair,[ta phải tìm ngươi hỏi cho ra nhẽ.]
+vi,vi_000280,in_special_pair,"[Trước Tết nhị tiểu thư
+bị sâu độc cắn mặt bị thương]"
+vi,vi_000680,in_special_pair,"[chỉ còn có một năm,]"
+vi,vi_000686,in_special_pair,[việc gì phải để Diêm Vương được lợi?]
+vi,vi_000090,in_special_pair,"[Hôm đó, ta và Hồng Chúc
+gặp mặt bên ngoài,]"
+vi,vi_000296,in_special_pair,[Tôn thượng?]
+vi,vi_000093,in_special_pair,[ta không thể mặc kệ mà bỏ đi]
+vi,vi_000120,in_special_pair,[đến tìm người bạn thân nhất của cô ấy.]
+vi,vi_000685,in_special_pair,"[Lý thí chủ còn trẻ,]"
+vi,vi_000679,in_special_pair,[Nay]
+vi,vi_000091,in_special_pair,[vốn dĩ định chấm dứt mối quan hệ này.]
+vi,vi_000127,in_special_pair,"[Ngọc Mục Lam,]"
+vi,vi_000682,in_special_pair,"[Chi bằng quay về gặp lại
+người quen cũ ở Tứ Cố Môn,]"
+vi,vi_000688,in_special_pair,[rốt cuộc ngươi ở đâu?]
+vi,vi_000768,in_special_pair,[cũng sẽ không trở về nữa.]
+vi,vi_000681,in_special_pair,"[thí chủ đã cởi bỏ được
+khúc mắc trong lòng chưa?]"
+vi,vi_000331,in_special_pair,[Địch Phi Thanh chưa chết.]
+vi,vi_000596,in_special_pair,[đứng đầu thiên hạ.]
+vi,vi_000278,in_special_pair,[Số bùn đỏ này bị dính từ đâu nhỉ?]
+vi,vi_000119,in_special_pair,"[Cô ấy chỉ có thể đến tìm ta,]"
+vi,vi_000684,in_special_pair,"[Người xuất gia không nói dối,]"
+vi,vi_000769,in_special_pair,"[Làm người đừng quá nghiêm túc,]"
+vi,vi_000297,in_special_pair,[Lẽ nào...]
+vi,vi_000288,in_special_pair,[Khí độc Sinh Tử của Dược ma.]
+vi,vi_000099,in_special_pair,"[chuyện của bọn ta
+không thể để người khác biết,]"
+vi,vi_000277,in_special_pair,[Bùn đỏ...]
+vi,vi_000770,in_special_pair,[tiểu tử ngốc à.]
+vi,vi_000394,in_special_pair,"[Địch Phi Thanh,]"
+vi,vi_000092,in_special_pair,"[Thế nhưng Hồng Chúc lại nổi giận,]"
+vi,vi_000097,in_special_pair,"[mới khiến cô ấy
+bình tĩnh lại nghe ta nói.]"
+vi,vi_000095,in_special_pair,"[Tính Hồng Chúc vốn đã nóng như lửa,]"
+vi,vi_000767,in_special_pair,"[Lý Tương Di không hề
+nhớ những chuyện này,]"
+vi,vi_000677,in_special_pair,"[từng nói độc Bích Trà
+của thí chủ khó giải,]"
+vi,vi_000129,in_special_pair,[nên đã ra tay giết cô ấy.]
+vi,vi_000096,in_special_pair,[ta mất rất nhiều thời gian khuyên nhủ]
+vi,vi_000132,in_special_pair,[ta cũng chỉ có thể giả khờ giả dại.]
+vi,vi_000281,in_special_pair,[ở ngọn núi phía sau.]
+vi,vi_000678,in_special_pair,[chỉ còn thời gian mười năm.]
+vi,vi_000687,in_special_pair,"[Địch Phi Thanh,]"
+vi,vi_000098,in_special_pair,"[Lúc đó lại bất chợt nghe thấy
+ngoài cửa sổ có tiếng động,]"
+vi,vi_000100,in_special_pair,"[nên trong lúc hoảng hốt
+ta đã tung chưởng về phía cửa sổ.]"
+vi,vi_000131,in_special_pair,"[mà dù biết ngài muốn giết ta,]"
+vi,vi_000395,in_special_pair,[ngươi đã còn sống]
+vi,vi_000676,in_special_pair,[Năm xưa từ biệt]
+vi,vi_000330,in_special_pair,[Địch Phi Thanh?]
+vi,vi_000126,in_special_pair,[lúc đó phải tuyệt vọng đến nhường nào.]
+vi,vi_000396,in_special_pair,[thì có những chuyện]
+vi,vi_000125,in_special_pair,"[Cô ấy vốn đã bị thương nặng,]"
+vi,vi_000289,in_special_pair,"[Kẻ trốn bên trong
+lai lịch không tầm thường.]"
+vi,vi_000122,in_special_pair,"[Nhưng lại bắt gặp
+ta và Ngọc Mục Lam đang lén lút hẹn hò.]"
+vi,vi_000117,in_special_pair,[Sau khi Thu Sương trúng chưởng đó]
+vi,vi_000128,in_special_pair,[ngài lại lo chuyện này bị lộ]

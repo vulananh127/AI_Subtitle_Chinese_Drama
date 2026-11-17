@@ -1,0 +1,223 @@
+1
+00:01:47,440 --> 00:01:49,360
+[inner_monologue] 患者为三十五岁男性
+Bệnh nhân 35 tuổi, nam giới,
+
+2
+00:01:49,960 --> 00:01:52,000
+[inner_monologue] 发生骨筋膜室综合症
+bị hội chứng chèn ép khoang xương,
+
+3
+00:01:52,000 --> 00:01:52,960
+[inner_monologue] 应立刻
+phải lập tức:
+
+4
+00:01:56,039 --> 00:01:57,720
+[inner_monologue] A 抬高患肢
+A, nâng tay chân bệnh nhân lên cao.
+
+5
+00:01:58,520 --> 00:02:00,280
+[inner_monologue] B 切开引流
+B, mổ dẫn lưu.
+
+6
+00:02:01,080 --> 00:02:03,120
+[inner_monologue] C 切开减压
+C, mổ giảm sức ép.
+
+7
+00:02:04,040 --> 00:02:05,960
+[inner_monologue] D 应用脱水药
+D, dùng thuốc lợi tiểu thẩm thấu.
+
+8
+00:07:42,600 --> 00:07:44,159
+[inner_monologue] 从高中到大学
+Từ cấp ba đến đại học,
+
+9
+00:07:44,720 --> 00:07:47,000
+[inner_monologue] 他几乎每天都给我送豆浆
+hầu như ngày nào cậu ấy cũng đưa sữa đậu nành cho mình.
+
+10
+00:07:48,200 --> 00:07:50,600
+[inner_monologue] 我们双向暗恋了对方五年
+Bọn mình đã yêu thầm nhau năm năm rồi.
+
+11
+00:07:51,159 --> 00:07:54,040
+[inner_monologue] 今天他终于要和我表白了
+Hôm nay cuối cùng cậu ấy cũng tỏ tình với mình.
+
+12
+00:09:07,760 --> 00:09:08,880
+[inner_monologue] 安嘉先
+An Gia Tiên?
+
+13
+00:09:09,320 --> 00:09:10,560
+[inner_monologue] 我小学同桌
+Bạn cùng bàn tiểu học của mình?
+
+14
+00:16:27,240 --> 00:16:28,400
+[inner_monologue] 臭丫头
+Con bé xấu xa này.
+
+15
+00:19:28,440 --> 00:19:29,480
+[inner_monologue] 喝酒壮胆
+Uống rượu để gan dạ?
+
+16
+00:19:30,320 --> 00:19:31,440
+[inner_monologue] 没必要 没必要
+Không cần, không cần.
+
+17
+00:19:31,760 --> 00:19:32,920
+[inner_monologue] 只要你一表白
+Chỉ cần cậu tỏ tình
+
+18
+00:19:32,920 --> 00:19:34,320
+[inner_monologue] 我肯定会答应的
+là chắc chắn tớ sẽ đồng ý.
+
+19
+00:19:34,560 --> 00:19:35,280
+[inner_monologue] 表白吧
+Tỏ tình đi.
+
+20
+00:19:44,120 --> 00:19:45,080
+[inner_monologue] 当然了
+Đương nhiên rồi.
+
+21
+00:19:45,600 --> 00:19:48,040
+[inner_monologue] 我喜欢的人是你呀
+Người tớ thích là cậu mà.
+
+22
+00:24:08,760 --> 00:24:10,080
+[inner_monologue] 你许什么愿了
+Cậu ước gì thế?
+
+23
+00:24:10,440 --> 00:24:12,520
+[inner_monologue] 每个生日都要一起过
+Mỗi sinh nhật đều trải qua cùng nhau.
+
+24
+00:24:12,520 --> 00:24:14,000
+[inner_monologue] 这是当然了
+Đương nhiên rồi.
+
+25
+00:24:14,000 --> 00:24:15,840
+[inner_monologue] 这个愿望一定会实现
+Chắc chắn sẽ thực hiện được điều ước này.
+
+26
+00:24:16,120 --> 00:24:17,040
+[inner_monologue] 你再许一个
+Cậu ước thêm một điều đi.
+
+27
+00:32:35,040 --> 00:32:37,360
+[phone_speech] 晚晚 你赶紧上学校贴吧看看
+Vãn Vãn, cậu mau lên diễn đàn trường mà xem đi.
+
+28
+00:32:37,360 --> 00:32:38,200
+[phone_speech] 你火了
+Cậu nổi tiếng rồi.
+
+29
+00:32:38,640 --> 00:32:39,680
+[phone_speech] 早就和你说过
+Tớ đã sớm bảo với cậu
+
+30
+00:32:39,680 --> 00:32:40,920
+[phone_speech] 不要招惹任初
+đừng động tới Nhậm Sơ mà.
+
+31
+00:32:40,920 --> 00:32:42,040
+[phone_speech] 拦都拦不住
+Ngăn cũng không ngăn nổi.
+
+32
+00:36:51,720 --> 00:36:52,800
+[inner_monologue] 躺在水里睡觉
+Nằm dưới nước ngủ á?
+
+33
+00:36:53,560 --> 00:36:55,080
+[inner_monologue] 这人什么人体结构的
+Người này có kết cấu cơ thể kiểu gì vậy?
+
+34
+00:36:55,080 --> 00:36:56,360
+[inner_monologue] 看起来不好惹
+Trông có vẻ không dễ đối phó.
+
+35
+00:06:13,960 --> 00:06:15,760
+[dash_dialogue] 学长 学长 学长好 学长
+- Đàn anh, đàn anh.
+- Chào đàn anh, đàn anh ạ.
+
+36
+00:06:23,720 --> 00:06:25,040
+[dash_dialogue] 走走走 训练
+- Đi, đi, đi.
+- Huấn luyện.
+
+37
+00:11:24,560 --> 00:11:25,720
+[dash_dialogue] 我赶时间 我赶时间
+- Tôi đang vội.
+- Tôi đang vội.
+
+38
+00:12:14,720 --> 00:12:16,480
+[dash_dialogue] 那么凶神恶煞 你终于来了
+- như mọi người đồn đâu.
+- Cuối cùng em cũng tới.
+
+39
+00:12:17,520 --> 00:12:18,920
+[dash_partial] 我怕黄教授再讲下去
+- Tôi sợ giáo sư Hoàng còn giảng bài nữa
+- Cậu ấy vừa...
+
+40
+00:32:23,440 --> 00:32:24,560
+[dash_dialogue] 快点 卢晚晚
+- Mau lên.
+- Lư Vãn Vãn.
+
+41
+00:32:44,360 --> 00:32:45,440
+[dash_dialogue] 开门 开门
+- Mở cửa.
+- Mở cửa.
+
+42
+00:33:37,760 --> 00:33:39,240
+[dash_dialogue] 当时没想到 就是说
+- Lúc đó không nghĩ tới.
+- Đúng thế.
+
+43
+00:33:53,000 --> 00:33:54,360
+[dash_partial] 你出来和我们做个了断
+- Cậu ra đây chấm dứt mọi chuyện đi.
+- Ra đây.

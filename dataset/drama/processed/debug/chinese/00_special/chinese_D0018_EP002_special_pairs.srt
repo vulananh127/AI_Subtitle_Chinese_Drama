@@ -1,0 +1,296 @@
+1
+00:13:26,320 --> 00:13:27,280
+[inner_monologue] 小苏 对不起
+Xin lỗi, Tiểu Tô.
+
+2
+00:13:28,640 --> 00:13:30,080
+[inner_monologue] 我真的是没能力保你
+Tôi thật sự không đủ sức bảo vệ cô.
+
+3
+00:13:35,000 --> 00:13:36,160
+[inner_monologue] 你知道我有多器重你
+Cô biết tôi coi trọng cô đến thế nào mà.
+
+4
+00:13:36,960 --> 00:13:37,760
+[inner_monologue] 对于这个结果
+Với kết quả thế này,
+
+5
+00:13:38,440 --> 00:13:39,760
+[inner_monologue] 我觉着我比你还痛心
+tôi thấy mình còn đau lòng hơn cô.
+
+6
+00:13:42,080 --> 00:13:43,000
+[inner_monologue] 而且我也不瞒你
+Hơn nữa, không giấu gì cô,
+
+7
+00:13:43,520 --> 00:13:44,400
+[inner_monologue] 我也受到处分了
+tôi cũng đã bị xử phạt.
+
+8
+00:15:06,440 --> 00:15:08,320
+[inner_monologue] 赢海严把施工质量关
+Doanh Hải kiểm soát chặt chẽ chất lượng xây dựng,
+
+9
+00:15:08,480 --> 00:15:10,320
+[inner_monologue] 精益求精保一方平安
+tiếp tục cải tiến và đảm bảo sự an toàn.
+
+10
+00:15:16,680 --> 00:15:17,400
+[inner_monologue] 经初查
+Theo điều tra ban đầu,
+
+11
+00:15:17,520 --> 00:15:19,120
+[inner_monologue] 坍塌原因是由作业人员
+nguyên nhân sụp đổ là do thao tác vận hành không đúng
+
+12
+00:15:19,120 --> 00:15:20,360
+[inner_monologue] 操作不当引起
+của nhân viên tác nghiệp.
+
+13
+00:15:20,680 --> 00:15:21,920
+[inner_monologue] 目前天科建筑
+Trước mắt, Kiến trúc Thiên Khoa
+
+14
+00:15:21,920 --> 00:15:23,400
+[inner_monologue] 已经成立了应急小组
+đã thành lập tổ xử lý khẩn cấp
+
+15
+00:15:23,760 --> 00:15:25,400
+[inner_monologue] 在相关部门的指导下
+và đình công để chỉnh đốn, cải cách
+
+16
+00:15:25,600 --> 00:15:26,400
+[inner_monologue] 停工整改
+dưới sự chỉ đạo của các ban ngành có liên quan.
+
+17
+00:15:30,800 --> 00:15:32,360
+[phone_speech] 你把医院地址发给我
+Anh gửi địa chỉ của bệnh viện cho em,
+
+18
+00:15:32,600 --> 00:15:33,240
+[phone_speech] 我去找你
+em đi tìm anh.
+
+19
+00:15:38,120 --> 00:15:38,920
+[phone_speech] 我有点事
+Em có chút chuyện.
+
+20
+00:15:39,080 --> 00:15:40,160
+[phone_speech] 我想当面和你说
+Em muốn nói chuyện trực tiếp với anh.
+
+21
+00:15:46,040 --> 00:15:46,640
+[phone_speech] 有什么事
+Có chuyện gì
+
+22
+00:15:46,800 --> 00:15:47,800
+[phone_speech] 一下班我就去找你
+tan ca một cái là anh đi tìm em,
+
+23
+00:15:47,800 --> 00:15:48,280
+[phone_speech] 好不好
+có được không?
+
+24
+00:15:52,240 --> 00:15:52,720
+[phone_speech] 筱筱
+Tiểu Tiểu.
+
+25
+00:15:53,160 --> 00:15:54,560
+[phone_speech] 我现在真的不方便
+Giờ anh thực sự không tiện.
+
+26
+00:15:55,120 --> 00:15:56,280
+[phone_speech] 好不好 你听话
+Có được không? Nghe lời anh.
+
+27
+00:18:30,320 --> 00:18:31,040
+[phone_speech] 晚上要加班
+Tối phải tăng ca.
+
+28
+00:18:31,040 --> 00:18:31,880
+[phone_speech] 不能陪你了
+Không thể ở bên em rồi.
+
+29
+00:18:32,440 --> 00:18:33,520
+[phone_speech] 你和红玫去庆祝吧
+Em với Hồng Mai đi ăn mừng đi.
+
+30
+00:18:37,720 --> 00:18:38,840
+[phone_speech] 最近连轴转呢
+Gần đây làm liên tục,
+
+31
+00:18:39,280 --> 00:18:40,720
+[phone_speech] 可能一周我都回不去了
+có lẽ không thể về trong một tuần được.
+
+32
+00:18:44,680 --> 00:18:46,320
+[phone_speech] 我现在在医院陪领导
+Giờ anh đang ở viện với cấp trên.
+
+33
+00:18:46,400 --> 00:18:47,640
+[phone_speech] 实在不方便
+Thực sự không tiện.
+
+34
+00:28:59,840 --> 00:29:00,440
+[phone_speech] 对不起
+Xin lỗi,
+
+35
+00:29:00,640 --> 00:29:01,680
+[phone_speech] 您拨打的用户
+thuê bao quý khách vừa gọi
+
+36
+00:29:01,680 --> 00:29:02,800
+[phone_speech] 暂时无法接通
+tạm thời không liên lạc được.
+
+37
+00:29:49,240 --> 00:29:51,120
+[phone_speech] 你就是当了背锅侠
+Cậu làm kẻ chịu tiếng thay.
+
+38
+00:29:51,640 --> 00:29:52,960
+[phone_speech] 那些坐在我们头顶上
+Mấy người ngồi trên đầu chúng ta
+
+39
+00:29:53,040 --> 00:29:54,000
+[phone_speech] 指手画脚的人
+chỉ tay năm ngón,
+
+40
+00:29:54,240 --> 00:29:55,720
+[phone_speech] 一出事 收不了场了
+một khi xảy ra chuyện, không thể thu dọn được kết cục
+
+41
+00:29:55,960 --> 00:29:57,040
+[phone_speech] 就开始推卸责任
+là bắt đầu đùn đẩy trách nhiệm.
+
+42
+00:29:57,560 --> 00:29:58,000
+[phone_speech] 倒霉的
+Người xui xẻo
+
+43
+00:29:58,000 --> 00:29:58,840
+[phone_speech] 就是像你这种
+chính là người không có vốn liếng
+
+44
+00:29:58,840 --> 00:29:59,760
+[phone_speech] 没有根基的人
+như cậu.
+
+45
+00:30:00,080 --> 00:30:01,080
+[phone_speech] 我就跟你说
+Mình nói với cậu này,
+
+46
+00:30:01,560 --> 00:30:02,800
+[phone_speech] 别这么认真
+đừng nghiêm túc như thế.
+
+47
+00:30:02,960 --> 00:30:03,800
+[phone_speech] 大家都混
+Mọi người đều đi làm,
+
+48
+00:30:04,040 --> 00:30:05,440
+[phone_speech] 你不想混 又爱较真
+cậu không muốn thế, lại thích sống thật
+
+49
+00:30:05,720 --> 00:30:06,120
+[phone_speech] 这口锅
+thì cái oan này
+
+50
+00:30:06,120 --> 00:30:07,480
+[phone_speech] 就容易砸在你头顶上
+dễ dội xuống đầu cậu lắm.
+
+51
+00:30:08,280 --> 00:30:09,600
+[phone_speech] 以后你也学着点
+Sau này cậu cũng phải thông minh một chút.
+
+52
+00:30:14,920 --> 00:30:17,000
+[phone_speech] 筱筱 我包了饺子
+Tiểu Tiểu, mình gói sủi cảo,
+
+53
+00:30:17,440 --> 00:30:18,360
+[phone_speech] 我给你送过来吧
+mình mang qua cho cậu nhé?
+
+54
+00:30:25,720 --> 00:30:26,360
+[phone_speech] 那行吧
+Vậy được.
+
+55
+00:30:27,640 --> 00:30:29,040
+[phone_speech] 你一个人好好的啊
+Một mình cậu bình tĩnh nhé.
+
+56
+00:30:30,320 --> 00:30:31,280
+[phone_speech] 我改天过来看你
+Để hôm khác mình sẽ tới thăm cậu.
+
+57
+00:30:33,760 --> 00:30:34,200
+[phone_speech] 我挂了
+Mình tắt máy đây.
+
+58
+00:29:19,000 --> 00:29:20,280
+[dash_dialogue] 老苏 来来来 拿车
+- Lão Tô, đẩy xe ra đây.
+- Đây, đây.
+
+59
+00:32:15,360 --> 00:32:16,000
+[dash_dialogue] 董事长 董事长
+- Chủ tịch.
+- Chủ tịch.
